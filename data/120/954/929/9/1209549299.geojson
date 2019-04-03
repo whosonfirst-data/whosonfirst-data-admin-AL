@@ -1,0 +1,67 @@
+{
+  "id": 1209549299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68667,41.49306,19.68667,41.49306",
+    "geom:latitude":41.49306,
+    "geom:longitude":19.68667,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bilaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186053,
+    "gn:latitude":41.49306,
+    "gn:longitude":19.68667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bilaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaj",
+        "Bilaji",
+        "Bilaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186053
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0f793ad8ac4198d123a30308e63daaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209549299
+        }
+    ],
+    "wof:id":1209549299,
+    "wof:lastmodified":1537584313,
+    "wof:name":"Bilaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68667,
+    41.49306,
+    19.68667,
+    41.49306
+],
+  "geometry": {"coordinates":[19.68667,41.49306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360219253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29139,39.97083,20.29139,39.97083",
+    "geom:latitude":39.97083,
+    "geom:longitude":20.29139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gline",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363354,
+    "gn:latitude":39.97083,
+    "gn:longitude":20.29139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Glin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glina",
+        "Glin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363354,
+        "wk:page":"Glin%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ed7abcb95f52854b8ed9f50dc5aafd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1360219253,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1360219253,
+    "wof:lastmodified":1537583965,
+    "wof:name":"Gline",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29139,
+    39.97083,
+    20.29139,
+    39.97083
+],
+  "geometry": {"coordinates":[20.29139,39.97083],"type":"Point"}
+}

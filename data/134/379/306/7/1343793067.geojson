@@ -1,0 +1,71 @@
+{
+  "id": 1343793067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13361,40.92194,20.13361,40.92194",
+    "geom:latitude":40.92194,
+    "geom:longitude":20.13361,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Drize",
+    "gn:country_code":"AL",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783290,
+    "gn:latitude":40.92194,
+    "gn:longitude":20.13361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Driz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Driza",
+        "Driz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783290
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5789226710f918961b24cd90bcb5be45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1343793067,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343793067,
+    "wof:lastmodified":1537584111,
+    "wof:name":"Drize",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13361,
+    40.92194,
+    20.13361,
+    40.92194
+],
+  "geometry": {"coordinates":[20.13361,40.92194],"type":"Point"}
+}

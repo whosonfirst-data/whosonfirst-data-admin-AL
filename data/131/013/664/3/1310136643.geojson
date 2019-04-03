@@ -1,0 +1,72 @@
+{
+  "id": 1310136643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23528,40.96028,20.23528,40.96028",
+    "geom:latitude":40.96028,
+    "geom:longitude":20.23528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Arcove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865021,
+    "gn:latitude":40.96028,
+    "gn:longitude":20.23528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar\u00e7ov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arcova",
+        "Ar\u00e7ov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865021
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"05d513feb6ba11e97bfddfa03fcb47b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1310136643,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310136643,
+    "wof:lastmodified":1537584147,
+    "wof:name":"Arcove",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23528,
+    40.96028,
+    20.23528,
+    40.96028
+],
+  "geometry": {"coordinates":[20.23528,40.96028],"type":"Point"}
+}

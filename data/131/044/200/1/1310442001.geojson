@@ -1,0 +1,67 @@
+{
+  "id": 1310442001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41389,41.98306,20.41389,41.98306",
+    "geom:latitude":41.98306,
+    "geom:longitude":20.41389,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Mustafaj",
+    "gn:country_code":"AL",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782216,
+    "gn:latitude":41.98306,
+    "gn:longitude":20.41389,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Mustafaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782216
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0733e929f6c5579c2ed61eb8b4d9fef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1310442001,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1310442001,
+    "wof:lastmodified":1537007775,
+    "wof:name":"Mustafaj",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41389,
+    41.98306,
+    20.41389,
+    41.98306
+],
+  "geometry": {"coordinates":[20.41389,41.98306],"type":"Point"}
+}

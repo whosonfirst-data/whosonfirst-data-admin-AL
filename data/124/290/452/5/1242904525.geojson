@@ -1,0 +1,74 @@
+{
+  "id": 1242904525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99444,42.00028,19.99444,42.00028",
+    "geom:latitude":42.00028,
+    "geom:longitude":19.99444,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Shkoze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184076,
+    "gn:latitude":42.00028,
+    "gn:longitude":19.99444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shkoz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shdoza",
+        "Shkoza",
+        "Scoza",
+        "Shkoz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184076
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"dc60f65fd93903417b6b695be56ff0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1242904525,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1242904525,
+    "wof:lastmodified":1537584182,
+    "wof:name":"Shkoze",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99444,
+    42.00028,
+    19.99444,
+    42.00028
+],
+  "geometry": {"coordinates":[19.99444,42.00028],"type":"Point"}
+}

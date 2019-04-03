@@ -1,0 +1,73 @@
+{
+  "id": 1293236845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69028,42.28944,19.69028,42.28944",
+    "geom:latitude":42.28944,
+    "geom:longitude":19.69028,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Plan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184445,
+    "gn:latitude":42.28944,
+    "gn:longitude":19.69028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Plan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plani",
+        "Pland\u00eb",
+        "Plan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184445
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b9ada9cb05a0837d16e1f001fc97212a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1293236845,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293236845,
+    "wof:lastmodified":1537584208,
+    "wof:name":"Plan",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69028,
+    42.28944,
+    19.69028,
+    42.28944
+],
+  "geometry": {"coordinates":[19.69028,42.28944],"type":"Point"}
+}

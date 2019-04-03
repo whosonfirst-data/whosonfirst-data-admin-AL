@@ -1,0 +1,76 @@
+{
+  "id": 1276908841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38806,41.26222,20.38806,41.26222",
+    "geom:latitude":41.26222,
+    "geom:longitude":20.38806,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kosharisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782741,
+    "gn:latitude":41.26222,
+    "gn:longitude":20.38806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kosharisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Koshorishti",
+        "Koshorisht",
+        "Kosharisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782741
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"622ceda4442ae10a96e7088ccd206ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1276908841,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1276908841,
+    "wof:lastmodified":1537584075,
+    "wof:name":"Kosharisht",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38806,
+    41.26222,
+    20.38806,
+    41.26222
+],
+  "geometry": {"coordinates":[20.38806,41.26222],"type":"Point"}
+}

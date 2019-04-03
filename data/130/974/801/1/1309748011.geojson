@@ -1,0 +1,75 @@
+{
+  "id": 1309748011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35944,39.835,20.35944,39.835",
+    "geom:latitude":39.835,
+    "geom:longitude":20.35944,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Krioner",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363339,
+    "gn:latitude":39.835,
+    "gn:longitude":20.35944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Krioner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goranxhi",
+        "Krioneri",
+        "Kako Goranxh",
+        "Goranxi",
+        "Krioner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363339
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f956a32cc42c9bebbe3dc54e87ef09da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1309748011,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1309748011,
+    "wof:lastmodified":1537583964,
+    "wof:name":"Krioner",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35944,
+    39.835,
+    20.35944,
+    39.835
+],
+  "geometry": {"coordinates":[20.35944,39.835],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326560403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67861,40.24444,19.67861,40.24444",
+    "geom:latitude":40.24444,
+    "geom:longitude":19.67861,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Bramush",
+    "gn:country_code":"AL",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344041,
+    "gn:latitude":40.24444,
+    "gn:longitude":19.67861,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Bramush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344041
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3d7788194c6df6c55bd5059ff05d9228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":1326560403,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1326560403,
+    "wof:lastmodified":1536944029,
+    "wof:name":"Bramush",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67861,
+    40.24444,
+    19.67861,
+    40.24444
+],
+  "geometry": {"coordinates":[19.67861,40.24444],"type":"Point"}
+}

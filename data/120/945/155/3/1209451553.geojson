@@ -1,0 +1,75 @@
+{
+  "id": 1209451553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49361,41.03083,20.49361,41.03083",
+    "geom:latitude":41.03083,
+    "geom:longitude":20.49361,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dritaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783296,
+    "gn:latitude":41.03083,
+    "gn:longitude":20.49361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dritaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monastirec i Mokr\u00eb",
+        "Dritan",
+        "Manastirec Mokra",
+        "Dritaj(ish Manastirec)",
+        "Manastiredi",
+        "Dritani",
+        "Manastirec",
+        "Manastirec i Mokr\u00ebs",
+        "Manastireci",
+        "Manastirasi",
+        "Dritaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783296
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"58cb1978a216101253f72a9cb669841f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209451553
+        }
+    ],
+    "wof:id":1209451553,
+    "wof:lastmodified":1537584112,
+    "wof:name":"Dritaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49361,
+    41.03083,
+    20.49361,
+    41.03083
+],
+  "geometry": {"coordinates":[20.49361,41.03083],"type":"Point"}
+}

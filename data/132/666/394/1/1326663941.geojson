@@ -1,0 +1,74 @@
+{
+  "id": 1326663941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.60972,41.11444,19.60972,41.11444",
+    "geom:latitude":41.11444,
+    "geom:longitude":19.60972,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Lekaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184973,
+    "gn:latitude":41.11444,
+    "gn:longitude":19.60972,
+    "gn:modification_date":"2012-06-13",
+    "gn:name":"Lekaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljekaj",
+        "Lekaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184973,
+        "wk:page":"Lekaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"78c84b17a92251cf1a191ed2588f8ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1326663941,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1326663941,
+    "wof:lastmodified":1537584241,
+    "wof:name":"Lekaj",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.60972000000001,
+    41.11444,
+    19.60972000000001,
+    41.11444
+],
+  "geometry": {"coordinates":[19.60972000000001,41.11444],"type":"Point"}
+}

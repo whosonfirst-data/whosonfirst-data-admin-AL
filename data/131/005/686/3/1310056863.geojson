@@ -1,0 +1,75 @@
+{
+  "id": 1310056863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26611,40.4675,20.26611,40.4675",
+    "geom:latitude":40.4675,
+    "geom:longitude":20.26611,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Dhores",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781069,
+    "gn:latitude":40.4675,
+    "gn:longitude":20.26611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dhor\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zor\u00ebs",
+        "Dhor\u00ebsi",
+        "Zoris",
+        "Dhor\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781069,
+        "wk:page":"Dhor%C3%ABs"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e9ed4ab7ac570436cadf4891987ba6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1310056863,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310056863,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Dhores",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26611,
+    40.4675,
+    20.26611,
+    40.4675
+],
+  "geometry": {"coordinates":[20.26611,40.4675],"type":"Point"}
+}

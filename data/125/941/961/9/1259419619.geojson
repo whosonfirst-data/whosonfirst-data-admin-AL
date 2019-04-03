@@ -1,0 +1,73 @@
+{
+  "id": 1259419619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97222,40.98028,19.97222,40.98028",
+    "geom:latitude":40.98028,
+    "geom:longitude":19.97222,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kurtalli",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185026,
+    "gn:latitude":40.98028,
+    "gn:longitude":19.97222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurtalli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7iaret",
+        "Kurtall",
+        "Kurtalli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185026
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a27f198c458bfe7d30633233239019cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1259419619,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259419619,
+    "wof:lastmodified":1537584244,
+    "wof:name":"Kurtalli",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97222,
+    40.98028,
+    19.97222,
+    40.98028
+],
+  "geometry": {"coordinates":[19.97222,40.98028],"type":"Point"}
+}

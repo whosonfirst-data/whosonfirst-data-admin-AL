@@ -1,0 +1,72 @@
+{
+  "id": 1242825589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23917,40.66972,20.23917,40.66972",
+    "geom:latitude":40.66972,
+    "geom:longitude":20.23917,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Konak",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865052,
+    "gn:latitude":40.66972,
+    "gn:longitude":20.23917,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Konak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konaku",
+        "Konak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865052
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"91c9a789a15aca42227adb3e49eb64ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1242825589,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1242825589,
+    "wof:lastmodified":1537584148,
+    "wof:name":"Konak",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23917,
+    40.66972,
+    20.23917,
+    40.66972
+],
+  "geometry": {"coordinates":[20.23917,40.66972],"type":"Point"}
+}

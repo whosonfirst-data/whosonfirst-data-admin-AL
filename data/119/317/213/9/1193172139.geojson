@@ -1,0 +1,75 @@
+{
+  "id": 1193172139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72778,40.85306,19.72778,40.85306",
+    "geom:latitude":40.85306,
+    "geom:longitude":19.72778,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Rrupaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184244,
+    "gn:latitude":40.85306,
+    "gn:longitude":19.72778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rrupaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rupaj",
+        "Rrupan",
+        "Rupan",
+        "Rrupani",
+        "Rrupaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184244
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"249f2f6b224d2f1c85b5c299f4a05299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1193172139,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1193172139,
+    "wof:lastmodified":1537584193,
+    "wof:name":"Rrupaj",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72778,
+    40.85306,
+    19.72778,
+    40.85306
+],
+  "geometry": {"coordinates":[19.72778,40.85306],"type":"Point"}
+}

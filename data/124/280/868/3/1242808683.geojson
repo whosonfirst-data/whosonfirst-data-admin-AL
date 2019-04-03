@@ -1,0 +1,79 @@
+{
+  "id": 1242808683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93361,41.06167,19.93361,41.06167",
+    "geom:latitude":41.06167,
+    "geom:longitude":19.93361,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Murras",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184647,
+    "gn:latitude":41.06167,
+    "gn:longitude":19.93361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Murras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murrasi",
+        "Murzi",
+        "Murr\u00ebzi",
+        "Muresi",
+        "Murr\u00ebz",
+        "Murr\u00ebsi",
+        "Murri",
+        "Mur\u00ebzi",
+        "Murras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184647
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"79e42686148e76492542d37d27b22628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1242808683,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242808683,
+    "wof:lastmodified":1537584222,
+    "wof:name":"Murras",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93361,
+    41.06167,
+    19.93361,
+    41.06167
+],
+  "geometry": {"coordinates":[19.93361,41.06167],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344195825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89583,40.56528,19.89583,40.56528",
+    "geom:latitude":40.56528,
+    "geom:longitude":19.89583,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Osmenzeze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184571,
+    "gn:latitude":40.56528,
+    "gn:longitude":19.89583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Osm\u00ebnzez\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osm\u00ebnzeza",
+        "Osm\u00ebzeza",
+        "Osman-Zez\u00eb",
+        "Osm\u00ebnzez\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184571
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1d0e3b652a3fc605211835a893c4116e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1344195825,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1344195825,
+    "wof:lastmodified":1537584215,
+    "wof:name":"Osmenzeze",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89583,
+    40.56528,
+    19.89583,
+    40.56528
+],
+  "geometry": {"coordinates":[19.89583,40.56528],"type":"Point"}
+}

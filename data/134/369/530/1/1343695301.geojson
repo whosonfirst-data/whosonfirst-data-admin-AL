@@ -1,0 +1,79 @@
+{
+  "id": 1343695301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06972,41.32139,20.06972,41.32139",
+    "geom:latitude":41.32139,
+    "geom:longitude":20.06972,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Shengjini i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781689,
+    "gn:latitude":41.32139,
+    "gn:longitude":20.06972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebngjini i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shingjini",
+        "Shengini",
+        "Sh\u00ebngjin i Math",
+        "Sh\u00ebngjin i Madh",
+        "Shingjini i Math",
+        "Sh\u00ebngjin",
+        "Sh\u00ebngjini i Math",
+        "Sh\u00ebngjini",
+        "Sh\u00ebngjini i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781689
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9f215ae1dffa2e6e0a491d2b1983fc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1343695301,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1343695301,
+    "wof:lastmodified":1537584010,
+    "wof:name":"Shengjini i Madh",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06972,
+    41.32139,
+    20.06972,
+    41.32139
+],
+  "geometry": {"coordinates":[20.06972,41.32139],"type":"Point"}
+}

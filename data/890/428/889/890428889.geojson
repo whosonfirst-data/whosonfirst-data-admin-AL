@@ -1,0 +1,75 @@
+{
+  "id": 890428889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02694,42.26472,20.02694,42.26472",
+    "geom:latitude":42.26472,
+    "geom:longitude":20.02694,
+    "gn:country":"AL",
+    "gn:fcode":"PPLA3",
+    "gn:pop":742,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0435\u0440\u0437\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Fierza"
+    ],
+    "qs:name":"Fierz\u00eb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793174,
+        "gp:id":470432,
+        "qs:id":83798,
+        "wd:id":"Q3744642",
+        "wk:page":"Fierz\u00eb"
+    },
+    "wof:country":"AL",
+    "wof:created":1469051778,
+    "wof:geomhash":"d868f7505f889f24764ea2bdb79fbf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":890428889,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":890428889,
+    "wof:lastmodified":1527782115,
+    "wof:name":"Fierz\u00eb",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:population":742,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02694,
+    42.26472,
+    20.02694,
+    42.26472
+],
+  "geometry": {"coordinates":[20.02694,42.26472],"type":"Point"}
+}

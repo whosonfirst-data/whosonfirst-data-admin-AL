@@ -1,0 +1,74 @@
+{
+  "id": 1326565825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98222,42.20139,19.98222,42.20139",
+    "geom:latitude":42.20139,
+    "geom:longitude":19.98222,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Harap",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186195,
+    "gn:latitude":42.20139,
+    "gn:longitude":19.98222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Harap",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arap",
+        "Harapi",
+        "Arapi",
+        "Harap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186195
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"91c14d63f4cfd77c5068af75b575ca8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720859,
+            "locality_id":1326565825,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326565825,
+    "wof:lastmodified":1537584321,
+    "wof:name":"Harap",
+    "wof:parent_id":1108720859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98222,
+    42.20139,
+    19.98222,
+    42.20139
+],
+  "geometry": {"coordinates":[19.98222,42.20139],"type":"Point"}
+}

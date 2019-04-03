@@ -1,0 +1,74 @@
+{
+  "id": 1277111239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.655,40.58361,19.655,40.58361",
+    "geom:latitude":40.58361,
+    "geom:longitude":19.655,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gorishove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185503,
+    "gn:latitude":40.58361,
+    "gn:longitude":19.655,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gorishov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorishova",
+        "Gorisov",
+        "Gorrishov\u00eb",
+        "Gorishov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185503
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"258c330d5b0c882dbe976b6d61a3956f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1277111239,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1277111239,
+    "wof:lastmodified":1537584274,
+    "wof:name":"Gorishove",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.655,
+    40.58361,
+    19.655,
+    40.58361
+],
+  "geometry": {"coordinates":[19.655,40.58361],"type":"Point"}
+}

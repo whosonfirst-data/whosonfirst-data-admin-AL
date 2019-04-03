@@ -1,0 +1,71 @@
+{
+  "id": 1293129731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18333,41.1,20.18333,41.1",
+    "geom:latitude":41.1,
+    "geom:longitude":20.18333,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Vasjan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781286,
+    "gn:latitude":41.1,
+    "gn:longitude":20.18333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Vasjan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vasjani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781286
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1b7e555ace0c625470264348ce322390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1293129731,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1293129731,
+    "wof:lastmodified":1537583985,
+    "wof:name":"Vasjan",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18333,
+    41.1,
+    20.18333,
+    41.1
+],
+  "geometry": {"coordinates":[20.18333,41.1],"type":"Point"}
+}

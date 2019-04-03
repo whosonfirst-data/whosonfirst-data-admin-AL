@@ -1,0 +1,77 @@
+{
+  "id": 1343988301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43944,41.12222,20.43944,41.12222",
+    "geom:latitude":41.12222,
+    "geom:longitude":20.43944,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Vehcan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781279,
+    "gn:latitude":41.12222,
+    "gn:longitude":20.43944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Veh\u00e7an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vel\u00e7an",
+        "Vel\u00e7ani",
+        "Vecanit",
+        "Veli\u00e7ani",
+        "Veh\u00e7ani",
+        "\u0160patza",
+        "Veh\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781279
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"eb8a9b14a9b24f9cd247b44d60b03492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1343988301,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343988301,
+    "wof:lastmodified":1537583984,
+    "wof:name":"Vehcan",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43944,
+    41.12222,
+    20.43944,
+    41.12222
+],
+  "geometry": {"coordinates":[20.43944,41.12222],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276366213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28611,39.98889,20.28611,39.98889",
+    "geom:latitude":39.98889,
+    "geom:longitude":20.28611,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Vllahogoranxi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363207,
+    "gn:latitude":39.98889,
+    "gn:longitude":20.28611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vllahogoranxi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vlaho Goranxhi",
+        "Vraho-Goranxija",
+        "Vllaho-Goranxija",
+        "Vllaho Goranxhi",
+        "Vllaho Goranxia",
+        "Vllaho Goranci",
+        "Vllahogoranxi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363207
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"762a295766b5ad323451d1ab3fd7ccce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1276366213,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276366213,
+    "wof:lastmodified":1537583954,
+    "wof:name":"Vllahogoranxi",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28611,
+    39.98889000000001,
+    20.28611,
+    39.98889000000001
+],
+  "geometry": {"coordinates":[20.28611,39.98889000000001],"type":"Point"}
+}

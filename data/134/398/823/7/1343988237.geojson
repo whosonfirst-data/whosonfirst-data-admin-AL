@@ -1,0 +1,73 @@
+{
+  "id": 1343988237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35028,41.03833,20.35028,41.03833",
+    "geom:latitude":41.03833,
+    "geom:longitude":20.35028,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Gaferr",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783200,
+    "gn:latitude":41.03833,
+    "gn:longitude":20.35028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gaferr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaferi",
+        "Gafer",
+        "Gaferr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783200
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a60c806323e7dfcd6fb23a48b9937496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1343988237,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343988237,
+    "wof:lastmodified":1537584106,
+    "wof:name":"Gaferr",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35028,
+    41.03833,
+    20.35028,
+    41.03833
+],
+  "geometry": {"coordinates":[20.35028,41.03833],"type":"Point"}
+}

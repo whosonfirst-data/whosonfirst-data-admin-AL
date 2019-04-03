@@ -1,0 +1,77 @@
+{
+  "id": 1343896603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9675,40.83694,19.9675,40.83694",
+    "geom:latitude":40.83694,
+    "geom:longitude":19.9675,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Velagosht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183778,
+    "gn:latitude":40.83694,
+    "gn:longitude":19.9675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Velagosht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bardhanj",
+        "Velagasht",
+        "Velagoshti",
+        "Velegosht",
+        "Velagozhdi",
+        "Velegoshti",
+        "Velagosht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183778
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3e8e2c935e4985b3e1fa7723af607c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1343896603,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1343896603,
+    "wof:lastmodified":1537584168,
+    "wof:name":"Velagosht",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9675,
+    40.83694000000001,
+    19.9675,
+    40.83694000000001
+],
+  "geometry": {"coordinates":[19.9675,40.83694000000001],"type":"Point"}
+}

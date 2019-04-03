@@ -1,0 +1,72 @@
+{
+  "id": 1327066365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37417,41.88389,20.37417,41.88389",
+    "geom:latitude":41.88389,
+    "geom:longitude":20.37417,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Vile",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781232,
+    "gn:latitude":41.88389,
+    "gn:longitude":20.37417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vil\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila",
+        "Vil\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781232
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b6000b72b9b9999df09139a0d3dd84b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1327066365,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1327066365,
+    "wof:lastmodified":1537583981,
+    "wof:name":"Vile",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37417,
+    41.88389,
+    20.37417,
+    41.88389
+],
+  "geometry": {"coordinates":[20.37417,41.88389],"type":"Point"}
+}

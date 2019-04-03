@@ -1,0 +1,68 @@
+{
+  "id": 1209040417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66917,40.26778,19.66917,40.26778",
+    "geom:latitude":40.26778,
+    "geom:longitude":19.66917,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Brataj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185989,
+    "gn:latitude":40.26778,
+    "gn:longitude":19.66917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Brataj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bratraj",
+        "Brataj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185989,
+        "wk:page":"Brataj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"06853658240083f9717e4aa8a068828d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209040417
+        }
+    ],
+    "wof:id":1209040417,
+    "wof:lastmodified":1537584308,
+    "wof:name":"Brataj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66917,
+    40.26778,
+    19.66917,
+    40.26778
+],
+  "geometry": {"coordinates":[19.66917,40.26778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193168595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08528,41.06028,20.08528,41.06028",
+    "geom:latitude":41.06028,
+    "geom:longitude":20.08528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Tudan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781347,
+    "gn:latitude":41.06028,
+    "gn:longitude":20.08528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tudan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudani",
+        "Tudaji",
+        "Tudan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781347
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d1da463598a1b2153daceb897d86ca52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1193168595,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1193168595,
+    "wof:lastmodified":1537583989,
+    "wof:name":"Tudan",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08528,
+    41.06028,
+    20.08528,
+    41.06028
+],
+  "geometry": {"coordinates":[20.08528,41.06028],"type":"Point"}
+}

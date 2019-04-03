@@ -1,0 +1,78 @@
+{
+  "id": 1327168603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73639,40.65861,20.73639,40.65861",
+    "geom:latitude":40.65861,
+    "geom:longitude":20.73639,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lumalas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782453,
+    "gn:latitude":40.65861,
+    "gn:longitude":20.73639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lumalas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teqe e Lumalasit",
+        "Lumalasi",
+        "Teqeja e Lumalas",
+        "Lumalaz",
+        "Lumasi",
+        "Lumalazi",
+        "Lumlas Teqe",
+        "Lumalas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782453
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2729c0007dfce51e017026e0ec988345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1327168603,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1327168603,
+    "wof:lastmodified":1537584059,
+    "wof:name":"Lumalas",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73639,
+    40.65861,
+    20.73639,
+    40.65861
+],
+  "geometry": {"coordinates":[20.73639,40.65861],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259715079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86944,40.515,20.86944,40.515",
+    "geom:latitude":40.515,
+    "geom:longitude":20.86944,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sinice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781590,
+    "gn:latitude":40.515,
+    "gn:longitude":20.86944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinica",
+        "Sinic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781590
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2b3897dd7f2af58486d337dd2f8e7c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1259715079,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259715079,
+    "wof:lastmodified":1537584003,
+    "wof:name":"Sinice",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86944,
+    40.515,
+    20.86944,
+    40.515
+],
+  "geometry": {"coordinates":[20.86944,40.515],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276264525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98111,41.79361,19.98111,41.79361",
+    "geom:latitude":41.79361,
+    "geom:longitude":19.98111,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Malaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184832,
+    "gn:latitude":41.79361,
+    "gn:longitude":19.98111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malay-Dils",
+        "Mallaj",
+        "Malaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184832
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fe0f965af697d1beb4fd877d963a3fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1276264525,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1276264525,
+    "wof:lastmodified":1537584234,
+    "wof:name":"Malaj",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98111,
+    41.79361,
+    19.98111,
+    41.79361
+],
+  "geometry": {"coordinates":[19.98111,41.79361],"type":"Point"}
+}

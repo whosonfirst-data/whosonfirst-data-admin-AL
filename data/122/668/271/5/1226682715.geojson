@@ -1,0 +1,75 @@
+{
+  "id": 1226682715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44833,40.665,19.44833,40.665",
+    "geom:latitude":40.665,
+    "geom:longitude":19.44833,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Qarr",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184378,
+    "gn:latitude":40.665,
+    "gn:longitude":19.44833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qarr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010car",
+        "Qarr\u00eb",
+        "Qarri",
+        "Qari",
+        "Qarr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184378
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"29e1bb99adb96d1b6b15c5ef15ecb9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1226682715,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1226682715,
+    "wof:lastmodified":1537584205,
+    "wof:name":"Qarr",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44833,
+    40.665,
+    19.44833,
+    40.665
+],
+  "geometry": {"coordinates":[19.44833,40.665],"type":"Point"}
+}

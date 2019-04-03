@@ -1,0 +1,69 @@
+{
+  "id": 1344087037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43333,41.4,19.43333,41.4",
+    "geom:latitude":41.4,
+    "geom:longitude":19.43333,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bishtkamze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186035,
+    "gn:latitude":41.4,
+    "gn:longitude":19.43333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Bishtkamz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bishti i Kamz\u00ebs",
+        "Bisht i Kamz\u00ebs",
+        "Bishtkamza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186035
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a0367750a3539309754664051a781cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1344087037,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344087037,
+    "wof:lastmodified":1537584311,
+    "wof:name":"Bishtkamze",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43333,
+    41.4,
+    19.43333,
+    41.4
+],
+  "geometry": {"coordinates":[19.43333,41.4],"type":"Point"}
+}

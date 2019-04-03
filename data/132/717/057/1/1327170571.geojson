@@ -1,0 +1,73 @@
+{
+  "id": 1327170571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16917,42.21972,20.16917,42.21972",
+    "geom:latitude":42.21972,
+    "geom:longitude":20.16917,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Shengjergj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":781693,
+    "gn:latitude":42.21972,
+    "gn:longitude":20.16917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebngjergj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Shengjergi",
+        "Sh\u00ebngjergji",
+        "Sh\u00ebngjergj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781693
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6e43c2a22074459adec7dc255650f259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1327170571,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1327170571,
+    "wof:lastmodified":1537584010,
+    "wof:name":"Shengjergj",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16917,
+    42.21972,
+    20.16917,
+    42.21972
+],
+  "geometry": {"coordinates":[20.16917,42.21972],"type":"Point"}
+}

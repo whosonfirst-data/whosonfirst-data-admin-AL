@@ -1,0 +1,74 @@
+{
+  "id": 1293032303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50806,40.24306,20.50806,40.24306",
+    "geom:latitude":40.24306,
+    "geom:longitude":20.50806,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kovacisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782723,
+    "gn:latitude":40.24306,
+    "gn:longitude":20.50806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kova\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kova\u00e7ishte",
+        "Kova\u00e7ishti",
+        "Kova\u00e7ist\u00eb",
+        "Kova\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782723
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b48c8051ce8cf85bdcf59fc486c8c912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1293032303,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293032303,
+    "wof:lastmodified":1537584074,
+    "wof:name":"Kovacisht",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50806,
+    40.24306,
+    20.50806,
+    40.24306
+],
+  "geometry": {"coordinates":[20.50806,40.24306],"type":"Point"}
+}

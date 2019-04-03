@@ -1,0 +1,76 @@
+{
+  "id": 1260221459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36361,40.86778,20.36361,40.86778",
+    "geom:latitude":40.86778,
+    "geom:longitude":20.36361,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kukur",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782658,
+    "gn:latitude":40.86778,
+    "gn:longitude":20.36361,
+    "gn:modification_date":"2012-05-31",
+    "gn:name":"Kukur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukuri",
+        "Kuk\u00ebr",
+        "Kuk\u00ebri",
+        "Kukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782658,
+        "wk:page":"Kukur"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8e8b6a6c67472c7d267aa38f24f20d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1260221459,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1260221459,
+    "wof:lastmodified":1537584071,
+    "wof:name":"Kukur",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36361,
+    40.86778,
+    20.36361,
+    40.86778
+],
+  "geometry": {"coordinates":[20.36361,40.86778],"type":"Point"}
+}

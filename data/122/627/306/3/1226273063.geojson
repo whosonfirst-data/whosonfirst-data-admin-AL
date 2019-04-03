@@ -1,0 +1,75 @@
+{
+  "id": 1226273063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7675,40.64611,20.7675,40.64611",
+    "geom:latitude":40.64611,
+    "geom:longitude":20.7675,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ciflig",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782134,
+    "gn:latitude":40.64611,
+    "gn:longitude":20.7675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7iflig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orman \u00c7iflik",
+        "\u00c7iflik",
+        "Orman \u00c7ifliku",
+        "Orman \u00c7iflig",
+        "\u00c7iflig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782134
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9ee66e1ec5be15065da865cf31166629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1226273063,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226273063,
+    "wof:lastmodified":1537584041,
+    "wof:name":"Ciflig",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7675,
+    40.64611,
+    20.7675,
+    40.64611
+],
+  "geometry": {"coordinates":[20.7675,40.64611],"type":"Point"}
+}

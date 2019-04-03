@@ -1,0 +1,73 @@
+{
+  "id": 1260322891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72444,41.68028,19.72444,41.68028",
+    "geom:latitude":41.68028,
+    "geom:longitude":19.72444,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Mal-Milot",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184813,
+    "gn:latitude":41.68028,
+    "gn:longitude":19.72444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mal-Milot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milot",
+        "Mal-Miloti",
+        "Mal-Milot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184813
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f08c42887dc6859dcbf44f7d4395849b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1260322891,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1260322891,
+    "wof:lastmodified":1537584232,
+    "wof:name":"Mal-Milot",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72444,
+    41.68028,
+    19.72444,
+    41.68028
+],
+  "geometry": {"coordinates":[19.72444,41.68028],"type":"Point"}
+}

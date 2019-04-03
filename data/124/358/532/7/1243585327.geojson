@@ -1,0 +1,75 @@
+{
+  "id": 1243585327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09444,40.48917,20.09444,40.48917",
+    "geom:latitude":40.48917,
+    "geom:longitude":20.09444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Malas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783527,
+    "gn:latitude":40.48917,
+    "gn:longitude":20.09444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bubsi i Dyt\u00eb",
+        "Bub\u00ebsi II",
+        "Bub\u00ebsi i Dyt\u00eb",
+        "Bub\u00ebs i Dyt\u00eb",
+        "Malas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783527
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4a1cae37b71a81545af37b7743594ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1243585327,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243585327,
+    "wof:lastmodified":1537584127,
+    "wof:name":"Malas",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09444,
+    40.48917,
+    20.09444,
+    40.48917
+],
+  "geometry": {"coordinates":[20.09444,40.48917],"type":"Point"}
+}

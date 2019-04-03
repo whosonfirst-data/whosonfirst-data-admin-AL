@@ -1,0 +1,72 @@
+{
+  "id": 1344086863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86639,41.12167,19.86639,41.12167",
+    "geom:latitude":41.12167,
+    "geom:longitude":19.86639,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Garunja e Paprit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316674,
+    "gn:latitude":41.12167,
+    "gn:longitude":19.86639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garunja e Paprit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garunja e Pap\u00ebrit",
+        "Garunja e Paprit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316674
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ba95781ef42992b2cdd226eccc19b250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1344086863,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1344086863,
+    "wof:lastmodified":1537584328,
+    "wof:name":"Garunja e Paprit",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86639,
+    41.12167,
+    19.86639,
+    41.12167
+],
+  "geometry": {"coordinates":[19.86639,41.12167],"type":"Point"}
+}

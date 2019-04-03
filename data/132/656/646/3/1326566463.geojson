@@ -1,0 +1,73 @@
+{
+  "id": 1326566463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61833,40.27778,20.61833,40.27778",
+    "geom:latitude":40.27778,
+    "geom:longitude":20.61833,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Barmash",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783669,
+    "gn:latitude":40.27778,
+    "gn:longitude":20.61833,
+    "gn:modification_date":"2012-06-10",
+    "gn:name":"Barmash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barmashi",
+        "Barmash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783669
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"543f43d6318f495ee9b0c4d129728d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1326566463,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1326566463,
+    "wof:lastmodified":1537584136,
+    "wof:name":"Barmash",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61833,
+    40.27778,
+    20.61833,
+    40.27778
+],
+  "geometry": {"coordinates":[20.61833,40.27778],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209645609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10778,41.23167,20.10778,41.23167",
+    "geom:latitude":41.23167,
+    "geom:longitude":20.10778,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Anola",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834129,
+    "gn:latitude":41.23167,
+    "gn:longitude":20.10778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Anola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anol\u00eb",
+        "Anola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834129
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3ca5eabad6c9b54f5b5da4451d535a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645609
+        }
+    ],
+    "wof:id":1209645609,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Anola",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10778,
+    41.23167,
+    20.10778,
+    41.23167
+],
+  "geometry": {"coordinates":[20.10778,41.23167],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209451315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84222,40.71389,20.84222,40.71389",
+    "geom:latitude":40.71389,
+    "geom:longitude":20.84222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kreshpanj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782697,
+    "gn:latitude":40.71389,
+    "gn:longitude":20.84222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kreshpanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kreshpani",
+        "Kreshpanji",
+        "Kreshpan",
+        "Kreshpanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782697
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5708c868b62ebcd16a1b4806dcc9f668",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209451315
+        }
+    ],
+    "wof:id":1209451315,
+    "wof:lastmodified":1537584073,
+    "wof:name":"Kreshpanj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84222,
+    40.71389,
+    20.84222,
+    40.71389
+],
+  "geometry": {"coordinates":[20.84222,40.71389],"type":"Point"}
+}

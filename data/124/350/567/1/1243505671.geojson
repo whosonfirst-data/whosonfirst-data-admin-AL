@@ -1,0 +1,75 @@
+{
+  "id": 1243505671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31389,40.47083,20.31389,40.47083",
+    "geom:latitude":40.47083,
+    "geom:longitude":20.31389,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sukaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781483,
+    "gn:latitude":40.47083,
+    "gn:longitude":20.31389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sukaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sukaras",
+        "Sukarat",
+        "Sucarat",
+        "Succarat",
+        "Sukaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781483
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"56fa5887a079b48d0e9c1ac97a659620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1243505671,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1243505671,
+    "wof:lastmodified":1537583997,
+    "wof:name":"Sukaj",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31389,
+    40.47083,
+    20.31389,
+    40.47083
+],
+  "geometry": {"coordinates":[20.31389,40.47083],"type":"Point"}
+}

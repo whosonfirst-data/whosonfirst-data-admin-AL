@@ -1,0 +1,75 @@
+{
+  "id": 1293523809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70861,40.70444,20.70861,40.70444",
+    "geom:latitude":40.70444,
+    "geom:longitude":20.70861,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Libonik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782522,
+    "gn:latitude":40.70444,
+    "gn:longitude":20.70861,
+    "gn:modification_date":"2012-06-10",
+    "gn:name":"Libonik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liboniku",
+        "Libovnik",
+        "Libonik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782522,
+        "wk:page":"Libonik"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"82b82b79fc4754f638feb3d6f788508e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1293523809,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293523809,
+    "wof:lastmodified":1537584063,
+    "wof:name":"Libonik",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70861,
+    40.70444000000001,
+    20.70861,
+    40.70444000000001
+],
+  "geometry": {"coordinates":[20.70861,40.70444000000001],"type":"Point"}
+}

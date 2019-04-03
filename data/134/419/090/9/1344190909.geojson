@@ -1,0 +1,79 @@
+{
+  "id": 1344190909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40583,41.38472,20.40583,41.38472",
+    "geom:latitude":41.38472,
+    "geom:longitude":20.40583,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sebisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781759,
+    "gn:latitude":41.38472,
+    "gn:longitude":20.40583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sebisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0431\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sebishti",
+        "Trimajt",
+        "Selbisht",
+        "Sebishta",
+        "Sebisht\u00eb",
+        "Sebisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781759
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e2496913791c6f6c44119ac47dc54b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1344190909,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1344190909,
+    "wof:lastmodified":1537584015,
+    "wof:name":"Sebisht",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40583,
+    41.38472,
+    20.40583,
+    41.38472
+],
+  "geometry": {"coordinates":[20.40583,41.38472],"type":"Point"}
+}

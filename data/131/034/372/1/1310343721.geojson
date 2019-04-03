@@ -1,0 +1,67 @@
+{
+  "id": 1310343721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81417,40.85389,19.81417,40.85389",
+    "geom:latitude":40.85389,
+    "geom:longitude":19.81417,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Daullonjak",
+    "gn:country_code":"AL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343757,
+    "gn:latitude":40.85389,
+    "gn:longitude":19.81417,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Daullonjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343757
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f1604980474705aec80117e09e2274ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":1310343721,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310343721,
+    "wof:lastmodified":1536652724,
+    "wof:name":"Daullonjak",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81417,
+    40.85389,
+    19.81417,
+    40.85389
+],
+  "geometry": {"coordinates":[19.81417,40.85389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293725735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94861,41.74556,19.94861,41.74556",
+    "geom:latitude":41.74556,
+    "geom:longitude":19.94861,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Prosek",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184395,
+    "gn:latitude":41.74556,
+    "gn:longitude":19.94861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Prosek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Proseca",
+        "Proseku",
+        "Prosek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184395
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6ecc146961ef0ec3912e9cd166e005ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1293725735,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1293725735,
+    "wof:lastmodified":1537584205,
+    "wof:name":"Prosek",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94861,
+    41.74556,
+    19.94861,
+    41.74556
+],
+  "geometry": {"coordinates":[19.94861,41.74556],"type":"Point"}
+}

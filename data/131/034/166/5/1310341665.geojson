@@ -1,0 +1,67 @@
+{
+  "id": 1310341665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78111,42.22944,19.78111,42.22944",
+    "geom:latitude":42.22944,
+    "geom:longitude":19.78111,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Palaj",
+    "gn:country_code":"AL",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184560,
+    "gn:latitude":42.22944,
+    "gn:longitude":19.78111,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Palaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184560
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a11f1d4e701bbcda8024de75f0a5b4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1310341665,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1310341665,
+    "wof:lastmodified":1536655773,
+    "wof:name":"Palaj",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78111,
+    42.22944,
+    19.78111,
+    42.22944
+],
+  "geometry": {"coordinates":[19.78111,42.22944],"type":"Point"}
+}

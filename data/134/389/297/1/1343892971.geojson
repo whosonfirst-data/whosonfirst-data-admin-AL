@@ -1,0 +1,77 @@
+{
+  "id": 1343892971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86389,40.11333,19.86389,40.11333",
+    "geom:latitude":40.11333,
+    "geom:longitude":19.86389,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Corraj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185866,
+    "gn:latitude":40.11333,
+    "gn:longitude":19.86389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7orraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xhora",
+        "Dzhor\u00eb",
+        "Ciorai",
+        "Corai",
+        "\u00c7oraj",
+        "\u00c7urraj",
+        "\u00c7orraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185866
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5bd9c644517495a825cc3824aad243eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":1343892971,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1343892971,
+    "wof:lastmodified":1537584299,
+    "wof:name":"Corraj",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86389,
+    40.11333,
+    19.86389,
+    40.11333
+],
+  "geometry": {"coordinates":[19.86389,40.11333],"type":"Point"}
+}

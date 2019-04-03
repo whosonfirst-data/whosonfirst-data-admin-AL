@@ -1,0 +1,72 @@
+{
+  "id": 1326663735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28778,39.91667,20.28778,39.91667",
+    "geom:latitude":39.91667,
+    "geom:longitude":20.28778,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Zervat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363199,
+    "gn:latitude":39.91667,
+    "gn:longitude":20.28778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zervat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zervati",
+        "Zervat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363199
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cd13e84d453b99cc3786be9cfd31b719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1326663735,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326663735,
+    "wof:lastmodified":1537583954,
+    "wof:name":"Zervat",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28778,
+    39.91667,
+    20.28778,
+    39.91667
+],
+  "geometry": {"coordinates":[20.28778,39.91667],"type":"Point"}
+}

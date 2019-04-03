@@ -1,0 +1,72 @@
+{
+  "id": 1293037145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71444,41.66861,19.71444,41.66861",
+    "geom:latitude":41.66861,
+    "geom:longitude":19.71444,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Ndershegas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184615,
+    "gn:latitude":41.66861,
+    "gn:longitude":19.71444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Nd\u00ebrshegas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160egas",
+        "Shegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184615
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2f4df2034e5402b786f1a4c2cf45a00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1293037145,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1293037145,
+    "wof:lastmodified":1537584219,
+    "wof:name":"Ndershegas",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71444,
+    41.66861,
+    19.71444,
+    41.66861
+],
+  "geometry": {"coordinates":[19.71444,41.66861],"type":"Point"}
+}

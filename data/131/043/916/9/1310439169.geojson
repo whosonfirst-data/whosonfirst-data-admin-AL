@@ -1,0 +1,72 @@
+{
+  "id": 1310439169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.275,39.83111,20.275,39.83111",
+    "geom:latitude":39.83111,
+    "geom:longitude":20.275,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Leskovec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445047,
+    "gn:latitude":39.83111,
+    "gn:longitude":20.275,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Leskovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leskoveci",
+        "Leskovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445047
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"720cebf052904ef74fd6b0746fff424c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1310439169,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1310439169,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Leskovec",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.275,
+    39.83111,
+    20.275,
+    39.83111
+],
+  "geometry": {"coordinates":[20.275,39.83111],"type":"Point"}
+}

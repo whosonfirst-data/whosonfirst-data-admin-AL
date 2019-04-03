@@ -1,0 +1,74 @@
+{
+  "id": 1343989329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86667,41.11667,19.86667,41.11667",
+    "geom:latitude":41.11667,
+    "geom:longitude":19.86667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Garunje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185617,
+    "gn:latitude":41.11667,
+    "gn:longitude":19.86667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Garunj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garruja",
+        "Garunja e vog\u00ebl",
+        "Garujis",
+        "Garunja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185617
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f1cf720b55f39ad9ff8533520aa3ccc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1343989329,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343989329,
+    "wof:lastmodified":1537584283,
+    "wof:name":"Garunje",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86667000000001,
+    41.11667,
+    19.86667000000001,
+    41.11667
+],
+  "geometry": {"coordinates":[19.86667000000001,41.11667],"type":"Point"}
+}

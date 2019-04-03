@@ -1,0 +1,72 @@
+{
+  "id": 1360020095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07944,42.39806,20.07944,42.39806",
+    "geom:latitude":42.39806,
+    "geom:longitude":20.07944,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Grac",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864602,
+    "gn:latitude":42.39806,
+    "gn:longitude":20.07944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gra\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gra\u00e7i",
+        "Gra\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864602
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"534a527f5687bea6d8ec175415a4dbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1360020095,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1360020095,
+    "wof:lastmodified":1537584144,
+    "wof:name":"Grac",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07944,
+    42.39806,
+    20.07944,
+    42.39806
+],
+  "geometry": {"coordinates":[20.07944,42.39806],"type":"Point"}
+}

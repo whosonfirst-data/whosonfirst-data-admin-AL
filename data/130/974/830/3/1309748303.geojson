@@ -1,0 +1,72 @@
+{
+  "id": 1309748303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80139,40.18528,19.80139,40.18528",
+    "geom:latitude":40.18528,
+    "geom:longitude":19.80139,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Grabove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344057,
+    "gn:latitude":40.18528,
+    "gn:longitude":19.80139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Grabov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabova",
+        "Grabov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344057
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2f050d33c4ca78c74775a8afebf0c530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":1309748303,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1309748303,
+    "wof:lastmodified":1537584339,
+    "wof:name":"Grabove",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80139,
+    40.18528,
+    19.80139,
+    40.18528
+],
+  "geometry": {"coordinates":[19.80139,40.18528],"type":"Point"}
+}

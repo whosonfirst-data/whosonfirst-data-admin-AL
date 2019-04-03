@@ -1,0 +1,67 @@
+{
+  "id": 1293031537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57417,40.66889,19.57417,40.66889",
+    "geom:latitude":40.66889,
+    "geom:longitude":19.57417,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Beharaj",
+    "gn:country_code":"AL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343898,
+    "gn:latitude":40.66889,
+    "gn:longitude":19.57417,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Beharaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343898
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"44818cbb95abfbbe424ee387d5900786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1293031537,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1293031537,
+    "wof:lastmodified":1536947853,
+    "wof:name":"Beharaj",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57417,
+    40.66889000000001,
+    19.57417,
+    40.66889000000001
+],
+  "geometry": {"coordinates":[19.57417,40.66889000000001],"type":"Point"}
+}

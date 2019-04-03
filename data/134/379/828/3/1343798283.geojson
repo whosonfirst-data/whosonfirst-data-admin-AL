@@ -1,0 +1,72 @@
+{
+  "id": 1343798283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60056,40.32472,20.60056,40.32472",
+    "geom:latitude":40.32472,
+    "geom:longitude":20.60056,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ikinas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782952,
+    "gn:latitude":40.32472,
+    "gn:longitude":20.60056,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ikinas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qinami",
+        "Priftasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782952
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c572f5790d9ff36322abe7b698f919f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1343798283,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343798283,
+    "wof:lastmodified":1537584088,
+    "wof:name":"Ikinas",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60056,
+    40.32472,
+    20.60056,
+    40.32472
+],
+  "geometry": {"coordinates":[20.60056,40.32472],"type":"Point"}
+}

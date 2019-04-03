@@ -1,0 +1,76 @@
+{
+  "id": 1226279631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10028,39.79,20.10028,39.79",
+    "geom:latitude":39.79,
+    "geom:longitude":20.10028,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lefter Talo",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363307,
+    "gn:latitude":39.79,
+    "gn:longitude":20.10028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lefter Talo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lefter Taloja",
+        "Haidaraga",
+        "Haderagaj",
+        "Had\u00ebraga",
+        "Had\u00ebr Ago",
+        "Lefter Talo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363307
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8678256c134fde7f5a3535ede1252031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1226279631,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1226279631,
+    "wof:lastmodified":1537583961,
+    "wof:name":"Lefter Talo",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10028,
+    39.79,
+    20.10028,
+    39.79
+],
+  "geometry": {"coordinates":[20.10028,39.79],"type":"Point"}
+}

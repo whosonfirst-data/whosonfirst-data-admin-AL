@@ -1,0 +1,69 @@
+{
+  "id": 1293034559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93167,42.29472,19.93167,42.29472",
+    "geom:latitude":42.29472,
+    "geom:longitude":19.93167,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Lekbibaj",
+    "gn:country_code":"AL",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184969,
+    "gn:latitude":42.29472,
+    "gn:longitude":19.93167,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Lekbibaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184969,
+        "wk:page":"Lekbibaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f858bccfebd7070e06cf7346cf90c568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1293034559,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1293034559,
+    "wof:lastmodified":1537486096,
+    "wof:name":"Lekbibaj",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93167,
+    42.29472,
+    19.93167,
+    42.29472
+],
+  "geometry": {"coordinates":[19.93167,42.29472],"type":"Point"}
+}

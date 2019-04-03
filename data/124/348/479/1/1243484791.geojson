@@ -1,0 +1,67 @@
+{
+  "id": 1243484791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31667,41.8,20.31667,41.8",
+    "geom:latitude":41.8,
+    "geom:longitude":20.31667,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Mercke",
+    "gn:country_code":"AL",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782306,
+    "gn:latitude":41.8,
+    "gn:longitude":20.31667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Merck\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782306
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"66bb90fef1c4e97c47fe9da0fae8626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1243484791,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1243484791,
+    "wof:lastmodified":1536750219,
+    "wof:name":"Mercke",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31667,
+    41.8,
+    20.31667,
+    41.8
+],
+  "geometry": {"coordinates":[20.31667,41.8],"type":"Point"}
+}

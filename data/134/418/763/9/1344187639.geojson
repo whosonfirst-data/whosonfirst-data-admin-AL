@@ -1,0 +1,79 @@
+{
+  "id": 1344187639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7475,40.52917,19.7475,40.52917",
+    "geom:latitude":40.52917,
+    "geom:longitude":19.7475,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Klos",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185173,
+    "gn:latitude":40.52917,
+    "gn:longitude":19.7475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Klos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "Calos",
+        "Klosi",
+        "Kljos",
+        "K\u00eblosi",
+        "K\u00eblos",
+        "Klos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185173
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0ca41d856544664961e40fb61655bc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1344187639,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1344187639,
+    "wof:lastmodified":1537584253,
+    "wof:name":"Klos",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7475,
+    40.52917,
+    19.7475,
+    40.52917
+],
+  "geometry": {"coordinates":[19.7475,40.52917],"type":"Point"}
+}

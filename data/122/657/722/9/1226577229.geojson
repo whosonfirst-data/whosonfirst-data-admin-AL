@@ -1,0 +1,72 @@
+{
+  "id": 1226577229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.535,40.89806,19.535,40.89806",
+    "geom:latitude":40.89806,
+    "geom:longitude":19.535,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gur",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185435,
+    "gn:latitude":40.89806,
+    "gn:longitude":19.535,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guri",
+        "Gur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185435
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4f0a8a3d58e7863b15792f3aa1ef7f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720853,
+            "locality_id":1226577229,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1226577229,
+    "wof:lastmodified":1537584270,
+    "wof:name":"Gur",
+    "wof:parent_id":1108720853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.535,
+    40.89806,
+    19.535,
+    40.89806
+],
+  "geometry": {"coordinates":[19.535,40.89806],"type":"Point"}
+}

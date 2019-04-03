@@ -1,0 +1,72 @@
+{
+  "id": 1209849629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04639,40.49361,20.04639,40.49361",
+    "geom:latitude":40.49361,
+    "geom:longitude":20.04639,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Barme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865181,
+    "gn:latitude":40.49361,
+    "gn:longitude":20.04639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Barm\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barma",
+        "Barm\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865181
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7684fda5addd635ada190d507d3b42bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1209849629,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1209849629,
+    "wof:lastmodified":1537584151,
+    "wof:name":"Barme",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04639,
+    40.49361,
+    20.04639,
+    40.49361
+],
+  "geometry": {"coordinates":[20.04639,40.49361],"type":"Point"}
+}

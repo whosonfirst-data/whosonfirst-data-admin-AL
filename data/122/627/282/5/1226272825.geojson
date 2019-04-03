@@ -1,0 +1,71 @@
+{
+  "id": 1226272825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50444,40.16917,20.50444,40.16917",
+    "geom:latitude":40.16917,
+    "geom:longitude":20.50444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Merceq",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782307,
+    "gn:latitude":40.16917,
+    "gn:longitude":20.50444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Merc\u00ebq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mertseki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782307
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4f1d2ce20295428505ba505f5f812850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1226272825,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1226272825,
+    "wof:lastmodified":1537584052,
+    "wof:name":"Merceq",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50444,
+    40.16917,
+    20.50444,
+    40.16917
+],
+  "geometry": {"coordinates":[20.50444,40.16917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360321991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19333,40.26194,20.19333,40.26194",
+    "geom:latitude":40.26194,
+    "geom:longitude":20.19333,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Maleshove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782402,
+    "gn:latitude":40.26194,
+    "gn:longitude":20.19333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mal\u00ebshov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maleshov",
+        "Malshova",
+        "Mal\u00ebshova",
+        "Mal\u00ebshov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782402
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b3dfbbc1805036f173e156f2458e845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1360321991,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1360321991,
+    "wof:lastmodified":1537584056,
+    "wof:name":"Maleshove",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19333,
+    40.26194,
+    20.19333,
+    40.26194
+],
+  "geometry": {"coordinates":[20.19333,40.26194],"type":"Point"}
+}

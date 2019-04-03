@@ -1,0 +1,77 @@
+{
+  "id": 1276588237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37528,41.98361,20.37528,41.98361",
+    "geom:latitude":41.98361,
+    "geom:longitude":20.37528,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Gabrice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783201,
+    "gn:latitude":41.98361,
+    "gn:longitude":20.37528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gabric\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabrica",
+        "Gjabric\u00eb",
+        "Gabrrica",
+        "Gabrric\u00eb",
+        "Gjabrec",
+        "Giabric\u00eb",
+        "Gabric\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783201
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7c3420cba54908e4418484997e787f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1276588237,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1276588237,
+    "wof:lastmodified":1537584106,
+    "wof:name":"Gabrice",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37528,
+    41.98361,
+    20.37528,
+    41.98361
+],
+  "geometry": {"coordinates":[20.37528,41.98361],"type":"Point"}
+}

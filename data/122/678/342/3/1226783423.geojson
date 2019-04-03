@@ -1,0 +1,77 @@
+{
+  "id": 1226783423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76528,41.47778,19.76528,41.47778",
+    "geom:latitude":41.47778,
+    "geom:longitude":19.76528,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zgerdhesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183637,
+    "gn:latitude":41.47778,
+    "gn:longitude":19.76528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zg\u00ebrdhesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halil",
+        "Zgardheshi",
+        "Halil Zg\u00ebrdhesh",
+        "Zg\u00ebrdheshi",
+        "Zgurle\u0161",
+        "Zgurdhesh",
+        "Zg\u00ebrdhesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183637
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"085d431021ba4bdb953d32085eea5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1226783423,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1226783423,
+    "wof:lastmodified":1537584158,
+    "wof:name":"Zgerdhesh",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76528,
+    41.47778,
+    19.76528,
+    41.47778
+],
+  "geometry": {"coordinates":[19.76528,41.47778],"type":"Point"}
+}

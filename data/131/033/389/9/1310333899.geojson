@@ -1,0 +1,77 @@
+{
+  "id": 1310333899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68917,41.70778,19.68917,41.70778",
+    "geom:latitude":41.70778,
+    "geom:longitude":19.68917,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Zejmen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3183646,
+    "gn:latitude":41.70778,
+    "gn:longitude":19.68917,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Zejmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zojmendi",
+        "Zejmeni",
+        "Zojmen",
+        "Zejmani",
+        "Zejmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183646,
+        "wk:page":"Zejmen"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2a7ce3f3fdef300be6d4de7c542cdfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1310333899,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1310333899,
+    "wof:lastmodified":1537584158,
+    "wof:name":"Zejmen",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68917,
+    41.70778,
+    19.68917,
+    41.70778
+],
+  "geometry": {"coordinates":[19.68917,41.70778],"type":"Point"}
+}

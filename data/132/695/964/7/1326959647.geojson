@@ -1,0 +1,73 @@
+{
+  "id": 1326959647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72306,40.6475,20.72306,40.6475",
+    "geom:latitude":40.6475,
+    "geom:longitude":20.72306,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Melcan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782320,
+    "gn:latitude":40.6475,
+    "gn:longitude":20.72306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mel\u00e7an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mel\u00e7ani",
+        "Mel\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782320,
+        "wk:page":"Mel%C3%A7an"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3134af545fec0dd6141be1e1957c13cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1326959647,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1326959647,
+    "wof:lastmodified":1537584052,
+    "wof:name":"Melcan",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72306,
+    40.6475,
+    20.72306,
+    40.6475
+],
+  "geometry": {"coordinates":[20.72306,40.6475],"type":"Point"}
+}

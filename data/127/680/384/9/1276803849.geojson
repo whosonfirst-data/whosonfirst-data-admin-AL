@@ -1,0 +1,72 @@
+{
+  "id": 1276803849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72972,40.50278,19.72972,40.50278",
+    "geom:latitude":40.50278,
+    "geom:longitude":19.72972,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Pocem",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343962,
+    "gn:latitude":40.50278,
+    "gn:longitude":19.72972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Po\u00e7em",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u00e7emi",
+        "Po\u00e7em"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343962
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2584df55a4f5f2f5388b63e296ef6e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1276803849,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1276803849,
+    "wof:lastmodified":1537584337,
+    "wof:name":"Pocem",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72972,
+    40.50278,
+    19.72972,
+    40.50278
+],
+  "geometry": {"coordinates":[19.72972,40.50278],"type":"Point"}
+}

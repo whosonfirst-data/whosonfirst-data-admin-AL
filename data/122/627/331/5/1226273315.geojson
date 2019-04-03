@@ -1,0 +1,78 @@
+{
+  "id": 1226273315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70278,40.51806,19.70278,40.51806",
+    "geom:latitude":40.51806,
+    "geom:longitude":19.70278,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Karbunare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185253,
+    "gn:latitude":40.51806,
+    "gn:longitude":19.70278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karbunar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carbunara",
+        "Karabunara",
+        "Carbonara",
+        "Kambunar",
+        "Karbunari",
+        "Karbunar",
+        "Karbunara",
+        "Karbunar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185253
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"04a4060fdf2626349a3e71857ff9b386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1226273315,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1226273315,
+    "wof:lastmodified":1537584258,
+    "wof:name":"Karbunare",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70278,
+    40.51806,
+    19.70278,
+    40.51806
+],
+  "geometry": {"coordinates":[19.70278,40.51806],"type":"Point"}
+}

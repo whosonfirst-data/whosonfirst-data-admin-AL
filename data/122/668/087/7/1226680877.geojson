@@ -1,0 +1,67 @@
+{
+  "id": 1226680877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92556,41.4325,19.92556,41.4325",
+    "geom:latitude":41.4325,
+    "geom:longitude":19.92556,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Fezaj",
+    "gn:country_code":"AL",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185676,
+    "gn:latitude":41.4325,
+    "gn:longitude":19.92556,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Fezaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185676
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ac1e70946d7cc6501210a1f75fbc9c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1226680877,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1226680877,
+    "wof:lastmodified":1536808555,
+    "wof:name":"Fezaj",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92556,
+    41.4325,
+    19.92556,
+    41.4325
+],
+  "geometry": {"coordinates":[19.92556,41.4325],"type":"Point"}
+}

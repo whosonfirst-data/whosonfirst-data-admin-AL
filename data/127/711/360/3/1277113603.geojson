@@ -1,0 +1,78 @@
+{
+  "id": 1277113603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32,41.87611,20.32,41.87611",
+    "geom:latitude":41.87611,
+    "geom:longitude":20.32,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Zall-Rec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781139,
+    "gn:latitude":41.87611,
+    "gn:longitude":20.32,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Zall-Re\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Re\u00e7i",
+        "Zali",
+        "Re\u00e7",
+        "Zall-Re\u00e7i",
+        "Zall",
+        "Zalli",
+        "Zall-Re\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781139
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6528cc839d6cd93f5dbc384310feb08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1277113603,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1277113603,
+    "wof:lastmodified":1537583974,
+    "wof:name":"Zall-Rec",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32,
+    41.87611,
+    20.32,
+    41.87611
+],
+  "geometry": {"coordinates":[20.32,41.87611],"type":"Point"}
+}

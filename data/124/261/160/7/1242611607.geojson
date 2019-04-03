@@ -1,0 +1,74 @@
+{
+  "id": 1242611607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07694,40.1625,20.07694,40.1625",
+    "geom:latitude":40.1625,
+    "geom:longitude":20.07694,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Humelice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782958,
+    "gn:latitude":40.1625,
+    "gn:longitude":20.07694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Humelic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humelizza",
+        "Humelica",
+        "Humalica",
+        "Humelic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782958
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9dce012bc446b968431838031a374367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1242611607,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1242611607,
+    "wof:lastmodified":1537584089,
+    "wof:name":"Humelice",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07694,
+    40.1625,
+    20.07694,
+    40.1625
+],
+  "geometry": {"coordinates":[20.07694,40.1625],"type":"Point"}
+}

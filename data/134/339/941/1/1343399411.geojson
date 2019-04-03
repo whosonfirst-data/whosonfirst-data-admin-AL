@@ -1,0 +1,73 @@
+{
+  "id": 1343399411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00944,40.85306,20.00944,40.85306",
+    "geom:latitude":40.85306,
+    "geom:longitude":20.00944,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Katundas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782852,
+    "gn:latitude":40.85306,
+    "gn:longitude":20.00944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Katundas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katundasi",
+        "Katundas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782852,
+        "wk:page":"Katundas"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f919fb9d24e5214514631499e0dcf4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1343399411,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1343399411,
+    "wof:lastmodified":1537584082,
+    "wof:name":"Katundas",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00944,
+    40.85306,
+    20.00944,
+    40.85306
+],
+  "geometry": {"coordinates":[20.00944,40.85306],"type":"Point"}
+}

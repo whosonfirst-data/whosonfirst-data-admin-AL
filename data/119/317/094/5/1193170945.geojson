@@ -1,0 +1,77 @@
+{
+  "id": 1193170945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01806,40.42667,20.01806,40.42667",
+    "geom:latitude":40.42667,
+    "geom:longitude":20.01806,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kurtjez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782625,
+    "gn:latitude":40.42667,
+    "gn:longitude":20.01806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurtjez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurtez\u00eb",
+        "Kurtic\u00eb",
+        "Kurtez",
+        "Kurtjeza",
+        "Kurteza",
+        "Kurtezi",
+        "Kurtjez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782625
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4ca4e2d7fe25e4ac4a2968e078536256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1193170945,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1193170945,
+    "wof:lastmodified":1537584069,
+    "wof:name":"Kurtjez",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01806,
+    40.42667,
+    20.01806,
+    40.42667
+],
+  "geometry": {"coordinates":[20.01806,40.42667],"type":"Point"}
+}

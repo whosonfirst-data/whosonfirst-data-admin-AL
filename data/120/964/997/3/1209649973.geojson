@@ -1,0 +1,66 @@
+{
+  "id": 1209649973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00417,40.36056,20.00417,40.36056",
+    "geom:latitude":40.36056,
+    "geom:longitude":20.00417,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Bylysh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865178,
+    "gn:latitude":40.36056,
+    "gn:longitude":20.00417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bylysh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bylyshi",
+        "Bylysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865178
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1ca4d95006f836773167489858da05d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209649973
+        }
+    ],
+    "wof:id":1209649973,
+    "wof:lastmodified":1537584151,
+    "wof:name":"Bylysh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00417,
+    40.36056,
+    20.00417,
+    40.36056
+],
+  "geometry": {"coordinates":[20.00417,40.36056],"type":"Point"}
+}

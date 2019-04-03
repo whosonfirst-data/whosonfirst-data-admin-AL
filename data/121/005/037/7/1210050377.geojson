@@ -1,0 +1,72 @@
+{
+  "id": 1210050377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07472,41.56639,20.07472,41.56639",
+    "geom:latitude":41.56639,
+    "geom:longitude":20.07472,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kujtim",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864719,
+    "gn:latitude":41.56639,
+    "gn:longitude":20.07472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kujtim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kujtimi",
+        "Kujtim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864719
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f02bea1e8f1f53d35c382ccf0c90d79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1210050377,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1210050377,
+    "wof:lastmodified":1537584145,
+    "wof:name":"Kujtim",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07472000000001,
+    41.56639000000001,
+    20.07472000000001,
+    41.56639000000001
+],
+  "geometry": {"coordinates":[20.07472000000001,41.56639000000001],"type":"Point"}
+}

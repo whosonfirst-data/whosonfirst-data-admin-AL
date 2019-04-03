@@ -1,0 +1,67 @@
+{
+  "id": 1276795979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93333,41.38333,19.93333,41.38333",
+    "geom:latitude":41.38333,
+    "geom:longitude":19.93333,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Ligai Mucej",
+    "gn:country_code":"AL",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184925,
+    "gn:latitude":41.38333,
+    "gn:longitude":19.93333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ligai Mu\u00e7ej",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184925
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"440894859769c36514bbcb3706c8d17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1276795979,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1276795979,
+    "wof:lastmodified":1536656179,
+    "wof:name":"Ligai Mucej",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93333,
+    41.38333,
+    19.93333,
+    41.38333
+],
+  "geometry": {"coordinates":[19.93333,41.38333],"type":"Point"}
+}

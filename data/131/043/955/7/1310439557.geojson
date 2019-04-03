@@ -1,0 +1,67 @@
+{
+  "id": 1310439557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94389,40.96083,19.94389,40.96083",
+    "geom:latitude":40.96083,
+    "geom:longitude":19.94389,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sektori i Dushkut",
+    "gn:country_code":"AL",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343786,
+    "gn:latitude":40.96083,
+    "gn:longitude":19.94389,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Sektori i Dushkut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343786
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1d15053f8dc1074c4a4723c2288a0757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":1310439557,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310439557,
+    "wof:lastmodified":1537011451,
+    "wof:name":"Sektori i Dushkut",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94389,
+    40.96083,
+    19.94389,
+    40.96083
+],
+  "geometry": {"coordinates":[19.94389,40.96083],"type":"Point"}
+}

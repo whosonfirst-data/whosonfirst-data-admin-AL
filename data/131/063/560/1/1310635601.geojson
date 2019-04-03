@@ -1,0 +1,77 @@
+{
+  "id": 1310635601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42278,41.54222,20.42278,41.54222",
+    "geom:latitude":41.54222,
+    "geom:longitude":20.42278,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Boceve",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783580,
+    "gn:latitude":41.54222,
+    "gn:longitude":20.42278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bo\u00e7ev\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00e7eva",
+        "Bu\u00e7ev\u00eb",
+        "Bu\u00e7eva",
+        "Bu\u00e7ev",
+        "Boqeva",
+        "Bo\u00e7ov\u00eb",
+        "Bo\u00e7ev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783580
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"69c036d5c055f2307ab78ad8dc81f9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1310635601,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1310635601,
+    "wof:lastmodified":1537584131,
+    "wof:name":"Boceve",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42278,
+    41.54222,
+    20.42278,
+    41.54222
+],
+  "geometry": {"coordinates":[20.42278,41.54222],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193189097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93222,40.70167,19.93222,40.70167",
+    "geom:latitude":40.70167,
+    "geom:longitude":19.93222,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Velabisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3183780,
+    "gn:latitude":40.70167,
+    "gn:longitude":19.93222,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Velabisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Velabishti",
+        "Velabisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183780,
+        "wk:page":"Velabisht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0d32ebbe45f28248c815830261b6e039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1193189097,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1193189097,
+    "wof:lastmodified":1537584168,
+    "wof:name":"Velabisht",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93222,
+    40.70167,
+    19.93222,
+    40.70167
+],
+  "geometry": {"coordinates":[19.93222,40.70167],"type":"Point"}
+}

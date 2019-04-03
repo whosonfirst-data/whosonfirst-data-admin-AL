@@ -1,0 +1,80 @@
+{
+  "id": 1327462837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01694,42.26056,20.01694,42.26056",
+    "geom:latitude":42.26056,
+    "geom:longitude":20.01694,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Fierze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783247,
+    "gn:latitude":42.26056,
+    "gn:longitude":20.01694,
+    "gn:modification_date":"2012-06-12",
+    "gn:name":"Fierz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0435\u0440\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Firza",
+        "Fierza",
+        "Fir\u00ebz",
+        "Fiera",
+        "Fierz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783247,
+        "wk:page":"Fierz%C3%AB%2C_Fush%C3%AB-Arr%C3%ABz"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b347b7685513a370f3d6d9784efb95d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720859,
+            "locality_id":1327462837,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1327462837,
+    "wof:lastmodified":1537584109,
+    "wof:name":"Fierze",
+    "wof:parent_id":1108720859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01694,
+    42.26056,
+    20.01694,
+    42.26056
+],
+  "geometry": {"coordinates":[20.01694,42.26056],"type":"Point"}
+}

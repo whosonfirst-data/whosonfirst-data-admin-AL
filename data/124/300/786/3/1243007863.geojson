@@ -1,0 +1,67 @@
+{
+  "id": 1243007863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70167,42.34333,19.70167,42.34333",
+    "geom:latitude":42.34333,
+    "geom:longitude":19.70167,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Grop e Kamshollit",
+    "gn:country_code":"AL",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185454,
+    "gn:latitude":42.34333,
+    "gn:longitude":19.70167,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Grop e Kamshollit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185454
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"acff46a0c1e3270ebf089e4d4f4ba094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1243007863,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1243007863,
+    "wof:lastmodified":1536941468,
+    "wof:name":"Grop e Kamshollit",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70167,
+    42.34333,
+    19.70167,
+    42.34333
+],
+  "geometry": {"coordinates":[19.70167,42.34333],"type":"Point"}
+}

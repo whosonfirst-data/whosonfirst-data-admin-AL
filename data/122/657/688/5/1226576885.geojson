@@ -1,0 +1,73 @@
+{
+  "id": 1226576885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11806,41.21194,20.11806,41.21194",
+    "geom:latitude":41.21194,
+    "geom:longitude":20.11806,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Orpen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782128,
+    "gn:latitude":41.21194,
+    "gn:longitude":20.11806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Orpen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orpeni",
+        "Orpenj\u00eb",
+        "Orpen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782128
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3a4d59c7971642a729c40aa85245406e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1226576885,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226576885,
+    "wof:lastmodified":1537584041,
+    "wof:name":"Orpen",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11806,
+    41.21194000000001,
+    20.11806,
+    41.21194000000001
+],
+  "geometry": {"coordinates":[20.11806,41.21194000000001],"type":"Point"}
+}

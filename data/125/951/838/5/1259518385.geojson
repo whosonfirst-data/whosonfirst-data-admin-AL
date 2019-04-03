@@ -1,0 +1,74 @@
+{
+  "id": 1259518385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76111,40.89556,19.76111,40.89556",
+    "geom:latitude":40.89556,
+    "geom:longitude":19.76111,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Jeta e Re",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185333,
+    "gn:latitude":40.89556,
+    "gn:longitude":19.76111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jeta e Re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ifligu i Ri",
+        "Jet\u00eb e Re",
+        "\u00c7iflik",
+        "Jeta e Re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185333
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c4191253a3972d22caa90d2cefe1d968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1259518385,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1259518385,
+    "wof:lastmodified":1537584263,
+    "wof:name":"Jeta e Re",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76111,
+    40.89556,
+    19.76111,
+    40.89556
+],
+  "geometry": {"coordinates":[19.76111,40.89556],"type":"Point"}
+}

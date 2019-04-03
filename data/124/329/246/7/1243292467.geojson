@@ -1,0 +1,67 @@
+{
+  "id": 1243292467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00889,40.36778,20.00889,40.36778",
+    "geom:latitude":40.36778,
+    "geom:longitude":20.00889,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Beluc i Siperm",
+    "gn:country_code":"AL",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783641,
+    "gn:latitude":40.36778,
+    "gn:longitude":20.00889,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Belu\u00e7 i Sip\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783641
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9db9c011493273905b2ec047b67984d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1243292467,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243292467,
+    "wof:lastmodified":1537026428,
+    "wof:name":"Beluc i Siperm",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00889,
+    40.36778,
+    20.00889,
+    40.36778
+],
+  "geometry": {"coordinates":[20.00889,40.36778],"type":"Point"}
+}

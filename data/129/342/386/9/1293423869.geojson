@@ -1,0 +1,73 @@
+{
+  "id": 1293423869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36917,41.71944,20.36917,41.71944",
+    "geom:latitude":41.71944,
+    "geom:longitude":20.36917,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bresti i Poshtem",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783541,
+    "gn:latitude":41.71944,
+    "gn:longitude":20.36917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bresti i Posht\u00ebm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brest i Posht\u00ebm",
+        "Bresti i Posht\u00ebr",
+        "Bresti i Posht\u00ebm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783541
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ec4189255b532837cf452405a3fa12e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1293423869,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1293423869,
+    "wof:lastmodified":1537584128,
+    "wof:name":"Bresti i Poshtem",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36917,
+    41.71944000000001,
+    20.36917,
+    41.71944000000001
+],
+  "geometry": {"coordinates":[20.36917,41.71944000000001],"type":"Point"}
+}

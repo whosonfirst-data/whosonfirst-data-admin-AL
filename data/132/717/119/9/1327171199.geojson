@@ -1,0 +1,73 @@
+{
+  "id": 1327171199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99278,41.61028,19.99278,41.61028",
+    "geom:latitude":41.61028,
+    "geom:longitude":19.99278,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ndreaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185942,
+    "gn:latitude":41.61028,
+    "gn:longitude":19.99278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ndreaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndre",
+        "Ndreja",
+        "Ndreaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421202751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185942
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fa0c466f3799a08fb465385bb1563afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421202751,
+            "locality_id":1327171199,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1327171199,
+    "wof:lastmodified":1537584305,
+    "wof:name":"Ndreaj",
+    "wof:parent_id":421202751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99278,
+    41.61028,
+    19.99278,
+    41.61028
+],
+  "geometry": {"coordinates":[19.99278,41.61028],"type":"Point"}
+}

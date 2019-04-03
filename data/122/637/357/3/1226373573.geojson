@@ -1,0 +1,80 @@
+{
+  "id": 1226373573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5025,40.98611,20.5025,40.98611",
+    "geom:latitude":40.98611,
+    "geom:longitude":20.5025,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Proptisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781924,
+    "gn:latitude":40.98611,
+    "gn:longitude":20.5025,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Proptisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u043e\u043f\u0442\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Propisht\u00eb",
+        "Proptishti",
+        "Proptishta",
+        "Proptisht\u00eb",
+        "Proptisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781924,
+        "wk:page":"Proptisht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"71d822252e44af90c84c5d7477ff6041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1226373573,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226373573,
+    "wof:lastmodified":1537584027,
+    "wof:name":"Proptisht",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5025,
+    40.98611,
+    20.5025,
+    40.98611
+],
+  "geometry": {"coordinates":[20.5025,40.98611],"type":"Point"}
+}

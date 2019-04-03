@@ -1,0 +1,66 @@
+{
+  "id": 1209452003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08722,40.84583,20.08722,40.84583",
+    "geom:latitude":40.84583,
+    "geom:longitude":20.08722,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sheshi i Zi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865049,
+    "gn:latitude":40.84583,
+    "gn:longitude":20.08722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sheshi i Zi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shesh i Zi",
+        "Sheshi i Zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865049
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cc68641e01b2dffb2f8863c76afd37de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209452003
+        }
+    ],
+    "wof:id":1209452003,
+    "wof:lastmodified":1537584148,
+    "wof:name":"Sheshi i Zi",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08722,
+    40.84583,
+    20.08722,
+    40.84583
+],
+  "geometry": {"coordinates":[20.08722,40.84583],"type":"Point"}
+}

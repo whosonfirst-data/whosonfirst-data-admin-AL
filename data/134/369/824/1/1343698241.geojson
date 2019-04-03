@@ -1,0 +1,74 @@
+{
+  "id": 1343698241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,40.67139,20.83333,40.67139",
+    "geom:latitude":40.67139,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kuci i Zi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782667,
+    "gn:latitude":40.67139,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ku\u00e7i i Zi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u00e7 Izir",
+        "Ku\u00e7 i Zi",
+        "Ku\u00e7",
+        "Ku\u00e7i i Zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782667
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e3a37905296c9e44af59f6bf1fbe14a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1343698241,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343698241,
+    "wof:lastmodified":1537584071,
+    "wof:name":"Kuci i Zi",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    40.67139,
+    20.83333,
+    40.67139
+],
+  "geometry": {"coordinates":[20.83333,40.67139],"type":"Point"}
+}

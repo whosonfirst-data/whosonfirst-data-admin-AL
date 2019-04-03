@@ -1,0 +1,82 @@
+{
+  "id": 1226682723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58889,40.63306,20.58889,40.63306",
+    "geom:latitude":40.63306,
+    "geom:longitude":20.58889,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Voskopoje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781182,
+    "gn:latitude":40.63306,
+    "gn:longitude":20.58889,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Voskopoj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u043e\u043f\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Moscopole",
+        "Voskopoi",
+        "Moskopole",
+        "Voskopoj",
+        "Moskhopolis",
+        "Voskopoja",
+        "Voskopoj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781182,
+        "wk:page":"Moscopole"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f4b01c4f74e3d0d3404fded7fec13b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1226682723,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226682723,
+    "wof:lastmodified":1537583978,
+    "wof:name":"Voskopoje",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58889,
+    40.63306,
+    20.58889,
+    40.63306
+],
+  "geometry": {"coordinates":[20.58889,40.63306],"type":"Point"}
+}

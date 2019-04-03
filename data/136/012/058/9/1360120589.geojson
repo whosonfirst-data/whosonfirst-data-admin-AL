@@ -1,0 +1,75 @@
+{
+  "id": 1360120589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01917,41.12361,20.01917,41.12361",
+    "geom:latitude":41.12361,
+    "geom:longitude":20.01917,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Recan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781818,
+    "gn:latitude":41.12361,
+    "gn:longitude":20.01917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Re\u00e7an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lisaj",
+        "Rechani",
+        "Re\u00e7ani",
+        "Re\u00e7iani",
+        "Re\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781818
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ddbf986587f2be47ff2b4771f8de9eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1360120589,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1360120589,
+    "wof:lastmodified":1537584020,
+    "wof:name":"Recan",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01917000000001,
+    41.12361,
+    20.01917000000001,
+    41.12361
+],
+  "geometry": {"coordinates":[20.01917000000001,41.12361],"type":"Point"}
+}

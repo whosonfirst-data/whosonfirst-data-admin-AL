@@ -1,0 +1,76 @@
+{
+  "id": 1259714003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50611,41.58611,20.50611,41.58611",
+    "geom:latitude":41.58611,
+    "geom:longitude":20.50611,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kercishti i Poshtem",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782831,
+    "gn:latitude":41.58611,
+    "gn:longitude":20.50611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebr\u00e7ishti i Posht\u00ebm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolna Kr\u010di\u0161ta",
+        "Ker\u00e7ishta e Posth\u00ebr",
+        "Ker\u00e7ishte e Posht\u00ebme",
+        "K\u00ebr\u00e7isht i Posht\u00ebm",
+        "K\u00ebr\u00e7ishti i Posht\u00ebm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782831,
+        "wk:page":"K%C3%ABr%C3%A7isht_i_Posht%C3%ABm"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"880571fc6d7ba496746ff4140fd81554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1259714003,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1259714003,
+    "wof:lastmodified":1537584081,
+    "wof:name":"Kercishti i Poshtem",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50611,
+    41.58611,
+    20.50611,
+    41.58611
+],
+  "geometry": {"coordinates":[20.50611,41.58611],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310235683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26806,41.7525,20.26806,41.7525",
+    "geom:latitude":41.7525,
+    "geom:longitude":20.26806,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Cidhne",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783421,
+    "gn:latitude":41.7525,
+    "gn:longitude":20.26806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7idhn\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qidhna e Poshtme",
+        "Cidhnaeposhi",
+        "Qidhn\u00eb e Poshtme",
+        "\u00c7idhna e Posht\u00ebme",
+        "Qillna e Posht\u00ebme",
+        "\u00c7idhn\u00eb e Posht\u00ebme",
+        "\u00c7idhna",
+        "\u00c7idh\u00ebn",
+        "\u00c7idhn\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783421
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fffd8fbdb9c4fea3656206e4fcf9aa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1310235683,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1310235683,
+    "wof:lastmodified":1537584119,
+    "wof:name":"Cidhne",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26806,
+    41.7525,
+    20.26806,
+    41.7525
+],
+  "geometry": {"coordinates":[20.26806,41.7525],"type":"Point"}
+}

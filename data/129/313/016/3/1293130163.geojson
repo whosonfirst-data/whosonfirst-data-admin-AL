@@ -1,0 +1,78 @@
+{
+  "id": 1293130163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89222,41.03306,19.89222,41.03306",
+    "geom:latitude":41.03306,
+    "geom:longitude":19.89222,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Xherije",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183677,
+    "gn:latitude":41.03306,
+    "gn:longitude":19.89222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xherije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xherij\u00eb",
+        "Xherie",
+        "Zerye",
+        "Zherja",
+        "Xherija",
+        "Xheria",
+        "Zherij\u00eb",
+        "Xherije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183677
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f2bffd3e3df5a3c9553328b5a89dea57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1293130163,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1293130163,
+    "wof:lastmodified":1537584161,
+    "wof:name":"Xherije",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89222,
+    41.03306,
+    19.89222,
+    41.03306
+],
+  "geometry": {"coordinates":[19.89222,41.03306],"type":"Point"}
+}

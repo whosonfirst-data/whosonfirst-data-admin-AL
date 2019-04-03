@@ -1,0 +1,76 @@
+{
+  "id": 1276689517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65333,41.69083,19.65333,41.69083",
+    "geom:latitude":41.69083,
+    "geom:longitude":19.65333,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Shenkoll",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184129,
+    "gn:latitude":41.69083,
+    "gn:longitude":19.65333,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Sh\u00ebnkoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinkolli",
+        "Sh\u00ebnkolli",
+        "Snkoli",
+        "Sh\u00ebnkoll\u00eb",
+        "Sh\u00ebnkoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184129
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c0eefe35ad6edabb332d0f7d898df738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1276689517,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1276689517,
+    "wof:lastmodified":1537584186,
+    "wof:name":"Shenkoll",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65333,
+    41.69083,
+    19.65333,
+    41.69083
+],
+  "geometry": {"coordinates":[19.65333,41.69083],"type":"Point"}
+}

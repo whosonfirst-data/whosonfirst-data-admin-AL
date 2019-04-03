@@ -1,0 +1,76 @@
+{
+  "id": 1293619807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99722,40.09889,19.99722,40.09889",
+    "geom:latitude":40.09889,
+    "geom:longitude":19.99722,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Fushebardhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185641,
+    "gn:latitude":40.09889,
+    "gn:longitude":19.99722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fush\u00ebbardh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fushe e Bardh\u00eb",
+        "Fush-Bardhe",
+        "Fushe-Bardha",
+        "Fush\u00eb-Baldha",
+        "Fush\u00ebbardh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185641,
+        "wk:page":"Fush%C3%ABbardh%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ee841ebe125eff751f9f1421d7ae0668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1293619807,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293619807,
+    "wof:lastmodified":1537584284,
+    "wof:name":"Fushebardhe",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99722,
+    40.09889,
+    19.99722,
+    40.09889
+],
+  "geometry": {"coordinates":[19.99722,40.09889],"type":"Point"}
+}

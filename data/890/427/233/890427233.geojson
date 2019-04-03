@@ -1,0 +1,67 @@
+{
+  "id": 890427233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54658,42.02799,19.54658,42.02799",
+    "geom:latitude":42.02799,
+    "geom:longitude":19.54658,
+    "gn:country":"AL",
+    "gn:fcode":"HSE",
+    "gn:pop":9,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Shpia e Sait Haxhis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198695,
+        "gp:id":471883,
+        "qs:id":759362
+    },
+    "wof:country":"AL",
+    "wof:created":1469051684,
+    "wof:geomhash":"4760655e54a0549cf40634dd5850bbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":890427233,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":890427233,
+    "wof:lastmodified":1505343498,
+    "wof:name":"Shpia e Sait Haxhis",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54658,
+    42.02799,
+    19.54658,
+    42.02799
+],
+  "geometry": {"coordinates":[19.54658,42.02799],"type":"Point"}
+}

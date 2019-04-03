@@ -1,0 +1,78 @@
+{
+  "id": 1326866677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22944,40.10528,20.22944,40.10528",
+    "geom:latitude":40.10528,
+    "geom:longitude":20.22944,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Saraqinishte",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781763,
+    "gn:latitude":40.10528,
+    "gn:longitude":20.22944,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Saraqinisht\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarachinista",
+        "Saranishte",
+        "Sarakinista",
+        "Saraqinishta",
+        "Saraqinisht",
+        "Saraqinisht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781763,
+        "wk:page":"Saraqinisht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4eb854f28b619d2473f09eb39a6d48bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720875,
+            "locality_id":1326866677,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326866677,
+    "wof:lastmodified":1537584016,
+    "wof:name":"Saraqinishte",
+    "wof:parent_id":1108720875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22944,
+    40.10528,
+    20.22944,
+    40.10528
+],
+  "geometry": {"coordinates":[20.22944,40.10528],"type":"Point"}
+}

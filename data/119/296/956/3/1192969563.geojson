@@ -1,0 +1,76 @@
+{
+  "id": 1192969563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32222,40.62472,20.32222,40.62472",
+    "geom:latitude":40.62472,
+    "geom:longitude":20.32222,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Vishanj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781219,
+    "gn:latitude":40.62472,
+    "gn:longitude":20.32222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vishanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vishanij",
+        "Vishanji",
+        "Vashani",
+        "Vishani",
+        "Vishanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781219,
+        "wk:page":"Vishanj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fa81f2e4191ea733545abf4061e89ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1192969563,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1192969563,
+    "wof:lastmodified":1537583981,
+    "wof:name":"Vishanj",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32222,
+    40.62472,
+    20.32222,
+    40.62472
+],
+  "geometry": {"coordinates":[20.32222,40.62472],"type":"Point"}
+}

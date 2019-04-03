@@ -1,0 +1,67 @@
+{
+  "id": 1226701397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18583,40.55944,20.18583,40.55944",
+    "geom:latitude":40.55944,
+    "geom:longitude":20.18583,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Durmish",
+    "gn:country_code":"AL",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865093,
+    "gn:latitude":40.55944,
+    "gn:longitude":20.18583,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Durmish",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865093
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d03d5d00b15e97467cca321af44ba19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1226701397,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1226701397,
+    "wof:lastmodified":1536780149,
+    "wof:name":"Durmish",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18583,
+    40.55944,
+    20.18583,
+    40.55944
+],
+  "geometry": {"coordinates":[20.18583,40.55944],"type":"Point"}
+}

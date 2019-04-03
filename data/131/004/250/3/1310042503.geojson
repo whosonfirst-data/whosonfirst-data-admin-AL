@@ -1,0 +1,74 @@
+{
+  "id": 1310042503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89361,40.30694,19.89361,40.30694",
+    "geom:latitude":40.30694,
+    "geom:longitude":19.89361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Elez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184226,
+    "gn:latitude":40.30694,
+    "gn:longitude":19.89361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Elez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salar i Sip\u00ebrm",
+        "Elezi",
+        "Saliar i Desui",
+        "Elez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184226
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"74406534415369e5bb2ead32fe6ff31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1310042503,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310042503,
+    "wof:lastmodified":1537584192,
+    "wof:name":"Elez",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89361,
+    40.30694,
+    19.89361,
+    40.30694
+],
+  "geometry": {"coordinates":[19.89361,40.30694],"type":"Point"}
+}

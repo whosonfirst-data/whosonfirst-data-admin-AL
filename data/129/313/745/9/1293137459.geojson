@@ -1,0 +1,83 @@
+{
+  "id": 1293137459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57889,41.05028,19.57889,41.05028",
+    "geom:latitude":41.05028,
+    "geom:longitude":19.57889,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Cerme Shkumbin",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185904,
+    "gn:latitude":41.05028,
+    "gn:longitude":19.57889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7erm\u00eb Shkumbin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerma-pruscaj",
+        "\u00c7erma e posht\u00ebme",
+        "\u00c7erm\u00eb-Pasha",
+        "\u00c7erm\u00eb",
+        "\u00c7erma e Vog\u00ebl",
+        "Cerma-Pashaj",
+        "\u00c7erma",
+        "\u00c7erm\u00eb e Posht\u00ebme",
+        "\u00c7erma e Poshtme",
+        "\u00c7erm\u2019 e Pashajt",
+        "Cerma-e Pashajit",
+        "Cerma",
+        "\u00c7erm\u00eb Shkumbin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185904
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a2d09c3a76f6c0f0094fc079d7fa921d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720853,
+            "locality_id":1293137459,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1293137459,
+    "wof:lastmodified":1537584302,
+    "wof:name":"Cerme Shkumbin",
+    "wof:parent_id":1108720853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57889,
+    41.05028,
+    19.57889,
+    41.05028
+],
+  "geometry": {"coordinates":[19.57889,41.05028],"type":"Point"}
+}

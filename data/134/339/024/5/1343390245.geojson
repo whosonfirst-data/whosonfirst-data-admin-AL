@@ -1,0 +1,73 @@
+{
+  "id": 1343390245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19833,39.68972,20.19833,39.68972",
+    "geom:latitude":39.68972,
+    "geom:longitude":20.19833,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dishat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363374,
+    "gn:latitude":39.68972,
+    "gn:longitude":20.19833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dishat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dishati",
+        "Deshat",
+        "Dishat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363374
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"884bbfee66a0758666478bd9a9a94296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720869,
+            "locality_id":1343390245,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1343390245,
+    "wof:lastmodified":1537583966,
+    "wof:name":"Dishat",
+    "wof:parent_id":1108720869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19833,
+    39.68972,
+    20.19833,
+    39.68972
+],
+  "geometry": {"coordinates":[20.19833,39.68972],"type":"Point"}
+}

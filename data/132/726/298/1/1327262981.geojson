@@ -1,0 +1,77 @@
+{
+  "id": 1327262981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99722,40.56361,20.99722,40.56361",
+    "geom:latitude":40.56361,
+    "geom:longitude":20.99722,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kurile",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782629,
+    "gn:latitude":40.56361,
+    "gn:longitude":20.99722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuril\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krrille",
+        "Kurill\u00eb",
+        "Korila",
+        "Kurilla",
+        "Kurila",
+        "Kurrilla",
+        "Kuril\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782629
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c1951e442f55affd4abd262b21ce820e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1327262981,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1327262981,
+    "wof:lastmodified":1537584070,
+    "wof:name":"Kurile",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99722,
+    40.56361,
+    20.99722,
+    40.56361
+],
+  "geometry": {"coordinates":[20.99722,40.56361],"type":"Point"}
+}

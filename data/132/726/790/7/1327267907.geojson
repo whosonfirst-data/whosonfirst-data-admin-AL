@@ -1,0 +1,73 @@
+{
+  "id": 1327267907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54917,41.47389,19.54917,41.47389",
+    "geom:latitude":41.47389,
+    "geom:longitude":19.54917,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Hamallaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185408,
+    "gn:latitude":41.47389,
+    "gn:longitude":19.54917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hamallaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamal",
+        "Hamall\u00eb",
+        "Hamallaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185408
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ec430e00d59ca4917ea4ff6273d93af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1327267907,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1327267907,
+    "wof:lastmodified":1537584268,
+    "wof:name":"Hamallaj",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54917,
+    41.47389,
+    19.54917,
+    41.47389
+],
+  "geometry": {"coordinates":[19.54917,41.47389],"type":"Point"}
+}

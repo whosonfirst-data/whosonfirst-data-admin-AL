@@ -1,0 +1,77 @@
+{
+  "id": 1259520203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01667,41.11667,20.01667,41.11667",
+    "geom:latitude":41.11667,
+    "geom:longitude":20.01667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shijon",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781674,
+    "gn:latitude":41.11667,
+    "gn:longitude":20.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shijon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shingjon",
+        "Sin Jon",
+        "Shenjoni",
+        "Shinjoni",
+        "Singjoni",
+        "Shijoni",
+        "Shijon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781674
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"be26350ed6b93180340e00e0aeb9a67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1259520203,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259520203,
+    "wof:lastmodified":1537584009,
+    "wof:name":"Shijon",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01667,
+    41.11667,
+    20.01667,
+    41.11667
+],
+  "geometry": {"coordinates":[20.01667,41.11667],"type":"Point"}
+}

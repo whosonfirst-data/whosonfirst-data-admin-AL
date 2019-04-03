@@ -1,0 +1,76 @@
+{
+  "id": 1193173233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44778,42.08528,20.44778,42.08528",
+    "geom:latitude":42.08528,
+    "geom:longitude":20.44778,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Perbreg",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782075,
+    "gn:latitude":42.08528,
+    "gn:longitude":20.44778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u00ebrbreg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bregu Bardh\u00eb",
+        "Pobregu",
+        "Podbreg",
+        "P\u00ebrbregu",
+        "Pobreg",
+        "P\u00ebrbreg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782075
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b4120235064434cf7c43446d34b4642a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1193173233,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1193173233,
+    "wof:lastmodified":1537584037,
+    "wof:name":"Perbreg",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44778,
+    42.08528,
+    20.44778,
+    42.08528
+],
+  "geometry": {"coordinates":[20.44778,42.08528],"type":"Point"}
+}

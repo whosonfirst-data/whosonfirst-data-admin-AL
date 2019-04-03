@@ -1,0 +1,83 @@
+{
+  "id": 1360321351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96806,39.9475,19.96806,39.9475",
+    "geom:latitude":39.9475,
+    "geom:longitude":19.96806,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Nivice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525809,
+    "gn:latitude":39.9475,
+    "gn:longitude":19.96806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nivic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bubarit",
+        "Nivic Bubari",
+        "Nivizza",
+        "Nivic\u00eb-Bubani",
+        "Nivic\u00eb e Bubarit",
+        "Nivitsa",
+        "Nivic\u00eb Bubari",
+        "Nivic\u00eb-Bubar",
+        "Nivic Bubar",
+        "Nivic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525809
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"afde0862a2ac12c556205d2195f51fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":1360321351,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1360321351,
+    "wof:lastmodified":1537584154,
+    "wof:name":"Nivice",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96806,
+    39.9475,
+    19.96806,
+    39.9475
+],
+  "geometry": {"coordinates":[19.96806,39.9475],"type":"Point"}
+}

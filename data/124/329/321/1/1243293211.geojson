@@ -1,0 +1,76 @@
+{
+  "id": 1243293211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.015,40.45667,20.015,40.45667",
+    "geom:latitude":40.45667,
+    "geom:longitude":20.015,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Buz-Kalemaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783484,
+    "gn:latitude":40.45667,
+    "gn:longitude":20.015,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buz-Kalemaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buz i Vog\u00ebl",
+        "Buz",
+        "Buzi",
+        "Buq-Kalemaj",
+        "Buzi i Vog\u00ebl",
+        "Buz-Kalemaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783484
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"97151198ff218c18a691b3f7cf85846c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1243293211,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243293211,
+    "wof:lastmodified":1537584124,
+    "wof:name":"Buz-Kalemaj",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.015,
+    40.45667,
+    20.015,
+    40.45667
+],
+  "geometry": {"coordinates":[20.015,40.45667],"type":"Point"}
+}

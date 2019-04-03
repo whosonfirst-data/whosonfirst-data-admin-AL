@@ -1,0 +1,75 @@
+{
+  "id": 1226676741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72972,40.69472,20.72972,40.69472",
+    "geom:latitude":40.69472,
+    "geom:longitude":20.72972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Vlocisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781201,
+    "gn:latitude":40.69472,
+    "gn:longitude":20.72972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vlo\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drithas",
+        "Vlo\u00e7ishti",
+        "Vlo\u00e7isht\u00eb",
+        "Vlo\u00e7ishta",
+        "Vlo\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781201
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ddcbb66465c67f053882e0c08c376983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1226676741,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226676741,
+    "wof:lastmodified":1537583979,
+    "wof:name":"Vlocisht",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72972,
+    40.69472,
+    20.72972,
+    40.69472
+],
+  "geometry": {"coordinates":[20.72972,40.69472],"type":"Point"}
+}

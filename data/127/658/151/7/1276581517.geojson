@@ -1,0 +1,75 @@
+{
+  "id": 1276581517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00472,40.93556,20.00472,40.93556",
+    "geom:latitude":40.93556,
+    "geom:longitude":20.00472,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Murat Bejas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782223,
+    "gn:latitude":40.93556,
+    "gn:longitude":20.00472,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Murat Bejas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murad Bej",
+        "Murataj",
+        "Murat Bej",
+        "Murat-Benjas",
+        "Murat-Bejasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782223
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"30ca4c7b4a56e334863012d0307ea36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1276581517,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1276581517,
+    "wof:lastmodified":1537584047,
+    "wof:name":"Murat Bejas",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00472,
+    40.93556,
+    20.00472,
+    40.93556
+],
+  "geometry": {"coordinates":[20.00472,40.93556],"type":"Point"}
+}

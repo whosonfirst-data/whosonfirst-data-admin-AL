@@ -1,0 +1,77 @@
+{
+  "id": 1343495087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26778,40.32667,20.26778,40.32667",
+    "geom:latitude":40.32667,
+    "geom:longitude":20.26778,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Senican",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781734,
+    "gn:latitude":40.32667,
+    "gn:longitude":20.26778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Seni\u00e7an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seniciani",
+        "Vel\u00e7isht",
+        "Sehi\u00e7an",
+        "Val\u00e7ishta",
+        "Seni\u00e7ani",
+        "Velcisti",
+        "Seni\u00e7an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781734
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d47c9f9032e67173409fd54fe5ab1312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1343495087,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1343495087,
+    "wof:lastmodified":1537584013,
+    "wof:name":"Senican",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26778,
+    40.32667,
+    20.26778,
+    40.32667
+],
+  "geometry": {"coordinates":[20.26778,40.32667],"type":"Point"}
+}

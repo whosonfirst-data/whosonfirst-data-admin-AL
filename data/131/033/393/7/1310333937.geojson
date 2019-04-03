@@ -1,0 +1,77 @@
+{
+  "id": 1310333937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81611,40.89944,19.81611,40.89944",
+    "geom:latitude":40.89944,
+    "geom:longitude":19.81611,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kosove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185117,
+    "gn:latitude":40.89944,
+    "gn:longitude":19.81611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kosov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosova i Madh\u00eb",
+        "Kosov e Male",
+        "Kosova Megali",
+        "Kosova",
+        "Kosova e Madhe",
+        "Kosov\u00eb e Madhe",
+        "Kosov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185117
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"90ee3e76e880bc20a7cb44d068decacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":1310333937,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310333937,
+    "wof:lastmodified":1537584250,
+    "wof:name":"Kosove",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81611,
+    40.89944000000001,
+    19.81611,
+    40.89944000000001
+],
+  "geometry": {"coordinates":[19.81611,40.89944000000001],"type":"Point"}
+}

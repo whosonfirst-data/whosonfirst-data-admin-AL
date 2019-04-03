@@ -1,0 +1,75 @@
+{
+  "id": 1343595787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04667,40.30278,20.04667,40.30278",
+    "geom:latitude":40.30278,
+    "geom:longitude":20.04667,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Becisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783658,
+    "gn:latitude":40.30278,
+    "gn:longitude":20.04667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Be\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Becist",
+        "Beshisht",
+        "Be\u00e7ishti",
+        "Be\u00e7ishta",
+        "Be\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783658
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8e193c44cae9096b2cbf94f63dae4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1343595787,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1343595787,
+    "wof:lastmodified":1537584136,
+    "wof:name":"Becisht",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04667,
+    40.30278,
+    20.04667,
+    40.30278
+],
+  "geometry": {"coordinates":[20.04667,40.30278],"type":"Point"}
+}

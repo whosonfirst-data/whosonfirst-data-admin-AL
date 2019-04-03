@@ -1,0 +1,75 @@
+{
+  "id": 1343698815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44361,40.70694,20.44361,40.70694",
+    "geom:latitude":40.70694,
+    "geom:longitude":20.44361,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Maliqi i Oparit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782392,
+    "gn:latitude":40.70694,
+    "gn:longitude":20.44361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maliqi i Oparit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maliq Opar",
+        "Maliq i Oparit",
+        "Maliq",
+        "Maliqi",
+        "Maliqi i Oparit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782392
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0c36c6990a2c41f6c0e0c2423d2a987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1343698815,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343698815,
+    "wof:lastmodified":1537584056,
+    "wof:name":"Maliqi i Oparit",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44361,
+    40.70694,
+    20.44361,
+    40.70694
+],
+  "geometry": {"coordinates":[20.44361,40.70694],"type":"Point"}
+}

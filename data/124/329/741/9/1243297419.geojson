@@ -1,0 +1,75 @@
+{
+  "id": 1243297419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51833,40.63444,20.51833,40.63444",
+    "geom:latitude":40.63444,
+    "geom:longitude":20.51833,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Punemire",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781911,
+    "gn:latitude":40.63444,
+    "gn:longitude":20.51833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pun\u00ebmir\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punmire",
+        "Pun\u00ebmir",
+        "Pun\u00ebmira",
+        "Punmira",
+        "Pun\u00ebmir\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781911
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ade1f4e47e6876b27e4c98fd9fc842cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1243297419,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1243297419,
+    "wof:lastmodified":1537584026,
+    "wof:name":"Punemire",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51833,
+    40.63444000000001,
+    20.51833,
+    40.63444000000001
+],
+  "geometry": {"coordinates":[20.51833,40.63444000000001],"type":"Point"}
+}

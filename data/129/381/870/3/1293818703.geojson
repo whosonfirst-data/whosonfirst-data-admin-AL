@@ -1,0 +1,78 @@
+{
+  "id": 1293818703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2725,41.87389,20.2725,41.87389",
+    "geom:latitude":41.87389,
+    "geom:longitude":20.2725,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Gure-Rec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783021,
+    "gn:latitude":41.87389,
+    "gn:longitude":20.2725,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gur\u00eb-Re\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurr\u2019 e Re\u00e7it",
+        "Gurra e Re\u00e7it",
+        "Gjur Re\u00e7",
+        "Gur\u00eb-Re\u00e7i",
+        "Gjur\u00eb-Re\u00e7i",
+        "Gjurr\u00eb Re\u00e7",
+        "Gur-Re\u00e7",
+        "Gur\u00eb-Re\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783021
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"620d299f728202695cf5270eb37a2ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1293818703,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1293818703,
+    "wof:lastmodified":1537584093,
+    "wof:name":"Gure-Rec",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2725,
+    41.87389,
+    20.2725,
+    41.87389
+],
+  "geometry": {"coordinates":[20.2725,41.87389],"type":"Point"}
+}

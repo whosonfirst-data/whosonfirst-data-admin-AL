@@ -1,0 +1,72 @@
+{
+  "id": 1343296061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30083,40.95417,20.30083,40.95417",
+    "geom:latitude":40.95417,
+    "geom:longitude":20.30083,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Baramaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783628,
+    "gn:latitude":40.95417,
+    "gn:longitude":20.30083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baramaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beramaj",
+        "Baramaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783628
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0e2b6204d88caf9432271259233fc90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1343296061,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343296061,
+    "wof:lastmodified":1537584134,
+    "wof:name":"Baramaj",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30083,
+    40.95417,
+    20.30083,
+    40.95417
+],
+  "geometry": {"coordinates":[20.30083,40.95417],"type":"Point"}
+}

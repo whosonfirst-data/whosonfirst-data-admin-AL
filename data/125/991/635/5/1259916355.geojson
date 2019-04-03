@@ -1,0 +1,79 @@
+{
+  "id": 1259916355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05444,39.72833,20.05444,39.72833",
+    "geom:latitude":39.72833,
+    "geom:longitude":20.05444,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Xarre",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":363200,
+    "gn:latitude":39.72833,
+    "gn:longitude":20.05444,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Xarr\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qar\u00eb",
+        "Xara",
+        "Xarja",
+        "Xar\u00eb",
+        "Cara",
+        "Xarra",
+        "Xarr\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363200,
+        "wk:page":"Xarr%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0a3cda58582b1f548d6218aff3eb2797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720869,
+            "locality_id":1259916355,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1259916355,
+    "wof:lastmodified":1537583954,
+    "wof:name":"Xarre",
+    "wof:parent_id":1108720869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05444,
+    39.72833,
+    20.05444,
+    39.72833
+],
+  "geometry": {"coordinates":[20.05444,39.72833],"type":"Point"}
+}

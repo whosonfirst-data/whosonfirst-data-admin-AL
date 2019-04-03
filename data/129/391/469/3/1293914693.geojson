@@ -1,0 +1,67 @@
+{
+  "id": 1293914693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02944,41.82583,20.02944,41.82583",
+    "geom:latitude":41.82583,
+    "geom:longitude":20.02944,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Troje",
+    "gn:country_code":"AL",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864685,
+    "gn:latitude":41.82583,
+    "gn:longitude":20.02944,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Troj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864685
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e9c3c57fccd2245c95c656122c973c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1293914693,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1293914693,
+    "wof:lastmodified":1536668432,
+    "wof:name":"Troje",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02944,
+    41.82583,
+    20.02944,
+    41.82583
+],
+  "geometry": {"coordinates":[20.02944,41.82583],"type":"Point"}
+}

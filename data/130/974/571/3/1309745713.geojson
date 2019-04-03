@@ -1,0 +1,73 @@
+{
+  "id": 1309745713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61278,40.85139,20.61278,40.85139",
+    "geom:latitude":40.85139,
+    "geom:longitude":20.61278,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Malok",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782259,
+    "gn:latitude":40.85139,
+    "gn:longitude":20.61278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u00e7al",
+        "Maloku",
+        "Malok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782259
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9f163201b02fb952def0dc89188e2815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1309745713,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1309745713,
+    "wof:lastmodified":1537584049,
+    "wof:name":"Malok",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61278,
+    40.85139,
+    20.61278,
+    40.85139
+],
+  "geometry": {"coordinates":[20.61278,40.85139],"type":"Point"}
+}

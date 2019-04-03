@@ -1,0 +1,72 @@
+{
+  "id": 1243002279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46278,41.57806,20.46278,41.57806",
+    "geom:latitude":41.57806,
+    "geom:longitude":20.46278,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Burim",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783498,
+    "gn:latitude":41.57806,
+    "gn:longitude":20.46278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Burim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burimi",
+        "Burim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783498
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"858fa774e97bb0d07cd365d0ea11d3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1243002279,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1243002279,
+    "wof:lastmodified":1537584125,
+    "wof:name":"Burim",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46278,
+    41.57806,
+    20.46278,
+    41.57806
+],
+  "geometry": {"coordinates":[20.46278,41.57806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293725721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1625,41.47306,20.1625,41.47306",
+    "geom:latitude":41.47306,
+    "geom:longitude":20.1625,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Plani i Bardhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782017,
+    "gn:latitude":41.47306,
+    "gn:longitude":20.1625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Plani i Bardh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plan i Bardh\u00eb",
+        "Pllani i Bardhe",
+        "Pllan i Bardhe",
+        "Plani i Bardh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782017
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c12b313b111b823d4d5eb6da408c6cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1293725721,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1293725721,
+    "wof:lastmodified":1537584034,
+    "wof:name":"Plani i Bardhe",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1625,
+    41.47306,
+    20.1625,
+    41.47306
+],
+  "geometry": {"coordinates":[20.1625,41.47306],"type":"Point"}
+}

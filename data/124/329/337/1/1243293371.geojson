@@ -1,0 +1,79 @@
+{
+  "id": 1243293371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45556,40.20639,20.45556,40.20639",
+    "geom:latitude":40.20639,
+    "geom:longitude":20.45556,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Trebozisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781377,
+    "gn:latitude":40.20639,
+    "gn:longitude":20.45556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Trebozisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melani",
+        "Trebozisht-Lipovan",
+        "Melan",
+        "Trebozishti",
+        "Trebozisht\u00eb",
+        "Trebozisht-Lipivan",
+        "Trebozishti-Lipivani",
+        "Trebozisha",
+        "Trebozisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781377
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e187832d14b6246cd80232f6a454ddc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1243293371,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243293371,
+    "wof:lastmodified":1537583991,
+    "wof:name":"Trebozisht",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45556,
+    40.20639,
+    20.45556,
+    40.20639
+],
+  "geometry": {"coordinates":[20.45556,40.20639],"type":"Point"}
+}

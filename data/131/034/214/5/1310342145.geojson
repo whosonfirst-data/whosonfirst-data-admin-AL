@@ -1,0 +1,74 @@
+{
+  "id": 1310342145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29944,40.82667,20.29944,40.82667",
+    "geom:latitude":40.82667,
+    "geom:longitude":20.29944,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Zamshe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781134,
+    "gn:latitude":40.82667,
+    "gn:longitude":20.29944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zamsh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00ebmsha",
+        "Zamshi",
+        "Zamsha",
+        "Zamsh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781134
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b46c898e720121c6656026d5bd99963a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1310342145,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310342145,
+    "wof:lastmodified":1537583973,
+    "wof:name":"Zamshe",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29944,
+    40.82667,
+    20.29944,
+    40.82667
+],
+  "geometry": {"coordinates":[20.29944,40.82667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243007881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76083,41.89528,19.76083,41.89528",
+    "geom:latitude":41.89528,
+    "geom:longitude":19.76083,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Rrasi i Bute",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184269,
+    "gn:latitude":41.89528,
+    "gn:longitude":19.76083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rrasi i But\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ras i But\u00eb",
+        "Rras i But\u00eb",
+        "Rras- but\u00eb",
+        "Rrasi i But\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184269
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1b1d69b7e09f4a78a5d8c012dc0a938a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1243007881,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1243007881,
+    "wof:lastmodified":1537584195,
+    "wof:name":"Rrasi i Bute",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76083,
+    41.89528,
+    19.76083,
+    41.89528
+],
+  "geometry": {"coordinates":[19.76083,41.89528],"type":"Point"}
+}

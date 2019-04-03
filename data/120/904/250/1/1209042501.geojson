@@ -1,0 +1,65 @@
+{
+  "id": 1209042501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46,42.18139,19.46,42.18139",
+    "geom:latitude":42.18139,
+    "geom:longitude":19.46,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Cesme e Koplikut",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185893,
+    "gn:latitude":42.18139,
+    "gn:longitude":19.46,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"\u00c7esme e Koplikut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ezmja e Koplikut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185893
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"94565b0878809db115c2a6618adabdff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209042501
+        }
+    ],
+    "wof:id":1209042501,
+    "wof:lastmodified":1537584300,
+    "wof:name":"Cesme e Koplikut",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46,
+    42.18139,
+    19.46,
+    42.18139
+],
+  "geometry": {"coordinates":[19.46,42.18139],"type":"Point"}
+}

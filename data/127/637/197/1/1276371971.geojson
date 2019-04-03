@@ -1,0 +1,67 @@
+{
+  "id": 1276371971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.085,40.425,20.085,40.425",
+    "geom:latitude":40.425,
+    "geom:longitude":20.085,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kreshove",
+    "gn:country_code":"AL",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865165,
+    "gn:latitude":40.425,
+    "gn:longitude":20.085,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Kreshov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865165
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8036603024ddf8a8f20c473f136ccc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1276371971,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276371971,
+    "wof:lastmodified":1536727185,
+    "wof:name":"Kreshove",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.085,
+    40.425,
+    20.085,
+    40.425
+],
+  "geometry": {"coordinates":[20.085,40.425],"type":"Point"}
+}

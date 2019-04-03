@@ -1,0 +1,76 @@
+{
+  "id": 1209849497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62361,41.32528,19.62361,41.32528",
+    "geom:latitude":41.32528,
+    "geom:longitude":19.62361,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kenete",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185193,
+    "gn:latitude":41.32528,
+    "gn:longitude":19.62361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebnet\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebneta",
+        "Knet\u00eb",
+        "Knet",
+        "K\u00ebnetasi",
+        "K\u00ebnetas",
+        "K\u00ebnet\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        1108720905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185193
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f2783005ffe3b4dfabc70aebf71add77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720905,
+            "locality_id":1209849497,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1209849497,
+    "wof:lastmodified":1537584254,
+    "wof:name":"Kenete",
+    "wof:parent_id":1108720905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62361,
+    41.32528,
+    19.62361,
+    41.32528
+],
+  "geometry": {"coordinates":[19.62361,41.32528],"type":"Point"}
+}

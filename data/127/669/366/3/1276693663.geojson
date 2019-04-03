@@ -1,0 +1,74 @@
+{
+  "id": 1276693663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40861,41.91306,20.40861,41.91306",
+    "geom:latitude":41.91306,
+    "geom:longitude":20.40861,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Lusen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782433,
+    "gn:latitude":41.91306,
+    "gn:longitude":20.40861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lus\u00ebn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lus\u00ebn\u00eb",
+        "Lus\u00ebna",
+        "Lusna",
+        "Lus\u00ebn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782433
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5a4893fcbbf10464ea5aeb5bb46dda19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1276693663,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1276693663,
+    "wof:lastmodified":1537584058,
+    "wof:name":"Lusen",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40861,
+    41.91306,
+    20.40861,
+    41.91306
+],
+  "geometry": {"coordinates":[20.40861,41.91306],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293232089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94222,41.28861,19.94222,41.28861",
+    "geom:latitude":41.28861,
+    "geom:longitude":19.94222,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Percellesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184494,
+    "gn:latitude":41.28861,
+    "gn:longitude":19.94222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u00ebrc\u00ebllesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00ebrc\u00eblleshi",
+        "Percelleshi",
+        "Perolleshi",
+        "P\u00ebrclleshi",
+        "Perkhodesh",
+        "P\u00ebrc\u00ebllesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184494,
+        "wk:page":"P%C3%ABrc%C3%ABllesh"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fdbf89f43f6dc545e768aeff5fb2fc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1293232089,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1293232089,
+    "wof:lastmodified":1537584212,
+    "wof:name":"Percellesh",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94222,
+    41.28861,
+    19.94222,
+    41.28861
+],
+  "geometry": {"coordinates":[19.94222,41.28861],"type":"Point"}
+}

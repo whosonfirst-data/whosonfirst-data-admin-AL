@@ -1,0 +1,73 @@
+{
+  "id": 1343994375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43333,42.01611,19.43333,42.01611",
+    "geom:latitude":42.01611,
+    "geom:longitude":19.43333,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Obot",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316481,
+    "gn:latitude":42.01611,
+    "gn:longitude":19.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Obot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obot i Ri",
+        "Obot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316481,
+        "wk:page":"Obot"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b88a1eacf23a2bcf815226595ec700a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1343994375,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1343994375,
+    "wof:lastmodified":1537584327,
+    "wof:name":"Obot",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43333,
+    42.01611,
+    19.43333,
+    42.01611
+],
+  "geometry": {"coordinates":[19.43333,42.01611],"type":"Point"}
+}

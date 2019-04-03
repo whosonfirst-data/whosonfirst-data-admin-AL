@@ -1,0 +1,75 @@
+{
+  "id": 1293231839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61139,41.16861,19.61139,41.16861",
+    "geom:latitude":41.16861,
+    "geom:longitude":19.61139,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Habilaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185419,
+    "gn:latitude":41.16861,
+    "gn:longitude":19.61139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Habilaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habiljej",
+        "Habilej",
+        "Habllaj",
+        "Habilaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421187447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185419,
+        "wk:page":"Habilaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7b313c43e202675c15c331fd4e8a6bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187447,
+            "locality_id":1293231839,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1293231839,
+    "wof:lastmodified":1537584269,
+    "wof:name":"Habilaj",
+    "wof:parent_id":421187447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61139,
+    41.16861,
+    19.61139,
+    41.16861
+],
+  "geometry": {"coordinates":[19.61139,41.16861],"type":"Point"}
+}

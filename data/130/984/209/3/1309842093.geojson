@@ -1,0 +1,72 @@
+{
+  "id": 1309842093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21083,42.37056,20.21083,42.37056",
+    "geom:latitude":42.37056,
+    "geom:longitude":20.21083,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Pitamina e Siperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829457,
+    "gn:latitude":42.37056,
+    "gn:longitude":20.21083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pitamina e Sip\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitamina e Sip\u00ebrm",
+        "Pitamina e Sip\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829457
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bde9b8e01f0f983cc87bc67bbc4f873d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1309842093,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1309842093,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Pitamina e Siperme",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21083,
+    42.37056,
+    20.21083,
+    42.37056
+],
+  "geometry": {"coordinates":[20.21083,42.37056],"type":"Point"}
+}

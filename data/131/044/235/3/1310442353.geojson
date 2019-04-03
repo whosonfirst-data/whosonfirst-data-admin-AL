@@ -1,0 +1,77 @@
+{
+  "id": 1310442353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74889,40.59417,19.74889,40.59417",
+    "geom:latitude":40.59417,
+    "geom:longitude":19.74889,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Usoje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183811,
+    "gn:latitude":40.59417,
+    "gn:longitude":19.74889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Usoj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osoj",
+        "Usaja",
+        "Osoja",
+        "Usoja",
+        "Osoj\u00eb",
+        "Osaja",
+        "Usoj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183811
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"25f2efc31651ec4101ad354c5a6f9d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1310442353,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1310442353,
+    "wof:lastmodified":1537584170,
+    "wof:name":"Usoje",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74889,
+    40.59417,
+    19.74889,
+    40.59417
+],
+  "geometry": {"coordinates":[19.74889,40.59417],"type":"Point"}
+}

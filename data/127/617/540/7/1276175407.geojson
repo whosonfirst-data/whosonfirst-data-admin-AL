@@ -1,0 +1,67 @@
+{
+  "id": 1276175407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05111,40.56333,20.05111,40.56333",
+    "geom:latitude":40.56333,
+    "geom:longitude":20.05111,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Dollan",
+    "gn:country_code":"AL",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865126,
+    "gn:latitude":40.56333,
+    "gn:longitude":20.05111,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Dollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865126
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d5e10540b21a0fab3e3bf8b625a23069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1276175407,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1276175407,
+    "wof:lastmodified":1536989754,
+    "wof:name":"Dollan",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05111,
+    40.56333,
+    20.05111,
+    40.56333
+],
+  "geometry": {"coordinates":[20.05111,40.56333],"type":"Point"}
+}

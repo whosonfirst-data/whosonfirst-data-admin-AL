@@ -1,0 +1,73 @@
+{
+  "id": 1327165415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65028,40.14028,20.65028,40.14028",
+    "geom:latitude":40.14028,
+    "geom:longitude":20.65028,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Pobicke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782000,
+    "gn:latitude":40.14028,
+    "gn:longitude":20.65028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pobick\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobicka",
+        "Pobicka",
+        "Pobick\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782000
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3f9f0446d77f269fd0ee2a711b20c197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1327165415,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1327165415,
+    "wof:lastmodified":1537584033,
+    "wof:name":"Pobicke",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65028,
+    40.14028,
+    20.65028,
+    40.14028
+],
+  "geometry": {"coordinates":[20.65028,40.14028],"type":"Point"}
+}

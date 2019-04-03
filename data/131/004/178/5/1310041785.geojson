@@ -1,0 +1,74 @@
+{
+  "id": 1310041785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41722,41.86389,20.41722,41.86389",
+    "geom:latitude":41.86389,
+    "geom:longitude":20.41722,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Palush",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782100,
+    "gn:latitude":41.86389,
+    "gn:longitude":20.41722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Palush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palushaj",
+        "Palushai",
+        "Palushi",
+        "Palush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782100
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8e320eb4eb04469492dd65ee9afc235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1310041785,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1310041785,
+    "wof:lastmodified":1537584039,
+    "wof:name":"Palush",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41722,
+    41.86389000000001,
+    20.41722,
+    41.86389000000001
+],
+  "geometry": {"coordinates":[20.41722,41.86389000000001],"type":"Point"}
+}

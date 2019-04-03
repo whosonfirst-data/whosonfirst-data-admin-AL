@@ -1,0 +1,72 @@
+{
+  "id": 1193171773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82056,41.02611,19.82056,41.02611",
+    "geom:latitude":41.02611,
+    "geom:longitude":19.82056,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Tabak",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316663,
+    "gn:latitude":41.02611,
+    "gn:longitude":19.82056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tabak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabake",
+        "Tabak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316663
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c88e674d50e1e3af854ea2f784bb2b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1193171773,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1193171773,
+    "wof:lastmodified":1537584328,
+    "wof:name":"Tabak",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82056,
+    41.02611,
+    19.82056,
+    41.02611
+],
+  "geometry": {"coordinates":[19.82056,41.02611],"type":"Point"}
+}

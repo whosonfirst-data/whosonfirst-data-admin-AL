@@ -1,0 +1,71 @@
+{
+  "id": 1209140221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63944,40.47861,20.63944,40.47861",
+    "geom:latitude":40.47861,
+    "geom:longitude":20.63944,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Roshanj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781801,
+    "gn:latitude":40.47861,
+    "gn:longitude":20.63944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Roshanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rozhan",
+        "Rozhanj",
+        "Reshanj",
+        "Roznanji",
+        "Roshani",
+        "Roshanji",
+        "Roshanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781801
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3045d573c803394b7d589d88a56a737f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209140221
+        }
+    ],
+    "wof:id":1209140221,
+    "wof:lastmodified":1537584018,
+    "wof:name":"Roshanj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63944,
+    40.47861,
+    20.63944,
+    40.47861
+],
+  "geometry": {"coordinates":[20.63944,40.47861],"type":"Point"}
+}

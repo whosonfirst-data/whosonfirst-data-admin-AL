@@ -1,0 +1,74 @@
+{
+  "id": 1259519845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00972,40.96889,20.00972,40.96889",
+    "geom:latitude":40.96889,
+    "geom:longitude":20.00972,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Lumas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865040,
+    "gn:latitude":40.96889,
+    "gn:longitude":20.00972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lumas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumac",
+        "Lumasi",
+        "Lumaz",
+        "Lumas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865040
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d977272f4fd314eeaa2e5a72c7466125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1259519845,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259519845,
+    "wof:lastmodified":1537584147,
+    "wof:name":"Lumas",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00972,
+    40.96889,
+    20.00972,
+    40.96889
+],
+  "geometry": {"coordinates":[20.00972,40.96889],"type":"Point"}
+}

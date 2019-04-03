@@ -1,0 +1,72 @@
+{
+  "id": 1259619721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32028,41.61167,20.32028,41.61167",
+    "geom:latitude":41.61167,
+    "geom:longitude":20.32028,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Prat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864744,
+    "gn:latitude":41.61167,
+    "gn:longitude":20.32028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Prat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prati",
+        "Prat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864744
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"539d7325d5bdba80133b36b6e486f314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1259619721,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1259619721,
+    "wof:lastmodified":1537584145,
+    "wof:name":"Prat",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32028,
+    41.61167,
+    20.32028,
+    41.61167
+],
+  "geometry": {"coordinates":[20.32028,41.61167],"type":"Point"}
+}

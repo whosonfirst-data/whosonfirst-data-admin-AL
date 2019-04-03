@@ -1,0 +1,76 @@
+{
+  "id": 1259814799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59528,41.28278,19.59528,41.28278",
+    "geom:latitude":41.28278,
+    "geom:longitude":19.59528,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Rromanat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184295,
+    "gn:latitude":41.28278,
+    "gn:longitude":19.59528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rromanat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Romanotok",
+        "Rumanat",
+        "Romanat",
+        "Rrumanati",
+        "Romanati",
+        "Rromanat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184295
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"984f3a49fc98ff4d1e6188ae42ffa802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1259814799,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1259814799,
+    "wof:lastmodified":1537584198,
+    "wof:name":"Rromanat",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59528,
+    41.28278,
+    19.59528,
+    41.28278
+],
+  "geometry": {"coordinates":[19.59528,41.28278],"type":"Point"}
+}

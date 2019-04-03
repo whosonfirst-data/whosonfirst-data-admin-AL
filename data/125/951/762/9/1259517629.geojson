@@ -1,0 +1,72 @@
+{
+  "id": 1259517629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55028,41.02556,20.55028,41.02556",
+    "geom:latitude":41.02556,
+    "geom:longitude":20.55028,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kolnekas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864996,
+    "gn:latitude":41.02556,
+    "gn:longitude":20.55028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kolnekas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kontnekas",
+        "Kolnekas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864996
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b7382e426730b9930e6f4f6546f199f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1259517629,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259517629,
+    "wof:lastmodified":1537584146,
+    "wof:name":"Kolnekas",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55028,
+    41.02556,
+    20.55028,
+    41.02556
+],
+  "geometry": {"coordinates":[20.55028,41.02556],"type":"Point"}
+}

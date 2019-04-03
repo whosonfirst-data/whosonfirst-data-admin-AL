@@ -1,0 +1,78 @@
+{
+  "id": 1193171287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55778,41.07806,19.55778,41.07806",
+    "geom:latitude":41.07806,
+    "geom:longitude":19.55778,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Zhabjak",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183634,
+    "gn:latitude":41.07806,
+    "gn:longitude":19.55778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zhabjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schabiak",
+        "Zhabjaku",
+        "Gurisht\u00eb",
+        "\u017dabjak",
+        "Zhabiaku",
+        "Zhabiak",
+        "Zhabjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183634,
+        "wk:page":"Zhabjak"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5882365bfa3e1423adcdd607a30f510d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1193171287,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1193171287,
+    "wof:lastmodified":1537584158,
+    "wof:name":"Zhabjak",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55778,
+    41.07806,
+    19.55778,
+    41.07806
+],
+  "geometry": {"coordinates":[19.55778,41.07806],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1260116977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99028,41.42444,19.99028,41.42444",
+    "geom:latitude":41.42444,
+    "geom:longitude":19.99028,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Murriz",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184644,
+    "gn:latitude":41.42444,
+    "gn:longitude":19.99028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Murriz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mariz\u00eb",
+        "Murriza",
+        "Bastar Murriz",
+        "Murtiza",
+        "Marizej",
+        "Muriz\u00eb",
+        "Murriz\u00eb",
+        "Muriza",
+        "Murrizi",
+        "Murriz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184644
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cde6a33906d7695b16887955390dd234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1260116977,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1260116977,
+    "wof:lastmodified":1537584221,
+    "wof:name":"Murriz",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99028,
+    41.42444,
+    19.99028,
+    41.42444
+],
+  "geometry": {"coordinates":[19.99028,41.42444],"type":"Point"}
+}

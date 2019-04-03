@@ -1,0 +1,67 @@
+{
+  "id": 1310239581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63056,40.82056,19.63056,40.82056",
+    "geom:latitude":40.82056,
+    "geom:longitude":19.63056,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Manaj",
+    "gn:country_code":"AL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343912,
+    "gn:latitude":40.82056,
+    "gn:longitude":19.63056,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Manaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343912
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2c662258cab561beb0212c7df1d2b173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1310239581,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1310239581,
+    "wof:lastmodified":1536802987,
+    "wof:name":"Manaj",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63056,
+    40.82056,
+    19.63056,
+    40.82056
+],
+  "geometry": {"coordinates":[19.63056,40.82056],"type":"Point"}
+}

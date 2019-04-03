@@ -1,0 +1,73 @@
+{
+  "id": 1242714369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17639,39.93333,20.17639,39.93333",
+    "geom:latitude":39.93333,
+    "geom:longitude":20.17639,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Pece",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363264,
+    "gn:latitude":39.93333,
+    "gn:longitude":20.17639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pec\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peca",
+        "Peza",
+        "Pec\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363264
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b83e3f96868680120010b6b0c2d1e630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1242714369,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1242714369,
+    "wof:lastmodified":1537583958,
+    "wof:name":"Pece",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17639,
+    39.93333,
+    20.17639,
+    39.93333
+],
+  "geometry": {"coordinates":[20.17639,39.93333],"type":"Point"}
+}

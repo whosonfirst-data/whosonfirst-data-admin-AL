@@ -1,0 +1,76 @@
+{
+  "id": 1343496331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52222,40.90861,20.52222,40.90861",
+    "geom:latitude":40.90861,
+    "geom:longitude":20.52222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Cezma e Madhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783425,
+    "gn:latitude":40.90861,
+    "gn:longitude":20.52222,
+    "gn:modification_date":"2017-12-25",
+    "gn:name":"\u00c7ezma e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0427\u0435\u0448\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u00c7esme e Sip\u00ebrme",
+        "\u00c7ezm\u00eb e Madhe",
+        "\u00c7ezma e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783425
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d245c39b2ad5e9af155bdc3a8cf492af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1343496331,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343496331,
+    "wof:lastmodified":1537584120,
+    "wof:name":"Cezma e Madhe",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52222,
+    40.90861,
+    20.52222,
+    40.90861
+],
+  "geometry": {"coordinates":[20.52222,40.90861],"type":"Point"}
+}

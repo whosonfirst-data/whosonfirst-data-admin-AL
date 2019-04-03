@@ -1,0 +1,72 @@
+{
+  "id": 1293037341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69056,40.81194,20.69056,40.81194",
+    "geom:latitude":40.81194,
+    "geom:longitude":20.69056,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kakac",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782922,
+    "gn:latitude":40.81194,
+    "gn:longitude":20.69056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaka\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaka\u00e7i",
+        "Kaka\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782922
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6e93afc7fae97bc4f0d25fda8805c4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1293037341,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293037341,
+    "wof:lastmodified":1537584086,
+    "wof:name":"Kakac",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69056,
+    40.81194,
+    20.69056,
+    40.81194
+],
+  "geometry": {"coordinates":[20.69056,40.81194],"type":"Point"}
+}

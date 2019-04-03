@@ -1,0 +1,79 @@
+{
+  "id": 1310037137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77028,41.32444,19.77028,41.32444",
+    "geom:latitude":41.32444,
+    "geom:longitude":19.77028,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Yzberish",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183669,
+    "gn:latitude":41.32444,
+    "gn:longitude":19.77028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yzberish",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezberish",
+        "Yzberishi",
+        "Hysberish",
+        "Yzberisht",
+        "Izberi\u0161a",
+        "Yzberish\u00eb",
+        "Yzberishti",
+        "Yzberish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183669,
+        "wk:page":"Yzberisht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"09566f850ddd95da03dfaddd783986c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1310037137,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1310037137,
+    "wof:lastmodified":1537584160,
+    "wof:name":"Yzberish",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77028,
+    41.32444,
+    19.77028,
+    41.32444
+],
+  "geometry": {"coordinates":[19.77028,41.32444],"type":"Point"}
+}

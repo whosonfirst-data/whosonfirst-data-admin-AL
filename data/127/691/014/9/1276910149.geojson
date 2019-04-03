@@ -1,0 +1,75 @@
+{
+  "id": 1276910149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71417,40.34417,20.71417,40.34417",
+    "geom:latitude":40.34417,
+    "geom:longitude":20.71417,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Hodallar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782403,
+    "gn:latitude":40.34417,
+    "gn:longitude":20.71417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hodallar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malalar",
+        "Malear",
+        "Mal\u00eblar",
+        "Hodollar",
+        "Hodallar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782403
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ad3de6d5a1b3288e6e01b7f046f63311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1276910149,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276910149,
+    "wof:lastmodified":1537584056,
+    "wof:name":"Hodallar",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71417000000001,
+    40.34417,
+    20.71417000000001,
+    40.34417
+],
+  "geometry": {"coordinates":[20.71417000000001,40.34417],"type":"Point"}
+}

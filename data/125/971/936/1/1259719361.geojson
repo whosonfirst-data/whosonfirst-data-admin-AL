@@ -1,0 +1,79 @@
+{
+  "id": 1259719361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24056,40.77611,20.24056,40.77611",
+    "geom:latitude":40.77611,
+    "geom:longitude":20.24056,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Skenderbegas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781580,
+    "gn:latitude":40.77611,
+    "gn:longitude":20.24056,
+    "gn:modification_date":"2012-05-31",
+    "gn:name":"Sk\u00ebnderbegas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00ebnderbegasi",
+        "Shemerdhenj i Posht\u00ebm",
+        "Sh\u00ebmerdhej i Poshtme",
+        "Sh\u00ebnmerllag",
+        "Sh\u00ebmberdhej i Posht\u00ebm",
+        "Sh\u00ebmberdhenj i Posht\u00ebm",
+        "Sh\u00ebmb\u00ebrthej i Posht\u00ebm",
+        "Sk\u00ebnderbegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781580
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"48e039701ca9be57887eadf9ba682066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1259719361,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259719361,
+    "wof:lastmodified":1537584003,
+    "wof:name":"Skenderbegas",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24056,
+    40.77611,
+    20.24056,
+    40.77611
+],
+  "geometry": {"coordinates":[20.24056,40.77611],"type":"Point"}
+}

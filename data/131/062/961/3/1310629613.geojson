@@ -1,0 +1,76 @@
+{
+  "id": 1310629613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95167,40.52861,20.95167,40.52861",
+    "geom:latitude":40.52861,
+    "geom:longitude":20.95167,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Menkulas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782308,
+    "gn:latitude":40.52861,
+    "gn:longitude":20.95167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Menkulas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mengulasi",
+        "Menkulasi",
+        "Mengulas",
+        "Mengulli",
+        "Menkulas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782308,
+        "wk:page":"Menkulas"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5db7548cf337558db6274ffc9d278840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1310629613,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310629613,
+    "wof:lastmodified":1537584052,
+    "wof:name":"Menkulas",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95167,
+    40.52861,
+    20.95167,
+    40.52861
+],
+  "geometry": {"coordinates":[20.95167,40.52861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277019493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23167,40.37056,20.23167,40.37056",
+    "geom:latitude":40.37056,
+    "geom:longitude":20.23167,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Xhanaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781163,
+    "gn:latitude":40.37056,
+    "gn:longitude":20.23167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xhanaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gianai",
+        "Xhenaj",
+        "Djauani",
+        "Xhanau",
+        "Xhanaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781163
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5a3a03580fc202dd5c578c9d35cc7528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1277019493,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1277019493,
+    "wof:lastmodified":1537583976,
+    "wof:name":"Xhanaj",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23167,
+    40.37056,
+    20.23167,
+    40.37056
+],
+  "geometry": {"coordinates":[20.23167,40.37056],"type":"Point"}
+}

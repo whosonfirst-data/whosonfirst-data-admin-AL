@@ -1,0 +1,76 @@
+{
+  "id": 1243488233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52833,41.40972,20.52833,41.40972",
+    "geom:latitude":41.40972,
+    "geom:longitude":20.52833,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Trebisht-Bala",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781381,
+    "gn:latitude":41.40972,
+    "gn:longitude":20.52833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Trebisht-Bala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trebisht-Ball\u00eb",
+        "Trebisht-Balaj",
+        "Trebisht i Eper",
+        "Trebisht-Balla",
+        "Trebisht-Bal\u00eb",
+        "Trebisht-Bala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781381
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c7d32096cb189822179c6a45863a7270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1243488233,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1243488233,
+    "wof:lastmodified":1537583991,
+    "wof:name":"Trebisht-Bala",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52833,
+    41.40972,
+    20.52833,
+    41.40972
+],
+  "geometry": {"coordinates":[20.52833,41.40972],"type":"Point"}
+}

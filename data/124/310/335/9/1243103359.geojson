@@ -1,0 +1,73 @@
+{
+  "id": 1243103359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49833,41.44528,20.49833,41.44528",
+    "geom:latitude":41.44528,
+    "geom:longitude":20.49833,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Tucep",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781348,
+    "gn:latitude":41.44528,
+    "gn:longitude":20.49833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tu\u00e7ep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumbla",
+        "Tu\u00e7epi",
+        "Tu\u00e7ep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781348
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"dc48a8bbf274bf4ac81cb559151f7448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1243103359,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1243103359,
+    "wof:lastmodified":1537583989,
+    "wof:name":"Tucep",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49833,
+    41.44528,
+    20.49833,
+    41.44528
+],
+  "geometry": {"coordinates":[20.49833,41.44528],"type":"Point"}
+}

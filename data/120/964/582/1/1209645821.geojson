@@ -1,0 +1,70 @@
+{
+  "id": 1209645821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48444,42.01944,19.48444,42.01944",
+    "geom:latitude":42.01944,
+    "geom:longitude":19.48444,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Berdice e Poshtme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186080,
+    "gn:latitude":42.01944,
+    "gn:longitude":19.48444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"B\u00ebrdic\u00eb e Poshtme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00ebrdic\u00eb e Posht\u00ebme",
+        "Brdica po\u0161ter",
+        "Berdica Poshtme",
+        "Berdic\u00eb e-poshterme",
+        "B\u00ebrdica posht\u00ebrme",
+        "Berdica e Posht\u00ebme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186080
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c2db0c8eec18f579e31a5e5f275d7f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645821
+        }
+    ],
+    "wof:id":1209645821,
+    "wof:lastmodified":1537584314,
+    "wof:name":"Berdice e Poshtme",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48444,
+    42.01944,
+    19.48444,
+    42.01944
+],
+  "geometry": {"coordinates":[19.48444,42.01944],"type":"Point"}
+}

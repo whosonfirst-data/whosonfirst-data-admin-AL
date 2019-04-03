@@ -1,0 +1,73 @@
+{
+  "id": 1292935291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91972,40.63444,20.91972,40.63444",
+    "geom:latitude":40.63444,
+    "geom:longitude":20.91972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Baban",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783718,
+    "gn:latitude":40.63444,
+    "gn:longitude":20.91972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babani",
+        "Baban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783718,
+        "wk:page":"Baban%2C_Albania"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ac70775405f5e9d740abba3380a9e7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1292935291,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1292935291,
+    "wof:lastmodified":1537584139,
+    "wof:name":"Baban",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91972,
+    40.63444000000001,
+    20.91972,
+    40.63444000000001
+],
+  "geometry": {"coordinates":[20.91972,40.63444000000001],"type":"Point"}
+}

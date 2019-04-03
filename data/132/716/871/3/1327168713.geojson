@@ -1,0 +1,78 @@
+{
+  "id": 1327168713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51694,41.11139,19.51694,41.11139",
+    "geom:latitude":41.11139,
+    "geom:longitude":19.51694,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Sterbeg",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183965,
+    "gn:latitude":41.11139,
+    "gn:longitude":19.51694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"St\u00ebrbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bregas",
+        "St\u00ebrbegaj",
+        "St\u00ebrbegej",
+        "St\u00ebrberg",
+        "Sterbegu",
+        "Strbegaj",
+        "St\u00ebrbeg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183965,
+        "wk:page":"St%C3%ABrbeg"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"257eea7a5eea6575cf95643a952e2328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1327168713,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1327168713,
+    "wof:lastmodified":1537584176,
+    "wof:name":"Sterbeg",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51694,
+    41.11139,
+    19.51694,
+    41.11139
+],
+  "geometry": {"coordinates":[19.51694,41.11139],"type":"Point"}
+}

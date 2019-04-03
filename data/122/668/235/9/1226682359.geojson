@@ -1,0 +1,72 @@
+{
+  "id": 1226682359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15611,41.93806,20.15611,41.93806",
+    "geom:latitude":41.93806,
+    "geom:longitude":20.15611,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Shtalth",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864692,
+    "gn:latitude":41.93806,
+    "gn:longitude":20.15611,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shtalth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shtalthi",
+        "Shtalth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864692
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"08623c00529f3a283403a47874693e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1226682359,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1226682359,
+    "wof:lastmodified":1537584144,
+    "wof:name":"Shtalth",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15611,
+    41.93806,
+    20.15611,
+    41.93806
+],
+  "geometry": {"coordinates":[20.15611,41.93806],"type":"Point"}
+}

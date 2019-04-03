@@ -1,0 +1,86 @@
+{
+  "id": 1260013705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79694,40.815,20.79694,40.815",
+    "geom:latitude":40.815,
+    "geom:longitude":20.79694,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Podgorie",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781993,
+    "gn:latitude":40.815,
+    "gn:longitude":20.79694,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Podgorie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0442\u043a\u043e\u0436\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0458\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podgori",
+        "Podgorije",
+        "Podgorja",
+        "Podgorje",
+        "Potgorija",
+        "Podgoria",
+        "Podgorija",
+        "Potgorie",
+        "Podgor",
+        "Podgorie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781993
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"324da7c9812ffc1495f455d30e3d1907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1260013705,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260013705,
+    "wof:lastmodified":1537584032,
+    "wof:name":"Podgorie",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79694,
+    40.815,
+    20.79694,
+    40.815
+],
+  "geometry": {"coordinates":[20.79694,40.815],"type":"Point"}
+}

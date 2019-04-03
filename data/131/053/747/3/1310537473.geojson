@@ -1,0 +1,77 @@
+{
+  "id": 1310537473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02417,41.55306,20.02417,41.55306",
+    "geom:latitude":41.55306,
+    "geom:longitude":20.02417,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Rripe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781782,
+    "gn:latitude":41.55306,
+    "gn:longitude":20.02417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rrip\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rip\u00eb",
+        "Rripa",
+        "Rryp\u00eb Qend\u00ebr",
+        "Rrypa",
+        "Rryp\u00eb",
+        "Rrip\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781782,
+        "wk:page":"Rrip%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f0d177b5e3a8db1736ac1e36ac99f0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1310537473,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1310537473,
+    "wof:lastmodified":1537584016,
+    "wof:name":"Rripe",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02417,
+    41.55306,
+    20.02417,
+    41.55306
+],
+  "geometry": {"coordinates":[20.02417,41.55306],"type":"Point"}
+}

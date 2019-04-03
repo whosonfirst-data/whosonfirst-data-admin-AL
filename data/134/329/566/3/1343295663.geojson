@@ -1,0 +1,72 @@
+{
+  "id": 1343295663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10944,41.94278,20.10944,41.94278",
+    "geom:latitude":41.94278,
+    "geom:longitude":20.10944,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Solloman",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864693,
+    "gn:latitude":41.94278,
+    "gn:longitude":20.10944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Solloman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sollomani",
+        "Solloman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864693
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a9cbfd5772e5be748e5e3a49cd16e07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1343295663,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1343295663,
+    "wof:lastmodified":1537584144,
+    "wof:name":"Solloman",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10944,
+    41.94278,
+    20.10944,
+    41.94278
+],
+  "geometry": {"coordinates":[20.10944,41.94278],"type":"Point"}
+}

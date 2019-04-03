@@ -1,0 +1,77 @@
+{
+  "id": 1210051025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62306,41.09,19.62306,41.09",
+    "geom:latitude":41.09,
+    "geom:longitude":19.62306,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Gosa e Madhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185498,
+    "gn:latitude":41.09,
+    "gn:longitude":19.62306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gosa e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gos\u00eb e Madhe",
+        "Gos\u00eb",
+        "Goz\u00eb",
+        "Gosa",
+        "Goz",
+        "Gosa e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185498,
+        "wk:page":"Gos%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3e1555716e7a92cc4b0a7e9afdeaf154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1210051025,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1210051025,
+    "wof:lastmodified":1537584274,
+    "wof:name":"Gosa e Madhe",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62306,
+    41.09,
+    19.62306,
+    41.09
+],
+  "geometry": {"coordinates":[19.62306,41.09],"type":"Point"}
+}

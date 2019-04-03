@@ -1,0 +1,75 @@
+{
+  "id": 1243397019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58528,41.07833,20.58528,41.07833",
+    "geom:latitude":41.07833,
+    "geom:longitude":20.58528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kostricani",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864993,
+    "gn:latitude":41.07833,
+    "gn:longitude":20.58528,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Kostri\u00e7ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kostri\u00e7an",
+        "Kostri\u00e7ani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864993
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"df74c48478b751fd5684544b483a6dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1243397019,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1243397019,
+    "wof:lastmodified":1537584146,
+    "wof:name":"Kostricani",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58528,
+    41.07833,
+    20.58528,
+    41.07833
+],
+  "geometry": {"coordinates":[20.58528,41.07833],"type":"Point"}
+}

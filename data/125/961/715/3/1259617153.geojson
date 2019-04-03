@@ -1,0 +1,76 @@
+{
+  "id": 1259617153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55306,40.91333,20.55306,40.91333",
+    "geom:latitude":40.91333,
+    "geom:longitude":20.55306,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Trebinje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781382,
+    "gn:latitude":40.91333,
+    "gn:longitude":20.55306,
+    "gn:modification_date":"2017-12-25",
+    "gn:name":"Trebinj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u0438\u045a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Trebinja",
+        "Trebinj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781382
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"409efa69c1b6d4846f0953c63f844ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1259617153,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259617153,
+    "wof:lastmodified":1537583991,
+    "wof:name":"Trebinje",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55306,
+    40.91333,
+    20.55306,
+    40.91333
+],
+  "geometry": {"coordinates":[20.55306,40.91333],"type":"Point"}
+}

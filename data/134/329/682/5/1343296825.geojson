@@ -1,0 +1,78 @@
+{
+  "id": 1343296825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62694,40.82528,20.62694,40.82528",
+    "geom:latitude":40.82528,
+    "geom:longitude":20.62694,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Prenisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781941,
+    "gn:latitude":40.82528,
+    "gn:longitude":20.62694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Prenisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u043d\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pronishti",
+        "Prenishta",
+        "Prenisht\u00eb",
+        "Prenishti",
+        "Prenisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781941
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"91404b667455f377d9ac6127068f6140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1343296825,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343296825,
+    "wof:lastmodified":1537584028,
+    "wof:name":"Prenisht",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62694,
+    40.82528,
+    20.62694,
+    40.82528
+],
+  "geometry": {"coordinates":[20.62694,40.82528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209846757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.49583,41.97278,19.49583,41.97278",
+    "geom:latitude":41.97278,
+    "geom:longitude":19.49583,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Plepan",
+    "gn:country_code":"AL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184438,
+    "gn:latitude":41.97278,
+    "gn:longitude":19.49583,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Plepan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184438
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"221f63e306f7552966d98846e5545890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1209846757,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1209846757,
+    "wof:lastmodified":1536390300,
+    "wof:name":"Plepan",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.49583,
+    41.97278,
+    19.49583,
+    41.97278
+],
+  "geometry": {"coordinates":[19.49583,41.97278],"type":"Point"}
+}

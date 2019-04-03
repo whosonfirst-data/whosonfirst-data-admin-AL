@@ -1,0 +1,80 @@
+{
+  "id": 1326863685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42306,41.00528,20.42306,41.00528",
+    "geom:latitude":41.00528,
+    "geom:longitude":20.42306,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Stravaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781506,
+    "gn:latitude":41.00528,
+    "gn:longitude":20.42306,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Stravaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lira",
+        "Stravan",
+        "Stovanit",
+        "Strevan",
+        "Stravaji",
+        "Stravaje",
+        "Stravani",
+        "Stravaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781506,
+        "wk:page":"Stravaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb4aa895c32d570f2602a4891ee78c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1326863685,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1326863685,
+    "wof:lastmodified":1537583998,
+    "wof:name":"Stravaj",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42306,
+    41.00528,
+    20.42306,
+    41.00528
+],
+  "geometry": {"coordinates":[20.42306,41.00528],"type":"Point"}
+}

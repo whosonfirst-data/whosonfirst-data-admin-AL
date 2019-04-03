@@ -1,0 +1,73 @@
+{
+  "id": 1327165455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13278,40.96,20.13278,40.96",
+    "geom:latitude":40.96,
+    "geom:longitude":20.13278,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kacivel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782930,
+    "gn:latitude":40.96,
+    "gn:longitude":20.13278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ka\u00e7ivel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u00e7ive\u00e7i",
+        "Ka\u00e7iveli",
+        "Ka\u00e7ivel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782930
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d338262fd99cbc9827b2b61ac1f7366f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1327165455,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327165455,
+    "wof:lastmodified":1537584086,
+    "wof:name":"Kacivel",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13278,
+    40.96,
+    20.13278,
+    40.96
+],
+  "geometry": {"coordinates":[20.13278,40.96],"type":"Point"}
+}

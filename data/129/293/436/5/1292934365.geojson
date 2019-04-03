@@ -1,0 +1,67 @@
+{
+  "id": 1292934365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81639,40.5775,19.81639,40.5775",
+    "geom:latitude":40.5775,
+    "geom:longitude":19.81639,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Xhaferrapaj",
+    "gn:country_code":"AL",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343999,
+    "gn:latitude":40.5775,
+    "gn:longitude":19.81639,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Xhaferrapaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343999
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fac24583101aa3c54220f6a9c6d43a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1292934365,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1292934365,
+    "wof:lastmodified":1537084488,
+    "wof:name":"Xhaferrapaj",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81639,
+    40.5775,
+    19.81639,
+    40.5775
+],
+  "geometry": {"coordinates":[19.81639,40.5775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276911951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26278,41.85722,20.26278,41.85722",
+    "geom:latitude":41.85722,
+    "geom:longitude":20.26278,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ndershene",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863483,
+    "gn:latitude":41.85722,
+    "gn:longitude":20.26278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nd\u00ebrshen\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nd\u00ebrshen",
+        "Nd\u00ebrshena",
+        "Nd\u00ebrshen\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863483
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"161673beba10bf9b717d82aa9c3124f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1276911951,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276911951,
+    "wof:lastmodified":1537584144,
+    "wof:name":"Ndershene",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26278,
+    41.85722,
+    20.26278,
+    41.85722
+],
+  "geometry": {"coordinates":[20.26278,41.85722],"type":"Point"}
+}

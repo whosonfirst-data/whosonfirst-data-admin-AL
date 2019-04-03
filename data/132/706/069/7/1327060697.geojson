@@ -1,0 +1,71 @@
+{
+  "id": 1327060697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43222,42.27639,19.43222,42.27639",
+    "geom:latitude":42.27639,
+    "geom:longitude":19.43222,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Bajze",
+    "gn:country_code":"AL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343181,
+    "gn:latitude":42.27639,
+    "gn:longitude":19.43222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bajz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343181,
+        "wk:page":"Bajz%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"14c8059f7db44319e18907592ede1fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1327060697,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1327060697,
+    "wof:lastmodified":1537584329,
+    "wof:name":"Bajze",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43222,
+    42.27639,
+    19.43222,
+    42.27639
+],
+  "geometry": {"coordinates":[19.43222,42.27639],"type":"Point"}
+}

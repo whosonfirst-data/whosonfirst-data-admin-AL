@@ -1,0 +1,74 @@
+{
+  "id": 1226677539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72806,41.11389,19.72806,41.11389",
+    "geom:latitude":41.11389,
+    "geom:longitude":19.72806,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Rostej",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184289,
+    "gn:latitude":41.11389,
+    "gn:longitude":19.72806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rostej",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berdaj",
+        "Rostanj",
+        "Rostenj",
+        "Rostej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184289
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"534b3fe92b7890c6e2a4242bc430fe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1226677539,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1226677539,
+    "wof:lastmodified":1537584197,
+    "wof:name":"Rostej",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72806,
+    41.11389000000001,
+    19.72806,
+    41.11389000000001
+],
+  "geometry": {"coordinates":[19.72806,41.11389000000001],"type":"Point"}
+}

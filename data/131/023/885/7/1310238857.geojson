@@ -1,0 +1,67 @@
+{
+  "id": 1310238857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0,41.8,20.0,41.8",
+    "geom:latitude":41.8,
+    "geom:longitude":20.0,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Malaj i Eperm",
+    "gn:country_code":"AL",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782407,
+    "gn:latitude":41.8,
+    "gn:longitude":20.0,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Malaj i Ep\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782407
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bbd05fa0b04b1d1b83ca1a874b10405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1310238857,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1310238857,
+    "wof:lastmodified":1536803990,
+    "wof:name":"Malaj i Eperm",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0,
+    41.8,
+    20.0,
+    41.8
+],
+  "geometry": {"coordinates":[20.0,41.8],"type":"Point"}
+}

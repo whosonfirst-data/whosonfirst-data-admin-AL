@@ -1,0 +1,72 @@
+{
+  "id": 1276371093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35,39.85917,20.35,39.85917",
+    "geom:latitude":39.85917,
+    "geom:longitude":20.35,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Likomil",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363300,
+    "gn:latitude":39.85917,
+    "gn:longitude":20.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Likomil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cikomil\u00eb",
+        "Likomil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363300
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c5494c7cd1193d5746bd67aee6690c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1276371093,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276371093,
+    "wof:lastmodified":1537583961,
+    "wof:name":"Likomil",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35,
+    39.85917,
+    20.35,
+    39.85917
+],
+  "geometry": {"coordinates":[20.35,39.85917],"type":"Point"}
+}

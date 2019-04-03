@@ -1,0 +1,75 @@
+{
+  "id": 1243298333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90278,40.89417,20.90278,40.89417",
+    "geom:latitude":40.89417,
+    "geom:longitude":20.90278,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gorice e Madhe",
+    "gn:country_code":"AL",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783101,
+    "gn:latitude":40.89417,
+    "gn:longitude":20.90278,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Goric\u00eb e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Goric\u00eb e Madhe",
+        "Gorica e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783101,
+        "wk:page":"Gorna_Gorica"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"315e0eb02aeddad65b7682678ee8028e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720895,
+            "locality_id":1243298333,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1243298333,
+    "wof:lastmodified":1537584099,
+    "wof:name":"Gorice e Madhe",
+    "wof:parent_id":1108720895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90278,
+    40.89417,
+    20.90278,
+    40.89417
+],
+  "geometry": {"coordinates":[20.90278,40.89417],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276263983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05889,41.81194,20.05889,41.81194",
+    "geom:latitude":41.81194,
+    "geom:longitude":20.05889,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Kthella e Eperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782672,
+    "gn:latitude":41.81194,
+    "gn:longitude":20.05889,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Kthella e Ep\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kthell\u00eb e Ep\u00ebrme",
+        "Kethella e Eper",
+        "Kthella Ep\u00ebr",
+        "Kthell\u00eb e Ep\u00ebr",
+        "Ktell\u00eb e eper",
+        "Kthell\u00eb e Sip\u00ebrme",
+        "Kthella e ep\u00ebr",
+        "Kthella e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782672
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0561bd68a2fc0cd2366ae9fa0b762061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1276263983,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1276263983,
+    "wof:lastmodified":1537584072,
+    "wof:name":"Kthella e Eperme",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05889,
+    41.81194,
+    20.05889,
+    41.81194
+],
+  "geometry": {"coordinates":[20.05889,41.81194],"type":"Point"}
+}

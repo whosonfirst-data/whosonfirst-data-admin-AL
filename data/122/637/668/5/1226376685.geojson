@@ -1,0 +1,75 @@
+{
+  "id": 1226376685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54889,42.18139,19.54889,42.18139",
+    "geom:latitude":42.18139,
+    "geom:longitude":19.54889,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Linaj-Egc-Lepurosh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184962,
+    "gn:latitude":42.18139,
+    "gn:longitude":19.54889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Linaj-Eg\u00e7-Lepurosh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljepuroshi",
+        "Lepurosh",
+        "Leporosh",
+        "Linaj-Eg\u00e7-Lepuroshi",
+        "Linaj-Eg\u00e7-Lepurosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184962
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"045c6279d8d74b4f1f4129e75def8882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1226376685,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1226376685,
+    "wof:lastmodified":1537584240,
+    "wof:name":"Linaj-Egc-Lepurosh",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54889,
+    42.18139,
+    19.54889,
+    42.18139
+],
+  "geometry": {"coordinates":[19.54889,42.18139],"type":"Point"}
+}

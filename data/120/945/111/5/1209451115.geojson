@@ -1,0 +1,71 @@
+{
+  "id": 1209451115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21083,41.96222,20.21083,41.96222",
+    "geom:latitude":41.96222,
+    "geom:longitude":20.21083,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Xhuxhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781161,
+    "gn:latitude":41.96222,
+    "gn:longitude":20.21083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xhuxh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gjugja",
+        "Xhuxha",
+        "Gjugj\u00eb",
+        "Xhuzha",
+        "Gugja",
+        "Xhuxh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781161,
+        "wk:page":"Xhuxh%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"81f1b255968b4e6879009288d78ba37a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209451115
+        }
+    ],
+    "wof:id":1209451115,
+    "wof:lastmodified":1537583976,
+    "wof:name":"Xhuxhe",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21083,
+    41.96222,
+    20.21083,
+    41.96222
+],
+  "geometry": {"coordinates":[20.21083,41.96222],"type":"Point"}
+}

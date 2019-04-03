@@ -1,0 +1,77 @@
+{
+  "id": 1309942499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4075,39.81806,20.4075,39.81806",
+    "geom:latitude":39.81806,
+    "geom:longitude":20.4075,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Koshovice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363317,
+    "gn:latitude":39.81806,
+    "gn:longitude":20.4075,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Koshovic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokovic",
+        "Koshovica",
+        "Kushovica",
+        "Kokovica",
+        "Kochovitsa",
+        "Kokovio",
+        "Koshovic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363317
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"69dec4663600f633ae6d870a7aedefe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1309942499,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1309942499,
+    "wof:lastmodified":1537583962,
+    "wof:name":"Koshovice",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4075,
+    39.81806,
+    20.4075,
+    39.81806
+],
+  "geometry": {"coordinates":[20.4075,39.81806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343395199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5575,41.04639,20.5575,41.04639",
+    "geom:latitude":41.04639,
+    "geom:longitude":20.5575,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Katjel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782854,
+    "gn:latitude":41.04639,
+    "gn:longitude":20.5575,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Katjel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kacel",
+        "Koljeli",
+        "Katjeli",
+        "Katjel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782854
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bec5877729fb69f6e5ee2bf43f3d7def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1343395199,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343395199,
+    "wof:lastmodified":1537584082,
+    "wof:name":"Katjel",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5575,
+    41.04639,
+    20.5575,
+    41.04639
+],
+  "geometry": {"coordinates":[20.5575,41.04639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243485141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00639,41.25722,20.00639,41.25722",
+    "geom:latitude":41.25722,
+    "geom:longitude":20.00639,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Fravesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783227,
+    "gn:latitude":41.25722,
+    "gn:longitude":20.00639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fravesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fraveshi",
+        "Fravesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783227,
+        "wk:page":"Fravesh"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"25353eeb0626464a2cc788ad2f90252c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1243485141,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1243485141,
+    "wof:lastmodified":1537584108,
+    "wof:name":"Fravesh",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00639,
+    41.25722,
+    20.00639,
+    41.25722
+],
+  "geometry": {"coordinates":[20.00639,41.25722],"type":"Point"}
+}

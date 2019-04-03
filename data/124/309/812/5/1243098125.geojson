@@ -1,0 +1,76 @@
+{
+  "id": 1243098125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34028,40.02917,20.34028,40.02917",
+    "geom:latitude":40.02917,
+    "geom:longitude":20.34028,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Catiste",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783457,
+    "gn:latitude":40.02917,
+    "gn:longitude":20.34028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7atist\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7atist\u00ebr",
+        "Catisht\u00eb",
+        "\u00c7atista",
+        "\u00c7atist",
+        "\u00c7atistra",
+        "\u00c7atist\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783457
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"12771665e76b23ee78d7c56b84f30528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1243098125,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243098125,
+    "wof:lastmodified":1537584123,
+    "wof:name":"Catiste",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34028,
+    40.02917,
+    20.34028,
+    40.02917
+],
+  "geometry": {"coordinates":[20.34028,40.02917],"type":"Point"}
+}

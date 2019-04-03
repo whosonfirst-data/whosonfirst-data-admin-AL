@@ -1,0 +1,74 @@
+{
+  "id": 1242613455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37611,41.81167,20.37611,41.81167",
+    "geom:latitude":41.81167,
+    "geom:longitude":20.37611,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Zall-Kalis",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781143,
+    "gn:latitude":41.81167,
+    "gn:longitude":20.37611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zall-Kalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalli i Kalisit",
+        "Zall-Kalias",
+        "Zall-Kalisi",
+        "Zall-Kalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781143
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb99305d9f87fc6b588d1815152e79b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1242613455,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1242613455,
+    "wof:lastmodified":1537583974,
+    "wof:name":"Zall-Kalis",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37611,
+    41.81167,
+    20.37611,
+    41.81167
+],
+  "geometry": {"coordinates":[20.37611,41.81167],"type":"Point"}
+}

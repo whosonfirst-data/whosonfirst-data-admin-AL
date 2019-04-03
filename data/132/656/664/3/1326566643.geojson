@@ -1,0 +1,74 @@
+{
+  "id": 1326566643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03472,40.82917,20.03472,40.82917",
+    "geom:latitude":40.82917,
+    "geom:longitude":20.03472,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sarasel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781762,
+    "gn:latitude":40.82917,
+    "gn:longitude":20.03472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sarasel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seraseli",
+        "Saraseli",
+        "Ulza",
+        "Sarasel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781762
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bdb3109929064575e4e442c624253005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1326566643,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1326566643,
+    "wof:lastmodified":1537584015,
+    "wof:name":"Sarasel",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03472,
+    40.82917,
+    20.03472,
+    40.82917
+],
+  "geometry": {"coordinates":[20.03472,40.82917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209446257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7425,40.67361,19.7425,40.67361",
+    "geom:latitude":40.67361,
+    "geom:longitude":19.7425,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Drenie",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185770,
+    "gn:latitude":40.67361,
+    "gn:longitude":19.7425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Drenie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndrenic",
+        "Drenova",
+        "Drenica",
+        "Drenieja",
+        "Drenje",
+        "Drenia",
+        "Drenija",
+        "Drenj\u00ebs",
+        "Drenie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185770
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5c2e3a7ae7f5d00ed7ce31e503eff299",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209446257
+        }
+    ],
+    "wof:id":1209446257,
+    "wof:lastmodified":1537584292,
+    "wof:name":"Drenie",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7425,
+    40.67361,
+    19.7425,
+    40.67361
+],
+  "geometry": {"coordinates":[19.7425,40.67361],"type":"Point"}
+}

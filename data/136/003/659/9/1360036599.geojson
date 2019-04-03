@@ -1,0 +1,85 @@
+{
+  "id": 1360036599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35083,40.55278,20.35083,40.55278",
+    "geom:latitude":40.55278,
+    "geom:longitude":20.35083,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Turbehove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781354,
+    "gn:latitude":40.55278,
+    "gn:longitude":20.35083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Turbehov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turbohova",
+        "Turbohove",
+        "Terbova",
+        "Trbuhova",
+        "Trubhova",
+        "Terbehov\u00eb",
+        "Trebuhova",
+        "Trubehova",
+        "Trubehov\u00eb",
+        "Turb\u00ebhova",
+        "T\u00ebrbov\u00eb",
+        "Terbehova",
+        "Tr\u00ebbov\u00eb",
+        "Turbehov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781354,
+        "wk:page":"Turbohov%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1374312c4633ea25d4bc22364da82603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1360036599,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1360036599,
+    "wof:lastmodified":1537583989,
+    "wof:name":"Turbehove",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35083,
+    40.55278,
+    20.35083,
+    40.55278
+],
+  "geometry": {"coordinates":[20.35083,40.55278],"type":"Point"}
+}

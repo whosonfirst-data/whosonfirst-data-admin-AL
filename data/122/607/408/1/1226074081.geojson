@@ -1,0 +1,72 @@
+{
+  "id": 1226074081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71028,41.1275,19.71028,41.1275",
+    "geom:latitude":41.1275,
+    "geom:longitude":19.71028,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Hasmallije",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185396,
+    "gn:latitude":41.1275,
+    "gn:longitude":19.71028,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Hasmallij\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rrushasi",
+        "Hazmalje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185396
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6609002641a48820983ee88f79faf146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1226074081,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1226074081,
+    "wof:lastmodified":1537584267,
+    "wof:name":"Hasmallije",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71028,
+    41.1275,
+    19.71028,
+    41.1275
+],
+  "geometry": {"coordinates":[19.71028,41.1275],"type":"Point"}
+}

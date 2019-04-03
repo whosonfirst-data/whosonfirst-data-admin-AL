@@ -1,0 +1,67 @@
+{
+  "id": 1293421281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53667,40.84583,19.53667,40.84583",
+    "geom:latitude":40.84583,
+    "geom:longitude":19.53667,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Semer",
+    "gn:country_code":"AL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343941,
+    "gn:latitude":40.84583,
+    "gn:longitude":19.53667,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Semer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343941
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a8fccd89e1136f6c5960475885a7c8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1293421281,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1293421281,
+    "wof:lastmodified":1536881869,
+    "wof:name":"Semer",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53667,
+    40.84583,
+    19.53667,
+    40.84583
+],
+  "geometry": {"coordinates":[19.53667,40.84583],"type":"Point"}
+}

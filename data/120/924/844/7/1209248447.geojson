@@ -1,0 +1,67 @@
+{
+  "id": 1209248447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.485,40.70472,20.485,40.70472",
+    "geom:latitude":40.70472,
+    "geom:longitude":20.485,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kucake",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783000,
+    "gn:latitude":40.70472,
+    "gn:longitude":20.485,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kucak\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurshqip\u00eb",
+        "Kucaka",
+        "Kucak\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783000
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"168423aa27f5c9271ab32b0004265f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209248447
+        }
+    ],
+    "wof:id":1209248447,
+    "wof:lastmodified":1537584092,
+    "wof:name":"Kucake",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.485,
+    40.70472,
+    20.485,
+    40.70472
+],
+  "geometry": {"coordinates":[20.485,40.70472],"type":"Point"}
+}

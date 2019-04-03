@@ -1,0 +1,67 @@
+{
+  "id": 1243105835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91639,40.66361,19.91639,40.66361",
+    "geom:latitude":40.66361,
+    "geom:longitude":19.91639,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Tulaj",
+    "gn:country_code":"AL",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343991,
+    "gn:latitude":40.66361,
+    "gn:longitude":19.91639,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Tulaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343991
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2bf201125543ed0464f5b221741e531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1243105835,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1243105835,
+    "wof:lastmodified":1536799522,
+    "wof:name":"Tulaj",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91639,
+    40.66361,
+    19.91639,
+    40.66361
+],
+  "geometry": {"coordinates":[19.91639,40.66361],"type":"Point"}
+}

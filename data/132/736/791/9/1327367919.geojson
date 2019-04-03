@@ -1,0 +1,75 @@
+{
+  "id": 1327367919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08083,40.96139,20.08083,40.96139",
+    "geom:latitude":40.96139,
+    "geom:longitude":20.08083,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shushica e Vogel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781598,
+    "gn:latitude":40.96139,
+    "gn:longitude":20.08083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shushica e Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadiasi",
+        "Shush e Kacani",
+        "Shushic\u00eb e Vog\u00ebl",
+        "Shushic\u00eb e Kadiut",
+        "Shushica e Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781598
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0d6e98d746e6db74977904efb46aa225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1327367919,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327367919,
+    "wof:lastmodified":1537584004,
+    "wof:name":"Shushica e Vogel",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08083,
+    40.96139,
+    20.08083,
+    40.96139
+],
+  "geometry": {"coordinates":[20.08083,40.96139],"type":"Point"}
+}

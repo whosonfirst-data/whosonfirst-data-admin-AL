@@ -1,0 +1,77 @@
+{
+  "id": 1309856995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20806,40.48389,20.20806,40.48389",
+    "geom:latitude":40.48389,
+    "geom:longitude":20.20806,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Slatinje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781567,
+    "gn:latitude":40.48389,
+    "gn:longitude":20.20806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Slatinj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slatinja",
+        "Sllantinj\u00eb",
+        "Slatin",
+        "Sllatina",
+        "Sletinja",
+        "Slatinj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781567,
+        "wk:page":"Slatinj%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d4a34dd578e1f4e513406cc447ff2bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1309856995,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1309856995,
+    "wof:lastmodified":1537584002,
+    "wof:name":"Slatinje",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20806,
+    40.48389,
+    20.20806,
+    40.48389
+],
+  "geometry": {"coordinates":[20.20806,40.48389],"type":"Point"}
+}

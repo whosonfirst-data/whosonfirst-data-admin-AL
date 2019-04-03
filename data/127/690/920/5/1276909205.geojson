@@ -1,0 +1,74 @@
+{
+  "id": 1276909205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66444,40.2675,20.66444,40.2675",
+    "geom:latitude":40.2675,
+    "geom:longitude":20.66444,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Leshnje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782546,
+    "gn:latitude":40.2675,
+    "gn:longitude":20.66444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Leshnj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leshnja",
+        "Lupck\u00eb",
+        "Leshnya",
+        "Leshnj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782546
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb1e19eabb3eec1c2c477a8d33ad7e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1276909205,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276909205,
+    "wof:lastmodified":1537584064,
+    "wof:name":"Leshnje",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66444,
+    40.2675,
+    20.66444,
+    40.2675
+],
+  "geometry": {"coordinates":[20.66444,40.2675],"type":"Point"}
+}

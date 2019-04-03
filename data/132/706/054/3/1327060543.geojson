@@ -1,0 +1,75 @@
+{
+  "id": 1327060543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72222,40.75167,19.72222,40.75167",
+    "geom:latitude":40.75167,
+    "geom:longitude":19.72222,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Malke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184779,
+    "gn:latitude":40.75167,
+    "gn:longitude":19.72222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malka",
+        "Matka",
+        "Matk\u00eb",
+        "Matke Mal",
+        "Malk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184779
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6d4fcfcdd79bb331109b2cf85e0414ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720897,
+            "locality_id":1327060543,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1327060543,
+    "wof:lastmodified":1537584230,
+    "wof:name":"Malke",
+    "wof:parent_id":1108720897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72222,
+    40.75167,
+    19.72222,
+    40.75167
+],
+  "geometry": {"coordinates":[19.72222,40.75167],"type":"Point"}
+}

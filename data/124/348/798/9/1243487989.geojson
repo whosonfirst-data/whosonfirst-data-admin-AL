@@ -1,0 +1,79 @@
+{
+  "id": 1243487989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27417,40.30028,20.27417,40.30028",
+    "geom:latitude":40.30028,
+    "geom:longitude":20.27417,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Pacomit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782108,
+    "gn:latitude":40.30028,
+    "gn:longitude":20.27417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pacomit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pacomita",
+        "Pazumiti",
+        "Padzomiti",
+        "Pakomiti",
+        "Pacomoti",
+        "Pocomit",
+        "Pacomiti",
+        "Pacomit\u00eb",
+        "Pacomit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782108
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cb851b29b07f53f5e7c21352a8f6d7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1243487989,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243487989,
+    "wof:lastmodified":1537584040,
+    "wof:name":"Pacomit",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27417,
+    40.30028,
+    20.27417,
+    40.30028
+],
+  "geometry": {"coordinates":[20.27417,40.30028],"type":"Point"}
+}

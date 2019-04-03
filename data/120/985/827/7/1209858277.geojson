@@ -1,0 +1,72 @@
+{
+  "id": 1209858277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08972,40.49972,20.08972,40.49972",
+    "geom:latitude":40.49972,
+    "geom:longitude":20.08972,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Goran",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865117,
+    "gn:latitude":40.49972,
+    "gn:longitude":20.08972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Goran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorani",
+        "Goran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865117
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7253b9722eb6e92bf0be13d6db510a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1209858277,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1209858277,
+    "wof:lastmodified":1537584150,
+    "wof:name":"Goran",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08972,
+    40.49972,
+    20.08972,
+    40.49972
+],
+  "geometry": {"coordinates":[20.08972,40.49972],"type":"Point"}
+}

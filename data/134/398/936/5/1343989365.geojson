@@ -1,0 +1,74 @@
+{
+  "id": 1343989365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08278,41.07444,20.08278,41.07444",
+    "geom:latitude":41.07444,
+    "geom:longitude":20.08278,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kryezjarth",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782677,
+    "gn:latitude":41.07444,
+    "gn:longitude":20.08278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kryezjarth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kryezjarrth",
+        "Kryeziarthi",
+        "Kryezjarthi",
+        "Kryezjarth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782677
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"86ac47c7394631964d8e6fdd9a7bfd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1343989365,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343989365,
+    "wof:lastmodified":1537584072,
+    "wof:name":"Kryezjarth",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08278,
+    41.07444,
+    20.08278,
+    41.07444
+],
+  "geometry": {"coordinates":[20.08278,41.07444],"type":"Point"}
+}

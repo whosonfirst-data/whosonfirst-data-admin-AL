@@ -1,0 +1,68 @@
+{
+  "id": 1209549413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.49083,41.55778,19.49083,41.55778",
+    "geom:latitude":41.55778,
+    "geom:longitude":19.49083,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shetaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184104,
+    "gn:latitude":41.55778,
+    "gn:longitude":19.49083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shetaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scetaj",
+        "\u0160etaj",
+        "Schataj",
+        "Shetaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184104
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1d867b1e18f5eb3074085bc1582f0f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209549413
+        }
+    ],
+    "wof:id":1209549413,
+    "wof:lastmodified":1537584184,
+    "wof:name":"Shetaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.49083,
+    41.55778,
+    19.49083,
+    41.55778
+],
+  "geometry": {"coordinates":[19.49083,41.55778],"type":"Point"}
+}

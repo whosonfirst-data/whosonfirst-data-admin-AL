@@ -1,0 +1,74 @@
+{
+  "id": 1260131091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03417,40.54083,20.03417,40.54083",
+    "geom:latitude":40.54083,
+    "geom:longitude":20.03417,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Paraspuar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782093,
+    "gn:latitude":40.54083,
+    "gn:longitude":20.03417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paraspuar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parasboari",
+        "Paraspuari",
+        "Paraboar",
+        "Paraspuar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782093
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5b96d44f734b50125d4cdcae5d82e5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1260131091,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1260131091,
+    "wof:lastmodified":1537584038,
+    "wof:name":"Paraspuar",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03417,
+    40.54083,
+    20.03417,
+    40.54083
+],
+  "geometry": {"coordinates":[20.03417,40.54083],"type":"Point"}
+}

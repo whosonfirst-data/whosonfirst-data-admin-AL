@@ -1,0 +1,74 @@
+{
+  "id": 1310241579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59833,40.79306,19.59833,40.79306",
+    "geom:latitude":40.79306,
+    "geom:longitude":19.59833,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Vajkan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183805,
+    "gn:latitude":40.79306,
+    "gn:longitude":19.59833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vajkan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vajkani",
+        "Vojkani",
+        "Vojkan",
+        "Vajkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183805
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"82d1be63008091f7d56cd62bf2646449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1310241579,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1310241579,
+    "wof:lastmodified":1537584169,
+    "wof:name":"Vajkan",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59833,
+    40.79306,
+    19.59833,
+    40.79306
+],
+  "geometry": {"coordinates":[19.59833,40.79306],"type":"Point"}
+}

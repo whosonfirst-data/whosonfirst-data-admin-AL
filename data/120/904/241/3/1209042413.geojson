@@ -1,0 +1,67 @@
+{
+  "id": 1209042413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92389,40.57306,20.92389,40.57306",
+    "geom:latitude":40.57306,
+    "geom:longitude":20.92389,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Cipan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783416,
+    "gn:latitude":40.57306,
+    "gn:longitude":20.92389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7ipan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ipani",
+        "\u00c7epani",
+        "\u00c7ipan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783416
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4d08a737dd3473c3128e86d2ac2f20d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209042413
+        }
+    ],
+    "wof:id":1209042413,
+    "wof:lastmodified":1537584119,
+    "wof:name":"Cipan",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92389,
+    40.57306,
+    20.92389,
+    40.57306
+],
+  "geometry": {"coordinates":[20.92389,40.57306],"type":"Point"}
+}

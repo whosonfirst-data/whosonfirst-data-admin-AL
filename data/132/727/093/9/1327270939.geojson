@@ -1,0 +1,76 @@
+{
+  "id": 1327270939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2425,40.35389,20.2425,40.35389",
+    "geom:latitude":40.35389,
+    "geom:longitude":20.2425,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Benje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783633,
+    "gn:latitude":40.35389,
+    "gn:longitude":20.2425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u00ebnj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veshnj\u00eb",
+        "Benja-Dishnica",
+        "Benje-Dishnica",
+        "Begna",
+        "B\u00ebnja",
+        "B\u00ebnj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783633
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"645a3dddcb426e3864c213d49d5bd165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1327270939,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1327270939,
+    "wof:lastmodified":1537584135,
+    "wof:name":"Benje",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2425,
+    40.35389,
+    20.2425,
+    40.35389
+],
+  "geometry": {"coordinates":[20.2425,40.35389],"type":"Point"}
+}

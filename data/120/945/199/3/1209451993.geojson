@@ -1,0 +1,68 @@
+{
+  "id": 1209451993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36806,41.71056,20.36806,41.71056",
+    "geom:latitude":41.71056,
+    "geom:longitude":20.36806,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kander",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782881,
+    "gn:latitude":41.71056,
+    "gn:longitude":20.36806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kand\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandri",
+        "Kodr\u00eb",
+        "Kanderi",
+        "Kand\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782881
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"af322d5582d73d75d959697f4cb3eed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209451993
+        }
+    ],
+    "wof:id":1209451993,
+    "wof:lastmodified":1537584083,
+    "wof:name":"Kander",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36806,
+    41.71056,
+    20.36806,
+    41.71056
+],
+  "geometry": {"coordinates":[20.36806,41.71056],"type":"Point"}
+}

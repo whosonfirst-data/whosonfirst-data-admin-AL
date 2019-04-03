@@ -1,0 +1,73 @@
+{
+  "id": 1343798933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50278,41.02,20.50278,41.02",
+    "geom:latitude":41.02,
+    "geom:longitude":20.50278,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zall-Tore",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781137,
+    "gn:latitude":41.02,
+    "gn:longitude":20.50278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zall-Tor\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zall-Torra",
+        "Zall-Torr\u00eb",
+        "Zall-Tor\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781137
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb2b7d97c8f22bbab05fbec372739929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1343798933,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343798933,
+    "wof:lastmodified":1537583973,
+    "wof:name":"Zall-Tore",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50278,
+    41.02,
+    20.50278,
+    41.02
+],
+  "geometry": {"coordinates":[20.50278,41.02],"type":"Point"}
+}

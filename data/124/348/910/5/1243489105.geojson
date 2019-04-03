@@ -1,0 +1,74 @@
+{
+  "id": 1243489105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67222,40.56528,20.67222,40.56528",
+    "geom:latitude":40.56528,
+    "geom:longitude":20.67222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Dersnik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783366,
+    "gn:latitude":40.56528,
+    "gn:longitude":20.67222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u00ebrsnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drsnik",
+        "D\u00ebrsniku",
+        "D\u00ebrsnika",
+        "D\u00ebrsnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783366
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"eae6bb165aabaaa4986ce5715a3b5fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1243489105,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1243489105,
+    "wof:lastmodified":1537584116,
+    "wof:name":"Dersnik",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67222000000001,
+    40.56528,
+    20.67222000000001,
+    40.56528
+],
+  "geometry": {"coordinates":[20.67222000000001,40.56528],"type":"Point"}
+}

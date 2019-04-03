@@ -1,0 +1,73 @@
+{
+  "id": 1242615919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80167,40.765,19.80167,40.765",
+    "geom:latitude":40.765,
+    "geom:longitude":19.80167,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Protoduar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184394,
+    "gn:latitude":40.765,
+    "gn:longitude":19.80167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Protoduar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Protoduari",
+        "Protoduar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184394,
+        "wk:page":"Protoduar"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3acfe66a0bb45b2a74d0811027aba83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":1242615919,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1242615919,
+    "wof:lastmodified":1537584205,
+    "wof:name":"Protoduar",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80167,
+    40.765,
+    19.80167,
+    40.765
+],
+  "geometry": {"coordinates":[19.80167,40.765],"type":"Point"}
+}

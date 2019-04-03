@@ -1,0 +1,72 @@
+{
+  "id": 1360221653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35417,41.63806,20.35417,41.63806",
+    "geom:latitude":41.63806,
+    "geom:longitude":20.35417,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Lishani i Poshtem",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782494,
+    "gn:latitude":41.63806,
+    "gn:longitude":20.35417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lishani i Posht\u00ebm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lishan i Posht\u00ebm",
+        "Lishani i Posht\u00ebm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782494
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"84503b98bc92b006754ee99828c9df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1360221653,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1360221653,
+    "wof:lastmodified":1537584061,
+    "wof:name":"Lishani i Poshtem",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35417,
+    41.63806,
+    20.35417,
+    41.63806
+],
+  "geometry": {"coordinates":[20.35417,41.63806],"type":"Point"}
+}

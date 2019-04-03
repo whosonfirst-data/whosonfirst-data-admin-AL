@@ -1,0 +1,72 @@
+{
+  "id": 1260110751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56028,40.45111,20.56028,40.45111",
+    "geom:latitude":40.45111,
+    "geom:longitude":20.56028,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Selenica e Pishes",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781743,
+    "gn:latitude":40.45111,
+    "gn:longitude":20.56028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Selenica e Pish\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selenic\u00eb e Pish\u00ebs",
+        "Selenica e Pish\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781743
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bfe276f5715eec4b848a3d0528a15e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1260110751,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260110751,
+    "wof:lastmodified":1537584014,
+    "wof:name":"Selenica e Pishes",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56028,
+    40.45111,
+    20.56028,
+    40.45111
+],
+  "geometry": {"coordinates":[20.56028,40.45111],"type":"Point"}
+}

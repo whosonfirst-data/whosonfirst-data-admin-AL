@@ -1,0 +1,76 @@
+{
+  "id": 1310239073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79167,40.95806,19.79167,40.95806",
+    "geom:latitude":40.95806,
+    "geom:longitude":19.79167,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kupas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185040,
+    "gn:latitude":40.95806,
+    "gn:longitude":19.79167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kupas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kupa",
+        "Balaj Kupas",
+        "Kupast",
+        "Balan Kupasi",
+        "Kupasi",
+        "Kupas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185040
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bdf5eeb186c2129ac3558cbaab302819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1310239073,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1310239073,
+    "wof:lastmodified":1537584245,
+    "wof:name":"Kupas",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79167,
+    40.95806,
+    19.79167,
+    40.95806
+],
+  "geometry": {"coordinates":[19.79167,40.95806],"type":"Point"}
+}

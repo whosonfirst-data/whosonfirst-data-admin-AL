@@ -1,0 +1,67 @@
+{
+  "id": 1344194419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.235,41.87667,20.235,41.87667",
+    "geom:latitude":41.87667,
+    "geom:longitude":20.235,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Dodaj",
+    "gn:country_code":"AL",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834075,
+    "gn:latitude":41.87667,
+    "gn:longitude":20.235,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Dodaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834075
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"46543723b6bf41ed978c3c9eec983435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1344194419,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1344194419,
+    "wof:lastmodified":1536682158,
+    "wof:name":"Dodaj",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.235,
+    41.87667,
+    20.235,
+    41.87667
+],
+  "geometry": {"coordinates":[20.235,41.87667],"type":"Point"}
+}

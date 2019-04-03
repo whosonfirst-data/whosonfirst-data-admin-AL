@@ -1,0 +1,67 @@
+{
+  "id": 1225995799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00861,40.55833,20.00861,40.55833",
+    "geom:latitude":40.55833,
+    "geom:longitude":20.00861,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Demiraj",
+    "gn:country_code":"AL",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865128,
+    "gn:latitude":40.55833,
+    "gn:longitude":20.00861,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Demiraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865128
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"eba63e9628c298a2e36873ed5ce82d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1225995799,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1225995799,
+    "wof:lastmodified":1536797443,
+    "wof:name":"Demiraj",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00861,
+    40.55833,
+    20.00861,
+    40.55833
+],
+  "geometry": {"coordinates":[20.00861,40.55833],"type":"Point"}
+}

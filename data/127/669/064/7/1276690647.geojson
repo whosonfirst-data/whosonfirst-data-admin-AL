@@ -1,0 +1,74 @@
+{
+  "id": 1276690647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41083,40.28528,20.41083,40.28528",
+    "geom:latitude":40.28528,
+    "geom:longitude":20.41083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Lupcke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782439,
+    "gn:latitude":40.28528,
+    "gn:longitude":20.41083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lupck\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lupcka",
+        "Lupoke",
+        "Llup\u00e7k\u00eb",
+        "Lupck\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782439
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e26f774ae1116afca3e0b9030fe884f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1276690647,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276690647,
+    "wof:lastmodified":1537584058,
+    "wof:name":"Lupcke",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41083,
+    40.28528,
+    20.41083,
+    40.28528
+],
+  "geometry": {"coordinates":[20.41083,40.28528],"type":"Point"}
+}

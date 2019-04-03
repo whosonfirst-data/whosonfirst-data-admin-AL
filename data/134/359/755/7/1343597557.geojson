@@ -1,0 +1,78 @@
+{
+  "id": 1343597557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51333,41.04667,20.51333,41.04667",
+    "geom:latitude":41.04667,
+    "geom:longitude":20.51333,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Rashtan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781791,
+    "gn:latitude":41.04667,
+    "gn:longitude":20.51333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rashtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Balku\u0107i",
+        "Rrashtani",
+        "Rashtani",
+        "Rrashtan",
+        "Rashtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781791
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2329b12e36014ec2eb7d0ec3dba9491a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1343597557,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343597557,
+    "wof:lastmodified":1537584017,
+    "wof:name":"Rashtan",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51333,
+    41.04667,
+    20.51333,
+    41.04667
+],
+  "geometry": {"coordinates":[20.51333,41.04667],"type":"Point"}
+}

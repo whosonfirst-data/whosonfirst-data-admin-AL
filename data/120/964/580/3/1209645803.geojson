@@ -1,0 +1,67 @@
+{
+  "id": 1209645803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82667,41.05389,19.82667,41.05389",
+    "geom:latitude":41.05389,
+    "geom:longitude":19.82667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Lazarej",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184978,
+    "gn:latitude":41.05389,
+    "gn:longitude":19.82667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lazarej",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazarenj",
+        "Ljazren",
+        "Lazarej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184978
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"be7c37e29fecad8a4728a7bac4986644",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645803
+        }
+    ],
+    "wof:id":1209645803,
+    "wof:lastmodified":1537584241,
+    "wof:name":"Lazarej",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82667,
+    41.05389,
+    19.82667,
+    41.05389
+],
+  "geometry": {"coordinates":[19.82667,41.05389],"type":"Point"}
+}

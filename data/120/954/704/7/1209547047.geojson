@@ -1,0 +1,70 @@
+{
+  "id": 1209547047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.565,40.72361,20.565,40.72361",
+    "geom:latitude":40.72361,
+    "geom:longitude":20.565,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zvarisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781066,
+    "gn:latitude":40.72361,
+    "gn:longitude":20.565,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zvarisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavarishte",
+        "Zvarisht\u00eb",
+        "Zvarishta",
+        "Zvarishti",
+        "Zbarisht",
+        "Zvarisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781066
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"274fe7db1bc4d6abc3c091d948db80f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209547047
+        }
+    ],
+    "wof:id":1209547047,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Zvarisht",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.565,
+    40.72361,
+    20.565,
+    40.72361
+],
+  "geometry": {"coordinates":[20.565,40.72361],"type":"Point"}
+}

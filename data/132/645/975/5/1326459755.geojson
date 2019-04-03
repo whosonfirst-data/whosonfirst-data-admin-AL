@@ -1,0 +1,73 @@
+{
+  "id": 1326459755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99667,40.34722,19.99667,40.34722",
+    "geom:latitude":40.34722,
+    "geom:longitude":19.99667,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kallemb",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185293,
+    "gn:latitude":40.34722,
+    "gn:longitude":19.99667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kall\u00ebmb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kall\u00ebm",
+        "Kall\u00ebmi",
+        "Kall\u00ebmb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185293
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8a70f68130e491cfbc59960631a185a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1326459755,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326459755,
+    "wof:lastmodified":1537584260,
+    "wof:name":"Kallemb",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99667,
+    40.34722,
+    19.99667,
+    40.34722
+],
+  "geometry": {"coordinates":[19.99667,40.34722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243397513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89333,40.24111,19.89333,40.24111",
+    "geom:latitude":40.24111,
+    "geom:longitude":19.89333,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Nivice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184591,
+    "gn:latitude":40.24111,
+    "gn:longitude":19.89333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nivic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malisiotes",
+        "Nivitsa Lopes",
+        "Nivica",
+        "Nivic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184591
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a64fee5fcf9eb8452bbd43369a230599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1243397513,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243397513,
+    "wof:lastmodified":1537584217,
+    "wof:name":"Nivice",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89333,
+    40.24111,
+    19.89333,
+    40.24111
+],
+  "geometry": {"coordinates":[19.89333,40.24111],"type":"Point"}
+}

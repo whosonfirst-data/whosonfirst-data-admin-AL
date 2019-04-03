@@ -1,0 +1,74 @@
+{
+  "id": 1226374001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77806,40.97861,19.77806,40.97861",
+    "geom:latitude":40.97861,
+    "geom:longitude":19.77806,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Canakaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185924,
+    "gn:latitude":40.97861,
+    "gn:longitude":19.77806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7anakaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xhanakaj",
+        "D\u017eanakaj",
+        "\u00c7anaskaj",
+        "\u00c7anakaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185924
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f1f9d0d9bee580cefa54989d142ec91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1226374001,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1226374001,
+    "wof:lastmodified":1537584303,
+    "wof:name":"Canakaj",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77806,
+    40.97861,
+    19.77806,
+    40.97861
+],
+  "geometry": {"coordinates":[19.77806,40.97861],"type":"Point"}
+}

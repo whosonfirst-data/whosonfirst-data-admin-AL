@@ -1,0 +1,73 @@
+{
+  "id": 1242714003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40667,41.01028,20.40667,41.01028",
+    "geom:latitude":41.01028,
+    "geom:longitude":20.40667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shqiponje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781633,
+    "gn:latitude":41.01028,
+    "gn:longitude":20.40667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shqiponj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shqiponja",
+        "Shqipone",
+        "Shqiponj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781633
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c87672da9bfdcb5d12fbb08a9805232a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1242714003,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242714003,
+    "wof:lastmodified":1537584007,
+    "wof:name":"Shqiponje",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40667,
+    41.01028,
+    20.40667,
+    41.01028
+],
+  "geometry": {"coordinates":[20.40667,41.01028],"type":"Point"}
+}

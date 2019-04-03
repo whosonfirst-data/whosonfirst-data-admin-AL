@@ -1,0 +1,78 @@
+{
+  "id": 1226378737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45389,41.54833,20.45389,41.54833",
+    "geom:latitude":41.54833,
+    "geom:longitude":20.45389,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Gjorica e Poshtme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783134,
+    "gn:latitude":41.54833,
+    "gn:longitude":20.45389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjorica e Poshtme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gjorica e Posht\u00ebme",
+        "Gjoric\u00eb e Poshtme",
+        "Gjoric\u00eb e Posht\u00ebr",
+        "Gjoric\u00eb e Posht\u00ebme",
+        "Gjorica e Poshtme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783134
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cf7e0471d499535ac92ba05c6fe482e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1226378737,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1226378737,
+    "wof:lastmodified":1537584101,
+    "wof:name":"Gjorica e Poshtme",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45389,
+    41.54833,
+    20.45389,
+    41.54833
+],
+  "geometry": {"coordinates":[20.45389,41.54833],"type":"Point"}
+}

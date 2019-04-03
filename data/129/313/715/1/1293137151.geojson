@@ -1,0 +1,72 @@
+{
+  "id": 1293137151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91972,41.83889,19.91972,41.83889",
+    "geom:latitude":41.83889,
+    "geom:longitude":19.91972,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Zall",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343649,
+    "gn:latitude":41.83889,
+    "gn:longitude":19.91972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalli",
+        "Zall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343649
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ea689a65e7583f3de9d90f7668a2f59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1293137151,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1293137151,
+    "wof:lastmodified":1537584330,
+    "wof:name":"Zall",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91972,
+    41.83889,
+    19.91972,
+    41.83889
+],
+  "geometry": {"coordinates":[19.91972,41.83889],"type":"Point"}
+}

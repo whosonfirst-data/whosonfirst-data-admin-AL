@@ -1,0 +1,77 @@
+{
+  "id": 1260317733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07,41.05917,20.07,41.05917",
+    "geom:latitude":41.05917,
+    "geom:longitude":20.07,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Bathes",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783661,
+    "gn:latitude":41.05917,
+    "gn:longitude":20.07,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bath\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bath\u00ebsi",
+        "Bath\u00ebsa",
+        "Bath\u00ebz\u00eb",
+        "Bath\u00ebza",
+        "Bathezi",
+        "Batheja",
+        "Bath\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783661
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7635a41bf69ae6405302cff651cba569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1260317733,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1260317733,
+    "wof:lastmodified":1537584136,
+    "wof:name":"Bathes",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07,
+    41.05917,
+    20.07,
+    41.05917
+],
+  "geometry": {"coordinates":[20.07,41.05917],"type":"Point"}
+}

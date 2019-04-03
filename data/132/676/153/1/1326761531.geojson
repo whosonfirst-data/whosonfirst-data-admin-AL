@@ -1,0 +1,73 @@
+{
+  "id": 1326761531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18139,41.93722,20.18139,41.93722",
+    "geom:latitude":41.93722,
+    "geom:longitude":20.18139,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Petoc",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864694,
+    "gn:latitude":41.93722,
+    "gn:longitude":20.18139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Petoc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peto\u00e7i",
+        "Petoq",
+        "Petoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864694
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"87532cefa7f4fbb37f9f4a3ed8893bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1326761531,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1326761531,
+    "wof:lastmodified":1537584145,
+    "wof:name":"Petoc",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18139,
+    41.93722,
+    20.18139,
+    41.93722
+],
+  "geometry": {"coordinates":[20.18139,41.93722],"type":"Point"}
+}

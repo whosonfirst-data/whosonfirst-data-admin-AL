@@ -1,0 +1,76 @@
+{
+  "id": 1226682833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39472,40.7075,20.39472,40.7075",
+    "geom:latitude":40.7075,
+    "geom:longitude":20.39472,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Nje Maj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782172,
+    "gn:latitude":40.7075,
+    "gn:longitude":20.39472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nj\u00eb Maj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "1 Maji",
+        "Moglica",
+        "Moglic\u00eb",
+        "Nj\u00eb Maji",
+        "Nj\u00eb Maj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782172,
+        "wk:page":"Moglic%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6c99c640f1bba3e1517286e665fcd253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1226682833,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226682833,
+    "wof:lastmodified":1537584043,
+    "wof:name":"Nje Maj",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39472,
+    40.7075,
+    20.39472,
+    40.7075
+],
+  "geometry": {"coordinates":[20.39472,40.7075],"type":"Point"}
+}

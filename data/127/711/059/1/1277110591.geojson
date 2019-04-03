@@ -1,0 +1,77 @@
+{
+  "id": 1277110591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55917,41.97694,19.55917,41.97694",
+    "geom:latitude":41.97694,
+    "geom:longitude":19.55917,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kulleze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185047,
+    "gn:latitude":41.97694,
+    "gn:longitude":19.55917,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kull\u00ebz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulzi",
+        "Kullzh",
+        "Kullesh",
+        "Kulsi",
+        "Kull\u00ebzi",
+        "Kullzi",
+        "Kul\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185047
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"92756d7e3583056974f68b1602333a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720909,
+            "locality_id":1277110591,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1277110591,
+    "wof:lastmodified":1537584245,
+    "wof:name":"Kulleze",
+    "wof:parent_id":1108720909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55917,
+    41.97694,
+    19.55917,
+    41.97694
+],
+  "geometry": {"coordinates":[19.55917,41.97694],"type":"Point"}
+}

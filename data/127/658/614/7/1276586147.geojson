@@ -1,0 +1,78 @@
+{
+  "id": 1276586147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62,41.65028,19.62,41.65028",
+    "geom:latitude":41.65028,
+    "geom:longitude":19.62,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Fushekuqe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185637,
+    "gn:latitude":41.65028,
+    "gn:longitude":19.62,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Fush\u00ebkuqe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fush\u00eb-Kuqja",
+        "Fush\u00ebkuqeja",
+        "Fush-Kuqe",
+        "Fusha e Kuqe",
+        "Fusha e Kuge",
+        "Fush\u00ebkuqe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185637,
+        "wk:page":"Fush%C3%AB_Kuqe"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d24626cc5b7cbe5b86f13e80a0a0e11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1276586147,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1276586147,
+    "wof:lastmodified":1537584284,
+    "wof:name":"Fushekuqe",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62,
+    41.65028,
+    19.62,
+    41.65028
+],
+  "geometry": {"coordinates":[19.62,41.65028],"type":"Point"}
+}

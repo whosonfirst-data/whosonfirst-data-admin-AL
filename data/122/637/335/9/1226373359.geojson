@@ -1,0 +1,77 @@
+{
+  "id": 1226373359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61833,41.09611,19.61833,41.09611",
+    "geom:latitude":41.09611,
+    "geom:longitude":19.61833,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kercukaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185189,
+    "gn:latitude":41.09611,
+    "gn:longitude":19.61833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebr\u00e7ukaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korqekej",
+        "Korqukej",
+        "K\u00ebr\u00e7ukje",
+        "Kor\u0107ukej",
+        "Ker\u00e7ukja",
+        "K\u00ebr\u00e7ukaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185189,
+        "wk:page":"K%C3%ABr%C3%A7ukaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b1e25f8b225f6866956b1145ccf1eade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1226373359,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1226373359,
+    "wof:lastmodified":1537584254,
+    "wof:name":"Kercukaj",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61833,
+    41.09611,
+    19.61833,
+    41.09611
+],
+  "geometry": {"coordinates":[19.61833,41.09611],"type":"Point"}
+}

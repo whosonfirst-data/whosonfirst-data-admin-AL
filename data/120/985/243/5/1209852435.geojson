@@ -1,0 +1,76 @@
+{
+  "id": 1209852435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49917,40.70306,20.49917,40.70306",
+    "geom:latitude":40.70306,
+    "geom:longitude":20.49917,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gurshqipe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781968,
+    "gn:latitude":40.70306,
+    "gn:longitude":20.49917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gurshqipe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pop\u00e7ishti",
+        "Pop\u00e7isht\u00eb",
+        "Pop\u00e7ishtj",
+        "Prop\u00e7ishti",
+        "Pop\u00e7isht",
+        "Gurshqipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781968
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3e71d3015815805f3c402eca69b31441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1209852435,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1209852435,
+    "wof:lastmodified":1537584030,
+    "wof:name":"Gurshqipe",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49917,
+    40.70306,
+    20.49917,
+    40.70306
+],
+  "geometry": {"coordinates":[20.49917,40.70306],"type":"Point"}
+}

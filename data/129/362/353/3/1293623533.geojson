@@ -1,0 +1,76 @@
+{
+  "id": 1293623533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57222,40.73639,19.57222,40.73639",
+    "geom:latitude":40.73639,
+    "geom:longitude":19.57222,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sheqi i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184117,
+    "gn:latitude":40.73639,
+    "gn:longitude":19.57222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sheqi i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheq i Math",
+        "Sheq i Madh",
+        "Sheqi i Madh\u00eb",
+        "\u0160eg i Mal",
+        "Sheqi i Math",
+        "Sheqi i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184117
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e509ef618c200c8fac5fe07bc77b92c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1293623533,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1293623533,
+    "wof:lastmodified":1537584185,
+    "wof:name":"Sheqi i Madh",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57222,
+    40.73639,
+    19.57222,
+    40.73639
+],
+  "geometry": {"coordinates":[19.57222,40.73639],"type":"Point"}
+}

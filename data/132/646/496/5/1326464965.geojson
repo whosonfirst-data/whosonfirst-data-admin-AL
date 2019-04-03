@@ -1,0 +1,72 @@
+{
+  "id": 1326464965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32444,42.07139,20.32444,42.07139",
+    "geom:latitude":42.07139,
+    "geom:longitude":20.32444,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Fusha e Dukagjinit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829563,
+    "gn:latitude":42.07139,
+    "gn:longitude":20.32444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fusha e Dukagjinit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fusha Dukagjin",
+        "Fusha e Dukagjinit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829563
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bbeb1363a61809c05fc0bbff87b6d7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1326464965,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1326464965,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Fusha e Dukagjinit",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32444,
+    42.07139,
+    20.32444,
+    42.07139
+],
+  "geometry": {"coordinates":[20.32444,42.07139],"type":"Point"}
+}

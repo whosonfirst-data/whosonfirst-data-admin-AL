@@ -1,0 +1,75 @@
+{
+  "id": 1243394279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89667,41.77611,19.89667,41.77611",
+    "geom:latitude":41.77611,
+    "geom:longitude":19.89667,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Koder-Rreshen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185161,
+    "gn:latitude":41.77611,
+    "gn:longitude":19.89667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kod\u00ebr-Rr\u00ebshen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kod\u00ebr R\u00ebsheni",
+        "Kod\u00ebre Rreshenit",
+        "Kod\u00ebr-R\u00ebshen",
+        "Kod\u00ebr-Rr\u00ebsheni",
+        "Kod\u00ebr-Rr\u00ebshen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185161
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5c4b1820c9cd9c619791dbb195789750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1243394279,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1243394279,
+    "wof:lastmodified":1537584253,
+    "wof:name":"Koder-Rreshen",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89667,
+    41.77611,
+    19.89667,
+    41.77611
+],
+  "geometry": {"coordinates":[19.89667,41.77611],"type":"Point"}
+}

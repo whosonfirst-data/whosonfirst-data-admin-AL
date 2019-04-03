@@ -1,0 +1,73 @@
+{
+  "id": 1243001793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91389,40.64889,20.91389,40.64889",
+    "geom:latitude":40.64889,
+    "geom:longitude":20.91389,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ecmenik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783266,
+    "gn:latitude":40.64889,
+    "gn:longitude":20.91389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"E\u00e7menik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e7menik",
+        "E\u00e7meniku",
+        "E\u00e7menik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783266
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bd102615de8919c2d99b20bf14afdaa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1243001793,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1243001793,
+    "wof:lastmodified":1537584110,
+    "wof:name":"Ecmenik",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91389,
+    40.64889,
+    20.91389,
+    40.64889
+],
+  "geometry": {"coordinates":[20.91389,40.64889],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1326664645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32361,41.28917,20.32361,41.28917",
+    "geom:latitude":41.28917,
+    "geom:longitude":20.32361,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Lunik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782443,
+    "gn:latitude":41.28917,
+    "gn:longitude":20.32361,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Lunik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Luniku"
+    ],
+    "name:und_x_variant":[
+        "Lumnik",
+        "Lunik\u00eb",
+        "Lunik",
+        "Ljumnik",
+        "Luniku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782443,
+        "wk:page":"Lunik%2C_Albania"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"deb15e3d9be2d0947651fc6865b144d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1326664645,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1326664645,
+    "wof:lastmodified":1537584058,
+    "wof:name":"Lunik",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32361,
+    41.28917,
+    20.32361,
+    41.28917
+],
+  "geometry": {"coordinates":[20.32361,41.28917],"type":"Point"}
+}

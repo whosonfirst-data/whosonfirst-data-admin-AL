@@ -1,0 +1,73 @@
+{
+  "id": 1327168225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0,41.86139,20.0,41.86139",
+    "geom:latitude":41.86139,
+    "geom:longitude":20.0,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Blinisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783590,
+    "gn:latitude":41.86139,
+    "gn:longitude":20.0,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Blinisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blinishti",
+        "Blinisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783590
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a24ace3017ed114ced5eb7ffec7497f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1327168225,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1327168225,
+    "wof:lastmodified":1537584132,
+    "wof:name":"Blinisht",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0,
+    41.86139,
+    20.0,
+    41.86139
+],
+  "geometry": {"coordinates":[20.0,41.86139],"type":"Point"}
+}

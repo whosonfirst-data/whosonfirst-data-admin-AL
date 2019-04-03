@@ -1,0 +1,79 @@
+{
+  "id": 1293913801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77194,41.95417,19.77194,41.95417",
+    "geom:latitude":41.95417,
+    "geom:longitude":19.77194,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kaftalle",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185317,
+    "gn:latitude":41.95417,
+    "gn:longitude":19.77194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaftall\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korthpula Kafta",
+        "Kaftali",
+        "Korthpule-Kaftall",
+        "Kaftall",
+        "Korthpul\u00eb-Kaftal",
+        "Kaftalli",
+        "Kattal",
+        "Kaftalla",
+        "Kaftall\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185317
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"43fc69bacdcbec3e45aee81c2a3b4f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1293913801,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293913801,
+    "wof:lastmodified":1537584262,
+    "wof:name":"Kaftalle",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77194,
+    41.95417,
+    19.77194,
+    41.95417
+],
+  "geometry": {"coordinates":[19.77194,41.95417],"type":"Point"}
+}

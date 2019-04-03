@@ -1,0 +1,78 @@
+{
+  "id": 1310048193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26444,40.67333,20.26444,40.67333",
+    "geom:latitude":40.67333,
+    "geom:longitude":20.26444,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Cerice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783442,
+    "gn:latitude":40.67333,
+    "gn:longitude":20.26444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7eric\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qerric\u00eb",
+        "Bazar i Tomorric\u00ebs",
+        "Zriz",
+        "\u00c7erica",
+        "G\u00ebrica",
+        "\u00c7\u00ebrric\u00eb",
+        "\u00c7eric\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783442,
+        "wk:page":"Ceric%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4e05253463193b7bc91b9cfe05587560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1310048193,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310048193,
+    "wof:lastmodified":1537584121,
+    "wof:name":"Cerice",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26444,
+    40.67333,
+    20.26444,
+    40.67333
+],
+  "geometry": {"coordinates":[20.26444,40.67333],"type":"Point"}
+}

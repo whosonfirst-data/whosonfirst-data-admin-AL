@@ -1,0 +1,119 @@
+{
+  "id": 421202103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.724578,41.2953485,19.724578,41.2953485",
+    "geom:latitude":41.295349,
+    "geom:longitude":19.724578,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Komuna Vaqarr"
+    ],
+    "name:dut_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:eng_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0642\u0627\u0631\u060c \u0622\u0644\u0628\u0627\u0646\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:ita_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:may_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:msa_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0642\u0627\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:sco_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:sqi_x_preferred":[
+        "Nj\u00ebsia administrative Vaqarr"
+    ],
+    "name:vie_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:war_x_preferred":[
+        "Vaqarr"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Vaqar",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Tiran\u00eb",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":219338,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":472262,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472262,
+        "qs:id":219338,
+        "wd:id":"Q2542328"
+    },
+    "wof:country":"AL",
+    "wof:created":1459010105,
+    "wof:geomhash":"bd91f458cb642de953b5edf1c8684f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":421202103,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":421202103,
+    "wof:lastmodified":1527716203,
+    "wof:name":"Vaqar",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.724578,
+    41.2953485,
+    19.724578,
+    41.2953485
+],
+  "geometry": {"coordinates":[19.724578,41.2953485],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209249743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19528,40.86056,20.19528,40.86056",
+    "geom:latitude":40.86056,
+    "geom:longitude":20.19528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kocaj",
+    "gn:country_code":"AL",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782801,
+    "gn:latitude":40.86056,
+    "gn:longitude":20.19528,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Ko\u00e7aj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782801
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9aa3f6bcc81fc82c442e70f9a0cdd937",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209249743
+        }
+    ],
+    "wof:id":1209249743,
+    "wof:lastmodified":1536293043,
+    "wof:name":"Kocaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19528,
+    40.86056,
+    20.19528,
+    40.86056
+],
+  "geometry": {"coordinates":[20.19528,40.86056],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277106225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75722,40.65833,20.75722,40.65833",
+    "geom:latitude":40.65833,
+    "geom:longitude":20.75722,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Bulagarec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783512,
+    "gn:latitude":40.65833,
+    "gn:longitude":20.75722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bulagarec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bujgarec",
+        "Bullgarec",
+        "Bullgareci",
+        "Bulgareci",
+        "Bulagarec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783512
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6335b7fc95a43a2c283b093e7f54345e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1277106225,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1277106225,
+    "wof:lastmodified":1537584126,
+    "wof:name":"Bulagarec",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75722,
+    40.65833,
+    20.75722,
+    40.65833
+],
+  "geometry": {"coordinates":[20.75722,40.65833],"type":"Point"}
+}

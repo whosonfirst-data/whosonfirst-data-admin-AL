@@ -1,0 +1,72 @@
+{
+  "id": 1293130379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45917,42.24972,20.45917,42.24972",
+    "geom:latitude":42.24972,
+    "geom:longitude":20.45917,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Muhader",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":832546,
+    "gn:latitude":42.24972,
+    "gn:longitude":20.45917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muhad\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muhad\u00ebri",
+        "Muhad\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421168061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832546
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fc2aa4dd0f5b88a8eea49e295203dc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421168061,
+            "locality_id":1293130379,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1293130379,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Muhader",
+    "wof:parent_id":421168061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45917,
+    42.24972,
+    20.45917,
+    42.24972
+],
+  "geometry": {"coordinates":[20.45917,42.24972],"type":"Point"}
+}

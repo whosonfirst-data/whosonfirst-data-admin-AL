@@ -1,0 +1,72 @@
+{
+  "id": 1310532673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94667,42.22139,19.94667,42.22139",
+    "geom:latitude":42.22139,
+    "geom:longitude":19.94667,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Berisha e Eperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186073,
+    "gn:latitude":42.22139,
+    "gn:longitude":19.94667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Berisha e Ep\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berish\u00eb e Ep\u00ebrme",
+        "Berisha e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186073
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a393e0e5056fa6fe0346b0f9bb9723b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720859,
+            "locality_id":1310532673,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1310532673,
+    "wof:lastmodified":1537584314,
+    "wof:name":"Berisha e Eperme",
+    "wof:parent_id":1108720859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94667,
+    42.22139,
+    19.94667,
+    42.22139
+],
+  "geometry": {"coordinates":[19.94667,42.22139],"type":"Point"}
+}

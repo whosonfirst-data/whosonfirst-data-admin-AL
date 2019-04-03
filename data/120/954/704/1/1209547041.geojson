@@ -1,0 +1,66 @@
+{
+  "id": 1209547041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02611,41.30278,20.02611,41.30278",
+    "geom:latitude":41.30278,
+    "geom:longitude":20.02611,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Brahamaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783624,
+    "gn:latitude":41.30278,
+    "gn:longitude":20.02611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Brahamaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berhamej",
+        "Brahamaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783624
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bc06f450e341e8a34548283bd5050159",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209547041
+        }
+    ],
+    "wof:id":1209547041,
+    "wof:lastmodified":1537584134,
+    "wof:name":"Brahamaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02611,
+    41.30278,
+    20.02611,
+    41.30278
+],
+  "geometry": {"coordinates":[20.02611,41.30278],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193206535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0925,40.71444,20.0925,40.71444",
+    "geom:latitude":40.71444,
+    "geom:longitude":20.0925,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Danushi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781964,
+    "gn:latitude":40.71444,
+    "gn:longitude":20.0925,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Danushi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porgan",
+        "Danushi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781964
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1fb257330373893441677a02056de5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1193206535,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1193206535,
+    "wof:lastmodified":1537584030,
+    "wof:name":"Danushi",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0925,
+    40.71444,
+    20.0925,
+    40.71444
+],
+  "geometry": {"coordinates":[20.0925,40.71444],"type":"Point"}
+}

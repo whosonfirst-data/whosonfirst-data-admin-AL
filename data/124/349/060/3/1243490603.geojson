@@ -1,0 +1,76 @@
+{
+  "id": 1243490603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02278,39.9325,20.02278,39.9325",
+    "geom:latitude":39.9325,
+    "geom:longitude":20.02278,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Vane",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363216,
+    "gn:latitude":39.9325,
+    "gn:longitude":20.02278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Van\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanje",
+        "Vana",
+        "Van",
+        "Cifliku Vana",
+        "Van\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363216,
+        "wk:page":"Van%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d44118ca1530f8e2d731108095262b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1243490603,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1243490603,
+    "wof:lastmodified":1537583955,
+    "wof:name":"Vane",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02278,
+    39.9325,
+    20.02278,
+    39.9325
+],
+  "geometry": {"coordinates":[20.02278,39.9325],"type":"Point"}
+}

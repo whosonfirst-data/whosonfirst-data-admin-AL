@@ -1,0 +1,75 @@
+{
+  "id": 1259911421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41722,41.97167,19.41722,41.97167",
+    "geom:latitude":41.97167,
+    "geom:longitude":19.41722,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Suk-Dajc",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183955,
+    "gn:latitude":41.97167,
+    "gn:longitude":19.41722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Suk-Daj\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suk\u00eb-Daj\u00e7i",
+        "Sukat e Daj\u00e7i",
+        "Suka t\u00eb Daj\u00e7it",
+        "Suka-Daj\u00e7it",
+        "Suk-Daj\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183955
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0761a55f0687b794abfe849f5a9ba399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1259911421,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1259911421,
+    "wof:lastmodified":1537584176,
+    "wof:name":"Suk-Dajc",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41722,
+    41.97167,
+    19.41722,
+    41.97167
+],
+  "geometry": {"coordinates":[19.41722,41.97167],"type":"Point"}
+}

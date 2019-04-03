@@ -1,0 +1,76 @@
+{
+  "id": 1360218623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14222,39.84833,20.14222,39.84833",
+    "geom:latitude":39.84833,
+    "geom:longitude":20.14222,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Memoraq",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445044,
+    "gn:latitude":39.84833,
+    "gn:longitude":20.14222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Memoraq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Memordhi",
+        "Memorachi",
+        "Memoraqi",
+        "Nemoraqi",
+        "Meshorabi",
+        "Memoraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445044
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e2fe448dff6b26c93dcdc981ed94fe7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1360218623,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1360218623,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Memoraq",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14222,
+    39.84833,
+    20.14222,
+    39.84833
+],
+  "geometry": {"coordinates":[20.14222,39.84833],"type":"Point"}
+}

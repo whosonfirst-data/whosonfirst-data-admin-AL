@@ -1,0 +1,72 @@
+{
+  "id": 1327463365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90583,40.94917,19.90583,40.94917",
+    "geom:latitude":40.94917,
+    "geom:longitude":19.90583,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kuqollaret",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343780,
+    "gn:latitude":40.94917,
+    "gn:longitude":19.90583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kuqollar\u00ebt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuqallar\u00ebt",
+        "Kuqollar\u00ebt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343780
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c36c482e2b02185aa2682493b1f4279b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":1327463365,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327463365,
+    "wof:lastmodified":1537584332,
+    "wof:name":"Kuqollaret",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90583,
+    40.94917,
+    19.90583,
+    40.94917
+],
+  "geometry": {"coordinates":[19.90583,40.94917],"type":"Point"}
+}

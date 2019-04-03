@@ -1,0 +1,72 @@
+{
+  "id": 1293723475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57972,40.27444,20.57972,40.27444",
+    "geom:latitude":40.27444,
+    "geom:longitude":20.57972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Bogdanas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865219,
+    "gn:latitude":40.27444,
+    "gn:longitude":20.57972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bogdanas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogdanasi",
+        "Bogdanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865219
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4206a8185c22f041fab646afb5c743dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1293723475,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293723475,
+    "wof:lastmodified":1537584153,
+    "wof:name":"Bogdanas",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57972,
+    40.27444000000001,
+    20.57972,
+    40.27444000000001
+],
+  "geometry": {"coordinates":[20.57972,40.27444000000001],"type":"Point"}
+}

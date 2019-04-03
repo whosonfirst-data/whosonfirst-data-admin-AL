@@ -1,0 +1,75 @@
+{
+  "id": 1326563581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04833,40.16667,20.04833,40.16667",
+    "geom:latitude":40.16667,
+    "geom:longitude":20.04833,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Picar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782169,
+    "gn:latitude":40.16667,
+    "gn:longitude":20.04833,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Picar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Picari",
+        "Novac\u00eb",
+        "Picar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782169,
+        "wk:page":"Picar"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"01fe2685e11ed40d136de35ae77a3f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1326563581,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326563581,
+    "wof:lastmodified":1537584043,
+    "wof:name":"Picar",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04833,
+    40.16667,
+    20.04833,
+    40.16667
+],
+  "geometry": {"coordinates":[20.04833,40.16667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327169291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56306,41.26944,19.56306,41.26944",
+    "geom:latitude":41.26944,
+    "geom:longitude":19.56306,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gjuze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185421,
+    "gn:latitude":41.26944,
+    "gn:longitude":19.56306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjuz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guzaj",
+        "Gjuz",
+        "Guza",
+        "Gusa",
+        "Gjuz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185421
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b8063b2b66961d8a50646d8b9d3229c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1327169291,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1327169291,
+    "wof:lastmodified":1537584269,
+    "wof:name":"Gjuze",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56306,
+    41.26944,
+    19.56306,
+    41.26944
+],
+  "geometry": {"coordinates":[19.56306,41.26944],"type":"Point"}
+}

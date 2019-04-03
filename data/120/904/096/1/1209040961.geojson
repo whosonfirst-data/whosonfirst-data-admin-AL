@@ -1,0 +1,67 @@
+{
+  "id": 1209040961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76611,40.84778,19.76611,40.84778",
+    "geom:latitude":40.84778,
+    "geom:longitude":19.76611,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Delisufaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185821,
+    "gn:latitude":40.84778,
+    "gn:longitude":19.76611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Delisufaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deli Sufai",
+        "Delisufani",
+        "Delisufaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185821
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cb633c164ddc4be4a9486401ed7c9196",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209040961
+        }
+    ],
+    "wof:id":1209040961,
+    "wof:lastmodified":1537584295,
+    "wof:name":"Delisufaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76611,
+    40.84778,
+    19.76611,
+    40.84778
+],
+  "geometry": {"coordinates":[19.76611,40.84778],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193053903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86778,41.62806,19.86778,41.62806",
+    "geom:latitude":41.62806,
+    "geom:longitude":19.86778,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Fushe-Pjeshke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343701,
+    "gn:latitude":41.62806,
+    "gn:longitude":19.86778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Fush\u00eb-Pjeshk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fush\u00eb-Pjeshka",
+        "Fush\u00eb-Pjeshk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421202751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343701
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2ff5243d8496a9a951ab8fb409e6bedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421202751,
+            "locality_id":1193053903,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1193053903,
+    "wof:lastmodified":1537584331,
+    "wof:name":"Fushe-Pjeshke",
+    "wof:parent_id":421202751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86778,
+    41.62806,
+    19.86778,
+    41.62806
+],
+  "geometry": {"coordinates":[19.86778,41.62806],"type":"Point"}
+}

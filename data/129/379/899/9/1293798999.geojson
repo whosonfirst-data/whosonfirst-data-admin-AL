@@ -1,0 +1,71 @@
+{
+  "id": 1293798999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68614,40.2848,20.68614,40.2848",
+    "geom:latitude":40.2848,
+    "geom:longitude":20.68614,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Xhafellare, Gjonc",
+    "gn:country_code":"AL",
+    "gn:dem":1262,
+    "gn:elevation":"1280.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256415,
+    "gn:latitude":40.2848,
+    "gn:longitude":20.68614,
+    "gn:modification_date":"2014-07-29",
+    "gn:name":"Xhafellare, Gjon\u00e7",
+    "gn:population":50,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256415
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"349384abb4a4f6035b1c234fa4ede26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1293798999,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293798999,
+    "wof:lastmodified":1536833953,
+    "wof:name":"Xhafellare, Gjonc",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68614,
+    40.2848,
+    20.68614,
+    40.2848
+],
+  "geometry": {"coordinates":[20.68614,40.2848],"type":"Point"}
+}

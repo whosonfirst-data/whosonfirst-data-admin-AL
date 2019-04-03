@@ -1,0 +1,77 @@
+{
+  "id": 1327169297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53639,40.23472,20.53639,40.23472",
+    "geom:latitude":40.23472,
+    "geom:longitude":20.53639,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Peshtan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781101,
+    "gn:latitude":40.23472,
+    "gn:longitude":20.53639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Peshtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgoralec",
+        "Izgoralce",
+        "Zgoraleci",
+        "Peshtani",
+        "Zguraleci",
+        "Izgoralec",
+        "Peshtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781101
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0f9053e3ab6c8c0be481633f5150c494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1327169297,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1327169297,
+    "wof:lastmodified":1537583971,
+    "wof:name":"Peshtan",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53639,
+    40.23472,
+    20.53639,
+    40.23472
+],
+  "geometry": {"coordinates":[20.53639,40.23472],"type":"Point"}
+}

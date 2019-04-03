@@ -1,0 +1,73 @@
+{
+  "id": 1327067103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46667,42.26667,19.46667,42.26667",
+    "geom:latitude":42.26667,
+    "geom:longitude":19.46667,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Grizhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185459,
+    "gn:latitude":42.26667,
+    "gn:longitude":19.46667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Grizh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grizaj",
+        "Grishaj",
+        "Grizha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185459
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c0505bd82d695cc36979fdddfd352d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1327067103,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1327067103,
+    "wof:lastmodified":1537584272,
+    "wof:name":"Grizhe",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46667,
+    42.26667,
+    19.46667,
+    42.26667
+],
+  "geometry": {"coordinates":[19.46667,42.26667],"type":"Point"}
+}

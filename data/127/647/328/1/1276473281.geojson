@@ -1,0 +1,75 @@
+{
+  "id": 1276473281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06583,40.27417,20.06583,40.27417",
+    "geom:latitude":40.27417,
+    "geom:longitude":20.06583,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Koder",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782796,
+    "gn:latitude":40.27417,
+    "gn:longitude":20.06583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kod\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Codra",
+        "Kod\u00ebra",
+        "Kodra",
+        "Kodr\u00eb",
+        "Kod\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782796
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8bb0dfe6bd4d7e3f15c8d925bc78a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1276473281,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276473281,
+    "wof:lastmodified":1537584079,
+    "wof:name":"Koder",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06583,
+    40.27417,
+    20.06583,
+    40.27417
+],
+  "geometry": {"coordinates":[20.06583,40.27417],"type":"Point"}
+}

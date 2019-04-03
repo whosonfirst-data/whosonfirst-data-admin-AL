@@ -1,0 +1,78 @@
+{
+  "id": 1360019307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.345,40.06889,20.345,40.06889",
+    "geom:latitude":40.06889,
+    "geom:longitude":20.345,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Hllomo",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782982,
+    "gn:latitude":40.06889,
+    "gn:longitude":20.345,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hllomo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hllomo-Mavrojeri",
+        "Hllomo-Mavrojer",
+        "Hiliomo",
+        "Hllomoja",
+        "Hlom\u00e1",
+        "Hilomo",
+        "Hlomo",
+        "Hllomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782982
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"09a3296172be4f471cc3d6d7bbf7dcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1360019307,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1360019307,
+    "wof:lastmodified":1537584091,
+    "wof:name":"Hllomo",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.345,
+    40.06889,
+    20.345,
+    40.06889
+],
+  "geometry": {"coordinates":[20.345,40.06889],"type":"Point"}
+}

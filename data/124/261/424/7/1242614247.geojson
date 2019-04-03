@@ -1,0 +1,67 @@
+{
+  "id": 1242614247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35,41.03333,20.35,41.03333",
+    "geom:latitude":41.03333,
+    "geom:longitude":20.35,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Breshke",
+    "gn:country_code":"AL",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783544,
+    "gn:latitude":41.03333,
+    "gn:longitude":20.35,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Breshk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783544
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1dd4133a62d3bf48e07339b0177bf8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1242614247,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242614247,
+    "wof:lastmodified":1537010119,
+    "wof:name":"Breshke",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35,
+    41.03333,
+    20.35,
+    41.03333
+],
+  "geometry": {"coordinates":[20.35,41.03333],"type":"Point"}
+}

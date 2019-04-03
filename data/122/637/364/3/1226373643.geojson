@@ -1,0 +1,74 @@
+{
+  "id": 1226373643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67944,41.57139,19.67944,41.57139",
+    "geom:latitude":41.57139,
+    "geom:longitude":19.67944,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Fushe-Mamurras",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185636,
+    "gn:latitude":41.57139,
+    "gn:longitude":19.67944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fush\u00eb-Mamurras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fush\u00eb-Mamurasi",
+        "Fush-Mamurras",
+        "Fush\u00eb-Mamurrasi",
+        "Fush\u00eb-Mamurras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185636
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2e5d0d00e5c4e7bc5b92e13237dafa1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1226373643,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1226373643,
+    "wof:lastmodified":1537584284,
+    "wof:name":"Fushe-Mamurras",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67944,
+    41.57139,
+    19.67944,
+    41.57139
+],
+  "geometry": {"coordinates":[19.67944,41.57139],"type":"Point"}
+}

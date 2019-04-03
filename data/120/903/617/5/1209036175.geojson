@@ -1,0 +1,66 @@
+{
+  "id": 1209036175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45556,41.82444,20.45556,41.82444",
+    "geom:latitude":41.82444,
+    "geom:longitude":20.45556,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Cerniev",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783435,
+    "gn:latitude":41.82444,
+    "gn:longitude":20.45556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7erniev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cernjeve",
+        "\u00c7erniev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783435
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"08f8ab4538c698ad94fe30af9cce5ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209036175
+        }
+    ],
+    "wof:id":1209036175,
+    "wof:lastmodified":1537584121,
+    "wof:name":"Cerniev",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45556,
+    41.82444,
+    20.45556,
+    41.82444
+],
+  "geometry": {"coordinates":[20.45556,41.82444],"type":"Point"}
+}

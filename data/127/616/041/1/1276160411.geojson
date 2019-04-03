@@ -1,0 +1,76 @@
+{
+  "id": 1276160411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51361,40.89833,19.51361,40.89833",
+    "geom:latitude":40.89833,
+    "geom:longitude":19.51361,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Mucias",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184668,
+    "gn:latitude":40.89833,
+    "gn:longitude":19.51361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u00e7ias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00e7ijasi",
+        "Mu\u00e7ijazi",
+        "Mu\u00e7ijas",
+        "Mu\u00e7iasi",
+        "Mu\u00e7jasi",
+        "Mu\u00e7ias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184668
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ba8df7cb8229ecc0caec2eef0261a7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720853,
+            "locality_id":1276160411,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1276160411,
+    "wof:lastmodified":1537584223,
+    "wof:name":"Mucias",
+    "wof:parent_id":1108720853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51361,
+    40.89833,
+    19.51361,
+    40.89833
+],
+  "geometry": {"coordinates":[19.51361,40.89833],"type":"Point"}
+}

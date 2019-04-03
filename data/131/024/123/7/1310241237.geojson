@@ -1,0 +1,75 @@
+{
+  "id": 1310241237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69611,40.47528,20.69611,40.47528",
+    "geom:latitude":40.47528,
+    "geom:longitude":20.69611,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Pepellash",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782078,
+    "gn:latitude":40.47528,
+    "gn:longitude":20.69611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pepellash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pepellesh",
+        "Pepelashi",
+        "Pepellashi",
+        "Pepelas",
+        "Pepellash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782078
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c79b16a2f8c1e1723e7cf2e9f210ec65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1310241237,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310241237,
+    "wof:lastmodified":1537584037,
+    "wof:name":"Pepellash",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69611,
+    40.47528,
+    20.69611,
+    40.47528
+],
+  "geometry": {"coordinates":[20.69611,40.47528],"type":"Point"}
+}

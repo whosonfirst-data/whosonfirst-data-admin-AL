@@ -1,0 +1,75 @@
+{
+  "id": 1326566575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50722,40.12028,20.50722,40.12028",
+    "geom:latitude":40.12028,
+    "geom:longitude":20.50722,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Zhepe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781094,
+    "gn:latitude":40.12028,
+    "gn:longitude":20.50722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zhep\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhepa",
+        "Zien\u00eb",
+        "Zheja",
+        "Xheppas",
+        "Zhep\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781094
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ed2f2ef5bfc13b3eb00430b506655960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1326566575,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326566575,
+    "wof:lastmodified":1537583970,
+    "wof:name":"Zhepe",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50722,
+    40.12028,
+    20.50722,
+    40.12028
+],
+  "geometry": {"coordinates":[20.50722,40.12028],"type":"Point"}
+}

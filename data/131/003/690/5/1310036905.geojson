@@ -1,0 +1,79 @@
+{
+  "id": 1310036905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32722,41.22694,20.32722,41.22694",
+    "geom:latitude":41.22694,
+    "geom:longitude":20.32722,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dorez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783317,
+    "gn:latitude":41.22694,
+    "gn:longitude":20.32722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dor\u00ebz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0440\u0435\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dorz\u00eb",
+        "Dosesi",
+        "Dor\u00ebz\u00eb",
+        "Dor\u00ebza",
+        "Dorezi",
+        "Dor\u00ebz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783317
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8a434659f5fcd7b94cc4f1fd3a25fd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1310036905,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310036905,
+    "wof:lastmodified":1537584113,
+    "wof:name":"Dorez",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32722,
+    41.22694,
+    20.32722,
+    41.22694
+],
+  "geometry": {"coordinates":[20.32722,41.22694],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1327060887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9625,39.95917,19.9625,39.95917",
+    "geom:latitude":39.95917,
+    "geom:longitude":19.9625,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Shenvasi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525805,
+    "gn:latitude":39.95917,
+    "gn:longitude":19.9625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebnvasi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0412\u0430\u0441\u0438\u043b"
+    ],
+    "name:und_x_variant":[
+        "P\u00ebrparim",
+        "P\u00ebrparimi",
+        "San Basilio",
+        "Sh\u00ebndeli",
+        "Sh\u00ebn-Vaseli",
+        "Sh\u00ebn Vasi",
+        "Shenvasij",
+        "Shenvasija",
+        "Sh\u00ebn-Vasil",
+        "Shen Vasili",
+        "Sh\u00ebnvasi",
+        "Sh\u00ebnvasij\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525805
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6a7031eaaf62b6bee6eeac4ef1c90d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":1327060887,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1327060887,
+    "wof:lastmodified":1537584154,
+    "wof:name":"Shenvasi",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9625,
+    39.95917,
+    19.9625,
+    39.95917
+],
+  "geometry": {"coordinates":[19.9625,39.95917],"type":"Point"}
+}

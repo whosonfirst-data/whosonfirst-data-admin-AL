@@ -1,0 +1,74 @@
+{
+  "id": 1260323167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03806,40.25861,20.03806,40.25861",
+    "geom:latitude":40.25861,
+    "geom:longitude":20.03806,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Luzat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782431,
+    "gn:latitude":40.25861,
+    "gn:longitude":20.03806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luzat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Or\u00ebman\u00eb",
+        "Liuzates",
+        "Luzati",
+        "Luzat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782431
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3e7ada62f462db7dc780cf7275863f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1260323167,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1260323167,
+    "wof:lastmodified":1537584057,
+    "wof:name":"Luzat",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03806,
+    40.25861,
+    20.03806,
+    40.25861
+],
+  "geometry": {"coordinates":[20.03806,40.25861],"type":"Point"}
+}

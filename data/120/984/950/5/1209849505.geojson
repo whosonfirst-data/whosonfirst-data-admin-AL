@@ -1,0 +1,75 @@
+{
+  "id": 1209849505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48917,40.33056,20.48917,40.33056",
+    "geom:latitude":40.33056,
+    "geom:longitude":20.48917,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shijan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781675,
+    "gn:latitude":40.33056,
+    "gn:longitude":20.48917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shijan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shijan-Goroshijan",
+        "Shijan-Goroshian",
+        "Shijani",
+        "Shijan-Goroshijani",
+        "Shijan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781675
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"66d1ee427063c07da2a48ec3b915bc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1209849505,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1209849505,
+    "wof:lastmodified":1537584009,
+    "wof:name":"Shijan",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48917,
+    40.33056,
+    20.48917,
+    40.33056
+],
+  "geometry": {"coordinates":[20.48917,40.33056],"type":"Point"}
+}

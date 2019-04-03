@@ -1,0 +1,68 @@
+{
+  "id": 1209357305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02444,40.55222,20.02444,40.55222",
+    "geom:latitude":40.55222,
+    "geom:longitude":20.02444,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Terpan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781436,
+    "gn:latitude":40.55222,
+    "gn:longitude":20.02444,
+    "gn:modification_date":"2012-06-03",
+    "gn:name":"T\u00ebrpan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llap\u00ebr",
+        "T\u00ebrpani",
+        "T\u00ebrpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781436
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"778ebf287d0bd0aa24b3ffffc2831ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209357305
+        }
+    ],
+    "wof:id":1209357305,
+    "wof:lastmodified":1537583994,
+    "wof:name":"Terpan",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02444,
+    40.55222,
+    20.02444,
+    40.55222
+],
+  "geometry": {"coordinates":[20.02444,40.55222],"type":"Point"}
+}

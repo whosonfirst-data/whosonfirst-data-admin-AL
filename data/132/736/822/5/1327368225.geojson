@@ -1,0 +1,75 @@
+{
+  "id": 1327368225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.60694,42.45889,19.60694,42.45889",
+    "geom:latitude":42.45889,
+    "geom:longitude":19.60694,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kozhnje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185104,
+    "gn:latitude":42.45889,
+    "gn:longitude":19.60694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kozhnje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosnie",
+        "Kozhe",
+        "Kozhnja",
+        "Kozhnje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185104,
+        "wk:page":"Kozhnj%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b1c43faf1e1412712d9de1277245ee14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1327368225,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1327368225,
+    "wof:lastmodified":1537584249,
+    "wof:name":"Kozhnje",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.60694,
+    42.45889,
+    19.60694,
+    42.45889
+],
+  "geometry": {"coordinates":[19.60694,42.45889],"type":"Point"}
+}

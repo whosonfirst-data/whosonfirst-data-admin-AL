@@ -1,0 +1,77 @@
+{
+  "id": 1242611957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4675,41.58556,20.4675,41.58556",
+    "geom:latitude":41.58556,
+    "geom:longitude":20.4675,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Cernene",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783436,
+    "gn:latitude":41.58556,
+    "gn:longitude":20.4675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7ernen\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ernena",
+        "\u00c7ermena",
+        "\u00c7ank\u00eb",
+        "\u010cerneni",
+        "\u00c7ernen",
+        "Cerenen",
+        "\u00c7ernen\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783436
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"13d1bceae93677494df0d50747a5904e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1242611957,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1242611957,
+    "wof:lastmodified":1537584121,
+    "wof:name":"Cernene",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4675,
+    41.58556,
+    20.4675,
+    41.58556
+],
+  "geometry": {"coordinates":[20.4675,41.58556],"type":"Point"}
+}

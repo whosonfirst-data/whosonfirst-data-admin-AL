@@ -1,0 +1,77 @@
+{
+  "id": 1343798201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64028,42.01056,19.64028,42.01056",
+    "geom:latitude":42.01056,
+    "geom:longitude":19.64028,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Lac",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185011,
+    "gn:latitude":42.01056,
+    "gn:longitude":19.64028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0447"
+    ],
+    "name:und_x_variant":[
+        "La\u00e7-Qyrsa\u00e7",
+        "La\u00e7-Qysa\u00e7",
+        "La\u00e7-Qyrsa\u00e7i",
+        "La\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185011
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c22f10d6b2668c4cd206aa4a89b31753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720909,
+            "locality_id":1343798201,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1343798201,
+    "wof:lastmodified":1537584244,
+    "wof:name":"Lac",
+    "wof:parent_id":1108720909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64028,
+    42.01056,
+    19.64028,
+    42.01056
+],
+  "geometry": {"coordinates":[19.64028,42.01056],"type":"Point"}
+}

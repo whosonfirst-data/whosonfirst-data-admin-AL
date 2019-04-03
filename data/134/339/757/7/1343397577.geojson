@@ -1,0 +1,73 @@
+{
+  "id": 1343397577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65361,42.19528,19.65361,42.19528",
+    "geom:latitude":42.19528,
+    "geom:longitude":19.65361,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Dajc",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205123,
+    "gn:latitude":42.19528,
+    "gn:longitude":19.65361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daj\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daj\u00e7a",
+        "Daj\u00e7\u00eb",
+        "Daj\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205123
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"49ed66bcd94b833fc9442039516c0bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1343397577,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1343397577,
+    "wof:lastmodified":1537584325,
+    "wof:name":"Dajc",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65361,
+    42.19528,
+    19.65361,
+    42.19528
+],
+  "geometry": {"coordinates":[19.65361,42.19528],"type":"Point"}
+}

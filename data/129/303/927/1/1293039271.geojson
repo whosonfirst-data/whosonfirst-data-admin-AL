@@ -1,0 +1,72 @@
+{
+  "id": 1293039271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94667,40.84556,19.94667,40.84556",
+    "geom:latitude":40.84556,
+    "geom:longitude":19.94667,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Lezollar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343802,
+    "gn:latitude":40.84556,
+    "gn:longitude":19.94667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lezollar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lezollari",
+        "Lezollar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343802
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1b0816a5f05173d0996a2e8b9a566b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1293039271,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293039271,
+    "wof:lastmodified":1537584332,
+    "wof:name":"Lezollar",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94667,
+    40.84556,
+    19.94667,
+    40.84556
+],
+  "geometry": {"coordinates":[19.94667,40.84556],"type":"Point"}
+}

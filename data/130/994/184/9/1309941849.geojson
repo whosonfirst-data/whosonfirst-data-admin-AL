@@ -1,0 +1,75 @@
+{
+  "id": 1309941849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61361,41.68833,19.61361,41.68833",
+    "geom:latitude":41.68833,
+    "geom:longitude":19.61361,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Gryka e Lumit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185445,
+    "gn:latitude":41.68833,
+    "gn:longitude":19.61361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gryka e Lumit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gryk\u2019 e Lumit",
+        "Gryk\u00eb Lum\u00eb",
+        "Gryk\u00eb e Lumit",
+        "Gryk\u00eb Lumi",
+        "Gryka e Lumit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185445
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3bce9bb05db6b785077cd68190c933a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1309941849,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1309941849,
+    "wof:lastmodified":1537584271,
+    "wof:name":"Gryka e Lumit",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61361,
+    41.68833,
+    19.61361,
+    41.68833
+],
+  "geometry": {"coordinates":[19.61361,41.68833],"type":"Point"}
+}

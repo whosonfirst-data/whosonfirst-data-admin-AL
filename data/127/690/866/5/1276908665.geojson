@@ -1,0 +1,73 @@
+{
+  "id": 1276908665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40139,41.1425,20.40139,41.1425",
+    "geom:latitude":41.1425,
+    "geom:longitude":20.40139,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kokreve",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782783,
+    "gn:latitude":41.1425,
+    "gn:longitude":20.40139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kokrev\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koktaj",
+        "Kokreva",
+        "Kokrev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782783
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"403ccebdf9a048b009ece3bf4a96e039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1276908665,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1276908665,
+    "wof:lastmodified":1537584077,
+    "wof:name":"Kokreve",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40139,
+    41.1425,
+    20.40139,
+    41.1425
+],
+  "geometry": {"coordinates":[20.40139,41.1425],"type":"Point"}
+}

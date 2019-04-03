@@ -1,0 +1,72 @@
+{
+  "id": 1276282093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02667,40.49639,20.02667,40.49639",
+    "geom:latitude":40.49639,
+    "geom:longitude":20.02667,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Panarit",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782098,
+    "gn:latitude":40.49639,
+    "gn:longitude":20.02667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panarit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panariti",
+        "Panarit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782098
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8b18ba0dfea9b3057313d6281eb3e7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1276282093,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1276282093,
+    "wof:lastmodified":1537584038,
+    "wof:name":"Panarit",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02667000000001,
+    40.49639000000001,
+    20.02667000000001,
+    40.49639000000001
+],
+  "geometry": {"coordinates":[20.02667000000001,40.49639000000001],"type":"Point"}
+}

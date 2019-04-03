@@ -1,0 +1,78 @@
+{
+  "id": 1243297851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8,41.60417,19.8,41.60417",
+    "geom:latitude":41.60417,
+    "geom:longitude":19.8,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Vinjoll",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183738,
+    "gn:latitude":41.60417,
+    "gn:longitude":19.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vinjoll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinjoll\u00eb",
+        "Vignali",
+        "Vinjolli",
+        "Vinjall",
+        "Vinjal",
+        "Vinjolla",
+        "Vinjalli",
+        "Vinjoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183738
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9459309a1f603c604c4a5274c168cab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1243297851,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1243297851,
+    "wof:lastmodified":1537584164,
+    "wof:name":"Vinjoll",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8,
+    41.60417,
+    19.8,
+    41.60417
+],
+  "geometry": {"coordinates":[19.8,41.60417],"type":"Point"}
+}

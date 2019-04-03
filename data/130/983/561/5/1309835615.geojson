@@ -1,0 +1,73 @@
+{
+  "id": 1309835615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45528,41.84472,20.45528,41.84472",
+    "geom:latitude":41.84472,
+    "geom:longitude":20.45528,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ploshtan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782001,
+    "gn:latitude":41.84472,
+    "gn:longitude":20.45528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ploshtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ploshtani",
+        "Plostan",
+        "Ploshtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782001
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9339b20e075b1cf108db661787ae2f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1309835615,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1309835615,
+    "wof:lastmodified":1537584033,
+    "wof:name":"Ploshtan",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45528,
+    41.84472,
+    20.45528,
+    41.84472
+],
+  "geometry": {"coordinates":[20.45528,41.84472],"type":"Point"}
+}

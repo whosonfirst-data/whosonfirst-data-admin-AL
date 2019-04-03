@@ -1,0 +1,75 @@
+{
+  "id": 1259513867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35889,39.81972,20.35889,39.81972",
+    "geom:latitude":39.81972,
+    "geom:longitude":20.35889,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Sotire",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363227,
+    "gn:latitude":39.81972,
+    "gn:longitude":20.35889,
+    "gn:modification_date":"2018-03-03",
+    "gn:name":"Sotir\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sotira",
+        "Sotir\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363227
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c7fb7a384d59a1b52b98042aa3db1f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1259513867,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1259513867,
+    "wof:lastmodified":1537583956,
+    "wof:name":"Sotire",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35889,
+    39.81972,
+    20.35889,
+    39.81972
+],
+  "geometry": {"coordinates":[20.35889,39.81972],"type":"Point"}
+}

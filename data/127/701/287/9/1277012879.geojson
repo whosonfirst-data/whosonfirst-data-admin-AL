@@ -1,0 +1,81 @@
+{
+  "id": 1277012879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45556,41.43083,20.45556,41.43083",
+    "geom:latitude":41.43083,
+    "geom:longitude":20.45556,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Ostreni i Math",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782117,
+    "gn:latitude":41.43083,
+    "gn:longitude":20.45556,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Ostreni i Math",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostren i Math",
+        "Ostren",
+        "Ostreni",
+        "Ostren i Madh",
+        "Ostren i madh\u00eb",
+        "Ostrenimaze",
+        "Pljakoni i Mal",
+        "Ostreni i Madh",
+        "Ostreni i Math"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782117,
+        "wk:page":"Ostren"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6d7eb5ee54745f9f4ce9b00cc9cf46dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1277012879,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1277012879,
+    "wof:lastmodified":1537584040,
+    "wof:name":"Ostreni i Math",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45556,
+    41.43083,
+    20.45556,
+    41.43083
+],
+  "geometry": {"coordinates":[20.45556,41.43083],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225880785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66139,41.31583,19.66139,41.31583",
+    "geom:latitude":41.31583,
+    "geom:longitude":19.66139,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Barzez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186116,
+    "gn:latitude":41.31583,
+    "gn:longitude":19.66139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barzez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7al-Barzezi",
+        "Barzez\u00eb",
+        "\u00c7al-Berezi",
+        "Barzezi",
+        "Barzez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186116
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"eff3736c3004cdc3a3857cfc20cd745e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1225880785,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1225880785,
+    "wof:lastmodified":1537584316,
+    "wof:name":"Barzez",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66139,
+    41.31583,
+    19.66139,
+    41.31583
+],
+  "geometry": {"coordinates":[19.66139,41.31583],"type":"Point"}
+}

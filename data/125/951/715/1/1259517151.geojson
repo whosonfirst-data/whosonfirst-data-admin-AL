@@ -1,0 +1,67 @@
+{
+  "id": 1259517151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77583,42.40278,19.77583,42.40278",
+    "geom:latitude":42.40278,
+    "geom:longitude":19.77583,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Hardedaj",
+    "gn:country_code":"AL",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343631,
+    "gn:latitude":42.40278,
+    "gn:longitude":19.77583,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Hardedaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343631
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f2102b5c2c78dc81d6451e1bccf4e0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1259517151,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1259517151,
+    "wof:lastmodified":1536810039,
+    "wof:name":"Hardedaj",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77583,
+    42.40278,
+    19.77583,
+    42.40278
+],
+  "geometry": {"coordinates":[19.77583,42.40278],"type":"Point"}
+}

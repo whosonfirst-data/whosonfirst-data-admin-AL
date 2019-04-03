@@ -1,0 +1,67 @@
+{
+  "id": 1310142841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10028,42.37389,20.10028,42.37389",
+    "geom:latitude":42.37389,
+    "geom:longitude":20.10028,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Paqe",
+    "gn:country_code":"AL",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862904,
+    "gn:latitude":42.37389,
+    "gn:longitude":20.10028,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Paqe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862904
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ee13ae6285caef49460b9df763e4acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1310142841,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1310142841,
+    "wof:lastmodified":1536943128,
+    "wof:name":"Paqe",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10028,
+    42.37389,
+    20.10028,
+    42.37389
+],
+  "geometry": {"coordinates":[20.10028,42.37389],"type":"Point"}
+}

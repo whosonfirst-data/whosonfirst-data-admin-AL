@@ -1,0 +1,77 @@
+{
+  "id": 1225980647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66222,40.87889,20.66222,40.87889",
+    "geom:latitude":40.87889,
+    "geom:longitude":20.66222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Remenj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781812,
+    "gn:latitude":40.87889,
+    "gn:longitude":20.66222,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"R\u00ebmenj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "R\u00ebm\u00ebnii",
+        "R\u00ebmenji",
+        "R\u00ebmeni",
+        "R\u00ebmenj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781812
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"63d2e8869118e02cb756ef665bd995dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1225980647,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1225980647,
+    "wof:lastmodified":1537584019,
+    "wof:name":"Remenj",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66222,
+    40.87889000000001,
+    20.66222,
+    40.87889000000001
+],
+  "geometry": {"coordinates":[20.66222,40.87889000000001],"type":"Point"}
+}

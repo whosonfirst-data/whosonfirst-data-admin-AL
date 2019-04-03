@@ -1,0 +1,67 @@
+{
+  "id": 1360020007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61667,40.81667,19.61667,40.81667",
+    "geom:latitude":40.81667,
+    "geom:longitude":19.61667,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kolea",
+    "gn:country_code":"AL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185147,
+    "gn:latitude":40.81667,
+    "gn:longitude":19.61667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kolea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185147
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bfd13e223d1c1c1bc60faf9fb931a52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1360020007,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1360020007,
+    "wof:lastmodified":1537037885,
+    "wof:name":"Kolea",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61667000000001,
+    40.81667,
+    19.61667000000001,
+    40.81667
+],
+  "geometry": {"coordinates":[19.61667000000001,40.81667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209137329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26944,39.83528,20.26944,39.83528",
+    "geom:latitude":39.83528,
+    "geom:longitude":20.26944,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Alopul",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445046,
+    "gn:latitude":39.83528,
+    "gn:longitude":20.26944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Alopul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alopuli",
+        "Alopul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445046
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4b6dc7326e7386dbf6b1be57e6d887e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209137329
+        }
+    ],
+    "wof:id":1209137329,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Alopul",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26944,
+    39.83528,
+    20.26944,
+    39.83528
+],
+  "geometry": {"coordinates":[20.26944,39.83528],"type":"Point"}
+}

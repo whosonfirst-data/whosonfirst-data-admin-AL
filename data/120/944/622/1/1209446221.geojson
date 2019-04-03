@@ -1,0 +1,70 @@
+{
+  "id": 1209446221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08917,41.73722,20.08917,41.73722",
+    "geom:latitude":41.73722,
+    "geom:longitude":20.08917,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Lami i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782596,
+    "gn:latitude":41.73722,
+    "gn:longitude":20.08917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lami i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lam i Math",
+        "Kolece",
+        "Lami i Math",
+        "Lam i Madh",
+        "Lami",
+        "Lami i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782596
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b915402d4217eda0decb303a40166114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209446221
+        }
+    ],
+    "wof:id":1209446221,
+    "wof:lastmodified":1537584067,
+    "wof:name":"Lami i Madh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08917000000001,
+    41.73722,
+    20.08917000000001,
+    41.73722
+],
+  "geometry": {"coordinates":[20.08917000000001,41.73722],"type":"Point"}
+}

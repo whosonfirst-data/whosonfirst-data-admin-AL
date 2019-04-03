@@ -1,0 +1,78 @@
+{
+  "id": 1343799049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20778,39.82694,20.20778,39.82694",
+    "geom:latitude":39.82694,
+    "geom:longitude":20.20778,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Cerkovice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363389,
+    "gn:latitude":39.82694,
+    "gn:longitude":20.20778,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Cerkovic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c1\u03ba\u03bf\u03b2\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Cerkovica",
+        "Cerko\u00e7iva",
+        "Cerkovic\u00eb",
+        "Cerkovic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363389,
+        "wk:page":"Cerkovica"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2f7126b279552a4f056abf65f77f5d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1343799049,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1343799049,
+    "wof:lastmodified":1537583967,
+    "wof:name":"Cerkovice",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20778,
+    39.82694,
+    20.20778,
+    39.82694
+],
+  "geometry": {"coordinates":[20.20778,39.82694],"type":"Point"}
+}

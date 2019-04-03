@@ -1,0 +1,76 @@
+{
+  "id": 1260323923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28056,40.81333,20.28056,40.81333",
+    "geom:latitude":40.81333,
+    "geom:longitude":20.28056,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shelcan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781706,
+    "gn:latitude":40.81333,
+    "gn:longitude":20.28056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shelcan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shelqan",
+        "Shelqani",
+        "Shelqeja",
+        "Shelcani",
+        "Sel\u00e7an",
+        "Shelcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781706
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d6da9cd047b8825cc26a18da5f279f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1260323923,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1260323923,
+    "wof:lastmodified":1537584012,
+    "wof:name":"Shelcan",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28056,
+    40.81333,
+    20.28056,
+    40.81333
+],
+  "geometry": {"coordinates":[20.28056,40.81333],"type":"Point"}
+}

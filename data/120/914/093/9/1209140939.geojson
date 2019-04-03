@@ -1,0 +1,70 @@
+{
+  "id": 1209140939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03722,39.98889,20.03722,39.98889",
+    "geom:latitude":39.98889,
+    "geom:longitude":20.03722,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kopacez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363319,
+    "gn:latitude":39.98889,
+    "gn:longitude":20.03722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kopa\u00e7ez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopac\u00eb",
+        "Copace",
+        "Kopa\u00e7i",
+        "Kopa\u00e7ez\u00eb",
+        "Kopa\u00e7eza",
+        "Kopa\u00e7ez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363319
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6c2ca13dea111f331b0c4bb21cce4df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209140939
+        }
+    ],
+    "wof:id":1209140939,
+    "wof:lastmodified":1537583962,
+    "wof:name":"Kopacez",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03722,
+    39.98889000000001,
+    20.03722,
+    39.98889000000001
+],
+  "geometry": {"coordinates":[20.03722,39.98889000000001],"type":"Point"}
+}

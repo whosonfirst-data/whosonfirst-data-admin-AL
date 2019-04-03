@@ -1,0 +1,75 @@
+{
+  "id": 1259817487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09389,39.98056,20.09389,39.98056",
+    "geom:latitude":39.98056,
+    "geom:longitude":20.09389,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lefterohor",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363308,
+    "gn:latitude":39.98056,
+    "gn:longitude":20.09389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lefterohor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lefterehori",
+        "Lefterohori",
+        "Lefterolor",
+        "Lefterhor",
+        "Lefterohor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363308
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"82ce6ddf9a34d00b7b101088bd49e9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1259817487,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1259817487,
+    "wof:lastmodified":1537583961,
+    "wof:name":"Lefterohor",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09389,
+    39.98056,
+    20.09389,
+    39.98056
+],
+  "geometry": {"coordinates":[20.09389,39.98056],"type":"Point"}
+}

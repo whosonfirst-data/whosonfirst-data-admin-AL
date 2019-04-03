@@ -1,0 +1,68 @@
+{
+  "id": 1209645667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14722,39.87444,20.14722,39.87444",
+    "geom:latitude":39.87444,
+    "geom:longitude":20.14722,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Navarice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363272,
+    "gn:latitude":39.87444,
+    "gn:longitude":20.14722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Navaric\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avarita",
+        "Navarizza",
+        "Navarica",
+        "Navaric\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363272
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8cbf4ae4d0f399a1380639ee58775ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645667
+        }
+    ],
+    "wof:id":1209645667,
+    "wof:lastmodified":1537583959,
+    "wof:name":"Navarice",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14722,
+    39.87444,
+    20.14722,
+    39.87444
+],
+  "geometry": {"coordinates":[20.14722,39.87444],"type":"Point"}
+}

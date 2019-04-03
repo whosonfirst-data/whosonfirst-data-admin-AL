@@ -1,0 +1,70 @@
+{
+  "id": 1209651523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63333,40.8925,19.63333,40.8925",
+    "geom:latitude":40.8925,
+    "geom:longitude":19.63333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kemishtaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185196,
+    "gn:latitude":40.8925,
+    "gn:longitude":19.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebmishtaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebmishaj",
+        "K\u00ebmishtanj",
+        "K\u00ebmishtan",
+        "Kemishtani",
+        "Kmi\u0161tanj",
+        "K\u00ebmishtaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185196
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"db18c421e098c7e7996f15d0e76762c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209651523
+        }
+    ],
+    "wof:id":1209651523,
+    "wof:lastmodified":1537584254,
+    "wof:name":"Kemishtaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63333,
+    40.8925,
+    19.63333,
+    40.8925
+],
+  "geometry": {"coordinates":[19.63333,40.8925],"type":"Point"}
+}

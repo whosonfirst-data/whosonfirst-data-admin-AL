@@ -1,0 +1,82 @@
+{
+  "id": 421187423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80194,41.30417,19.80194,41.30417",
+    "geom:latitude":41.30417,
+    "geom:longitude":19.80194,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Selita e Vog\u00ebl"
+    ],
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3316584,
+    "qs:gn_pop":4,
+    "qs:name":"Selit\u00eb e Vog\u00ebl",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Tiran\u00eb",
+    "qs:photos":289,
+    "qs:photos_1k":59,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":289,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1082804,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":471758,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316584,
+        "gp:id":471758,
+        "qs:id":1082804
+    },
+    "wof:country":"AL",
+    "wof:created":1459009512,
+    "wof:geomhash":"82e5d1ab88f3493807ac94fa9804ecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":421187423,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":421187423,
+    "wof:lastmodified":1505340697,
+    "wof:name":"Selit\u00eb e Vog\u00ebl",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80194,
+    41.30417,
+    19.80194,
+    41.30417
+],
+  "geometry": {"coordinates":[19.80194,41.30417],"type":"Point"}
+}

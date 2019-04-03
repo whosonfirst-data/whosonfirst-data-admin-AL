@@ -1,0 +1,73 @@
+{
+  "id": 1293237341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18167,40.12944,20.18167,40.12944",
+    "geom:latitude":40.12944,
+    "geom:longitude":20.18167,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kellez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782840,
+    "gn:latitude":40.12944,
+    "gn:longitude":20.18167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebll\u00ebz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebll\u00ebs",
+        "K\u00ebllezi",
+        "K\u00ebll\u00ebz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782840
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ee63fdf16b164fc9043be6be685d9444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1293237341,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293237341,
+    "wof:lastmodified":1537584081,
+    "wof:name":"Kellez",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18167,
+    40.12944,
+    20.18167,
+    40.12944
+],
+  "geometry": {"coordinates":[20.18167,40.12944],"type":"Point"}
+}

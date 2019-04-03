@@ -1,0 +1,75 @@
+{
+  "id": 1310532871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08639,41.76583,20.08639,41.76583",
+    "geom:latitude":41.76583,
+    "geom:longitude":20.08639,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Zajs",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781146,
+    "gn:latitude":41.76583,
+    "gn:longitude":20.08639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zajs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zajsi",
+        "Zeis\u00eb",
+        "Zajz",
+        "Zajzi",
+        "Zajs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781146
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7e01314ae0a911f57c2d7fefb9395a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1310532871,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1310532871,
+    "wof:lastmodified":1537583974,
+    "wof:name":"Zajs",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08639,
+    41.76583,
+    20.08639,
+    41.76583
+],
+  "geometry": {"coordinates":[20.08639,41.76583],"type":"Point"}
+}

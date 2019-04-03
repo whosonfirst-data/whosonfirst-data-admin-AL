@@ -1,0 +1,81 @@
+{
+  "id": 1210047599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89111,40.71833,20.89111,40.71833",
+    "geom:latitude":40.71833,
+    "geom:longitude":20.89111,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Burimas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783497,
+    "gn:latitude":40.71833,
+    "gn:longitude":20.89111,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Burimas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043b\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kollob\u00ebrda",
+        "Goloberd\u00eb",
+        "Goloberda",
+        "Burimi",
+        "Gollob\u00ebrdha",
+        "Golloberda",
+        "Gollob\u00ebrd\u00eb",
+        "Burimas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783497
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9b7ea20c80b73e48a7b2031636bc4644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1210047599,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1210047599,
+    "wof:lastmodified":1537584125,
+    "wof:name":"Burimas",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89111,
+    40.71833,
+    20.89111,
+    40.71833
+],
+  "geometry": {"coordinates":[20.89111,40.71833],"type":"Point"}
+}

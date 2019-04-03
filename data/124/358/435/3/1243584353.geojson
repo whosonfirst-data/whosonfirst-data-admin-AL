@@ -1,0 +1,74 @@
+{
+  "id": 1243584353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55028,40.4175,20.55028,40.4175",
+    "geom:latitude":40.4175,
+    "geom:longitude":20.55028,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Clirim",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783412,
+    "gn:latitude":40.4175,
+    "gn:longitude":20.55028,
+    "gn:modification_date":"2012-06-10",
+    "gn:name":"\u00c7lirim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00ebnm\u00ebrtir",
+        "\u00c7lirimi",
+        "\u00c7lirim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783412
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"092875421a750c04f7da9ff8deb13ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1243584353,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1243584353,
+    "wof:lastmodified":1537584119,
+    "wof:name":"Clirim",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55028,
+    40.4175,
+    20.55028,
+    40.4175
+],
+  "geometry": {"coordinates":[20.55028,40.4175],"type":"Point"}
+}

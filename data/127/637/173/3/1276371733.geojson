@@ -1,0 +1,74 @@
+{
+  "id": 1276371733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24361,40.31806,20.24361,40.31806",
+    "geom:latitude":40.31806,
+    "geom:longitude":20.24361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Varibob",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781294,
+    "gn:latitude":40.31806,
+    "gn:longitude":20.24361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Varibob",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varibopi",
+        "Varibop",
+        "Varibodi",
+        "Varibob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781294
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c1607e9e85bb6de7504383cec04bce4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1276371733,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276371733,
+    "wof:lastmodified":1537583985,
+    "wof:name":"Varibob",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24361,
+    40.31806,
+    20.24361,
+    40.31806
+],
+  "geometry": {"coordinates":[20.24361,40.31806],"type":"Point"}
+}

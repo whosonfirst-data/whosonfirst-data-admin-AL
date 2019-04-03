@@ -1,0 +1,78 @@
+{
+  "id": 1327470665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5475,41.34444,19.5475,41.34444",
+    "geom:latitude":41.34444,
+    "geom:longitude":19.5475,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Xhafzotaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3183684,
+    "gn:latitude":41.34444,
+    "gn:longitude":19.5475,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Xhafzotaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzevzotaj",
+        "Xhaf\u00eb Zotaj",
+        "Xhaftozaj",
+        "Xhavzotaj",
+        "Xher\u00ebzotaj",
+        "Xhafzotaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        1108720905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183684,
+        "wk:page":"Xhafzotaj"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"435fb927c330f580755d83a0ce399123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720905,
+            "locality_id":1327470665,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1327470665,
+    "wof:lastmodified":1537584161,
+    "wof:name":"Xhafzotaj",
+    "wof:parent_id":1108720905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5475,
+    41.34444000000001,
+    19.5475,
+    41.34444000000001
+],
+  "geometry": {"coordinates":[19.5475,41.34444000000001],"type":"Point"}
+}

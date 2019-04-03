@@ -1,0 +1,67 @@
+{
+  "id": 1326849135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76689,41.31384,19.76689,41.31384",
+    "geom:latitude":41.31384,
+    "geom:longitude":19.76689,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kombinati",
+    "gn:country_code":"AL",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072821,
+    "gn:latitude":41.31384,
+    "gn:longitude":19.76689,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kombinati",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072821
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c845b8d1d1361d26f890c13a2c839b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1326849135,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1326849135,
+    "wof:lastmodified":1537023361,
+    "wof:name":"Kombinati",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76689,
+    41.31384,
+    19.76689,
+    41.31384
+],
+  "geometry": {"coordinates":[19.76689,41.31384],"type":"Point"}
+}

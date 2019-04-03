@@ -1,0 +1,72 @@
+{
+  "id": 1310039647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75056,40.7625,19.75056,40.7625",
+    "geom:latitude":40.7625,
+    "geom:longitude":19.75056,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ciflik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343825,
+    "gn:latitude":40.7625,
+    "gn:longitude":19.75056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u00c7iflik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ifliku",
+        "\u00c7iflik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343825
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8807ff1988dbb8cd7e35b3dc2e797077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720897,
+            "locality_id":1310039647,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1310039647,
+    "wof:lastmodified":1537584333,
+    "wof:name":"Ciflik",
+    "wof:parent_id":1108720897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75056,
+    40.7625,
+    19.75056,
+    40.7625
+],
+  "geometry": {"coordinates":[19.75056,40.7625],"type":"Point"}
+}

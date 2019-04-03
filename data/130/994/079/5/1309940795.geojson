@@ -1,0 +1,73 @@
+{
+  "id": 1309940795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05722,41.64,20.05722,41.64",
+    "geom:latitude":41.64,
+    "geom:longitude":20.05722,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Burgajet",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783501,
+    "gn:latitude":41.64,
+    "gn:longitude":20.05722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Burgajet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgajeti",
+        "Burgajet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421202751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783501,
+        "wk:page":"Burgajet"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ab464a5b96b42d77271e65a6e6614730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421202751,
+            "locality_id":1309940795,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1309940795,
+    "wof:lastmodified":1537584125,
+    "wof:name":"Burgajet",
+    "wof:parent_id":421202751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05722,
+    41.64,
+    20.05722,
+    41.64
+],
+  "geometry": {"coordinates":[20.05722,41.64],"type":"Point"}
+}

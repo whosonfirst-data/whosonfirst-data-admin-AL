@@ -1,0 +1,78 @@
+{
+  "id": 1293329197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96083,41.05167,19.96083,41.05167",
+    "geom:latitude":41.05167,
+    "geom:longitude":19.96083,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Paper",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184538,
+    "gn:latitude":41.05167,
+    "gn:longitude":19.96083,
+    "gn:modification_date":"2012-05-31",
+    "gn:name":"Pap\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kull\u2019 e Paprit",
+        "Pap\u00ebri",
+        "Kulej-Pap\u00ebri",
+        "Papri",
+        "Kulla Paprit",
+        "Kulej-Pap\u00ebr",
+        "Pap\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184538
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"701692f9cb0e16d9744a6f88b7c3c4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1293329197,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1293329197,
+    "wof:lastmodified":1537584214,
+    "wof:name":"Paper",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96083,
+    41.05167,
+    19.96083,
+    41.05167
+],
+  "geometry": {"coordinates":[19.96083,41.05167],"type":"Point"}
+}

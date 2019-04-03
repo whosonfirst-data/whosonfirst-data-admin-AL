@@ -1,0 +1,72 @@
+{
+  "id": 1259726047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04361,40.63639,20.04361,40.63639",
+    "geom:latitude":40.63639,
+    "geom:longitude":20.04361,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Gradishte",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865137,
+    "gn:latitude":40.63639,
+    "gn:longitude":20.04361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gradisht\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradishta",
+        "Gradisht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865137
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6ccad80cc9b340364207e7a2807f12a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1259726047,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1259726047,
+    "wof:lastmodified":1537584150,
+    "wof:name":"Gradishte",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04361,
+    40.63639000000001,
+    20.04361,
+    40.63639000000001
+],
+  "geometry": {"coordinates":[20.04361,40.63639000000001],"type":"Point"}
+}

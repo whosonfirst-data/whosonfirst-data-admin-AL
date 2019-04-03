@@ -1,0 +1,75 @@
+{
+  "id": 1309747129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.885,42.10194,19.885,42.10194",
+    "geom:latitude":42.10194,
+    "geom:longitude":19.885,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Buzhale",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185941,
+    "gn:latitude":42.10194,
+    "gn:longitude":19.885,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buzhal\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bushala",
+        "Buzhala",
+        "Bushal\u00eb",
+        "Bushalla",
+        "Buzhal\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185941
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7d076477a8e860e58856dedbbee3dd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1309747129,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1309747129,
+    "wof:lastmodified":1537584305,
+    "wof:name":"Buzhale",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.885,
+    42.10194,
+    19.885,
+    42.10194
+],
+  "geometry": {"coordinates":[19.885,42.10194],"type":"Point"}
+}

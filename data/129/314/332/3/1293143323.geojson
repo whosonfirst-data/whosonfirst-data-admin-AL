@@ -1,0 +1,73 @@
+{
+  "id": 1293143323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35361,40.52417,20.35361,40.52417",
+    "geom:latitude":40.52417,
+    "geom:longitude":20.35361,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bersake",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783602,
+    "gn:latitude":40.52417,
+    "gn:longitude":20.35361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bersak\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birsak\u00eb",
+        "Bisaca",
+        "Bersak\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783602
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a166a1c650a06bea85fa31b1c28b38a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1293143323,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293143323,
+    "wof:lastmodified":1537584133,
+    "wof:name":"Bersake",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35361,
+    40.52417,
+    20.35361,
+    40.52417
+],
+  "geometry": {"coordinates":[20.35361,40.52417],"type":"Point"}
+}

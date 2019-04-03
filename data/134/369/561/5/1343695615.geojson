@@ -1,0 +1,78 @@
+{
+  "id": 1343695615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71222,40.88472,20.71222,40.88472",
+    "geom:latitude":40.88472,
+    "geom:longitude":20.71222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gurras",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781151,
+    "gn:latitude":40.88472,
+    "gn:longitude":20.71222,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Gurras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zagori\u00e7an",
+        "Gurrasi",
+        "Zagori\u00e7ani",
+        "Zagor\u00e7ani",
+        "Gurras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781151
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4765ea7a821b83bd498b1d6993249e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1343695615,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343695615,
+    "wof:lastmodified":1537583975,
+    "wof:name":"Gurras",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71222,
+    40.88472,
+    20.71222,
+    40.88472
+],
+  "geometry": {"coordinates":[20.71222,40.88472],"type":"Point"}
+}

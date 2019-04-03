@@ -1,0 +1,72 @@
+{
+  "id": 1293540767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92639,40.75806,19.92639,40.75806",
+    "geom:latitude":40.75806,
+    "geom:longitude":19.92639,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Milonje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343861,
+    "gn:latitude":40.75806,
+    "gn:longitude":19.92639,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Milonj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milonja",
+        "Milonj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343861
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e6c4ba161d9a2805c40f136e1c43aea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1293540767,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293540767,
+    "wof:lastmodified":1537584334,
+    "wof:name":"Milonje",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92639,
+    40.75806,
+    19.92639,
+    40.75806
+],
+  "geometry": {"coordinates":[19.92639,40.75806],"type":"Point"}
+}

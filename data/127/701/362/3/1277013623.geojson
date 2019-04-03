@@ -1,0 +1,72 @@
+{
+  "id": 1277013623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75,42.1,19.75,42.1",
+    "geom:latitude":42.1,
+    "geom:longitude":19.75,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Arrez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186178,
+    "gn:latitude":42.1,
+    "gn:longitude":19.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Arr\u00ebz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arr\u00ebza",
+        "Arr\u00ebz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186178
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"77e910e9db5a80924c190a0fef677400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720909,
+            "locality_id":1277013623,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1277013623,
+    "wof:lastmodified":1537584320,
+    "wof:name":"Arrez",
+    "wof:parent_id":1108720909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75,
+    42.1,
+    19.75,
+    42.1
+],
+  "geometry": {"coordinates":[19.75,42.1],"type":"Point"}
+}

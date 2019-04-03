@@ -1,0 +1,72 @@
+{
+  "id": 1276481085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0875,40.1425,20.0875,40.1425",
+    "geom:latitude":40.1425,
+    "geom:longitude":20.0875,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Cepune",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783447,
+    "gn:latitude":40.1425,
+    "gn:longitude":20.0875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7epun\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7epuna",
+        "\u00c7epun\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783447
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7bd7dfc89d4dedf6cbb6990bf4808596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1276481085,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276481085,
+    "wof:lastmodified":1537584122,
+    "wof:name":"Cepune",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0875,
+    40.1425,
+    20.0875,
+    40.1425
+],
+  "geometry": {"coordinates":[20.0875,40.1425],"type":"Point"}
+}

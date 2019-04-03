@@ -1,0 +1,67 @@
+{
+  "id": 1226586479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89472,40.83694,19.89472,40.83694",
+    "geom:latitude":40.83694,
+    "geom:longitude":19.89472,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Fier-Cifci",
+    "gn:country_code":"AL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185671,
+    "gn:latitude":40.83694,
+    "gn:longitude":19.89472,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Fier-\u00c7if\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185671
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"29dc7a3c595353de7a585cf98af8750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1226586479,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1226586479,
+    "wof:lastmodified":1536942346,
+    "wof:name":"Fier-Cifci",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89472,
+    40.83694000000001,
+    19.89472,
+    40.83694000000001
+],
+  "geometry": {"coordinates":[19.89472,40.83694000000001],"type":"Point"}
+}

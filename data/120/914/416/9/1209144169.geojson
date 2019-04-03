@@ -1,0 +1,68 @@
+{
+  "id": 1209144169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30167,40.4875,20.30167,40.4875",
+    "geom:latitude":40.4875,
+    "geom:longitude":20.30167,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Qafe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781907,
+    "gn:latitude":40.4875,
+    "gn:longitude":20.30167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaf\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciafa",
+        "Qafa",
+        "Qaf\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781907,
+        "wk:page":"Qafa"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"aef3c913bf935b531a1049f1041f315e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209144169
+        }
+    ],
+    "wof:id":1209144169,
+    "wof:lastmodified":1537584026,
+    "wof:name":"Qafe",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30167,
+    40.4875,
+    20.30167,
+    40.4875
+],
+  "geometry": {"coordinates":[20.30167,40.4875],"type":"Point"}
+}

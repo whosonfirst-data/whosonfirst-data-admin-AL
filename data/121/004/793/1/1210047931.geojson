@@ -1,0 +1,73 @@
+{
+  "id": 1210047931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50278,40.9475,20.50278,40.9475",
+    "geom:latitude":40.9475,
+    "geom:longitude":20.50278,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Slabinje",
+    "gn:country_code":"AL",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781569,
+    "gn:latitude":40.9475,
+    "gn:longitude":20.50278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Slabinj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slabinja",
+        "Sllabinj\u00eb",
+        "Sllabinja",
+        "Slabinj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781569
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c60a912abdc749e40bfba6ab214fd1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1210047931,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1210047931,
+    "wof:lastmodified":1537584003,
+    "wof:name":"Slabinje",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50278,
+    40.9475,
+    20.50278,
+    40.9475
+],
+  "geometry": {"coordinates":[20.50278,40.9475],"type":"Point"}
+}

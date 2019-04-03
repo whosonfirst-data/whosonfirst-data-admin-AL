@@ -1,0 +1,72 @@
+{
+  "id": 1276160471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83194,41.54944,19.83194,41.54944",
+    "geom:latitude":41.54944,
+    "geom:longitude":19.83194,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shkrete",
+    "gn:country_code":"AL",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184072,
+    "gn:latitude":41.54944,
+    "gn:longitude":19.83194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shkret\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shkreta",
+        "Shkreti",
+        "Shkret\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184072
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"258cfb0fc0d6532bbc0fa4a26288ef43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1276160471,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1276160471,
+    "wof:lastmodified":1537584182,
+    "wof:name":"Shkrete",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83194,
+    41.54944,
+    19.83194,
+    41.54944
+],
+  "geometry": {"coordinates":[19.83194,41.54944],"type":"Point"}
+}

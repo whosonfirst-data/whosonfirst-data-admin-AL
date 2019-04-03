@@ -1,0 +1,75 @@
+{
+  "id": 1276474157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1375,40.43194,20.1375,40.43194",
+    "geom:latitude":40.43194,
+    "geom:longitude":20.1375,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Vinokash",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781221,
+    "gn:latitude":40.43194,
+    "gn:longitude":20.1375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vinokash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinokashi-Fush\u00eb",
+        "Vinokashi i Dyt\u00eb",
+        "Vinokashi II",
+        "Vinokash i Dyt\u00eb",
+        "Vinokash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781221
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8aca3def326110c8324bc21ad8185de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1276474157,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276474157,
+    "wof:lastmodified":1537583981,
+    "wof:name":"Vinokash",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1375,
+    40.43194,
+    20.1375,
+    40.43194
+],
+  "geometry": {"coordinates":[20.1375,40.43194],"type":"Point"}
+}

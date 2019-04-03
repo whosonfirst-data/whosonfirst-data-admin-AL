@@ -1,0 +1,75 @@
+{
+  "id": 1242714417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64667,40.35333,20.64667,40.35333",
+    "geom:latitude":40.35333,
+    "geom:longitude":20.64667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lengez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782562,
+    "gn:latitude":40.35333,
+    "gn:longitude":20.64667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00ebng\u00ebz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leng\u00ebsa",
+        "Lang\u00eb",
+        "Leng\u00ebza",
+        "Leng\u00ebz\u00eb",
+        "L\u00ebng\u00ebz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782562
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"60681f6e4e99eb4a863984f7334b82ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1242714417,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1242714417,
+    "wof:lastmodified":1537584065,
+    "wof:name":"Lengez",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64667,
+    40.35333,
+    20.64667,
+    40.35333
+],
+  "geometry": {"coordinates":[20.64667,40.35333],"type":"Point"}
+}

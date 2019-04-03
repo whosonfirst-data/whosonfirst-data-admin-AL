@@ -1,0 +1,67 @@
+{
+  "id": 1226571523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24611,40.93111,20.24611,40.93111",
+    "geom:latitude":40.93111,
+    "geom:longitude":20.24611,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Maliben",
+    "gn:country_code":"AL",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782401,
+    "gn:latitude":40.93111,
+    "gn:longitude":20.24611,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Maliben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782401
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c4cf2e176523b7a39229751b917f7f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1226571523,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226571523,
+    "wof:lastmodified":1536961960,
+    "wof:name":"Maliben",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24611,
+    40.93111,
+    20.24611,
+    40.93111
+],
+  "geometry": {"coordinates":[20.24611,40.93111],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360116193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7,40.46667,19.7,40.46667",
+    "geom:latitude":40.46667,
+    "geom:longitude":19.7,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kacarat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185324,
+    "gn:latitude":40.46667,
+    "gn:longitude":19.7,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ka\u00e7arat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caciart",
+        "Kasharati",
+        "Ka\u010darat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185324
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"98272ccf886f2c8d5e0cdb79c157134e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1360116193,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1360116193,
+    "wof:lastmodified":1537584262,
+    "wof:name":"Kacarat",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7,
+    40.46667,
+    19.7,
+    40.46667
+],
+  "geometry": {"coordinates":[19.7,40.46667],"type":"Point"}
+}

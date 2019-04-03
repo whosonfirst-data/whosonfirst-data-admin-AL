@@ -1,0 +1,75 @@
+{
+  "id": 1293717869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7675,41.5475,19.7675,41.5475",
+    "geom:latitude":41.5475,
+    "geom:longitude":19.7675,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bret",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185977,
+    "gn:latitude":41.5475,
+    "gn:longitude":19.7675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tom",
+        "Mbret",
+        "Breti",
+        "Brreti",
+        "Bret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185977
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"070bab202381663861406ef4ea17848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1293717869,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1293717869,
+    "wof:lastmodified":1537584307,
+    "wof:name":"Bret",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7675,
+    41.5475,
+    19.7675,
+    41.5475
+],
+  "geometry": {"coordinates":[19.7675,41.5475],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242907427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22056,40.335,20.22056,40.335",
+    "geom:latitude":40.335,
+    "geom:longitude":20.22056,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Shtike",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865145,
+    "gn:latitude":40.335,
+    "gn:longitude":20.22056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shtik\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shtika",
+        "Shtik\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865145
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f5fc732ac2f65a17b0971530c0be9286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1242907427,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1242907427,
+    "wof:lastmodified":1537584151,
+    "wof:name":"Shtike",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22056,
+    40.335,
+    20.22056,
+    40.335
+],
+  "geometry": {"coordinates":[20.22056,40.335],"type":"Point"}
+}

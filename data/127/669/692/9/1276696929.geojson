@@ -1,0 +1,77 @@
+{
+  "id": 1276696929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48944,41.56278,20.48944,41.56278",
+    "geom:latitude":41.56278,
+    "geom:longitude":20.48944,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bllata e Eperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783586,
+    "gn:latitude":41.56278,
+    "gn:longitude":20.48944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bllata e Ep\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornje Blato",
+        "Bllat\u00eb e Ep\u00ebrme",
+        "Bllata e Ep\u00eb",
+        "Bllat\u00eb e Ep\u00ebr",
+        "Bllat\u00eb e Sip\u00ebrme",
+        "Bllata e Ep\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783586,
+        "wk:page":"Bllat%C3%AB_e_Sip%C3%ABrme"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a8fc7486c1599bb4e5e316f0fee65b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1276696929,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276696929,
+    "wof:lastmodified":1537584132,
+    "wof:name":"Bllata e Eperme",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48944,
+    41.56278,
+    20.48944,
+    41.56278
+],
+  "geometry": {"coordinates":[20.48944,41.56278],"type":"Point"}
+}

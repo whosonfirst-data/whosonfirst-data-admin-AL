@@ -1,0 +1,76 @@
+{
+  "id": 1242814531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69028,41.15222,19.69028,41.15222",
+    "geom:latitude":41.15222,
+    "geom:longitude":19.69028,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Mlik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184693,
+    "gn:latitude":41.15222,
+    "gn:longitude":19.69028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlika",
+        "Melik",
+        "Millaj",
+        "Mliku",
+        "Mlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184693,
+        "wk:page":"Mlik"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"033abd8ba3e0cffc0e3cc3b9f13c0e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1242814531,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1242814531,
+    "wof:lastmodified":1537584224,
+    "wof:name":"Mlik",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69028,
+    41.15222,
+    19.69028,
+    41.15222
+],
+  "geometry": {"coordinates":[19.69028,41.15222],"type":"Point"}
+}

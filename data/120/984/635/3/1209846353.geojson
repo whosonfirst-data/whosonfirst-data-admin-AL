@@ -1,0 +1,75 @@
+{
+  "id": 1209846353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19333,42.40806,20.19333,42.40806",
+    "geom:latitude":42.40806,
+    "geom:longitude":20.19333,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Kasaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782859,
+    "gn:latitude":42.40806,
+    "gn:longitude":20.19333,
+    "gn:modification_date":"2012-05-21",
+    "gn:name":"Kasaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasai",
+        "Ko\u00e7aj",
+        "Kacaj",
+        "Kasaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782859
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0a497cefe3f94abe061c2187dee86311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1209846353,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1209846353,
+    "wof:lastmodified":1537584082,
+    "wof:name":"Kasaj",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19333,
+    42.40806,
+    20.19333,
+    42.40806
+],
+  "geometry": {"coordinates":[20.19333,42.40806],"type":"Point"}
+}

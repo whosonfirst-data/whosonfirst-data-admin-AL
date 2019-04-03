@@ -1,0 +1,72 @@
+{
+  "id": 1225878581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67583,40.67639,19.67583,40.67639",
+    "geom:latitude":40.67639,
+    "geom:longitude":19.67583,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Rusinje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184232,
+    "gn:latitude":40.67639,
+    "gn:longitude":19.67583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rusinj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusinja",
+        "Rusinj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184232
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e7f2a4a7d2e8c603f0410bed478e108e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720887,
+            "locality_id":1225878581,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1225878581,
+    "wof:lastmodified":1537584193,
+    "wof:name":"Rusinje",
+    "wof:parent_id":1108720887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67583,
+    40.67639000000001,
+    19.67583,
+    40.67639000000001
+],
+  "geometry": {"coordinates":[19.67583,40.67639000000001],"type":"Point"}
+}

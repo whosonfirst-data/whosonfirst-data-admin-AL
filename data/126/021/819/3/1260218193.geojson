@@ -1,0 +1,72 @@
+{
+  "id": 1260218193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53528,40.24417,20.53528,40.24417",
+    "geom:latitude":40.24417,
+    "geom:longitude":20.53528,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Peshtan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782059,
+    "gn:latitude":40.24417,
+    "gn:longitude":20.53528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Peshtan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peshtani",
+        "Peshtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782059
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b4cdf90164338d0c96780c09e331f2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1260218193,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260218193,
+    "wof:lastmodified":1537584036,
+    "wof:name":"Peshtan",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53528,
+    40.24417,
+    20.53528,
+    40.24417
+],
+  "geometry": {"coordinates":[20.53528,40.24417],"type":"Point"}
+}

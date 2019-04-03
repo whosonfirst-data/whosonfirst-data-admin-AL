@@ -1,0 +1,76 @@
+{
+  "id": 1344193541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79639,41.68861,19.79639,41.68861",
+    "geom:latitude":41.68861,
+    "geom:longitude":19.79639,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Vau i Shkjezes",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183806,
+    "gn:latitude":41.68861,
+    "gn:longitude":19.79639,
+    "gn:modification_date":"2011-08-20",
+    "gn:name":"Vau i Shkjez\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Va i Shkjez\u00ebs",
+        "Vau i Skjezs",
+        "Va-Shkjeze",
+        "Vau-Shkjez\u00ebs",
+        "Va i Shkjes\u00ebs",
+        "Vau i Shkjez\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183806
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b21fae429bbfad0d8c259ff2ae180480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1344193541,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1344193541,
+    "wof:lastmodified":1537584169,
+    "wof:name":"Vau i Shkjezes",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79639,
+    41.68861,
+    19.79639,
+    41.68861
+],
+  "geometry": {"coordinates":[19.79639,41.68861],"type":"Point"}
+}

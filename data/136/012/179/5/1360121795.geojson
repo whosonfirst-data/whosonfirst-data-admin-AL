@@ -1,0 +1,67 @@
+{
+  "id": 1360121795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.625,42.03194,19.625,42.03194",
+    "geom:latitude":42.03194,
+    "geom:longitude":19.625,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mahalla e Haxhareve",
+    "gn:country_code":"AL",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205186,
+    "gn:latitude":42.03194,
+    "gn:longitude":19.625,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Mahalla e Haxhareve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205186
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1c548383f218c5be1f85532498b3ae90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1360121795,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1360121795,
+    "wof:lastmodified":1536892270,
+    "wof:name":"Mahalla e Haxhareve",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.625,
+    42.03194000000001,
+    19.625,
+    42.03194000000001
+],
+  "geometry": {"coordinates":[19.625,42.03194000000001],"type":"Point"}
+}

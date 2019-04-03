@@ -1,0 +1,76 @@
+{
+  "id": 1226178499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01,40.6025,21.01,40.6025",
+    "geom:latitude":40.6025,
+    "geom:longitude":21.01,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kapshtice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782874,
+    "gn:latitude":40.6025,
+    "gn:longitude":21.01,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kapshtic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapshtica",
+        "Kap\u00ebrshtica",
+        "Kap\u00ebshtica",
+        "Kap\u00ebshtic\u00eb",
+        "Kapshtic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782874,
+        "wk:page":"Kapshtic%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ed3ed82547bc74b70456c35494bebd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1226178499,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226178499,
+    "wof:lastmodified":1537584083,
+    "wof:name":"Kapshtice",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01,
+    40.6025,
+    21.01,
+    40.6025
+],
+  "geometry": {"coordinates":[21.01,40.6025],"type":"Point"}
+}

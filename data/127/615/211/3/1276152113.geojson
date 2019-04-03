@@ -1,0 +1,74 @@
+{
+  "id": 1276152113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31306,40.34,20.31306,40.34",
+    "geom:latitude":40.34,
+    "geom:longitude":20.31306,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Raban",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781855,
+    "gn:latitude":40.34,
+    "gn:longitude":20.31306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Raban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raban-Pagri",
+        "Raban-Pagrija",
+        "Raban-Pagria",
+        "Raban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781855
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"814c192c9395df502fe3e2245a3e789c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1276152113,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276152113,
+    "wof:lastmodified":1537584022,
+    "wof:name":"Raban",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31306,
+    40.34,
+    20.31306,
+    40.34
+],
+  "geometry": {"coordinates":[20.31306,40.34],"type":"Point"}
+}

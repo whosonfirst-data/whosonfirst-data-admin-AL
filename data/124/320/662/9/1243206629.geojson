@@ -1,0 +1,74 @@
+{
+  "id": 1243206629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28333,41.91667,20.28333,41.91667",
+    "geom:latitude":41.91667,
+    "geom:longitude":20.28333,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Tejmolle",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781448,
+    "gn:latitude":41.91667,
+    "gn:longitude":20.28333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Tejmoll\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tejmolla",
+        "Tej-Mehalla",
+        "Tejmall\u00eb",
+        "Tejmalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781448
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"084804985d3d58a3f7aeeb34cc4b43de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1243206629,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1243206629,
+    "wof:lastmodified":1537583995,
+    "wof:name":"Tejmolle",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28333,
+    41.91667,
+    20.28333,
+    41.91667
+],
+  "geometry": {"coordinates":[20.28333,41.91667],"type":"Point"}
+}

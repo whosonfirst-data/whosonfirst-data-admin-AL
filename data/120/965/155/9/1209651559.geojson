@@ -1,0 +1,70 @@
+{
+  "id": 1209651559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.945,41.37222,19.945,41.37222",
+    "geom:latitude":41.37222,
+    "geom:longitude":19.945,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Shengjini i Vogel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184132,
+    "gn:latitude":41.37222,
+    "gn:longitude":19.945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebngjini i Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00ebn Gjin i Keq",
+        "Sh\u00ebngjin i Vog\u00ebl",
+        "Shingjini i Vog\u00ebl",
+        "Shengjini",
+        "Sh\u00ebngjini i Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184132,
+        "wk:page":"Sh%C3%ABngjin_i_Vog%C3%ABl"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f63397419013a73484b4452e29fe69dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209651559
+        }
+    ],
+    "wof:id":1209651559,
+    "wof:lastmodified":1537584186,
+    "wof:name":"Shengjini i Vogel",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.945,
+    41.37222,
+    19.945,
+    41.37222
+],
+  "geometry": {"coordinates":[19.945,41.37222],"type":"Point"}
+}

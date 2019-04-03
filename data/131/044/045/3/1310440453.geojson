@@ -1,0 +1,77 @@
+{
+  "id": 1310440453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91417,40.60833,20.91417,40.60833",
+    "geom:latitude":40.60833,
+    "geom:longitude":20.91417,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Hocisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782980,
+    "gn:latitude":40.60833,
+    "gn:longitude":20.91417,
+    "gn:modification_date":"2012-06-09",
+    "gn:name":"Ho\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hochishte",
+        "Hocishtit",
+        "Ho\u00e7ishti",
+        "Ho\u00e7isht\u00eb",
+        "Ho\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782980,
+        "wk:page":"Ho%C3%A7isht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0c3e17d9aa66ff4bfa52430c1784e462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1310440453,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310440453,
+    "wof:lastmodified":1537584090,
+    "wof:name":"Hocisht",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91417,
+    40.60833,
+    20.91417,
+    40.60833
+],
+  "geometry": {"coordinates":[20.91417,40.60833],"type":"Point"}
+}

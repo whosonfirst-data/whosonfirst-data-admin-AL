@@ -1,0 +1,75 @@
+{
+  "id": 1310532461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81,41.47722,19.81,41.47722",
+    "geom:latitude":41.47722,
+    "geom:longitude":19.81,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Barkanesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186117,
+    "gn:latitude":41.47722,
+    "gn:longitude":19.81,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barkanesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burkaneshi",
+        "Barkaneshi",
+        "Berkaneshi",
+        "Barkaneci",
+        "Barkanesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186117
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"43c057af03051664214ae03396b5d12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1310532461,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1310532461,
+    "wof:lastmodified":1537584316,
+    "wof:name":"Barkanesh",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81,
+    41.47722,
+    19.81,
+    41.47722
+],
+  "geometry": {"coordinates":[19.81,41.47722],"type":"Point"}
+}

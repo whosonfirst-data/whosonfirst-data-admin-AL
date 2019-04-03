@@ -1,0 +1,77 @@
+{
+  "id": 1276581815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16556,40.40278,20.16556,40.40278",
+    "geom:latitude":40.40278,
+    "geom:longitude":20.16556,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Rodenj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781803,
+    "gn:latitude":40.40278,
+    "gn:longitude":20.16556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rodenj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodenja",
+        "Rodenji",
+        "Rodin",
+        "Rodenje",
+        "Radenj",
+        "Roden",
+        "Rodenj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781803
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"36517113272a57b40cd7ab24abee9038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1276581815,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276581815,
+    "wof:lastmodified":1537584018,
+    "wof:name":"Rodenj",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16556,
+    40.40278,
+    20.16556,
+    40.40278
+],
+  "geometry": {"coordinates":[20.16556,40.40278],"type":"Point"}
+}

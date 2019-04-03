@@ -1,0 +1,74 @@
+{
+  "id": 1343490611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40861,40.25472,20.40861,40.25472",
+    "geom:latitude":40.25472,
+    "geom:longitude":20.40861,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Novosele",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782162,
+    "gn:latitude":40.25472,
+    "gn:longitude":20.40861,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Novosel\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novosela",
+        "Navosela",
+        "Novosella",
+        "Novozel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782162
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d355f7164bd7b6b2c7b51fd1f9e5b80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1343490611,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1343490611,
+    "wof:lastmodified":1537584042,
+    "wof:name":"Novosele",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40861,
+    40.25472,
+    20.40861,
+    40.25472
+],
+  "geometry": {"coordinates":[20.40861,40.25472],"type":"Point"}
+}

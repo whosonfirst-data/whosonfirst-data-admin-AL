@@ -1,0 +1,72 @@
+{
+  "id": 1310339441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46806,40.885,20.46806,40.885",
+    "geom:latitude":40.885,
+    "geom:longitude":20.46806,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zgallo",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865012,
+    "gn:latitude":40.885,
+    "gn:longitude":20.46806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zgallo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgall\u00eb",
+        "Zgallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865012
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"274716c91a06bd739db58b410b329892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1310339441,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310339441,
+    "wof:lastmodified":1537584146,
+    "wof:name":"Zgallo",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46806,
+    40.885,
+    20.46806,
+    40.885
+],
+  "geometry": {"coordinates":[20.46806,40.885],"type":"Point"}
+}

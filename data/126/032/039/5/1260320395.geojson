@@ -1,0 +1,76 @@
+{
+  "id": 1260320395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7325,41.29917,19.7325,41.29917",
+    "geom:latitude":41.29917,
+    "geom:longitude":19.7325,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Lalm",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184995,
+    "gn:latitude":41.29917,
+    "gn:longitude":19.7325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lalm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lajmi",
+        "Lalmi",
+        "Lalme",
+        "Lalemi",
+        "Ljaljmi",
+        "Lalm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184995
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ea4950fe5d3281431078f9eec58dd52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1260320395,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1260320395,
+    "wof:lastmodified":1537584243,
+    "wof:name":"Lalm",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7325,
+    41.29917,
+    19.7325,
+    41.29917
+],
+  "geometry": {"coordinates":[19.7325,41.29917],"type":"Point"}
+}

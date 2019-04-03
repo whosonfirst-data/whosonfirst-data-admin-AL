@@ -1,0 +1,67 @@
+{
+  "id": 1310148331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00444,40.87639,20.00444,40.87639",
+    "geom:latitude":40.87639,
+    "geom:longitude":20.00444,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bregu-Leckes",
+    "gn:country_code":"AL",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865044,
+    "gn:latitude":40.87639,
+    "gn:longitude":20.00444,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Bregu-Leck\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865044
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f152a24d31374a12724bde0b2c1d5879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1310148331,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1310148331,
+    "wof:lastmodified":1536935605,
+    "wof:name":"Bregu-Leckes",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00444,
+    40.87639,
+    20.00444,
+    40.87639
+],
+  "geometry": {"coordinates":[20.00444,40.87639],"type":"Point"}
+}

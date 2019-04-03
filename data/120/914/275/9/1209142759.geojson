@@ -1,0 +1,61 @@
+{
+  "id": 1209142759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.745,40.67139,19.745,40.67139",
+    "geom:latitude":40.67139,
+    "geom:longitude":19.745,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Benkollaret",
+    "gn:country_code":"AL",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343919,
+    "gn:latitude":40.67139,
+    "gn:longitude":19.745,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Benkollar\u00ebt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343919
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"efde314bb11d319961924c8079f56f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209142759
+        }
+    ],
+    "wof:id":1209142759,
+    "wof:lastmodified":1536296451,
+    "wof:name":"Benkollaret",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.745,
+    40.67139,
+    19.745,
+    40.67139
+],
+  "geometry": {"coordinates":[19.745,40.67139],"type":"Point"}
+}

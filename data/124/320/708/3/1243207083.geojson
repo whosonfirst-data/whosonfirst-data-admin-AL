@@ -1,0 +1,67 @@
+{
+  "id": 1243207083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32722,40.94917,20.32722,40.94917",
+    "geom:latitude":40.94917,
+    "geom:longitude":20.32722,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Drrase",
+    "gn:country_code":"AL",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865016,
+    "gn:latitude":40.94917,
+    "gn:longitude":20.32722,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Drras\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865016
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"be27b0c2bee6c781e01d28121c6830a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1243207083,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1243207083,
+    "wof:lastmodified":1536653639,
+    "wof:name":"Drrase",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32722,
+    40.94917,
+    20.32722,
+    40.94917
+],
+  "geometry": {"coordinates":[20.32722,40.94917],"type":"Point"}
+}

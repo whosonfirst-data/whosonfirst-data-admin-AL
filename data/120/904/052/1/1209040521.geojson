@@ -1,0 +1,67 @@
+{
+  "id": 1209040521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39556,41.80806,20.39556,41.80806",
+    "geom:latitude":41.80806,
+    "geom:longitude":20.39556,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ratke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781821,
+    "gn:latitude":41.80806,
+    "gn:longitude":20.39556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ratk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ratkaj",
+        "Ratcaj",
+        "Ratk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781821
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d94241153366d6b2200d523f12b4243a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209040521
+        }
+    ],
+    "wof:id":1209040521,
+    "wof:lastmodified":1537584020,
+    "wof:name":"Ratke",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39556,
+    41.80806,
+    20.39556,
+    41.80806
+],
+  "geometry": {"coordinates":[20.39556,41.80806],"type":"Point"}
+}

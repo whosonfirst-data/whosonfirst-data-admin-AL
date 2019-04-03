@@ -1,0 +1,78 @@
+{
+  "id": 1310042071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37861,40.37806,20.37861,40.37806",
+    "geom:latitude":40.37806,
+    "geom:longitude":20.37861,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Soropull",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781470,
+    "gn:latitude":40.37806,
+    "gn:longitude":20.37861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soropull",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siropul\u00eb",
+        "Surropul",
+        "Seropull",
+        "Suropulli",
+        "Suropuli",
+        "Suropull",
+        "Seropulli",
+        "Soropull"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781470
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb08ae448158dc3132130850f35aeb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1310042071,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310042071,
+    "wof:lastmodified":1537583996,
+    "wof:name":"Soropull",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37861,
+    40.37806,
+    20.37861,
+    40.37806
+],
+  "geometry": {"coordinates":[20.37861,40.37806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293327285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93139,42.08833,19.93139,42.08833",
+    "geom:latitude":42.08833,
+    "geom:longitude":19.93139,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mece",
+    "gn:country_code":"AL",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184752,
+    "gn:latitude":42.08833,
+    "gn:longitude":19.93139,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Me\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184752
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5088fabefa642cf7f5b46a23d2a84da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1293327285,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293327285,
+    "wof:lastmodified":1537017312,
+    "wof:name":"Mece",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93139,
+    42.08833,
+    19.93139,
+    42.08833
+],
+  "geometry": {"coordinates":[19.93139,42.08833],"type":"Point"}
+}

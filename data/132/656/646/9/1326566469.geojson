@@ -1,0 +1,81 @@
+{
+  "id": 1326566469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.68694,41.84889,19.68694,41.84889",
+    "geom:latitude":41.84889,
+    "geom:longitude":19.68694,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kallmeti i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185289,
+    "gn:latitude":41.84889,
+    "gn:longitude":19.68694,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Kallmeti i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calmeti",
+        "Kallmeti i Math",
+        "Kallmet i Math",
+        "Kallheti i Math",
+        "Kalmet",
+        "Kallmeti",
+        "Kallmet",
+        "Kallmet i Madh",
+        "Kallmeti i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185289,
+        "wk:page":"Kallmet_i_Madh"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"875ba4f1e17424ddd15e2b005efac728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1326566469,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1326566469,
+    "wof:lastmodified":1537584260,
+    "wof:name":"Kallmeti i Madh",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.68694,
+    41.84889,
+    19.68694,
+    41.84889
+],
+  "geometry": {"coordinates":[19.68694,41.84889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209251005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12861,40.89972,20.12861,40.89972",
+    "geom:latitude":40.89972,
+    "geom:longitude":20.12861,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Zgjupe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781102,
+    "gn:latitude":40.89972,
+    "gn:longitude":20.12861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zgjup\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgjupi",
+        "Zgjuba",
+        "Zgjup",
+        "Zgjub\u00eb",
+        "Zeboj\u00eb",
+        "Zgjupa",
+        "Zgjup\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781102
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"42e27b4c09aa1a1e0bed469665e9e019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209251005
+        }
+    ],
+    "wof:id":1209251005,
+    "wof:lastmodified":1537583971,
+    "wof:name":"Zgjupe",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12861,
+    40.89972,
+    20.12861,
+    40.89972
+],
+  "geometry": {"coordinates":[20.12861,40.89972],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309939741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04806,40.31556,20.04806,40.31556",
+    "geom:latitude":40.31556,
+    "geom:longitude":20.04806,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Malas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865196,
+    "gn:latitude":40.31556,
+    "gn:longitude":20.04806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Malas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malasi",
+        "Malas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865196
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f9384ef1e06111111c8a0c002f849382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1309939741,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1309939741,
+    "wof:lastmodified":1537584152,
+    "wof:name":"Malas",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04806,
+    40.31556,
+    20.04806,
+    40.31556
+],
+  "geometry": {"coordinates":[20.04806,40.31556],"type":"Point"}
+}

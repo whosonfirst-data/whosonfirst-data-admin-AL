@@ -1,0 +1,75 @@
+{
+  "id": 1310136967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50167,40.53028,19.50167,40.53028",
+    "geom:latitude":40.53028,
+    "geom:longitude":19.50167,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kerkove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185186,
+    "gn:latitude":40.53028,
+    "gn:longitude":19.50167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebrkov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chercova",
+        "Grkov",
+        "Kerkovi",
+        "K\u00ebrkova",
+        "K\u00ebrkov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421193353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185186
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8b1a66f5064985072643d5fc20ef2e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193353,
+            "locality_id":1310136967,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1310136967,
+    "wof:lastmodified":1537584254,
+    "wof:name":"Kerkove",
+    "wof:parent_id":421193353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50167,
+    40.53028,
+    19.50167,
+    40.53028
+],
+  "geometry": {"coordinates":[19.50167,40.53028],"type":"Point"}
+}

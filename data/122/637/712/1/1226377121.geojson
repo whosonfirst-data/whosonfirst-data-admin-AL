@@ -1,0 +1,74 @@
+{
+  "id": 1226377121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2275,40.73028,20.2275,40.73028",
+    "geom:latitude":40.73028,
+    "geom:longitude":20.2275,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kotke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782728,
+    "gn:latitude":40.73028,
+    "gn:longitude":20.2275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kotk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashtaj",
+        "Kutk\u00eb",
+        "Kotka",
+        "Kotk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782728
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fc2d771e4875a30e418dca2b98e2081e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1226377121,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226377121,
+    "wof:lastmodified":1537584075,
+    "wof:name":"Kotke",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2275,
+    40.73028,
+    20.2275,
+    40.73028
+],
+  "geometry": {"coordinates":[20.2275,40.73028],"type":"Point"}
+}

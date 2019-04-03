@@ -1,0 +1,80 @@
+{
+  "id": 1242608779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5275,40.84889,19.5275,40.84889",
+    "geom:latitude":40.84889,
+    "geom:longitude":19.5275,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Agim",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185831,
+    "gn:latitude":40.84889,
+    "gn:longitude":19.5275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agimi",
+        "Daullas",
+        "Daullas Minos",
+        "Daullasi",
+        "Daullasa",
+        "Daullar\u00eb",
+        "Daullas\u00eb",
+        "Daulas",
+        "\u00c7ifligu i Madh",
+        "Agim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185831
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c87528c02cbbdc13cdb84299650424ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1242608779,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1242608779,
+    "wof:lastmodified":1537584297,
+    "wof:name":"Agim",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5275,
+    40.84889,
+    19.5275,
+    40.84889
+],
+  "geometry": {"coordinates":[19.5275,40.84889],"type":"Point"}
+}

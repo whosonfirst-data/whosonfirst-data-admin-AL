@@ -1,0 +1,79 @@
+{
+  "id": 1309748237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77,41.81778,19.77,41.81778",
+    "geom:latitude":41.81778,
+    "geom:longitude":19.77,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Rreja e Veles",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184322,
+    "gn:latitude":41.81778,
+    "gn:longitude":19.77,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rreja e Vel\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reja e Veles",
+        "Rrej\u00eb e Velj\u00ebs",
+        "Reja Vel\u00ebs",
+        "Rej\u00eb e Vel\u00ebs",
+        "Reja e Velj\u00ebs",
+        "Rej e Veljs",
+        "Rej\u00eb-e Velj\u00ebs",
+        "Rreja e Velj\u00ebs",
+        "Rreja e Vel\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184322
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c8cc9c730b76d71d4f2dc11f584bda1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1309748237,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1309748237,
+    "wof:lastmodified":1537584199,
+    "wof:name":"Rreja e Veles",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77,
+    41.81778,
+    19.77,
+    41.81778
+],
+  "geometry": {"coordinates":[19.77,41.81778],"type":"Point"}
+}

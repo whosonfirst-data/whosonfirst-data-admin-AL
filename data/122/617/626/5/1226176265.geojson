@@ -1,0 +1,78 @@
+{
+  "id": 1226176265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78472,41.80917,19.78472,41.80917",
+    "geom:latitude":41.80917,
+    "geom:longitude":19.78472,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Rreja e Zeze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184320,
+    "gn:latitude":41.80917,
+    "gn:longitude":19.78472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rreja e Zez\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rej e Kriezi",
+        "Rreja",
+        "Rej\u00eb-e Kry\u00ebzi",
+        "Reja e Zez\u00eb",
+        "Rej\u00eb e Zez\u00eb",
+        "R\u00eaja",
+        "Rrej\u00eb e Zez\u00eb",
+        "Rreja e Zez\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184320
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"dec1012c9336f8db6c603feb23aa697b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1226176265,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1226176265,
+    "wof:lastmodified":1537584199,
+    "wof:name":"Rreja e Zeze",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78472,
+    41.80917,
+    19.78472,
+    41.80917
+],
+  "geometry": {"coordinates":[19.78472,41.80917],"type":"Point"}
+}

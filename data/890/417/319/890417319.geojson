@@ -1,0 +1,65 @@
+{
+  "id": 890417319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14849,42.41882,20.14849,42.41882",
+    "geom:latitude":42.41882,
+    "geom:longitude":20.14849,
+    "gn:country":"AL",
+    "gn:fcode":"ADMD",
+    "gn:pop":1540,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Memiaj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302762,
+        "qs:id":682215
+    },
+    "wof:country":"AL",
+    "wof:created":1469051195,
+    "wof:geomhash":"84555ae07fd91cd17a923a5c5e29d040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "localadmin_id":890417319,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":890417319,
+    "wof:lastmodified":1505343438,
+    "wof:name":"Memiaj",
+    "wof:parent_id":421200781,
+    "wof:placetype":"localadmin",
+    "wof:population":1540,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14849,
+    42.41882,
+    20.14849,
+    42.41882
+],
+  "geometry": {"coordinates":[20.14849,42.41882],"type":"Point"}
+}

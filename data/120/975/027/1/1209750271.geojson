@@ -1,0 +1,79 @@
+{
+  "id": 1209750271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04083,39.91833,20.04083,39.91833",
+    "geom:latitude":39.91833,
+    "geom:longitude":20.04083,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Blerimas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363401,
+    "gn:latitude":39.91833,
+    "gn:longitude":20.04083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Blerimas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sajan",
+        "Blerime",
+        "Shijan",
+        "Blerimasi",
+        "Shian",
+        "Shen-Jan",
+        "Saiant",
+        "Shijani",
+        "Blerimas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363401
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e336a003369d3d9a6fbe368ba6cafa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1209750271,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1209750271,
+    "wof:lastmodified":1537583968,
+    "wof:name":"Blerimas",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04083,
+    39.91833,
+    20.04083,
+    39.91833
+],
+  "geometry": {"coordinates":[20.04083,39.91833],"type":"Point"}
+}

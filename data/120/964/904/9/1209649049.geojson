@@ -1,0 +1,66 @@
+{
+  "id": 1209649049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20278,42.31,20.20278,42.31",
+    "geom:latitude":42.31,
+    "geom:longitude":20.20278,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Bytyc",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":829569,
+    "gn:latitude":42.31,
+    "gn:longitude":20.20278,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Byty\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biti\u010di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829569
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d55e9731a7899b061f8ba0c46ebf0dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209649049
+        }
+    ],
+    "wof:id":1209649049,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Bytyc",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20278,
+    42.31,
+    20.20278,
+    42.31
+],
+  "geometry": {"coordinates":[20.20278,42.31],"type":"Point"}
+}

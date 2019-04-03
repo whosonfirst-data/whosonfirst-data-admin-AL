@@ -1,0 +1,72 @@
+{
+  "id": 1326864903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89472,41.07556,19.89472,41.07556",
+    "geom:latitude":41.07556,
+    "geom:longitude":19.89472,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Paulesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184516,
+    "gn:latitude":41.07556,
+    "gn:longitude":19.89472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paulesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pauleshi",
+        "Paulesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184516
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5cee874506e0b1aed3987cb12762af1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1326864903,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1326864903,
+    "wof:lastmodified":1537584213,
+    "wof:name":"Paulesh",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89472,
+    41.07556,
+    19.89472,
+    41.07556
+],
+  "geometry": {"coordinates":[19.89472,41.07556],"type":"Point"}
+}

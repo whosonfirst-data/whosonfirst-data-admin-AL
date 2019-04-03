@@ -1,0 +1,75 @@
+{
+  "id": 1293722959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14806,39.80194,20.14806,39.80194",
+    "geom:latitude":39.80194,
+    "geom:longitude":20.14806,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Llazat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363295,
+    "gn:latitude":39.80194,
+    "gn:longitude":20.14806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Llazat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lluzati",
+        "Llazati",
+        "Lazat",
+        "Slazat",
+        "Llazat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363295
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4fab5a187af9d51158f67cf43b26d2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1293722959,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1293722959,
+    "wof:lastmodified":1537583960,
+    "wof:name":"Llazat",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14806,
+    39.80194,
+    20.14806,
+    39.80194
+],
+  "geometry": {"coordinates":[20.14806,39.80194],"type":"Point"}
+}

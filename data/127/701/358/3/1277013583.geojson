@@ -1,0 +1,73 @@
+{
+  "id": 1277013583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87,40.57444,20.87,40.57444",
+    "geom:latitude":40.57444,
+    "geom:longitude":20.87,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Bradvice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783558,
+    "gn:latitude":40.57444,
+    "gn:longitude":20.87,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bradvic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bradvica",
+        "Bratovic\u00eb",
+        "Bradvic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783558
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d0bd46992aa502ce2ee7a130f1b796f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1277013583,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1277013583,
+    "wof:lastmodified":1537584129,
+    "wof:name":"Bradvice",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87,
+    40.57444,
+    20.87,
+    40.57444
+],
+  "geometry": {"coordinates":[20.87,40.57444],"type":"Point"}
+}

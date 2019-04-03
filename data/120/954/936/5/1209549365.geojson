@@ -1,0 +1,68 @@
+{
+  "id": 1209549365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61833,40.21194,20.61833,40.21194",
+    "geom:latitude":40.21194,
+    "geom:longitude":20.61833,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Radanj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781852,
+    "gn:latitude":40.21194,
+    "gn:longitude":20.61833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Radanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zvic\u00ebri-Radanji",
+        "Radan",
+        "Radanji",
+        "Radanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781852
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ab3a4d4669b9265b7a791dd8543d3d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209549365
+        }
+    ],
+    "wof:id":1209549365,
+    "wof:lastmodified":1537584022,
+    "wof:name":"Radanj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61833,
+    40.21194000000001,
+    20.61833,
+    40.21194000000001
+],
+  "geometry": {"coordinates":[20.61833,40.21194000000001],"type":"Point"}
+}

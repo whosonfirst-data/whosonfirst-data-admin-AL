@@ -1,0 +1,66 @@
+{
+  "id": 1209040377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17444,40.26083,20.17444,40.26083",
+    "geom:latitude":40.26083,
+    "geom:longitude":20.17444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Limar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782514,
+    "gn:latitude":40.26083,
+    "gn:longitude":20.17444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Limar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limari",
+        "Limar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782514
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fc5f548af336d6f3a9cfc23ba0d85417",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209040377
+        }
+    ],
+    "wof:id":1209040377,
+    "wof:lastmodified":1537584063,
+    "wof:name":"Limar",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17444,
+    40.26083,
+    20.17444,
+    40.26083
+],
+  "geometry": {"coordinates":[20.17444,40.26083],"type":"Point"}
+}

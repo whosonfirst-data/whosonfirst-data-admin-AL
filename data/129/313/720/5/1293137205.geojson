@@ -1,0 +1,78 @@
+{
+  "id": 1293137205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69889,40.41111,19.69889,40.41111",
+    "geom:latitude":40.41111,
+    "geom:longitude":19.69889,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lezhan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184938,
+    "gn:latitude":40.41111,
+    "gn:longitude":19.69889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lezhan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lje\u0161ni",
+        "Leshni",
+        "Leshnj\u00eb",
+        "Liesgne",
+        "Leshan",
+        "Lezhani",
+        "Leshani",
+        "Lezhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184938
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"61712143bb20115125297b742a7cccb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1293137205,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1293137205,
+    "wof:lastmodified":1537584239,
+    "wof:name":"Lezhan",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69889,
+    40.41111,
+    19.69889,
+    40.41111
+],
+  "geometry": {"coordinates":[19.69889,40.41111],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243002473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51028,41.32278,19.51028,41.32278",
+    "geom:latitude":41.32278,
+    "geom:longitude":19.51028,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Rrashbull",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184271,
+    "gn:latitude":41.32278,
+    "gn:longitude":19.51028,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Rrashbull",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rrashbulli Arapaj",
+        "Rashbulle",
+        "Rrashbulli",
+        "Rrashbull\u00eb",
+        "Re\u017ebul",
+        "Rrashbull"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184271,
+        "wk:page":"Rrashbull"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e6e4bf6f3aae9aa165012c14e547e1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1243002473,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1243002473,
+    "wof:lastmodified":1537584196,
+    "wof:name":"Rrashbull",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51028,
+    41.32278,
+    19.51028,
+    41.32278
+],
+  "geometry": {"coordinates":[19.51028,41.32278],"type":"Point"}
+}

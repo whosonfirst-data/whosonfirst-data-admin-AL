@@ -1,0 +1,69 @@
+{
+  "id": 890420393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85222,41.27611,19.85222,41.27611",
+    "geom:latitude":41.27611,
+    "geom:longitude":19.85222,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u00c7elik"
+    ],
+    "qs:name":"\u00c7eliku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316609,
+        "gp:id":471353,
+        "qs:id":582456
+    },
+    "wof:country":"AL",
+    "wof:created":1469051337,
+    "wof:geomhash":"1afcbc05895af4fa5c3a4f54d798b047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":890420393,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":890420393,
+    "wof:lastmodified":1505343457,
+    "wof:name":"\u00c7eliku",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85222,
+    41.27611,
+    19.85222,
+    41.27611
+],
+  "geometry": {"coordinates":[19.85222,41.27611],"type":"Point"}
+}

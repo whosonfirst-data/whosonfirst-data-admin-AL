@@ -1,0 +1,75 @@
+{
+  "id": 1276260663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07,41.51639,20.07,41.51639",
+    "geom:latitude":41.51639,
+    "geom:longitude":20.07,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Fullqet",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783219,
+    "gn:latitude":41.51639,
+    "gn:longitude":20.07,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fullqet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fullqeti",
+        "Fulqeti",
+        "Fylqeti",
+        "Fulqet",
+        "Fullqet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783219
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"aa7d70f813c88f5889e843442d14aef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1276260663,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276260663,
+    "wof:lastmodified":1537584108,
+    "wof:name":"Fullqet",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07,
+    41.51639,
+    20.07,
+    41.51639
+],
+  "geometry": {"coordinates":[20.07,41.51639],"type":"Point"}
+}

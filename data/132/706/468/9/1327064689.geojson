@@ -1,0 +1,77 @@
+{
+  "id": 1327064689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25806,41.61222,20.25806,41.61222",
+    "geom:latitude":41.61222,
+    "geom:longitude":20.25806,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kacni",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782928,
+    "gn:latitude":41.61222,
+    "gn:longitude":20.25806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kacni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaceni",
+        "Kasnij\u00eb",
+        "Kasnica",
+        "Kacnija",
+        "Kacnia",
+        "Kacnij",
+        "Kacni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782928
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a6b840ec7dcdd94508df169c6265f148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1327064689,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1327064689,
+    "wof:lastmodified":1537584086,
+    "wof:name":"Kacni",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25806,
+    41.61222,
+    20.25806,
+    41.61222
+],
+  "geometry": {"coordinates":[20.25806,41.61222],"type":"Point"}
+}

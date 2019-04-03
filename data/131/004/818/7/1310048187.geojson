@@ -1,0 +1,74 @@
+{
+  "id": 1310048187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30333,40.65667,20.30333,40.65667",
+    "geom:latitude":40.65667,
+    "geom:longitude":20.30333,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Greve",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783047,
+    "gn:latitude":40.65667,
+    "gn:longitude":20.30333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Grev\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Greva",
+        "Grer\u00eb",
+        "Grev\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783047,
+        "wk:page":"Grev%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5d00fd6b6681c6f5f21a6cfc9f25baf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1310048187,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310048187,
+    "wof:lastmodified":1537584095,
+    "wof:name":"Greve",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30333,
+    40.65667,
+    20.30333,
+    40.65667
+],
+  "geometry": {"coordinates":[20.30333,40.65667],"type":"Point"}
+}

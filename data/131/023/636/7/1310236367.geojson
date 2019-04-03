@@ -1,0 +1,75 @@
+{
+  "id": 1310236367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12917,42.21611,20.12917,42.21611",
+    "geom:latitude":42.21611,
+    "geom:longitude":20.12917,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mezi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782290,
+    "gn:latitude":42.21611,
+    "gn:longitude":20.12917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u00ebzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00ebz",
+        "Mziu",
+        "Mzi",
+        "Meziu",
+        "M\u00ebzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782290
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c9ecf9dee714e1f4bf1fe4ad0e1323cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720859,
+            "locality_id":1310236367,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1310236367,
+    "wof:lastmodified":1537584051,
+    "wof:name":"Mezi",
+    "wof:parent_id":1108720859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12917,
+    42.21611,
+    20.12917,
+    42.21611
+],
+  "geometry": {"coordinates":[20.12917,42.21611],"type":"Point"}
+}

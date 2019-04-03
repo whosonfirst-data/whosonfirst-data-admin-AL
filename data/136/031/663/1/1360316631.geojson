@@ -1,0 +1,72 @@
+{
+  "id": 1360316631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38389,41.68694,20.38389,41.68694",
+    "geom:latitude":41.68694,
+    "geom:longitude":20.38389,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Zdojan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834112,
+    "gn:latitude":41.68694,
+    "gn:longitude":20.38389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zdojan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zdojani",
+        "Zdojan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834112
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7b314a9450af15b4c7d1fbc7b78144ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1360316631,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1360316631,
+    "wof:lastmodified":1537584142,
+    "wof:name":"Zdojan",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38389,
+    41.68694,
+    20.38389,
+    41.68694
+],
+  "geometry": {"coordinates":[20.38389,41.68694],"type":"Point"}
+}

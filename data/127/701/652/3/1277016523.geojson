@@ -1,0 +1,75 @@
+{
+  "id": 1277016523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18861,39.78111,20.18861,39.78111",
+    "geom:latitude":39.78111,
+    "geom:longitude":20.18861,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Qesarat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363253,
+    "gn:latitude":39.78111,
+    "gn:longitude":20.18861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qesarat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qesarati",
+        "Qeserati",
+        "Qesaret",
+        "Qesarai",
+        "Qesarat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363253
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8cdb577207d6ebb00e656d027600dc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1277016523,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1277016523,
+    "wof:lastmodified":1537583957,
+    "wof:name":"Qesarat",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18861,
+    39.78111,
+    20.18861,
+    39.78111
+],
+  "geometry": {"coordinates":[20.18861,39.78111],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293920393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73833,40.67611,20.73833,40.67611",
+    "geom:latitude":40.67611,
+    "geom:longitude":20.73833,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Vashtemi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781289,
+    "gn:latitude":40.67611,
+    "gn:longitude":20.73833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vasht\u00ebmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vasht\u00ebm",
+        "Vasht\u00ebmia",
+        "Vashtemije",
+        "Vasht\u00ebmija",
+        "Vasht\u00ebmja",
+        "Vashtomi",
+        "Vasht\u00ebmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781289
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1a334f6fce7f00cecfe647cd91827b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1293920393,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293920393,
+    "wof:lastmodified":1537583985,
+    "wof:name":"Vashtemi",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73833,
+    40.67611,
+    20.73833,
+    40.67611
+],
+  "geometry": {"coordinates":[20.73833,40.67611],"type":"Point"}
+}

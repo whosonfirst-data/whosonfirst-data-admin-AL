@@ -1,0 +1,75 @@
+{
+  "id": 1343994229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.615,40.22111,20.615,40.22111",
+    "geom:latitude":40.22111,
+    "geom:longitude":20.615,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Hosecke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782968,
+    "gn:latitude":40.22111,
+    "gn:longitude":20.615,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hoseck\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoceska",
+        "Hosecka",
+        "Hove\u00e7ka",
+        "Ose\u00e7ko",
+        "Hoseck\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782968
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6c32d44d535273edab9b8ae584a64e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1343994229,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343994229,
+    "wof:lastmodified":1537584090,
+    "wof:name":"Hosecke",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.615,
+    40.22111,
+    20.615,
+    40.22111
+],
+  "geometry": {"coordinates":[20.615,40.22111],"type":"Point"}
+}

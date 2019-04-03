@@ -1,0 +1,74 @@
+{
+  "id": 1293527793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15,40.57111,20.15,40.57111",
+    "geom:latitude":40.57111,
+    "geom:longitude":20.15,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Bogove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":865098,
+    "gn:latitude":40.57111,
+    "gn:longitude":20.15,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Bogov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogova",
+        "Bogov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865098,
+        "wk:page":"Bogov%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8067396d3a1ab2f104cc717f6527a8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1293527793,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293527793,
+    "wof:lastmodified":1537584149,
+    "wof:name":"Bogove",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15,
+    40.57111,
+    20.15,
+    40.57111
+],
+  "geometry": {"coordinates":[20.15,40.57111],"type":"Point"}
+}

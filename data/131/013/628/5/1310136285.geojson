@@ -1,0 +1,75 @@
+{
+  "id": 1310136285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45444,40.65611,20.45444,40.65611",
+    "geom:latitude":40.65611,
+    "geom:longitude":20.45444,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Protopape",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782789,
+    "gn:latitude":40.65611,
+    "gn:longitude":20.45444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Protopap\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kodrasi",
+        "Protopapaj",
+        "Kodras",
+        "Protopapa",
+        "Protopap\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782789
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9246b6fe57c0531b50c9ee241d4f8916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1310136285,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310136285,
+    "wof:lastmodified":1537584078,
+    "wof:name":"Protopape",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45444,
+    40.65611,
+    20.45444,
+    40.65611
+],
+  "geometry": {"coordinates":[20.45444,40.65611],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276157377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41917,41.67139,20.41917,41.67139",
+    "geom:latitude":41.67139,
+    "geom:longitude":20.41917,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Dohoshisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783331,
+    "gn:latitude":41.67139,
+    "gn:longitude":20.41917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dohoshisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00ebhoshisht\u00eb",
+        "Dohashishta",
+        "Dohashisht\u00eb",
+        "Dohoshishti",
+        "Dohoshisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783331
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9bc8df659360d73da126cf8295a3e1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1276157377,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276157377,
+    "wof:lastmodified":1537584114,
+    "wof:name":"Dohoshisht",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41917,
+    41.67139,
+    20.41917,
+    41.67139
+],
+  "geometry": {"coordinates":[20.41917,41.67139],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 421192273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51889,40.43972,19.51889,40.43972",
+    "geom:latitude":40.43972,
+    "geom:longitude":19.51889,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Kanina e Vlores"
+    ],
+    "name:deu_x_preferred":[
+        "Kanina"
+    ],
+    "name:dut_x_preferred":[
+        "Kanin\u00eb"
+    ],
+    "name:eng_x_preferred":[
+        "Kanin\u00eb"
+    ],
+    "name:ger_x_preferred":[
+        "Kanina"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Kanina e Vlores"
+    ],
+    "name:tur_x_preferred":[
+        "Kanina"
+    ],
+    "name:unk_x_variant":[
+        "Canina"
+    ],
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3185265,
+    "qs:gn_pop":0,
+    "qs:name":"Kanin\u00eb",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Vlor\u00eb",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165519,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":470281,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421193353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185265,
+        "gp:id":470281,
+        "qs:id":1165519,
+        "wd:id":"Q1723764",
+        "wk:page":"Kanin\u00eb"
+    },
+    "wof:country":"AL",
+    "wof:created":1459009731,
+    "wof:geomhash":"0ef1120580b0b296f9b796532bfc53ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193353,
+            "locality_id":421192273,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":421192273,
+    "wof:lastmodified":1553816380,
+    "wof:name":"Kanin\u00eb",
+    "wof:parent_id":421193353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51889,
+    40.43972,
+    19.51889,
+    40.43972
+],
+  "geometry": {"coordinates":[19.51889,40.43972],"type":"Point"}
+}

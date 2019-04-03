@@ -1,0 +1,78 @@
+{
+  "id": 1344192155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38167,42.05944,19.38167,42.05944",
+    "geom:latitude":42.05944,
+    "geom:longitude":19.38167,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Vidhgar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183749,
+    "gn:latitude":42.05944,
+    "gn:longitude":19.38167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vidhgar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villgari",
+        "Vidhgari",
+        "Vidhgar\u00eb",
+        "Villgar",
+        "Vilgar",
+        "Vidhgan",
+        "Vidhgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183749,
+        "wk:page":"Vidhgar"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"255f92ffda84f99e24c7c8cecf19f39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1344192155,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1344192155,
+    "wof:lastmodified":1537584165,
+    "wof:name":"Vidhgar",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38167,
+    42.05944,
+    19.38167,
+    42.05944
+],
+  "geometry": {"coordinates":[19.38167,42.05944],"type":"Point"}
+}

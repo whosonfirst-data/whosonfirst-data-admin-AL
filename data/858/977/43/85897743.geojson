@@ -1,0 +1,113 @@
+{
+  "id": 85897743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11287618.425399,
+    "geom:bbox":"19.942462,40.709885,19.942462,40.709885",
+    "geom:latitude":40.709885,
+    "geom:longitude":19.942462,
+    "iso:country":"AL",
+    "lbl:latitude":40.709885,
+    "lbl:longitude":19.942462,
+    "mps:latitude":40.70971,
+    "mps:longitude":19.944128,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kostreni i Math"
+    ],
+    "name:eng_x_variant":[
+        "Kostreni i Math"
+    ],
+    "name:und_x_preferred":[
+        "Kostren i Math"
+    ],
+    "name:unk_x_variant":[
+        "Kostren i Madh",
+        "Kostren i Math"
+    ],
+    "qs:gn_adm0_cc":"AL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3186084,
+    "qs:gn_nam_loc":"Berat",
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Kostreni i Madh",
+    "qs:local_max":921,
+    "qs:local_sum":921,
+    "qs:localhoods":1,
+    "qs:name":"Kostren i Math",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Berat",
+    "qs:name_adm2":"Berat",
+    "qs:name_en":"Kostreni i Math",
+    "qs:name_local":"Berat",
+    "qs:photo_max":250,
+    "qs:photo_sum":921,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424742,
+    "qs:woe_adm1":29389554,
+    "qs:woe_adm2":20069953,
+    "qs:woe_lau":0,
+    "qs:woe_local":469213,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        421187685,
+        85667811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782731,
+        "gp:id":470486,
+        "qs:id":1165524
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a48afbf96855ac42f8f374c0015b06f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":-1,
+            "neighbourhood_id":85897743,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":85897743,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931930,
+    "wof:name":"Kostren i Math",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.942462,
+    40.709885,
+    19.942462,
+    40.709885
+],
+  "geometry": {"coordinates":[19.942462,40.709885],"type":"Point"}
+}

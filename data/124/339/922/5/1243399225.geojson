@@ -1,0 +1,72 @@
+{
+  "id": 1243399225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05778,39.93222,20.05778,39.93222",
+    "geom:latitude":39.93222,
+    "geom:longitude":20.05778,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Stjar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363225,
+    "gn:latitude":39.93222,
+    "gn:longitude":20.05778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stjar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stjari",
+        "Stjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363225
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2eb89198cb6f2dce5faa079137bcacd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1243399225,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1243399225,
+    "wof:lastmodified":1537583955,
+    "wof:name":"Stjar",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05778,
+    39.93222,
+    20.05778,
+    39.93222
+],
+  "geometry": {"coordinates":[20.05778,39.93222],"type":"Point"}
+}

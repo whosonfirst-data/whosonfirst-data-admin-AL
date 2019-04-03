@@ -1,0 +1,81 @@
+{
+  "id": 1243006789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31861,40.91222,20.31861,40.91222",
+    "geom:latitude":40.91222,
+    "geom:longitude":20.31861,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Holtas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781961,
+    "gn:latitude":40.91222,
+    "gn:longitude":20.31861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Holtas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poro\u00e7an-i posht",
+        "Holta",
+        "Poro\u00e7ani i posht",
+        "Kato Poro\u00e7an",
+        "Poro\u00e7ani i Posht\u00ebm",
+        "Poro\u00e7an i posht\u00ebr",
+        "Poro\u00e7iani-Posht\u00ebme",
+        "Porociani-poshtera",
+        "Poro\u00e7ani-posht\u00ebme",
+        "Poro\u00e7an i Posht\u00ebm",
+        "Holtas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781961
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"179e27e70cf06fb7503b461faa324973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1243006789,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1243006789,
+    "wof:lastmodified":1537584030,
+    "wof:name":"Holtas",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31861,
+    40.91222,
+    20.31861,
+    40.91222
+],
+  "geometry": {"coordinates":[20.31861,40.91222],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276589497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94472,41.21694,19.94472,41.21694",
+    "geom:latitude":41.21694,
+    "geom:longitude":19.94472,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Mushqeta",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184635,
+    "gn:latitude":41.21694,
+    "gn:longitude":19.94472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mushqeta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mysget\u00eb",
+        "Buni",
+        "Mysqeta",
+        "Mesqet\u00eb",
+        "Musqet\u00eb",
+        "Musqeta",
+        "Mysqet\u00eb",
+        "Mushqet\u00eb",
+        "Mushqetaja",
+        "Myshqeta",
+        "Mosqeta",
+        "Mushqeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184635,
+        "wk:page":"Mushqeta"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1a12b22e68897a8e8532ceb6feaee7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1276589497,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1276589497,
+    "wof:lastmodified":1537584220,
+    "wof:name":"Mushqeta",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94472,
+    41.21694,
+    19.94472,
+    41.21694
+],
+  "geometry": {"coordinates":[19.94472,41.21694],"type":"Point"}
+}

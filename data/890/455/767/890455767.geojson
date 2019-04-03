@@ -1,0 +1,72 @@
+{
+  "id": 890455767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16611,41.28611,20.16611,41.28611",
+    "geom:latitude":41.28611,
+    "geom:longitude":20.16611,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rinasi"
+    ],
+    "qs:name":"Rinas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834189,
+        "gp:id":472405,
+        "qs:id":554362,
+        "wd:id":"Q7334581",
+        "wk:page":"Rinas"
+    },
+    "wof:country":"AL",
+    "wof:created":1469052974,
+    "wof:geomhash":"420e853793a0aab41e8ecc5ae4132f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":890455767,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":890455767,
+    "wof:lastmodified":1527734194,
+    "wof:name":"Rinas",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16611,
+    41.28611,
+    20.16611,
+    41.28611
+],
+  "geometry": {"coordinates":[20.16611,41.28611],"type":"Point"}
+}

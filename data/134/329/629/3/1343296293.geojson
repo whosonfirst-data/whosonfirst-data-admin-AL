@@ -1,0 +1,73 @@
+{
+  "id": 1343296293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97806,40.88778,19.97806,40.88778",
+    "geom:latitude":40.88778,
+    "geom:longitude":19.97806,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Selite",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184192,
+    "gn:latitude":40.88778,
+    "gn:longitude":19.97806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Selit\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bregasi",
+        "Selita",
+        "Selit\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184192
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d4875a3742c66eb70164f48e51cc18c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720849,
+            "locality_id":1343296293,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343296293,
+    "wof:lastmodified":1537584190,
+    "wof:name":"Selite",
+    "wof:parent_id":1108720849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97806,
+    40.88778,
+    19.97806,
+    40.88778
+],
+  "geometry": {"coordinates":[19.97806,40.88778],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259617875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56278,41.41944,19.56278,41.41944",
+    "geom:latitude":41.41944,
+    "geom:longitude":19.56278,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Borce",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186003,
+    "gn:latitude":41.41944,
+    "gn:longitude":19.56278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bor\u00e7\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borca",
+        "Bor\u010d",
+        "Bor\u00e7e-Kuqelini",
+        "Borc-Zuqllimej",
+        "Bor\u00e7-Kuqlinaj",
+        "Bor\u00e7 e Kuqullini",
+        "Bor\u00e7\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186003
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0ee21d5288a076be69cca288808b9234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1259617875,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1259617875,
+    "wof:lastmodified":1537584309,
+    "wof:name":"Borce",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56278,
+    41.41944,
+    19.56278,
+    41.41944
+],
+  "geometry": {"coordinates":[19.56278,41.41944],"type":"Point"}
+}

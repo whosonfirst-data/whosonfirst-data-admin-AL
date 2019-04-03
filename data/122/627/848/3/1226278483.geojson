@@ -1,0 +1,84 @@
+{
+  "id": 1226278483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54889,41.07306,20.54889,41.07306",
+    "geom:latitude":41.07306,
+    "geom:longitude":20.54889,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Perrenjas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781920,
+    "gn:latitude":41.07306,
+    "gn:longitude":20.54889,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"P\u00ebrrenjas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0440\u0435\u043d\u044c\u044f\u0441"
+    ],
+    "name:und_x_variant":[
+        "Prenjasi",
+        "Prrenjas",
+        "Prenjs",
+        "Prrenjasi",
+        "Prenj\u00ebsi",
+        "P\u00ebrrenj\u00ebs",
+        "Prenjas",
+        "Fshat P\u00ebrrenjasi",
+        "P\u00ebrrenjasi",
+        "P\u00ebrrenjas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781920
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a728377ea787e46922fd7c0102ef0376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1226278483,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226278483,
+    "wof:lastmodified":1537584027,
+    "wof:name":"Perrenjas",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54889,
+    41.07306,
+    20.54889,
+    41.07306
+],
+  "geometry": {"coordinates":[20.54889,41.07306],"type":"Point"}
+}

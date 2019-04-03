@@ -1,0 +1,76 @@
+{
+  "id": 1243292747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91278,41.81056,19.91278,41.81056",
+    "geom:latitude":41.81056,
+    "geom:longitude":19.91278,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Geziq",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185601,
+    "gn:latitude":41.81056,
+    "gn:longitude":19.91278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"G\u00ebziq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gziq",
+        "Gzy\u00e7",
+        "Goziqi",
+        "Gziqi",
+        "G\u00ebziqi",
+        "G\u00ebziq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185601
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"afc3f6511c0bad8499a76fa816ff6ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1243292747,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1243292747,
+    "wof:lastmodified":1537584281,
+    "wof:name":"Geziq",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91278,
+    41.81056,
+    19.91278,
+    41.81056
+],
+  "geometry": {"coordinates":[19.91278,41.81056],"type":"Point"}
+}

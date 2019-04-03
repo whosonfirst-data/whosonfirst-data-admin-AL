@@ -1,0 +1,79 @@
+{
+  "id": 1226785691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25444,41.23833,20.25444,41.23833",
+    "geom:latitude":41.23833,
+    "geom:longitude":20.25444,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kuterman",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782618,
+    "gn:latitude":41.23833,
+    "gn:longitude":20.25444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kut\u00ebrman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0442\u0440\u043e\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Cutrman",
+        "Katurmani",
+        "Kut\u00ebman",
+        "Kut\u00ebrmani",
+        "Kuturmani",
+        "Kut\u00ebrman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782618
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"11591ea9d4040604e5bcb70d3597dabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1226785691,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226785691,
+    "wof:lastmodified":1537584069,
+    "wof:name":"Kuterman",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25444,
+    41.23833,
+    20.25444,
+    41.23833
+],
+  "geometry": {"coordinates":[20.25444,41.23833],"type":"Point"}
+}

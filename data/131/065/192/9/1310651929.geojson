@@ -1,0 +1,67 @@
+{
+  "id": 1310651929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03972,40.79361,20.03972,40.79361",
+    "geom:latitude":40.79361,
+    "geom:longitude":20.03972,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Meckare",
+    "gn:country_code":"AL",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782329,
+    "gn:latitude":40.79361,
+    "gn:longitude":20.03972,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Me\u00e7kar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782329
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"65aa93b1f703c63169942b83e68e0786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1310651929,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310651929,
+    "wof:lastmodified":1536706067,
+    "wof:name":"Meckare",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03972000000001,
+    40.79361,
+    20.03972000000001,
+    40.79361
+],
+  "geometry": {"coordinates":[20.03972000000001,40.79361],"type":"Point"}
+}

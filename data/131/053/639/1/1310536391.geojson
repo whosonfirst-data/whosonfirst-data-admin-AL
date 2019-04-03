@@ -1,0 +1,67 @@
+{
+  "id": 1310536391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26694,40.03778,20.26694,40.03778",
+    "geom:latitude":40.03778,
+    "geom:longitude":20.26694,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Hoxhallare",
+    "gn:country_code":"AL",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782959,
+    "gn:latitude":40.03778,
+    "gn:longitude":20.26694,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Hoxhallare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782959
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fd8a9188de77ef20ef49224183a88ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720875,
+            "locality_id":1310536391,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310536391,
+    "wof:lastmodified":1536871245,
+    "wof:name":"Hoxhallare",
+    "wof:parent_id":1108720875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26694,
+    40.03778,
+    20.26694,
+    40.03778
+],
+  "geometry": {"coordinates":[20.26694,40.03778],"type":"Point"}
+}

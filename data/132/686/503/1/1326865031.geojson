@@ -1,0 +1,80 @@
+{
+  "id": 1326865031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83028,40.75194,20.83028,40.75194",
+    "geom:latitude":40.75194,
+    "geom:longitude":20.83028,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gurbardhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783024,
+    "gn:latitude":40.75194,
+    "gn:longitude":20.83028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gurbardh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00ebngjergj",
+        "Gurbardh",
+        "Sh\u00ebngjergi",
+        "Gurbardhi",
+        "Sh\u00ebngjergji",
+        "Gur\u00ebbardhi",
+        "Sh\u00ebnjergji",
+        "Gurabardh\u00eb",
+        "Gurabardh",
+        "Gurbardh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783024
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"285d5a4cfcbd8d4ce42d72d5dc0f7355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1326865031,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1326865031,
+    "wof:lastmodified":1537584094,
+    "wof:name":"Gurbardhe",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83028,
+    40.75194000000001,
+    20.83028,
+    40.75194000000001
+],
+  "geometry": {"coordinates":[20.83028,40.75194000000001],"type":"Point"}
+}

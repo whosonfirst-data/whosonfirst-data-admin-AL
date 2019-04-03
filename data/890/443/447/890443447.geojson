@@ -1,0 +1,69 @@
+{
+  "id": 890443447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53528,41.06667,20.53528,41.06667",
+    "geom:latitude":41.06667,
+    "geom:longitude":20.53528,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":4015,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Prrenjas-Fshat"
+    ],
+    "qs:name":"P\u00ebrrenjas-Fshat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781919,
+        "gp:id":471483,
+        "qs:id":1028907
+    },
+    "wof:country":"AL",
+    "wof:created":1469052424,
+    "wof:geomhash":"b6278e93baba039baf7bbabaa3daca21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":890443447,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":890443447,
+    "wof:lastmodified":1505343593,
+    "wof:name":"P\u00ebrrenjas-Fshat",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:population":4015,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53528,
+    41.06667,
+    20.53528,
+    41.06667
+],
+  "geometry": {"coordinates":[20.53528,41.06667],"type":"Point"}
+}

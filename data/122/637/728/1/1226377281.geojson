@@ -1,0 +1,67 @@
+{
+  "id": 1226377281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73778,40.29722,19.73778,40.29722",
+    "geom:latitude":40.29722,
+    "geom:longitude":19.73778,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kavacove",
+    "gn:country_code":"AL",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185214,
+    "gn:latitude":40.29722,
+    "gn:longitude":19.73778,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kava\u00e7ov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185214
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"94d47b950ed0813ea7a0a272503feb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1226377281,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1226377281,
+    "wof:lastmodified":1536743807,
+    "wof:name":"Kavacove",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73778,
+    40.29722,
+    19.73778,
+    40.29722
+],
+  "geometry": {"coordinates":[19.73778,40.29722],"type":"Point"}
+}

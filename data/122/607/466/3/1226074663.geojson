@@ -1,0 +1,76 @@
+{
+  "id": 1226074663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20444,40.74556,20.20444,40.74556",
+    "geom:latitude":40.74556,
+    "geom:longitude":20.20444,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kerpice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782830,
+    "gn:latitude":40.74556,
+    "gn:longitude":20.20444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebrpic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebrpica",
+        "Kerpaj",
+        "Karpica",
+        "Karpic\u00eb",
+        "K\u00ebrrpic\u00eb",
+        "K\u00ebrpic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782830
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1ba2c1c143736697e8bf364b341505ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1226074663,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226074663,
+    "wof:lastmodified":1537584080,
+    "wof:name":"Kerpice",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20444,
+    40.74556,
+    20.20444,
+    40.74556
+],
+  "geometry": {"coordinates":[20.20444,40.74556],"type":"Point"}
+}

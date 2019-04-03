@@ -1,0 +1,67 @@
+{
+  "id": 1276796145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61333,40.87444,20.61333,40.87444",
+    "geom:latitude":40.87444,
+    "geom:longitude":20.61333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Macikak",
+    "gn:country_code":"AL",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782426,
+    "gn:latitude":40.87444,
+    "gn:longitude":20.61333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Macikak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782426
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f5384c42ed26f7cd3dc9276b7bbce07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1276796145,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276796145,
+    "wof:lastmodified":1536655923,
+    "wof:name":"Macikak",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61333,
+    40.87444,
+    20.61333,
+    40.87444
+],
+  "geometry": {"coordinates":[20.61333,40.87444],"type":"Point"}
+}

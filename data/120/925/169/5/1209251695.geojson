@@ -1,0 +1,61 @@
+{
+  "id": 1209251695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72972,41.51972,19.72972,41.51972",
+    "geom:latitude":41.51972,
+    "geom:longitude":19.72972,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Ballaj",
+    "gn:country_code":"AL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343683,
+    "gn:latitude":41.51972,
+    "gn:longitude":19.72972,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Ballaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343683
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1be370cde696b611cac57de588bf3761",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209251695
+        }
+    ],
+    "wof:id":1209251695,
+    "wof:lastmodified":1536292984,
+    "wof:name":"Ballaj",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72972,
+    41.51972,
+    19.72972,
+    41.51972
+],
+  "geometry": {"coordinates":[19.72972,41.51972],"type":"Point"}
+}

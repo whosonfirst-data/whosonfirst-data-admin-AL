@@ -1,0 +1,72 @@
+{
+  "id": 1276374247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10194,41.02917,20.10194,41.02917",
+    "geom:latitude":41.02917,
+    "geom:longitude":20.10194,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Cikallesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783420,
+    "gn:latitude":41.02917,
+    "gn:longitude":20.10194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7ikallesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ikalleshi",
+        "\u00c7ikallesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783420
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5f03bede90676be45d5bfb6e73376840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1276374247,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1276374247,
+    "wof:lastmodified":1537584119,
+    "wof:name":"Cikallesh",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10194,
+    41.02917,
+    20.10194,
+    41.02917
+],
+  "geometry": {"coordinates":[20.10194,41.02917],"type":"Point"}
+}

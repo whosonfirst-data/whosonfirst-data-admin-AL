@@ -1,0 +1,66 @@
+{
+  "id": 1209645903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.415,41.55167,20.415,41.55167",
+    "geom:latitude":41.55167,
+    "geom:longitude":20.415,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Homesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782975,
+    "gn:latitude":41.55167,
+    "gn:longitude":20.415,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Homesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homeshi",
+        "Homesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782975
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"47eb8e1d45aafb8ee277efb4cfee71ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645903
+        }
+    ],
+    "wof:id":1209645903,
+    "wof:lastmodified":1537584090,
+    "wof:name":"Homesh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.415,
+    41.55167,
+    20.415,
+    41.55167
+],
+  "geometry": {"coordinates":[20.415,41.55167],"type":"Point"}
+}

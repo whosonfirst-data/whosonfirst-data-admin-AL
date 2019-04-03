@@ -1,0 +1,76 @@
+{
+  "id": 1260220289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5125,41.42944,19.5125,41.42944",
+    "geom:latitude":41.42944,
+    "geom:longitude":19.5125,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Rrushkull",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184242,
+    "gn:latitude":41.42944,
+    "gn:longitude":19.5125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rrushkull",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ru\u0161kul",
+        "Rrushkulli",
+        "Rushculi",
+        "Rushkull",
+        "Rushkulli",
+        "Rrushkull"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184242
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3176be83cba3bfe24e8a7605e01d8d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1260220289,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1260220289,
+    "wof:lastmodified":1537584193,
+    "wof:name":"Rrushkull",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5125,
+    41.42944,
+    19.5125,
+    41.42944
+],
+  "geometry": {"coordinates":[19.5125,41.42944],"type":"Point"}
+}

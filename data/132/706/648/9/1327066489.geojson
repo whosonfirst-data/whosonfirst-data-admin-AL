@@ -1,0 +1,76 @@
+{
+  "id": 1327066489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2125,39.67917,20.2125,39.67917",
+    "geom:latitude":39.67917,
+    "geom:longitude":20.2125,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Verve",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363212,
+    "gn:latitude":39.67917,
+    "gn:longitude":20.2125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"V\u00ebrv\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ververa",
+        "Verna",
+        "Vei",
+        "Verva",
+        "V\u00ebrn\u00eb",
+        "V\u00ebrv\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363212
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"502b0aa89f56f4af6464fe539f2d224f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720869,
+            "locality_id":1327066489,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1327066489,
+    "wof:lastmodified":1537583955,
+    "wof:name":"Verve",
+    "wof:parent_id":1108720869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2125,
+    39.67917,
+    20.2125,
+    39.67917
+],
+  "geometry": {"coordinates":[20.2125,39.67917],"type":"Point"}
+}

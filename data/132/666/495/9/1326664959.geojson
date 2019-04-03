@@ -1,0 +1,73 @@
+{
+  "id": 1326664959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.42333,42.24306,19.42333,42.24306",
+    "geom:latitude":42.24306,
+    "geom:longitude":19.42333,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Lashaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184980,
+    "gn:latitude":42.24306,
+    "gn:longitude":19.42333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lashaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lashay",
+        "La\u0161aj",
+        "Lashaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184980
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e5fac30e3c9ee0421ec31c1c1bd5a24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1326664959,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326664959,
+    "wof:lastmodified":1537584241,
+    "wof:name":"Lashaj",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.42333,
+    42.24306,
+    19.42333,
+    42.24306
+],
+  "geometry": {"coordinates":[19.42333,42.24306],"type":"Point"}
+}

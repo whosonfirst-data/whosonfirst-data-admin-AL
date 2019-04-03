@@ -1,0 +1,72 @@
+{
+  "id": 1242709037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27028,41.30389,20.27028,41.30389",
+    "geom:latitude":41.30389,
+    "geom:longitude":20.27028,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Neshte",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782193,
+    "gn:latitude":41.30389,
+    "gn:longitude":20.27028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nesht\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neshta",
+        "Nesht\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782193
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cbd023e4e7888f6a20004aeb42d8d651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1242709037,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242709037,
+    "wof:lastmodified":1537584044,
+    "wof:name":"Neshte",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27028,
+    41.30389,
+    20.27028,
+    41.30389
+],
+  "geometry": {"coordinates":[20.27028,41.30389],"type":"Point"}
+}

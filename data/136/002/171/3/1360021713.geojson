@@ -1,0 +1,74 @@
+{
+  "id": 1360021713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18889,40.78889,20.18889,40.78889",
+    "geom:latitude":40.78889,
+    "geom:longitude":20.18889,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kushove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782622,
+    "gn:latitude":40.78889,
+    "gn:longitude":20.18889,
+    "gn:modification_date":"2012-05-31",
+    "gn:name":"Kushov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaltura",
+        "Kushova",
+        "Kushov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782622
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4b07a201f866038fec5d18e03f146ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1360021713,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1360021713,
+    "wof:lastmodified":1537584069,
+    "wof:name":"Kushove",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18889,
+    40.78889,
+    20.18889,
+    40.78889
+],
+  "geometry": {"coordinates":[20.18889,40.78889],"type":"Point"}
+}

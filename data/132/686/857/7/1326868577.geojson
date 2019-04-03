@@ -1,0 +1,74 @@
+{
+  "id": 1326868577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05389,40.62889,20.05389,40.62889",
+    "geom:latitude":40.62889,
+    "geom:longitude":20.05389,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Vertop",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781250,
+    "gn:latitude":40.62889,
+    "gn:longitude":20.05389,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"V\u00ebrtop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vertopi",
+        "V\u00ebrtop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781250,
+        "wk:page":"V%C3%ABrtop"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c7472fa301b8a6ef3c0ee9dcf049cc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1326868577,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1326868577,
+    "wof:lastmodified":1537583982,
+    "wof:name":"Vertop",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05389,
+    40.62889000000001,
+    20.05389,
+    40.62889000000001
+],
+  "geometry": {"coordinates":[20.05389,40.62889000000001],"type":"Point"}
+}

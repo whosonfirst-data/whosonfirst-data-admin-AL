@@ -1,0 +1,74 @@
+{
+  "id": 1209140179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49889,40.1575,20.49889,40.1575",
+    "geom:latitude":40.1575,
+    "geom:longitude":20.49889,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Iljare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782951,
+    "gn:latitude":40.1575,
+    "gn:longitude":20.49889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Iljar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iljar Munushtiri",
+        "Iljar",
+        "Iliar",
+        "Iliari",
+        "Illjar",
+        "Iliar Munushtir",
+        "Iljari",
+        "Iljar\u00eb Munushtir",
+        "Ilyara",
+        "Iljar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782951
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"78d02e98726d2933801c6ae95e617be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209140179
+        }
+    ],
+    "wof:id":1209140179,
+    "wof:lastmodified":1537584088,
+    "wof:name":"Iljare",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49889,
+    40.1575,
+    20.49889,
+    40.1575
+],
+  "geometry": {"coordinates":[20.49889,40.1575],"type":"Point"}
+}

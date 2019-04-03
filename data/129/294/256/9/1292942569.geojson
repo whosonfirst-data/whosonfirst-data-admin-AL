@@ -1,0 +1,74 @@
+{
+  "id": 1292942569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04833,41.33139,20.04833,41.33139",
+    "geom:latitude":41.33139,
+    "geom:longitude":20.04833,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Facesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783258,
+    "gn:latitude":41.33139,
+    "gn:longitude":20.04833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fa\u00e7esh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fa\u00e7eshi",
+        "Fa\u00e7eshti",
+        "Fa\u00e7esh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783258,
+        "wk:page":"Fa%C3%A7esh"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"97e510acaf970e92f1d8f971b4386fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1292942569,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1292942569,
+    "wof:lastmodified":1537584110,
+    "wof:name":"Facesh",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04833,
+    41.33139,
+    20.04833,
+    41.33139
+],
+  "geometry": {"coordinates":[20.04833,41.33139],"type":"Point"}
+}

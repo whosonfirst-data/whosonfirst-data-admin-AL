@@ -1,0 +1,72 @@
+{
+  "id": 1210053453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78722,40.62556,19.78722,40.62556",
+    "geom:latitude":40.62556,
+    "geom:longitude":19.78722,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Salaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343983,
+    "gn:latitude":40.62556,
+    "gn:longitude":19.78722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Salaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoxhaj",
+        "Salaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343983
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a3f1c24e32beed876d904ed2012667c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1210053453,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1210053453,
+    "wof:lastmodified":1537584338,
+    "wof:name":"Salaj",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78722,
+    40.62556,
+    19.78722,
+    40.62556
+],
+  "geometry": {"coordinates":[19.78722,40.62556],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225979549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77306,42.35444,19.77306,42.35444",
+    "geom:latitude":42.35444,
+    "geom:longitude":19.77306,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Nderlysaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184619,
+    "gn:latitude":42.35444,
+    "gn:longitude":19.77306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nd\u00ebrlysaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nderlysa",
+        "Nerlisa",
+        "Nd\u00ebrhysaj",
+        "Nd\u00ebrlys\u00eb",
+        "Nd\u00ebrlysaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184619
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9a331c7a503c13cd74000936d576b1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1225979549,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1225979549,
+    "wof:lastmodified":1537584219,
+    "wof:name":"Nderlysaj",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77306,
+    42.35444,
+    19.77306,
+    42.35444
+],
+  "geometry": {"coordinates":[19.77306,42.35444],"type":"Point"}
+}

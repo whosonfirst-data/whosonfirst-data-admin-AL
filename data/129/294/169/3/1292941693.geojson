@@ -1,0 +1,74 @@
+{
+  "id": 1292941693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45444,42.0675,20.45444,42.0675",
+    "geom:latitude":42.0675,
+    "geom:longitude":20.45444,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Lume",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782449,
+    "gn:latitude":42.0675,
+    "gn:longitude":20.45444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lum\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kod\u00ebr-Lume",
+        "Luma",
+        "Lum\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782449,
+        "wk:page":"Lum%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"12e477e41a9f95ee47f3dabd4d2704ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1292941693,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1292941693,
+    "wof:lastmodified":1537584058,
+    "wof:name":"Lume",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45444,
+    42.0675,
+    20.45444,
+    42.0675
+],
+  "geometry": {"coordinates":[20.45444,42.0675],"type":"Point"}
+}

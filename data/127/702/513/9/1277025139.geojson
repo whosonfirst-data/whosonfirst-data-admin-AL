@@ -1,0 +1,74 @@
+{
+  "id": 1277025139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93528,40.74389,19.93528,40.74389",
+    "geom:latitude":40.74389,
+    "geom:longitude":19.93528,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Otllak",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184568,
+    "gn:latitude":40.74389,
+    "gn:longitude":19.93528,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Otllak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otllaku",
+        "Otllak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184568,
+        "wk:page":"Otllak"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"797f9c2fa98adb7348796ced077f4b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1277025139,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1277025139,
+    "wof:lastmodified":1537584215,
+    "wof:name":"Otllak",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93528,
+    40.74389,
+    19.93528,
+    40.74389
+],
+  "geometry": {"coordinates":[19.93528,40.74389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293817855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70583,40.33306,20.70583,40.33306",
+    "geom:latitude":40.33306,
+    "geom:longitude":20.70583,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Rehove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781816,
+    "gn:latitude":40.33306,
+    "gn:longitude":20.70583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rehov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakova",
+        "Rakov\u00eb",
+        "Rahova",
+        "Rehova",
+        "Rehov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781816
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bd5489a667a683b793b04bc252afa5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1293817855,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293817855,
+    "wof:lastmodified":1537584020,
+    "wof:name":"Rehove",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70583,
+    40.33306,
+    20.70583,
+    40.33306
+],
+  "geometry": {"coordinates":[20.70583,40.33306],"type":"Point"}
+}

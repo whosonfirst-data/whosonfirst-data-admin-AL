@@ -1,0 +1,79 @@
+{
+  "id": 1327367661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26028,40.95861,20.26028,40.95861",
+    "geom:latitude":40.95861,
+    "geom:longitude":20.26028,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Jaronisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782937,
+    "gn:latitude":40.95861,
+    "gn:longitude":20.26028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaronisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Joronishti",
+        "Jaranishta",
+        "Jeronisht",
+        "Joranisht",
+        "Joronisht",
+        "Jeronishti",
+        "Ioranisht",
+        "Lana",
+        "Jaronisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782937
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"75369c7123d152a1d845a70e77cfb328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1327367661,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327367661,
+    "wof:lastmodified":1537584087,
+    "wof:name":"Jaronisht",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26028,
+    40.95861,
+    20.26028,
+    40.95861
+],
+  "geometry": {"coordinates":[20.26028,40.95861],"type":"Point"}
+}

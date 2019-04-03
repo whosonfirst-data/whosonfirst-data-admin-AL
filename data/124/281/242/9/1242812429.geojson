@@ -1,0 +1,67 @@
+{
+  "id": 1242812429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70611,41.03111,19.70611,41.03111",
+    "geom:latitude":41.03111,
+    "geom:longitude":19.70611,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Remanaj",
+    "gn:country_code":"AL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184319,
+    "gn:latitude":41.03111,
+    "gn:longitude":19.70611,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Remanaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184319
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bb04b1a524d6ab2673b753c910a7c10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1242812429,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242812429,
+    "wof:lastmodified":1536725879,
+    "wof:name":"Remanaj",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70611,
+    41.03111,
+    19.70611,
+    41.03111
+],
+  "geometry": {"coordinates":[19.70611,41.03111],"type":"Point"}
+}

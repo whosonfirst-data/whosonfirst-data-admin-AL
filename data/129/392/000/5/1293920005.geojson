@@ -1,0 +1,75 @@
+{
+  "id": 1293920005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03722,39.90972,20.03722,39.90972",
+    "geom:latitude":39.90972,
+    "geom:longitude":20.03722,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Karahaxh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363333,
+    "gn:latitude":39.90972,
+    "gn:longitude":20.03722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karahaxh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carahaggi",
+        "Hardhaxhi",
+        "Karahanxhi",
+        "Karahaxhi",
+        "Karahaxh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363333
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c09a5e0d07cb0b622a1c53c81e0d0da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1293920005,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1293920005,
+    "wof:lastmodified":1537583963,
+    "wof:name":"Karahaxh",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03722,
+    39.90972,
+    20.03722,
+    39.90972
+],
+  "geometry": {"coordinates":[20.03722,39.90972],"type":"Point"}
+}

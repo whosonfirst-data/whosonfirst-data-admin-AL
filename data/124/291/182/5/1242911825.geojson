@@ -1,0 +1,80 @@
+{
+  "id": 1242911825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34083,40.41472,20.34083,40.41472",
+    "geom:latitude":40.41472,
+    "geom:longitude":20.34083,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Strenec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781518,
+    "gn:latitude":40.41472,
+    "gn:longitude":20.34083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Strenec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St\u00ebrneci",
+        "Stermez",
+        "St\u00ebrnec",
+        "Strenesi",
+        "Stermec",
+        "Streneci",
+        "Stermeci",
+        "Sternez",
+        "Strenec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781518,
+        "wk:page":"Str%C3%ABnec"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"95c7e568889f3f6941fb4f36cd58f231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1242911825,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1242911825,
+    "wof:lastmodified":1537583999,
+    "wof:name":"Strenec",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34083,
+    40.41472,
+    20.34083,
+    40.41472
+],
+  "geometry": {"coordinates":[20.34083,40.41472],"type":"Point"}
+}

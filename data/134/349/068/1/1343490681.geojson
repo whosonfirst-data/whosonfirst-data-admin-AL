@@ -1,0 +1,80 @@
+{
+  "id": 1343490681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26028,41.5225,20.26028,41.5225",
+    "geom:latitude":41.5225,
+    "geom:longitude":20.26028,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Dragua-Bulqize",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783305,
+    "gn:latitude":41.5225,
+    "gn:longitude":20.26028,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Dragua-Bulqiz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dragu",
+        "Drague",
+        "Dragun",
+        "Drague-Bulqiz\u00eb",
+        "Dragua-Bulqiza",
+        "Drague-Bulqiza",
+        "Dragua-Bulqiz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783305
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fe8cae5a84c2fa8d9fc91faf648d52f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1343490681,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1343490681,
+    "wof:lastmodified":1537584112,
+    "wof:name":"Dragua-Bulqize",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26028,
+    41.5225,
+    20.26028,
+    41.5225
+],
+  "geometry": {"coordinates":[20.26028,41.5225],"type":"Point"}
+}

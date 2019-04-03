@@ -1,0 +1,67 @@
+{
+  "id": 1242714127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.49167,42.36444,19.49167,42.36444",
+    "geom:latitude":42.36444,
+    "geom:longitude":19.49167,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Lukaj",
+    "gn:country_code":"AL",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343148,
+    "gn:latitude":42.36444,
+    "gn:longitude":19.49167,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Lukaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343148
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c66aafa0f9b1837c959bb8e907474b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1242714127,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1242714127,
+    "wof:lastmodified":1536865768,
+    "wof:name":"Lukaj",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.49167000000001,
+    42.36444,
+    19.49167000000001,
+    42.36444
+],
+  "geometry": {"coordinates":[19.49167000000001,42.36444],"type":"Point"}
+}

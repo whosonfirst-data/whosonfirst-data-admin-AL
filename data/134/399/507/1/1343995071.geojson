@@ -1,0 +1,73 @@
+{
+  "id": 1343995071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63139,41.3825,19.63139,41.3825",
+    "geom:latitude":41.3825,
+    "geom:longitude":19.63139,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Allcaush",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186210,
+    "gn:latitude":41.3825,
+    "gn:longitude":19.63139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"All\u00e7aush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u010dau\u0161",
+        "All\u00e7anshe",
+        "All\u00e7aush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186210
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"afd6049566fd18cac9a6de3522f5aba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720911,
+            "locality_id":1343995071,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1343995071,
+    "wof:lastmodified":1537584323,
+    "wof:name":"Allcaush",
+    "wof:parent_id":1108720911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63139,
+    41.3825,
+    19.63139,
+    41.3825
+],
+  "geometry": {"coordinates":[19.63139,41.3825],"type":"Point"}
+}

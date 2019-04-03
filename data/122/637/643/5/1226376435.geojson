@@ -1,0 +1,72 @@
+{
+  "id": 1226376435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43944,40.90889,20.43944,40.90889",
+    "geom:latitude":40.90889,
+    "geom:longitude":20.43944,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shpelle",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781639,
+    "gn:latitude":40.90889,
+    "gn:longitude":20.43944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shpell\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shpella",
+        "Shpell\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781639
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"987317414ede9d9c58708bdc40d798d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1226376435,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226376435,
+    "wof:lastmodified":1537584007,
+    "wof:name":"Shpelle",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43944,
+    40.90889,
+    20.43944,
+    40.90889
+],
+  "geometry": {"coordinates":[20.43944,40.90889],"type":"Point"}
+}

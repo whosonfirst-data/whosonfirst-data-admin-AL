@@ -1,0 +1,77 @@
+{
+  "id": 1276911929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34194,42.07806,20.34194,42.07806",
+    "geom:latitude":42.07806,
+    "geom:longitude":20.34194,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kolsh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782771,
+    "gn:latitude":42.07806,
+    "gn:longitude":20.34194,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Kolsh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolshi",
+        "Kalshi",
+        "Klosh",
+        "Kolj\u0161i",
+        "Kolsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421186339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782771,
+        "wk:page":"Kolsh%2C_Kuk%C3%ABs"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bd96e5b88eda6f335bd53ed4c45a5518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421186339,
+            "locality_id":1276911929,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1276911929,
+    "wof:lastmodified":1537584077,
+    "wof:name":"Kolsh",
+    "wof:parent_id":421186339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34194,
+    42.07806,
+    20.34194,
+    42.07806
+],
+  "geometry": {"coordinates":[20.34194,42.07806],"type":"Point"}
+}

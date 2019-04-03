@@ -1,0 +1,80 @@
+{
+  "id": 1277018805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39583,41.5675,20.39583,41.5675",
+    "geom:latitude":41.5675,
+    "geom:longitude":20.39583,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kovashice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782721,
+    "gn:latitude":41.5675,
+    "gn:longitude":20.39583,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Kovashic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kova\u00e7ica",
+        "Kova\u00e7ic\u00eb",
+        "Kova\u00e7is\u00eb",
+        "Kovashica",
+        "Koshavice",
+        "Kova\u00e7isa",
+        "Kovashic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782721
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b62876b7c14045500847b959808c6022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1277018805,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1277018805,
+    "wof:lastmodified":1537584074,
+    "wof:name":"Kovashice",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39583,
+    41.5675,
+    20.39583,
+    41.5675
+],
+  "geometry": {"coordinates":[20.39583,41.5675],"type":"Point"}
+}

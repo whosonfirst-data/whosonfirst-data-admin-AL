@@ -1,0 +1,75 @@
+{
+  "id": 1243585239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0275,40.12167,20.0275,40.12167",
+    "geom:latitude":40.12167,
+    "geom:longitude":20.0275,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Kardhiq",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782868,
+    "gn:latitude":40.12167,
+    "gn:longitude":20.0275,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kardhiq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gardiki",
+        "Kardhiqi",
+        "Kardhiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782868,
+        "wk:page":"Kardhiq"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"144bed0a135a85094ca68f45fc0ece58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1243585239,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1243585239,
+    "wof:lastmodified":1537584083,
+    "wof:name":"Kardhiq",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0275,
+    40.12167,
+    20.0275,
+    40.12167
+],
+  "geometry": {"coordinates":[20.0275,40.12167],"type":"Point"}
+}

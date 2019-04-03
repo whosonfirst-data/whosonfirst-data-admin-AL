@@ -1,0 +1,77 @@
+{
+  "id": 1293035641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41667,40.25194,20.41667,40.25194",
+    "geom:latitude":40.25194,
+    "geom:longitude":20.41667,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Benje-Novosele",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783632,
+    "gn:latitude":40.25194,
+    "gn:longitude":20.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Benj\u00eb-Novosel\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benja Sheqeri",
+        "Banja",
+        "Benj\u00eb Shqeri",
+        "Benj\u00eb",
+        "Benj\u00eb-Novosela",
+        "Benja",
+        "Benj\u00eb-Novosel\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783632
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a77d65af8f74f64bf5e26e6949ca55ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1293035641,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293035641,
+    "wof:lastmodified":1537584134,
+    "wof:name":"Benje-Novosele",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41667,
+    40.25194000000001,
+    20.41667,
+    40.25194000000001
+],
+  "geometry": {"coordinates":[20.41667,40.25194000000001],"type":"Point"}
+}

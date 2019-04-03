@@ -1,0 +1,67 @@
+{
+  "id": 1309746113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8,40.53333,19.8,40.53333",
+    "geom:latitude":40.53333,
+    "geom:longitude":19.8,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sheaj",
+    "gn:country_code":"AL",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184159,
+    "gn:latitude":40.53333,
+    "gn:longitude":19.8,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sheaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184159
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"889325d99bf0233be10f502f5ec3197f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720879,
+            "locality_id":1309746113,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1309746113,
+    "wof:lastmodified":1537016529,
+    "wof:name":"Sheaj",
+    "wof:parent_id":1108720879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8,
+    40.53333,
+    19.8,
+    40.53333
+],
+  "geometry": {"coordinates":[19.8,40.53333],"type":"Point"}
+}

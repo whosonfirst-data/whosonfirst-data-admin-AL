@@ -1,0 +1,83 @@
+{
+  "id": 1343893193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28917,40.07389,20.28917,40.07389",
+    "geom:latitude":40.07389,
+    "geom:longitude":20.28917,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Labova e Poshtme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782609,
+    "gn:latitude":40.07389,
+    "gn:longitude":20.28917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Labova e Poshtme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gliabovo madh",
+        "Lobov\u00eb-e poshterm\u00eb",
+        "Labov\u00eb e Madhe",
+        "Kato Labov e Kryqit",
+        "Labov\u00eb",
+        "Labov\u00eb e Madh",
+        "Labova e Posht\u00ebme",
+        "Labov\u00eb e Posht\u00ebme i",
+        "Labov\u00eb e Poshtm\u00eb",
+        "Labova",
+        "Labove-e posht\u00ebrme",
+        "Labova e Poshtme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782609,
+        "wk:page":"Labov%C3%AB_e_Madhe"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3ac45abdedbcc568b5908b1bee978918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720875,
+            "locality_id":1343893193,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1343893193,
+    "wof:lastmodified":1537584068,
+    "wof:name":"Labova e Poshtme",
+    "wof:parent_id":1108720875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28917,
+    40.07389000000001,
+    20.28917,
+    40.07389000000001
+],
+  "geometry": {"coordinates":[20.28917,40.07389000000001],"type":"Point"}
+}

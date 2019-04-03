@@ -1,0 +1,71 @@
+{
+  "id": 1209753913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98333,40.7,19.98333,40.7",
+    "geom:latitude":40.7,
+    "geom:longitude":19.98333,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Agim",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186221,
+    "gn:latitude":40.7,
+    "gn:longitude":19.98333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Agim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186221
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fa1ac0e4147adaa8df0d68aaff0ceff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1209753913,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1209753913,
+    "wof:lastmodified":1537584324,
+    "wof:name":"Agim",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98333,
+    40.7,
+    19.98333,
+    40.7
+],
+  "geometry": {"coordinates":[19.98333,40.7],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210051113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.825,41.70611,19.825,41.70611",
+    "geom:latitude":41.70611,
+    "geom:longitude":19.825,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Shkopet",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184080,
+    "gn:latitude":41.70611,
+    "gn:longitude":19.825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shkopet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferr-Shkopeti",
+        "Shkopezi",
+        "Shkopet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184080
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"39ee57d8df0aa9c530e53f3b9f1ad6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1210051113,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1210051113,
+    "wof:lastmodified":1537584182,
+    "wof:name":"Shkopet",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.825,
+    41.70611,
+    19.825,
+    41.70611
+],
+  "geometry": {"coordinates":[19.825,41.70611],"type":"Point"}
+}

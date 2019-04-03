@@ -1,0 +1,81 @@
+{
+  "id": 1260215303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60722,40.945,20.60722,40.945",
+    "geom:latitude":40.945,
+    "geom:longitude":20.60722,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Cervenake",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783428,
+    "gn:latitude":40.945,
+    "gn:longitude":20.60722,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"\u00c7ervenak\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430\u043a"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u00c7ervenak",
+        "\u00c7ervenaka",
+        "\u00c7ervenaku",
+        "Cerdermeake",
+        "\u00c7ervenak\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783428
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"26a8240973434aa52ada7fc705c5af53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1260215303,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260215303,
+    "wof:lastmodified":1537584120,
+    "wof:name":"Cervenake",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60722,
+    40.945,
+    20.60722,
+    40.945
+],
+  "geometry": {"coordinates":[20.60722,40.945],"type":"Point"}
+}

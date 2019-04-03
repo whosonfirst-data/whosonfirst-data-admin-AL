@@ -1,0 +1,73 @@
+{
+  "id": 1260111299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77139,42.31417,19.77139,42.31417",
+    "geom:latitude":42.31417,
+    "geom:longitude":19.77139,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Gimaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185600,
+    "gn:latitude":42.31417,
+    "gn:longitude":19.77139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gimaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajraku Gimajt",
+        "Ginaj",
+        "Gimaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185600
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"45dbb4b71f1738f2c381c0fa0103d173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1260111299,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1260111299,
+    "wof:lastmodified":1537584281,
+    "wof:name":"Gimaj",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77139,
+    42.31417,
+    19.77139,
+    42.31417
+],
+  "geometry": {"coordinates":[19.77139,42.31417],"type":"Point"}
+}

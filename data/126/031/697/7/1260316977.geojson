@@ -1,0 +1,84 @@
+{
+  "id": 1260316977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77694,40.89694,20.77694,40.89694",
+    "geom:latitude":40.89694,
+    "geom:longitude":20.77694,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Peshkepi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782063,
+    "gn:latitude":40.89694,
+    "gn:longitude":20.77694,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Peshk\u00ebpi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u0448\u043a\u043e\u043f\u0435\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "Pe\u0161kopeja"
+    ],
+    "name:sqi_x_preferred":[
+        "Pishkupije"
+    ],
+    "name:und_x_variant":[
+        "Peshkop",
+        "Peshkopia",
+        "P\u00ebshkupi\u00eb",
+        "Peshk\u00ebpia",
+        "Peshk\u00ebpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782063
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4aec6f3389b8d70891139e2f703d0cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1260316977,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260316977,
+    "wof:lastmodified":1537584036,
+    "wof:name":"Peshkepi",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77694,
+    40.89694,
+    20.77694,
+    40.89694
+],
+  "geometry": {"coordinates":[20.77694,40.89694],"type":"Point"}
+}

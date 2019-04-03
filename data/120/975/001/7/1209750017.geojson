@@ -1,0 +1,76 @@
+{
+  "id": 1209750017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66,40.47333,19.66,40.47333",
+    "geom:latitude":40.47333,
+    "geom:longitude":19.66,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Pickat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184514,
+    "gn:latitude":40.47333,
+    "gn:longitude":19.66,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Pi\u00e7kat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pechat",
+        "Pe\u00e7kati",
+        "Pe\u00e7kat",
+        "Pe\u00e7ikati",
+        "Pi\u00e7kati",
+        "Piccicat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184514
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"acd87ebd7380c857e5034f1e8cf79b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1209750017,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1209750017,
+    "wof:lastmodified":1537584213,
+    "wof:name":"Pickat",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66,
+    40.47333,
+    19.66,
+    40.47333
+],
+  "geometry": {"coordinates":[19.66,40.47333],"type":"Point"}
+}

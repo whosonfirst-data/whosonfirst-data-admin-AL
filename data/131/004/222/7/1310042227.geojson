@@ -1,0 +1,83 @@
+{
+  "id": 1310042227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83722,42.05306,19.83722,42.05306",
+    "geom:latitude":42.05306,
+    "geom:longitude":19.83722,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Qerret",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184362,
+    "gn:latitude":42.05306,
+    "gn:longitude":19.83722,
+    "gn:modification_date":"2012-06-12",
+    "gn:name":"Qerret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cereti-eper",
+        "Qerret i Madh",
+        "Qerreti i Ep\u00ebrm\u00eb",
+        "Qerreti i-ep\u00ebr",
+        "Qerret i Ep\u00ebrm",
+        "Qereti i Ep\u00ebrm\u00eb",
+        "Qerret i Ep\u00ebr",
+        "Qerreti i Madh",
+        "Qerret-ieperme",
+        "Qerreti",
+        "Qerret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184362,
+        "wk:page":"Qerret"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5f64867843d6db88c550e0b7d48ac6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1310042227,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1310042227,
+    "wof:lastmodified":1537584203,
+    "wof:name":"Qerret",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83722,
+    42.05306,
+    19.83722,
+    42.05306
+],
+  "geometry": {"coordinates":[19.83722,42.05306],"type":"Point"}
+}

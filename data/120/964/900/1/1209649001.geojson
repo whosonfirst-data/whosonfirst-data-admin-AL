@@ -1,0 +1,66 @@
+{
+  "id": 1209649001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90972,42.09583,19.90972,42.09583",
+    "geom:latitude":42.09583,
+    "geom:longitude":19.90972,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Katund",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184386,
+    "gn:latitude":42.09583,
+    "gn:longitude":19.90972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Katund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puk\u00eb Katund",
+        "Katund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184386
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"31de9b72101c8a5932e28cadd1206d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209649001
+        }
+    ],
+    "wof:id":1209649001,
+    "wof:lastmodified":1537584205,
+    "wof:name":"Katund",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90972,
+    42.09583,
+    19.90972,
+    42.09583
+],
+  "geometry": {"coordinates":[19.90972,42.09583],"type":"Point"}
+}

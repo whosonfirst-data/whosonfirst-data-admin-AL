@@ -1,0 +1,79 @@
+{
+  "id": 1226676745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28222,41.52194,20.28222,41.52194",
+    "geom:latitude":41.52194,
+    "geom:longitude":20.28222,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Fushe-Bulqize",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783212,
+    "gn:latitude":41.52194,
+    "gn:longitude":20.28222,
+    "gn:modification_date":"2012-06-02",
+    "gn:name":"Fush\u00eb-Bulqiz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0447\u0438\u0447\u043a\u043e \u041f\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Fushaj",
+        "Bulqiz\u00eb Fusha",
+        "Fush\u00eb-Bulqiza",
+        "Fush\u00eb-Bulqiz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783212,
+        "wk:page":"Fush%C3%AB-Bulqiz%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b4211a1e4d0414ae29817f24647daa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1226676745,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1226676745,
+    "wof:lastmodified":1537584107,
+    "wof:name":"Fushe-Bulqize",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28222,
+    41.52194,
+    20.28222,
+    41.52194
+],
+  "geometry": {"coordinates":[20.28222,41.52194],"type":"Point"}
+}

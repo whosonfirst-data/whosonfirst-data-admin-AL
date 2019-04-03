@@ -1,0 +1,72 @@
+{
+  "id": 1310436609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0175,40.5725,21.0175,40.5725",
+    "geom:latitude":40.5725,
+    "geom:longitude":21.0175,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Trestenik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781364,
+    "gn:latitude":40.5725,
+    "gn:longitude":21.0175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Trestenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tresteniku",
+        "Trestenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781364
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"76d03c6b4a5b788eda2f63c85417fac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1310436609,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310436609,
+    "wof:lastmodified":1537583990,
+    "wof:name":"Trestenik",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0175,
+    40.5725,
+    21.0175,
+    40.5725
+],
+  "geometry": {"coordinates":[21.0175,40.5725],"type":"Point"}
+}

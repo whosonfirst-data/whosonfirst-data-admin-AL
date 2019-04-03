@@ -1,0 +1,66 @@
+{
+  "id": 1209243701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77833,41.39722,19.77833,41.39722",
+    "geom:latitude":41.39722,
+    "geom:longitude":19.77833,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Cerkez-Morine",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185907,
+    "gn:latitude":41.39722,
+    "gn:longitude":19.77833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7erkez-Morin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7erkezmorina",
+        "\u00c7erkez-Morin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185907
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d2b3ee5feadac47773d7a93fb80b8ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209243701
+        }
+    ],
+    "wof:id":1209243701,
+    "wof:lastmodified":1537584302,
+    "wof:name":"Cerkez-Morine",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77833,
+    41.39722,
+    19.77833,
+    41.39722
+],
+  "geometry": {"coordinates":[19.77833,41.39722],"type":"Point"}
+}

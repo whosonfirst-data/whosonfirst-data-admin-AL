@@ -1,0 +1,82 @@
+{
+  "id": 1276157661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44167,42.01611,19.44167,42.01611",
+    "geom:latitude":42.01611,
+    "geom:longitude":19.44167,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Oblika e Madhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184582,
+    "gn:latitude":42.01611,
+    "gn:longitude":19.44167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oblika e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oblik\u00eb e Posht\u00ebme",
+        "Oblika e Posht\u00ebr",
+        "Oblik\u00eb e Poster",
+        "Oblika e Posht\u00ebme",
+        "Oblik\u00eb e Poshtme",
+        "Oblikasiper",
+        "Oblik\u00eb e Madhe",
+        "Oblika",
+        "Oblika Po\u0161ter",
+        "Oblika Poshtme",
+        "Oblika e Poshtme",
+        "Oblika e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184582
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f3d83d4a1a96af9e57284cbae71c0b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1276157661,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1276157661,
+    "wof:lastmodified":1537584216,
+    "wof:name":"Oblika e Madhe",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44167,
+    42.01611,
+    19.44167,
+    42.01611
+],
+  "geometry": {"coordinates":[19.44167,42.01611],"type":"Point"}
+}

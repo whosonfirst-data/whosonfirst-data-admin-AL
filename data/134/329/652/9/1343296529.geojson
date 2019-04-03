@@ -1,0 +1,74 @@
+{
+  "id": 1343296529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64861,40.32833,20.64861,40.32833",
+    "geom:latitude":40.32833,
+    "geom:longitude":20.64861,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Taci i Poshtem",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781460,
+    "gn:latitude":40.32833,
+    "gn:longitude":20.64861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ta\u00e7i i Posht\u00ebm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taqbal\u00eb",
+        "Ta\u00e7 i Posht\u00ebm",
+        "Ta\u00e7i",
+        "Ta\u00e7i i Posht\u00ebm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781460
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e6daceee8a35c5f35b2a203cc04473dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1343296529,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343296529,
+    "wof:lastmodified":1537583996,
+    "wof:name":"Taci i Poshtem",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64861,
+    40.32833,
+    20.64861,
+    40.32833
+],
+  "geometry": {"coordinates":[20.64861,40.32833],"type":"Point"}
+}

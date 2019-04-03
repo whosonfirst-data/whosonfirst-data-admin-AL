@@ -1,0 +1,73 @@
+{
+  "id": 1260218383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09806,41.09361,20.09806,41.09361",
+    "geom:latitude":41.09361,
+    "geom:longitude":20.09806,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Hajdaran",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782997,
+    "gn:latitude":41.09361,
+    "gn:longitude":20.09806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hajdaran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajdarani",
+        "Haidamim",
+        "Hajdaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782997
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ef313f23c18716ea596c4e672615893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1260218383,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1260218383,
+    "wof:lastmodified":1537584092,
+    "wof:name":"Hajdaran",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09806,
+    41.09361,
+    20.09806,
+    41.09361
+],
+  "geometry": {"coordinates":[20.09806,41.09361],"type":"Point"}
+}

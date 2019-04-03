@@ -1,0 +1,67 @@
+{
+  "id": 1360218665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08194,41.46139,20.08194,41.46139",
+    "geom:latitude":41.46139,
+    "geom:longitude":20.08194,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Laskaj",
+    "gn:country_code":"AL",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782588,
+    "gn:latitude":41.46139,
+    "gn:longitude":20.08194,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Laskaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782588
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2ffc45f5c41ee42a981bdceb8885b235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1360218665,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1360218665,
+    "wof:lastmodified":1536752938,
+    "wof:name":"Laskaj",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08194,
+    41.46139,
+    20.08194,
+    41.46139
+],
+  "geometry": {"coordinates":[20.08194,41.46139],"type":"Point"}
+}

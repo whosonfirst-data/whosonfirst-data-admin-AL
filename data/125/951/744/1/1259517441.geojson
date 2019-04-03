@@ -1,0 +1,80 @@
+{
+  "id": 1259517441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51056,41.56944,20.51056,41.56944",
+    "geom:latitude":41.56944,
+    "geom:longitude":20.51056,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kllobcisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782811,
+    "gn:latitude":41.56944,
+    "gn:longitude":20.51056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kllob\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clobucishta",
+        "Kllobogjishta",
+        "Klobu\u00e7ishte",
+        "Kllob\u00e7ishti",
+        "Kllobogjisht\u00eb",
+        "Kllobu\u00e7jishta",
+        "Kllobo\u00e7ishta",
+        "Kllop\u00e7ishti",
+        "Kllop\u00e7isht",
+        "Kllob\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782811
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e9662ac58c8cf12ed7b879f5328ca0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1259517441,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1259517441,
+    "wof:lastmodified":1537584080,
+    "wof:name":"Kllobcisht",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51056,
+    41.56944,
+    20.51056,
+    41.56944
+],
+  "geometry": {"coordinates":[20.51056,41.56944],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1326666889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39778,42.00222,19.39778,42.00222",
+    "geom:latitude":42.00222,
+    "geom:longitude":19.39778,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Samrisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184217,
+    "gn:latitude":42.00222,
+    "gn:longitude":19.39778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samrisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samrishi",
+        "Samric",
+        "Samrish",
+        "Samrisht\u2019 i Sip\u00ebrm\u00eb",
+        "Samrishti",
+        "Samrisht i Sip\u00ebrm",
+        "Samrish i Sip\u00ebrm",
+        "Samrishi i Siper",
+        "Samerishti i Sip\u00ebrme",
+        "Samrishti i Sip\u00ebrm",
+        "Samarisht",
+        "Samrishti i Sip\u00ebrm\u00eb",
+        "Samrisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184217
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d5ef195ed18513b817539bf0df5bdec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1326666889,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326666889,
+    "wof:lastmodified":1537584191,
+    "wof:name":"Samrisht",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39778,
+    42.00222,
+    19.39778,
+    42.00222
+],
+  "geometry": {"coordinates":[19.39778,42.00222],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1293524005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63917,40.96333,20.63917,40.96333",
+    "geom:latitude":40.96333,
+    "geom:longitude":20.63917,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Udenisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781335,
+    "gn:latitude":40.96333,
+    "gn:longitude":20.63917,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Ud\u00ebnisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u0434\u0443\u043d\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Hud\u00ebnishta",
+        "Udenishti",
+        "Hudenisht",
+        "Ud\u00ebnisht\u00eb",
+        "Hodonishti",
+        "Hudenishti",
+        "Hodonishta",
+        "Hodoni\u0161ta",
+        "Ud\u00ebnisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781335,
+        "wk:page":"Ud%C3%ABnisht"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"27ed0c6bb1fb7a45d42f8a607b66bf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1293524005,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293524005,
+    "wof:lastmodified":1537583988,
+    "wof:name":"Udenisht",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63917,
+    40.96333,
+    20.63917,
+    40.96333
+],
+  "geometry": {"coordinates":[20.63917,40.96333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226800437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21806,40.47139,20.21806,40.47139",
+    "geom:latitude":40.47139,
+    "geom:longitude":20.21806,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Liqeth",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782503,
+    "gn:latitude":40.47139,
+    "gn:longitude":20.21806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Liqeth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liqethi",
+        "Litic",
+        "Liqedh",
+        "Liqedhi",
+        "Ligethi",
+        "Liqeth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782503,
+        "wk:page":"Liqeth"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"506a0f51712bb344d6480831f69b27bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1226800437,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1226800437,
+    "wof:lastmodified":1537584062,
+    "wof:name":"Liqeth",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21806,
+    40.47139,
+    20.21806,
+    40.47139
+],
+  "geometry": {"coordinates":[20.21806,40.47139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293134415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67083,41.39361,19.67083,41.39361",
+    "geom:latitude":41.39361,
+    "geom:longitude":19.67083,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Mucaj",
+    "gn:country_code":"AL",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184669,
+    "gn:latitude":41.39361,
+    "gn:longitude":19.67083,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Mu\u00e7aj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184669
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3e717c4ac18c81378d8602166f451b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720911,
+            "locality_id":1293134415,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1293134415,
+    "wof:lastmodified":1536799235,
+    "wof:name":"Mucaj",
+    "wof:parent_id":1108720911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67083,
+    41.39361,
+    19.67083,
+    41.39361
+],
+  "geometry": {"coordinates":[19.67083,41.39361],"type":"Point"}
+}

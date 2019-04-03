@@ -1,0 +1,79 @@
+{
+  "id": 1276374515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72389,41.36778,19.72389,41.36778",
+    "geom:latitude":41.36778,
+    "geom:longitude":19.72389,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Domje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185787,
+    "gn:latitude":41.36778,
+    "gn:longitude":19.72389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Domje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damja",
+        "Dome",
+        "Dame e Posht\u00ebme",
+        "Domja",
+        "Damia Po\u0161ljme",
+        "Doma e Poshtme",
+        "Dame",
+        "Domje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185787,
+        "wk:page":"Domje"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ec9e207f21dcbb1793d2237e6417be19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720911,
+            "locality_id":1276374515,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1276374515,
+    "wof:lastmodified":1537584294,
+    "wof:name":"Domje",
+    "wof:parent_id":1108720911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72389,
+    41.36778,
+    19.72389,
+    41.36778
+],
+  "geometry": {"coordinates":[19.72389,41.36778],"type":"Point"}
+}

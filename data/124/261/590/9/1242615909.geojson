@@ -1,0 +1,76 @@
+{
+  "id": 1242615909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97194,40.74389,19.97194,40.74389",
+    "geom:latitude":40.74389,
+    "geom:longitude":19.97194,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Ullinjas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183823,
+    "gn:latitude":40.74389,
+    "gn:longitude":19.97194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ullinjas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ullinjasi",
+        "Virjon",
+        "Virion",
+        "Vrion",
+        "Ullinjas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183823,
+        "wk:page":"Ullinjas"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"72d9646d363b661e2bf1aa203c5c04b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1242615909,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1242615909,
+    "wof:lastmodified":1537584170,
+    "wof:name":"Ullinjas",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97194,
+    40.74389,
+    19.97194,
+    40.74389
+],
+  "geometry": {"coordinates":[19.97194,40.74389],"type":"Point"}
+}

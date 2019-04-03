@@ -1,0 +1,78 @@
+{
+  "id": 1326561119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35833,39.90778,20.35833,39.90778",
+    "geom:latitude":39.90778,
+    "geom:longitude":20.35833,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Kakavije",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":363341,
+    "gn:latitude":39.90778,
+    "gn:longitude":20.35833,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kakavij\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakavja",
+        "Kakavi",
+        "Kakavija",
+        "Kakavia",
+        "Cacavia",
+        "Kakavij\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363341,
+        "wk:page":"Kakavij%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"05d68cb296ff654161066c33187e2ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1326561119,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326561119,
+    "wof:lastmodified":1537583964,
+    "wof:name":"Kakavije",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35833,
+    39.90778,
+    20.35833,
+    39.90778
+],
+  "geometry": {"coordinates":[20.35833,39.90778],"type":"Point"}
+}

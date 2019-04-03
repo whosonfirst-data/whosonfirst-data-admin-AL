@@ -1,0 +1,67 @@
+{
+  "id": 1209566569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29111,40.36861,20.29111,40.36861",
+    "geom:latitude":40.36861,
+    "geom:longitude":20.29111,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sevrani i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865191,
+    "gn:latitude":40.36861,
+    "gn:longitude":20.29111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sevrani i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sevran i Madh",
+        "Sevrani i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865191,
+        "wk:page":"Sevran_i_Madh"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"75cfb56bd9799076ec1fe5406d789534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209566569
+        }
+    ],
+    "wof:id":1209566569,
+    "wof:lastmodified":1537584152,
+    "wof:name":"Sevrani i Madh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29111,
+    40.36861,
+    20.29111,
+    40.36861
+],
+  "geometry": {"coordinates":[20.29111,40.36861],"type":"Point"}
+}

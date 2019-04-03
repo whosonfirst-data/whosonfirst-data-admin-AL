@@ -1,0 +1,67 @@
+{
+  "id": 1344093097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00167,40.04111,20.00167,40.04111",
+    "geom:latitude":40.04111,
+    "geom:longitude":20.00167,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Bashaj",
+    "gn:country_code":"AL",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783664,
+    "gn:latitude":40.04111,
+    "gn:longitude":20.00167,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Bashaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783664
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9f1cbbec4f1fbb622331548159b505fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1344093097,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1344093097,
+    "wof:lastmodified":1536827527,
+    "wof:name":"Bashaj",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00167,
+    40.04111,
+    20.00167,
+    40.04111
+],
+  "geometry": {"coordinates":[20.00167,40.04111],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343896597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81806,40.785,19.81806,40.785",
+    "geom:latitude":40.785,
+    "geom:longitude":19.81806,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sqepur",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183974,
+    "gn:latitude":40.785,
+    "gn:longitude":19.81806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sqepur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0107epur",
+        "Sqepuri",
+        "Sqepur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183974,
+        "wk:page":"Sqepur"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b0d7fd807e47d1d49ea6a5a2230eaec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":1343896597,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1343896597,
+    "wof:lastmodified":1537584176,
+    "wof:name":"Sqepur",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81806,
+    40.785,
+    19.81806,
+    40.785
+],
+  "geometry": {"coordinates":[19.81806,40.785],"type":"Point"}
+}

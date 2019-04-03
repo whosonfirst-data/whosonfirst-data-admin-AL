@@ -1,0 +1,75 @@
+{
+  "id": 1193171857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83611,41.95,19.83611,41.95",
+    "geom:latitude":41.95,
+    "geom:longitude":19.83611,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Vrrith",
+    "gn:country_code":"AL",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183694,
+    "gn:latitude":41.95,
+    "gn:longitude":19.83611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vrrith",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00ebrrens",
+        "Vrr\u00eethi",
+        "Vrrethi",
+        "Vrithi",
+        "Vrith",
+        "Vrrith"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421193315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183694
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1a7b8a291c82eec23bd60cc234f3312c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":1193171857,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1193171857,
+    "wof:lastmodified":1537584162,
+    "wof:name":"Vrrith",
+    "wof:parent_id":421193315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83611,
+    41.95,
+    19.83611,
+    41.95
+],
+  "geometry": {"coordinates":[19.83611,41.95],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327170349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61639,40.70194,19.61639,40.70194",
+    "geom:latitude":40.70194,
+    "geom:longitude":19.61639,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Verbas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183760,
+    "gn:latitude":40.70194,
+    "gn:longitude":19.61639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Verbas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verbasi",
+        "Verbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183760
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7979e4cd24e265af65ee32a65fbe5d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720887,
+            "locality_id":1327170349,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1327170349,
+    "wof:lastmodified":1537584166,
+    "wof:name":"Verbas",
+    "wof:parent_id":1108720887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61639,
+    40.70194,
+    19.61639,
+    40.70194
+],
+  "geometry": {"coordinates":[19.61639,40.70194],"type":"Point"}
+}

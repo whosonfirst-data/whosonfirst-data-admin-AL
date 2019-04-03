@@ -1,0 +1,81 @@
+{
+  "id": 1343892397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42694,41.73472,20.42694,41.73472",
+    "geom:latitude":41.73472,
+    "geom:longitude":20.42694,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Vrenjt",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781179,
+    "gn:latitude":41.73472,
+    "gn:longitude":20.42694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vrenjt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iviragne",
+        "Vrenjti",
+        "Vranjti",
+        "Vranjit",
+        "Vranit\u00eb",
+        "Vranita",
+        "Vranjta",
+        "Vranjt",
+        "Vranj\u00eb",
+        "Vrenjt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781179,
+        "wk:page":"Vrenjt"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b40323a216f013125111a66ccf9163a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1343892397,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1343892397,
+    "wof:lastmodified":1537583978,
+    "wof:name":"Vrenjt",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42694,
+    41.73472,
+    20.42694,
+    41.73472
+],
+  "geometry": {"coordinates":[20.42694,41.73472],"type":"Point"}
+}

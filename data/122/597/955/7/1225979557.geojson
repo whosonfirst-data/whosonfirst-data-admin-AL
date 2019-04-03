@@ -1,0 +1,72 @@
+{
+  "id": 1225979557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09944,40.46917,20.09944,40.46917",
+    "geom:latitude":40.46917,
+    "geom:longitude":20.09944,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Berzanaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865173,
+    "gn:latitude":40.46917,
+    "gn:longitude":20.09944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Berzanaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berzan\u00eb",
+        "Berzanaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865173
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a46737c8cfd93ebcf2a5868fde378aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1225979557,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1225979557,
+    "wof:lastmodified":1537584151,
+    "wof:name":"Berzanaj",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09944,
+    40.46917,
+    20.09944,
+    40.46917
+],
+  "geometry": {"coordinates":[20.09944,40.46917],"type":"Point"}
+}

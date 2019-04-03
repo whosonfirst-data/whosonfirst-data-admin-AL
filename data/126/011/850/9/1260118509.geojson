@@ -1,0 +1,72 @@
+{
+  "id": 1260118509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00417,40.74167,20.00417,40.74167",
+    "geom:latitude":40.74167,
+    "geom:longitude":20.00417,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Lagjas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865074,
+    "gn:latitude":40.74167,
+    "gn:longitude":20.00417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lagjas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagjasi",
+        "Lagjas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865074
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"87f46f0360b5775e05cde93a2c5bb54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1260118509,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1260118509,
+    "wof:lastmodified":1537584149,
+    "wof:name":"Lagjas",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00417,
+    40.74167,
+    20.00417,
+    40.74167
+],
+  "geometry": {"coordinates":[20.00417,40.74167],"type":"Point"}
+}

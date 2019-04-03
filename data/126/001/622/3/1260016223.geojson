@@ -1,0 +1,76 @@
+{
+  "id": 1260016223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64,40.97417,20.64,40.97417",
+    "geom:latitude":40.97417,
+    "geom:longitude":20.64,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Polje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782539,
+    "gn:latitude":40.97417,
+    "gn:longitude":20.64,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Leskij\u00eb",
+        "Le\u0161ija",
+        "Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782539
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6555d0fb6d8d5e61b8c2997563dd73b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1260016223,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260016223,
+    "wof:lastmodified":1537584064,
+    "wof:name":"Polje",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64,
+    40.97417,
+    20.64,
+    40.97417
+],
+  "geometry": {"coordinates":[20.64,40.97417],"type":"Point"}
+}

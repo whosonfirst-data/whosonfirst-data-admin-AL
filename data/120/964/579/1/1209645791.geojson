@@ -1,0 +1,66 @@
+{
+  "id": 1209645791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03444,40.17222,20.03444,40.17222",
+    "geom:latitude":40.17222,
+    "geom:longitude":20.03444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Medar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865199,
+    "gn:latitude":40.17222,
+    "gn:longitude":20.03444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Medar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medari",
+        "Medar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865199
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"94affadef2f0d4b670e95efd7dbb7278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209645791
+        }
+    ],
+    "wof:id":1209645791,
+    "wof:lastmodified":1537584152,
+    "wof:name":"Medar",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03444,
+    40.17222,
+    20.03444,
+    40.17222
+],
+  "geometry": {"coordinates":[20.03444,40.17222],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277113065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16639,39.65222,20.16639,39.65222",
+    "geom:latitude":39.65222,
+    "geom:longitude":20.16639,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Karaja",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363332,
+    "gn:latitude":39.65222,
+    "gn:longitude":20.16639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaja",
+        "Karaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363332
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fe3c1d2c96faf2e999249300162df3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720869,
+            "locality_id":1277113065,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1277113065,
+    "wof:lastmodified":1537583963,
+    "wof:name":"Karaja",
+    "wof:parent_id":1108720869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16639,
+    39.65222,
+    20.16639,
+    39.65222
+],
+  "geometry": {"coordinates":[20.16639,39.65222],"type":"Point"}
+}

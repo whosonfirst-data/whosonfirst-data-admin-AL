@@ -1,0 +1,72 @@
+{
+  "id": 1310452995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32972,40.61111,20.32972,40.61111",
+    "geom:latitude":40.61111,
+    "geom:longitude":20.32972,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Barci i Siperm",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865144,
+    "gn:latitude":40.61111,
+    "gn:longitude":20.32972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bar\u00e7i i Sip\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u00e7 i Sip\u00ebrm",
+        "Bar\u00e7i i Sip\u00ebrm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865144
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0b418eb694273284c0404bccd5baac7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1310452995,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310452995,
+    "wof:lastmodified":1537584151,
+    "wof:name":"Barci i Siperm",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32972,
+    40.61111,
+    20.32972,
+    40.61111
+],
+  "geometry": {"coordinates":[20.32972,40.61111],"type":"Point"}
+}

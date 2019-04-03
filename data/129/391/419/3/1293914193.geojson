@@ -1,0 +1,67 @@
+{
+  "id": 1293914193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74833,41.9275,19.74833,41.9275",
+    "geom:latitude":41.9275,
+    "geom:longitude":19.74833,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kastra e Poshteme",
+    "gn:country_code":"AL",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343645,
+    "gn:latitude":41.9275,
+    "gn:longitude":19.74833,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Kastra e Posht\u00ebme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343645
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2b7d9b01aaa1e36c13eda126369c7693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720909,
+            "locality_id":1293914193,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293914193,
+    "wof:lastmodified":1536669171,
+    "wof:name":"Kastra e Poshteme",
+    "wof:parent_id":1108720909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74833,
+    41.9275,
+    19.74833,
+    41.9275
+],
+  "geometry": {"coordinates":[19.74833,41.9275],"type":"Point"}
+}

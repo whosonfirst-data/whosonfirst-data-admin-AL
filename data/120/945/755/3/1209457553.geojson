@@ -1,0 +1,61 @@
+{
+  "id": 1209457553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97278,40.63722,19.97278,40.63722",
+    "geom:latitude":40.63722,
+    "geom:longitude":19.97278,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Izvice",
+    "gn:country_code":"AL",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343990,
+    "gn:latitude":40.63722,
+    "gn:longitude":19.97278,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Izvic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343990
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bf489a1146777624eea68d150aaa5053",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209457553
+        }
+    ],
+    "wof:id":1209457553,
+    "wof:lastmodified":1536286488,
+    "wof:name":"Izvice",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97278,
+    40.63722,
+    19.97278,
+    40.63722
+],
+  "geometry": {"coordinates":[19.97278,40.63722],"type":"Point"}
+}

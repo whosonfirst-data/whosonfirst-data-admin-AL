@@ -1,0 +1,74 @@
+{
+  "id": 1276371833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64972,40.75917,20.64972,40.75917",
+    "geom:latitude":40.75917,
+    "geom:longitude":20.64972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Memel-Manastirec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782315,
+    "gn:latitude":40.75917,
+    "gn:longitude":20.64972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u00ebm\u00ebl-Manastirec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mameli",
+        "Memal-Manastirec",
+        "M\u00ebm\u00ebl-Manastireci",
+        "M\u00ebm\u00ebl-Manastirec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782315
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cfa734f872f798b8e23a048bd00673e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1276371833,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276371833,
+    "wof:lastmodified":1537584052,
+    "wof:name":"Memel-Manastirec",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64972,
+    40.75917000000001,
+    20.64972,
+    40.75917000000001
+],
+  "geometry": {"coordinates":[20.64972,40.75917000000001],"type":"Point"}
+}

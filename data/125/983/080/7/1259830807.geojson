@@ -1,0 +1,75 @@
+{
+  "id": 1259830807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30472,40.64167,20.30472,40.64167",
+    "geom:latitude":40.64167,
+    "geom:longitude":20.30472,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Straficke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781512,
+    "gn:latitude":40.64167,
+    "gn:longitude":20.30472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Strafick\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Straficka",
+        "Strafic\u00eb",
+        "Strafiska",
+        "Strafick\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781512,
+        "wk:page":"Strafick%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ae2e54c635d1023c26b52b197e7d2b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1259830807,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1259830807,
+    "wof:lastmodified":1537583998,
+    "wof:name":"Straficke",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30472,
+    40.64167,
+    20.30472,
+    40.64167
+],
+  "geometry": {"coordinates":[20.30472,40.64167],"type":"Point"}
+}

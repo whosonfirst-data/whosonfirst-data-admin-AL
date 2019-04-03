@@ -1,0 +1,72 @@
+{
+  "id": 1209867383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08056,40.51278,20.08056,40.51278",
+    "geom:latitude":40.51278,
+    "geom:longitude":20.08056,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Gerdan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865115,
+    "gn:latitude":40.51278,
+    "gn:longitude":20.08056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gerdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerdani",
+        "Gerdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865115
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c8268bd06509b67457f8466291f42b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1209867383,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1209867383,
+    "wof:lastmodified":1537584150,
+    "wof:name":"Gerdan",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08056,
+    40.51278,
+    20.08056,
+    40.51278
+],
+  "geometry": {"coordinates":[20.08056,40.51278],"type":"Point"}
+}

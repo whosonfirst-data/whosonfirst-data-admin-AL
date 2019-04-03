@@ -1,0 +1,72 @@
+{
+  "id": 1293136477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55056,42.34583,19.55056,42.34583",
+    "geom:latitude":42.34583,
+    "geom:longitude":19.55056,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Trashan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343619,
+    "gn:latitude":42.34583,
+    "gn:longitude":19.55056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Trashan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trashani",
+        "Trashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343619
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a0740af18254221f4ad093b6d416df62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1293136477,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293136477,
+    "wof:lastmodified":1537584329,
+    "wof:name":"Trashan",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55056,
+    42.34583,
+    19.55056,
+    42.34583
+],
+  "geometry": {"coordinates":[19.55056,42.34583],"type":"Point"}
+}

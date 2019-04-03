@@ -1,0 +1,67 @@
+{
+  "id": 1226377101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2625,42.22361,20.2625,42.22361",
+    "geom:latitude":42.22361,
+    "geom:longitude":20.2625,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Calaj",
+    "gn:country_code":"AL",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864634,
+    "gn:latitude":42.22361,
+    "gn:longitude":20.2625,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"\u00c7alaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421168061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864634
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"808a836335e0d9682bf6245980d2599d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421168061,
+            "locality_id":1226377101,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1226377101,
+    "wof:lastmodified":1536744081,
+    "wof:name":"Calaj",
+    "wof:parent_id":421168061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2625,
+    42.22361,
+    20.2625,
+    42.22361
+],
+  "geometry": {"coordinates":[20.2625,42.22361],"type":"Point"}
+}

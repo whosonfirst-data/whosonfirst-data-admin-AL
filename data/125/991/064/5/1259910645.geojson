@@ -1,0 +1,81 @@
+{
+  "id": 1259910645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71333,41.81472,19.71333,41.81472",
+    "geom:latitude":41.81472,
+    "geom:longitude":19.71333,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Vele-Vend",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183773,
+    "gn:latitude":41.81472,
+    "gn:longitude":19.71333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vel\u00eb-Vend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vela Vendit",
+        "Vel\u00eb e Vendit",
+        "Vel\u00eb",
+        "Vela e Vendit",
+        "Velj\u00eb",
+        "Vela",
+        "Vel\u00eb-Vendi",
+        "Velja",
+        "Velsi",
+        "Velj\u00ebs",
+        "Vel\u00eb-Vend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183773
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4377b4a28cbbffa866bd97f10ee76593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1259910645,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1259910645,
+    "wof:lastmodified":1537584167,
+    "wof:name":"Vele-Vend",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71333,
+    41.81472,
+    19.71333,
+    41.81472
+],
+  "geometry": {"coordinates":[19.71333,41.81472],"type":"Point"}
+}

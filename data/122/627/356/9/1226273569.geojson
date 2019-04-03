@@ -1,0 +1,73 @@
+{
+  "id": 1226273569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18472,40.32972,20.18472,40.32972",
+    "geom:latitude":40.32972,
+    "geom:longitude":20.18472,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Beduqas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865195,
+    "gn:latitude":40.32972,
+    "gn:longitude":20.18472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beduqas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedyqasi",
+        "Bedyqas",
+        "Beduqas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865195
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9b8986f8380bf16a584a97b5aff2a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1226273569,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1226273569,
+    "wof:lastmodified":1537584152,
+    "wof:name":"Beduqas",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18472,
+    40.32972,
+    20.18472,
+    40.32972
+],
+  "geometry": {"coordinates":[20.18472,40.32972],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276693995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72889,40.31056,19.72889,40.31056",
+    "geom:latitude":40.31056,
+    "geom:longitude":19.72889,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Matogjin",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184777,
+    "gn:latitude":40.31056,
+    "gn:longitude":19.72889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Matogjin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Totogini",
+        "Matodjini",
+        "Matogjini",
+        "Matogjin\u00eb",
+        "Matogjin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184777,
+        "wk:page":"Matogjin"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a8db28902ab3fd88d42f488efc4c133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1276693995,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1276693995,
+    "wof:lastmodified":1537584230,
+    "wof:name":"Matogjin",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72889,
+    40.31056,
+    19.72889,
+    40.31056
+],
+  "geometry": {"coordinates":[19.72889,40.31056],"type":"Point"}
+}

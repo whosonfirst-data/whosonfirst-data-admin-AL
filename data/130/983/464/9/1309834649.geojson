@@ -1,0 +1,78 @@
+{
+  "id": 1309834649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07667,39.70472,20.07667,39.70472",
+    "geom:latitude":39.70472,
+    "geom:longitude":20.07667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mursi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363278,
+    "gn:latitude":39.70472,
+    "gn:longitude":20.07667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mursi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mursia",
+        "Murs",
+        "Murthi",
+        "Murth",
+        "Murzi",
+        "Mursie",
+        "Mursija",
+        "Mursi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363278
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"019f6063d3cb4616ecf2f99e6e564e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720869,
+            "locality_id":1309834649,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1309834649,
+    "wof:lastmodified":1537583959,
+    "wof:name":"Mursi",
+    "wof:parent_id":1108720869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07667,
+    39.70472,
+    20.07667,
+    39.70472
+],
+  "geometry": {"coordinates":[20.07667,39.70472],"type":"Point"}
+}

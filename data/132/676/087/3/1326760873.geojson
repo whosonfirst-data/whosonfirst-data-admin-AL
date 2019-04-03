@@ -1,0 +1,72 @@
+{
+  "id": 1326760873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64611,42.24278,19.64611,42.24278",
+    "geom:latitude":42.24278,
+    "geom:longitude":19.64611,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Alavane",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205119,
+    "gn:latitude":42.24278,
+    "gn:longitude":19.64611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Alavane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alavan",
+        "Alavane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205119
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"722a2299d6c4336acbd0afeb21a7893b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1326760873,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326760873,
+    "wof:lastmodified":1537584325,
+    "wof:name":"Alavane",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64611,
+    42.24278,
+    19.64611,
+    42.24278
+],
+  "geometry": {"coordinates":[19.64611,42.24278],"type":"Point"}
+}

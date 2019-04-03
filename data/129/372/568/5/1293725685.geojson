@@ -1,0 +1,72 @@
+{
+  "id": 1293725685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47111,41.6275,20.47111,41.6275",
+    "geom:latitude":41.6275,
+    "geom:longitude":20.47111,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Erebare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783262,
+    "gn:latitude":41.6275,
+    "gn:longitude":20.47111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Erebar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erebara",
+        "Erebar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783262
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9d484e707b5cb24b8cf3a6081e60912e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1293725685,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1293725685,
+    "wof:lastmodified":1537584110,
+    "wof:name":"Erebare",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47111,
+    41.6275,
+    20.47111,
+    41.6275
+],
+  "geometry": {"coordinates":[20.47111,41.6275],"type":"Point"}
+}

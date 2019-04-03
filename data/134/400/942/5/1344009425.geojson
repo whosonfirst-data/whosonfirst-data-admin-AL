@@ -1,0 +1,67 @@
+{
+  "id": 1344009425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94861,40.83056,19.94861,40.83056",
+    "geom:latitude":40.83056,
+    "geom:longitude":19.94861,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Rrepes",
+    "gn:country_code":"AL",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343865,
+    "gn:latitude":40.83056,
+    "gn:longitude":19.94861,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Rrepes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343865
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1681aa4e5099a1d9ccbf10e42ef1980e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1344009425,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1344009425,
+    "wof:lastmodified":1536949716,
+    "wof:name":"Rrepes",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94861,
+    40.83056,
+    19.94861,
+    40.83056
+],
+  "geometry": {"coordinates":[19.94861,40.83056],"type":"Point"}
+}

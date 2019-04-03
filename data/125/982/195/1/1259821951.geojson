@@ -1,0 +1,75 @@
+{
+  "id": 1259821951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40278,40.565,20.40278,40.565",
+    "geom:latitude":40.565,
+    "geom:longitude":20.40278,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Faqekuq",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783252,
+    "gn:latitude":40.565,
+    "gn:longitude":20.40278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Faqekuq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faqe e Kuqe",
+        "Faqekuqi",
+        "Faqja e Kuq",
+        "Faqekuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783252,
+        "wk:page":"Faqekuq"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c6658644b0eb4d07e1ad91d3322ffd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1259821951,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1259821951,
+    "wof:lastmodified":1537584110,
+    "wof:name":"Faqekuq",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40278,
+    40.565,
+    20.40278,
+    40.565
+],
+  "geometry": {"coordinates":[20.40278,40.565],"type":"Point"}
+}

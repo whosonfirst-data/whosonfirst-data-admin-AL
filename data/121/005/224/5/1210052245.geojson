@@ -1,0 +1,74 @@
+{
+  "id": 1210052245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47639,40.64444,20.47639,40.64444",
+    "geom:latitude":40.64444,
+    "geom:longitude":20.47639,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Popovine",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781966,
+    "gn:latitude":40.64444,
+    "gn:longitude":20.47639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Popovin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popovina",
+        "Poponij\u00eb",
+        "Poponivi",
+        "Popovin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781966
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b717d93a681e0aaa35492e5dff1cd956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1210052245,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1210052245,
+    "wof:lastmodified":1537584030,
+    "wof:name":"Popovine",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47639,
+    40.64444,
+    20.47639,
+    40.64444
+],
+  "geometry": {"coordinates":[20.47639,40.64444],"type":"Point"}
+}

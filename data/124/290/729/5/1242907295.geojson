@@ -1,0 +1,72 @@
+{
+  "id": 1242907295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49222,40.68333,20.49222,40.68333",
+    "geom:latitude":40.68333,
+    "geom:longitude":20.49222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gjinikas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783154,
+    "gn:latitude":40.68333,
+    "gn:longitude":20.49222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjinikas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gjinikasi",
+        "Gjinikas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783154
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3223e8ff048f48259da718651ce9bc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1242907295,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1242907295,
+    "wof:lastmodified":1537584103,
+    "wof:name":"Gjinikas",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49222,
+    40.68333,
+    20.49222,
+    40.68333
+],
+  "geometry": {"coordinates":[20.49222,40.68333],"type":"Point"}
+}

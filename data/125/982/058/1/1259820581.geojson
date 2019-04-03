@@ -1,0 +1,76 @@
+{
+  "id": 1259820581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70278,40.85028,20.70278,40.85028",
+    "geom:latitude":40.85028,
+    "geom:longitude":20.70278,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Leshnice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782549,
+    "gn:latitude":40.85028,
+    "gn:longitude":20.70278,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Leshnic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Leshnica",
+        "Leshnnica",
+        "Leshnic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782549
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d3d18aca75cca50003ebd9cd1c28c8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1259820581,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259820581,
+    "wof:lastmodified":1537584064,
+    "wof:name":"Leshnice",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70278,
+    40.85028,
+    20.70278,
+    40.85028
+],
+  "geometry": {"coordinates":[20.70278,40.85028],"type":"Point"}
+}

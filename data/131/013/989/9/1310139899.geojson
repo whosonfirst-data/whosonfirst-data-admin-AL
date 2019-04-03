@@ -1,0 +1,77 @@
+{
+  "id": 1310139899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19778,39.99722,20.19778,39.99722",
+    "geom:latitude":39.99722,
+    "geom:longitude":20.19778,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dhuvjan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363375,
+    "gn:latitude":39.99722,
+    "gn:longitude":20.19778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dhuvjan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhuvjani",
+        "Zuvjan",
+        "Zuvljani",
+        "Dhunjani",
+        "Zovian",
+        "Dhuvjan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363375,
+        "wk:page":"Dhuvjan"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"524517432a685ecfc3ca55821e0467c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720855,
+            "locality_id":1310139899,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310139899,
+    "wof:lastmodified":1537583966,
+    "wof:name":"Dhuvjan",
+    "wof:parent_id":1108720855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19778,
+    39.99722,
+    20.19778,
+    39.99722
+],
+  "geometry": {"coordinates":[20.19778,39.99722],"type":"Point"}
+}

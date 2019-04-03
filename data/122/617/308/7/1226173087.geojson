@@ -1,0 +1,77 @@
+{
+  "id": 1226173087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47139,40.93889,20.47139,40.93889",
+    "geom:latitude":40.93889,
+    "geom:longitude":20.47139,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Losnik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782475,
+    "gn:latitude":40.93889,
+    "gn:longitude":20.47139,
+    "gn:modification_date":"2017-12-25",
+    "gn:name":"Losnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0437\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kula Loznikut",
+        "Losniku",
+        "Loznik",
+        "Losnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782475
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0691d05e0980b9e8b9d716daa124e9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1226173087,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226173087,
+    "wof:lastmodified":1537584060,
+    "wof:name":"Losnik",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47139,
+    40.93889,
+    20.47139,
+    40.93889
+],
+  "geometry": {"coordinates":[20.47139,40.93889],"type":"Point"}
+}

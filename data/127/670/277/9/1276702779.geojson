@@ -1,0 +1,72 @@
+{
+  "id": 1276702779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07444,40.635,20.07444,40.635",
+    "geom:latitude":40.635,
+    "geom:longitude":20.07444,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Ball",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865106,
+    "gn:latitude":40.635,
+    "gn:longitude":20.07444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ball",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balli",
+        "Ball"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865106
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb1d482418a9d8bd3068702cd3ae7f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1276702779,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1276702779,
+    "wof:lastmodified":1537584150,
+    "wof:name":"Ball",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07444,
+    40.635,
+    20.07444,
+    40.635
+],
+  "geometry": {"coordinates":[20.07444,40.635],"type":"Point"}
+}

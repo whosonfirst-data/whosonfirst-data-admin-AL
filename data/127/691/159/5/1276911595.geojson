@@ -1,0 +1,72 @@
+{
+  "id": 1276911595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3575,41.57194,20.3575,41.57194",
+    "geom:latitude":41.57194,
+    "geom:longitude":20.3575,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bllace",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783587,
+    "gn:latitude":41.57194,
+    "gn:longitude":20.3575,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bllac\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bllaca",
+        "Bllac\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783587
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f8b0339918d2d26a1bbbe0334de89e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1276911595,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276911595,
+    "wof:lastmodified":1537584132,
+    "wof:name":"Bllace",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3575,
+    41.57194000000001,
+    20.3575,
+    41.57194000000001
+],
+  "geometry": {"coordinates":[20.3575,41.57194000000001],"type":"Point"}
+}

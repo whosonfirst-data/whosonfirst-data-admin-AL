@@ -1,0 +1,73 @@
+{
+  "id": 1260010781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07083,39.86972,20.07083,39.86972",
+    "geom:latitude":39.86972,
+    "geom:longitude":20.07083,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Caush",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363392,
+    "gn:latitude":39.86972,
+    "gn:longitude":20.07083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7aush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7aushi",
+        "Ciausci",
+        "\u00c7aush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363392
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"df3ca535f423fe7c30d246955ba7b771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1260010781,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1260010781,
+    "wof:lastmodified":1537583967,
+    "wof:name":"Caush",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07083,
+    39.86972,
+    20.07083,
+    39.86972
+],
+  "geometry": {"coordinates":[20.07083,39.86972],"type":"Point"}
+}

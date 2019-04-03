@@ -1,0 +1,68 @@
+{
+  "id": 1209137383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91972,40.61806,20.91972,40.61806",
+    "geom:latitude":40.61806,
+    "geom:longitude":20.91972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Grace",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783068,
+    "gn:latitude":40.61806,
+    "gn:longitude":20.91972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Grac\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krace",
+        "Graca",
+        "Crac\u00eb",
+        "Grac\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783068
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ac5ee91a74255d71b85d3b7bf579f7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209137383
+        }
+    ],
+    "wof:id":1209137383,
+    "wof:lastmodified":1537584096,
+    "wof:name":"Grace",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91972,
+    40.61806,
+    20.91972,
+    40.61806
+],
+  "geometry": {"coordinates":[20.91972,40.61806],"type":"Point"}
+}

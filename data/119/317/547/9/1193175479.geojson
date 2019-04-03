@@ -1,0 +1,79 @@
+{
+  "id": 1193175479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.24528,40.47056,20.24528,40.47056",
+    "geom:latitude":40.47056,
+    "geom:longitude":20.24528,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Grepcke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783048,
+    "gn:latitude":40.47056,
+    "gn:longitude":20.24528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Grepck\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krepsk\u00eb",
+        "Grepck\u00eb-Dor\u00ebz",
+        "Grepc\u00eb-Dor\u00ebzi",
+        "Grepcka",
+        "Gralisk\u00eb",
+        "Grepsa",
+        "Grepck\u00eb-Dorezi",
+        "Grepck\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783048,
+        "wk:page":"Grepcka"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"49f92b85ccbe49efc27ec1114125aa95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1193175479,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1193175479,
+    "wof:lastmodified":1537584095,
+    "wof:name":"Grepcke",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.24528,
+    40.47056,
+    20.24528,
+    40.47056
+],
+  "geometry": {"coordinates":[20.24528,40.47056],"type":"Point"}
+}

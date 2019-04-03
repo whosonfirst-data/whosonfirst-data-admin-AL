@@ -1,0 +1,73 @@
+{
+  "id": 1293326485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67167,40.75556,20.67167,40.75556",
+    "geom:latitude":40.75556,
+    "geom:longitude":20.67167,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Beras",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783627,
+    "gn:latitude":40.75556,
+    "gn:longitude":20.67167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beresi",
+        "Berasi",
+        "Beras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783627
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"429988bbe27144f095306c88c65607aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1293326485,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293326485,
+    "wof:lastmodified":1537584134,
+    "wof:name":"Beras",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67167,
+    40.75556,
+    20.67167,
+    40.75556
+],
+  "geometry": {"coordinates":[20.67167,40.75556],"type":"Point"}
+}

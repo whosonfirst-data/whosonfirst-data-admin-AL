@@ -1,0 +1,68 @@
+{
+  "id": 1209351287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01639,41.96889,20.01639,41.96889",
+    "geom:latitude":41.96889,
+    "geom:longitude":20.01639,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kalivare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782901,
+    "gn:latitude":41.96889,
+    "gn:longitude":20.01639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalivare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalivari",
+        "Kalivaren",
+        "Kalivar",
+        "Kalivare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782901
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"23da493a64392ca3f8d6ecd9e958905b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209351287
+        }
+    ],
+    "wof:id":1209351287,
+    "wof:lastmodified":1537584085,
+    "wof:name":"Kalivare",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01639,
+    41.96889,
+    20.01639,
+    41.96889
+],
+  "geometry": {"coordinates":[20.01639,41.96889],"type":"Point"}
+}

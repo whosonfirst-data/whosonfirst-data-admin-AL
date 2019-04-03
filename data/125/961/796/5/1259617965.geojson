@@ -1,0 +1,80 @@
+{
+  "id": 1259617965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44778,41.09333,20.44778,41.09333",
+    "geom:latitude":41.09333,
+    "geom:longitude":20.44778,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Qukes-Shkumbin",
+    "gn:country_code":"AL",
+    "gn:dem":449,
+    "gn:elevation":"523.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781863,
+    "gn:latitude":41.09333,
+    "gn:longitude":20.44778,
+    "gn:modification_date":"2016-01-03",
+    "gn:name":"Quk\u00ebs-Shkumbin",
+    "gn:population":650,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0106uksi",
+        "Kyuksi-Shkumbinit",
+        "Quk\u00ebs",
+        "Quk\u00ebs-Shkumbini",
+        "Quksi",
+        "Quk\u00ebsi",
+        "Quk\u00ebs-Shkumbin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781863
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"de3fc09cdb1334a265035343ad5c9564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1259617965,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259617965,
+    "wof:lastmodified":1537584023,
+    "wof:name":"Qukes-Shkumbin",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:population":650,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44778,
+    41.09333,
+    20.44778,
+    41.09333
+],
+  "geometry": {"coordinates":[20.44778,41.09333],"type":"Point"}
+}

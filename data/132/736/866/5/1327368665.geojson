@@ -1,0 +1,75 @@
+{
+  "id": 1327368665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18806,41.03972,20.18806,41.03972",
+    "geom:latitude":41.03972,
+    "geom:longitude":20.18806,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Derstile",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783364,
+    "gn:latitude":41.03972,
+    "gn:longitude":20.18806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u00ebrstil\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nd\u00ebrstil\u00eb",
+        "Derstila",
+        "Nd\u00ebrstila",
+        "D\u00ebrstila",
+        "D\u00ebrstil\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783364
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"c8e3ffdee2951cd19259213e145a822e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1327368665,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327368665,
+    "wof:lastmodified":1537584116,
+    "wof:name":"Derstile",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18806,
+    41.03972,
+    20.18806,
+    41.03972
+],
+  "geometry": {"coordinates":[20.18806,41.03972],"type":"Point"}
+}

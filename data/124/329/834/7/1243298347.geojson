@@ -1,0 +1,75 @@
+{
+  "id": 1243298347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99444,41.11,19.99444,41.11",
+    "geom:latitude":41.11,
+    "geom:longitude":19.99444,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shemhill",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184151,
+    "gn:latitude":41.11,
+    "gn:longitude":19.99444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebmhill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00ebnmhilli",
+        "Shemhilli",
+        "Sh\u00ebmilli",
+        "Sh\u00ebmbilli",
+        "Sh\u00ebmhill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184151
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3f60e153b44be582725448b9c7273963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1243298347,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1243298347,
+    "wof:lastmodified":1537584187,
+    "wof:name":"Shemhill",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99444,
+    41.11,
+    19.99444,
+    41.11
+],
+  "geometry": {"coordinates":[19.99444,41.11],"type":"Point"}
+}

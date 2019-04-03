@@ -1,0 +1,69 @@
+{
+  "id": 1209550013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81222,42.09028,19.81222,42.09028",
+    "geom:latitude":42.09028,
+    "geom:longitude":19.81222,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Koman",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185143,
+    "gn:latitude":42.09028,
+    "gn:longitude":19.81222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Koman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comani",
+        "Komani",
+        "Koman\u00eb",
+        "Koman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185143,
+        "wk:page":"Koman%2C_Albania"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f213cbd740b8724f71836df8fe8bbe41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209550013
+        }
+    ],
+    "wof:id":1209550013,
+    "wof:lastmodified":1537584251,
+    "wof:name":"Koman",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81222,
+    42.09028,
+    19.81222,
+    42.09028
+],
+  "geometry": {"coordinates":[19.81222,42.09028],"type":"Point"}
+}

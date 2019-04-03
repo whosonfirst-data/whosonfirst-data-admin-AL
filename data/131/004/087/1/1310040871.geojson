@@ -1,0 +1,67 @@
+{
+  "id": 1310040871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16361,40.44944,20.16361,40.44944",
+    "geom:latitude":40.44944,
+    "geom:longitude":20.16361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Qyper",
+    "gn:country_code":"AL",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865154,
+    "gn:latitude":40.44944,
+    "gn:longitude":20.16361,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Qyp\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865154
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"43f2632685c8121b4be434fd3f7c5c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1310040871,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310040871,
+    "wof:lastmodified":1537086423,
+    "wof:name":"Qyper",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16361,
+    40.44944,
+    20.16361,
+    40.44944
+],
+  "geometry": {"coordinates":[20.16361,40.44944],"type":"Point"}
+}

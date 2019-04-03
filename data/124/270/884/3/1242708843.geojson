@@ -1,0 +1,78 @@
+{
+  "id": 1242708843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50278,41.0975,19.50278,41.0975",
+    "geom:latitude":41.0975,
+    "geom:longitude":19.50278,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Sharredushk",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184163,
+    "gn:latitude":41.0975,
+    "gn:longitude":19.50278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharr\u00ebdushk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharre e Dushkut",
+        "Sharr\u00eb-Dushkaj",
+        "Shardushk",
+        "Sharr-Dushku",
+        "Shar\u00eb-Dushku",
+        "Sharr-Dushk",
+        "Shardushku",
+        "Sharr\u00ebdushk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        1108720901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184163
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"930bc894dd34f931ea9187c1fecffdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720901,
+            "locality_id":1242708843,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1242708843,
+    "wof:lastmodified":1537584188,
+    "wof:name":"Sharredushk",
+    "wof:parent_id":1108720901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50278,
+    41.0975,
+    19.50278,
+    41.0975
+],
+  "geometry": {"coordinates":[19.50278,41.0975],"type":"Point"}
+}

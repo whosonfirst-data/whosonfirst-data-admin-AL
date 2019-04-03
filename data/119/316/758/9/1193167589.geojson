@@ -1,0 +1,77 @@
+{
+  "id": 1193167589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67444,40.42556,20.67444,40.42556",
+    "geom:latitude":40.42556,
+    "geom:longitude":20.67444,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Mollas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782250,
+    "gn:latitude":40.42556,
+    "gn:longitude":20.67444,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Mollas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0447"
+    ],
+    "name:und_x_variant":[
+        "Mollasi",
+        "Mollas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782250,
+        "wk:page":"Mollas%2C_Kolonj%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5a2e29ea11bf24faadfb13b815a82790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1193167589,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1193167589,
+    "wof:lastmodified":1537584048,
+    "wof:name":"Mollas",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67444,
+    40.42556,
+    20.67444,
+    40.42556
+],
+  "geometry": {"coordinates":[20.67444,40.42556],"type":"Point"}
+}

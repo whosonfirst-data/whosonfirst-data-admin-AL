@@ -1,0 +1,78 @@
+{
+  "id": 1242612415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21556,40.82944,20.21556,40.82944",
+    "geom:latitude":40.82944,
+    "geom:longitude":20.21556,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Mashan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782350,
+    "gn:latitude":40.82944,
+    "gn:longitude":20.21556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mashan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manshqani",
+        "Mashqani",
+        "Mashciani",
+        "Mashjani",
+        "Mashaj",
+        "Mashani",
+        "Mashqan",
+        "Mashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782350
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e0c39ed10a583f5dc074ba4105e84f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1242612415,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242612415,
+    "wof:lastmodified":1537584054,
+    "wof:name":"Mashan",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21556,
+    40.82944000000001,
+    20.21556,
+    40.82944000000001
+],
+  "geometry": {"coordinates":[20.21556,40.82944000000001],"type":"Point"}
+}

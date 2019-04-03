@@ -1,0 +1,73 @@
+{
+  "id": 1259814725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95222,40.55333,20.95222,40.55333",
+    "geom:latitude":40.55333,
+    "geom:longitude":20.95222,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Fitore",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783241,
+    "gn:latitude":40.55333,
+    "gn:longitude":20.95222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fitore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shenkollasi",
+        "Sh\u00ebnkollas",
+        "Fitore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783241
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"78998b27a8d4816295be1b312113b8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720851,
+            "locality_id":1259814725,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259814725,
+    "wof:lastmodified":1537584109,
+    "wof:name":"Fitore",
+    "wof:parent_id":1108720851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95222,
+    40.55333,
+    20.95222,
+    40.55333
+],
+  "geometry": {"coordinates":[20.95222,40.55333],"type":"Point"}
+}

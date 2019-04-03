@@ -1,0 +1,77 @@
+{
+  "id": 1310056861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05722,40.81583,20.05722,40.81583",
+    "geom:latitude":40.81583,
+    "geom:longitude":20.05722,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Belesove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783649,
+    "gn:latitude":40.81583,
+    "gn:longitude":20.05722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Belesov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drit\u00ebza",
+        "Belovish\u00eb",
+        "Belesova",
+        "Beleshov\u00eb",
+        "Beleshova",
+        "Belesov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783649,
+        "wk:page":"Belesov%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"764816cef5b216a72da9dd69f595e077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1310056861,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1310056861,
+    "wof:lastmodified":1537584135,
+    "wof:name":"Belesove",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05722,
+    40.81583,
+    20.05722,
+    40.81583
+],
+  "geometry": {"coordinates":[20.05722,40.81583],"type":"Point"}
+}

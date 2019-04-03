@@ -1,0 +1,72 @@
+{
+  "id": 1327470731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07083,40.43306,20.07083,40.43306",
+    "geom:latitude":40.43306,
+    "geom:longitude":20.07083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kondas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782764,
+    "gn:latitude":40.43306,
+    "gn:longitude":20.07083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kondas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondasi",
+        "Kondas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782764
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e6402c256d362d3feb3ca96b6d9ce893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1327470731,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1327470731,
+    "wof:lastmodified":1537584076,
+    "wof:name":"Kondas",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07083,
+    40.43306,
+    20.07083,
+    40.43306
+],
+  "geometry": {"coordinates":[20.07083,40.43306],"type":"Point"}
+}

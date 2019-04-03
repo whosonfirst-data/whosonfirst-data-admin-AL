@@ -1,0 +1,67 @@
+{
+  "id": 1327469655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11889,40.45333,20.11889,40.45333",
+    "geom:latitude":40.45333,
+    "geom:longitude":20.11889,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kenaj",
+    "gn:country_code":"AL",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865167,
+    "gn:latitude":40.45333,
+    "gn:longitude":20.11889,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Kenaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865167
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"60f277fe5e03bc7060538608432a1ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1327469655,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1327469655,
+    "wof:lastmodified":1536624979,
+    "wof:name":"Kenaj",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11889,
+    40.45333,
+    20.11889,
+    40.45333
+],
+  "geometry": {"coordinates":[20.11889,40.45333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293817807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82056,41.46194,19.82056,41.46194",
+    "geom:latitude":41.46194,
+    "geom:longitude":19.82056,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kurcaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185034,
+    "gn:latitude":41.46194,
+    "gn:longitude":19.82056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurcaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurcaja",
+        "Kuecaji",
+        "Kurea",
+        "Kurca",
+        "Kurcaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185034
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"10f6bf00d67bf48b8bcf900ac70d793b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1293817807,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1293817807,
+    "wof:lastmodified":1537584245,
+    "wof:name":"Kurcaj",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82056,
+    41.46194000000001,
+    19.82056,
+    41.46194000000001
+],
+  "geometry": {"coordinates":[19.82056,41.46194000000001],"type":"Point"}
+}

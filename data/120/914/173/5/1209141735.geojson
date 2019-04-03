@@ -1,0 +1,77 @@
+{
+  "id": 1209141735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.57167,40.99139,19.57167,40.99139",
+    "geom:latitude":40.99139,
+    "geom:longitude":19.57167,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Germenj i Madh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185607,
+    "gn:latitude":40.99139,
+    "gn:longitude":19.57167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"G\u00ebrmenj i Madh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00ebrmenj-\u00c7oka",
+        "G\u00ebrm\u00ebni \u00c7oku",
+        "G\u00ebrmenji i Madh",
+        "Germaj-\u00c7ek",
+        "G\u00ebrmenji",
+        "G\u00ebrmej \u00c7oku",
+        "Grmenj\u00e7ok",
+        "Germanj-\u00c7eka",
+        "G\u00ebrmenj\u00e7ok",
+        "G\u00ebrmenj",
+        "Germaj-\u00c7oku",
+        "G\u00ebrmaj-\u00c7ok",
+        "G\u00ebrmenj i Madh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185607
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"789d04795a95b7dae6480d7ad05005cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209141735
+        }
+    ],
+    "wof:id":1209141735,
+    "wof:lastmodified":1537584282,
+    "wof:name":"Germenj i Madh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.57167,
+    40.99139,
+    19.57167,
+    40.99139
+],
+  "geometry": {"coordinates":[19.57167,40.99139],"type":"Point"}
+}

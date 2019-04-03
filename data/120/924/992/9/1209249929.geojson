@@ -1,0 +1,74 @@
+{
+  "id": 1209249929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48889,41.61639,20.48889,41.61639",
+    "geom:latitude":41.61639,
+    "geom:longitude":20.48889,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Popinare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781967,
+    "gn:latitude":41.61639,
+    "gn:longitude":20.48889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Popinar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popinavra",
+        "Popiavra",
+        "Popinara",
+        "Popinav\u00eb",
+        "Popinat",
+        "Popinar",
+        "Popinari",
+        "Popmavra",
+        "Popiavr\u00eb",
+        "Popinar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781967
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f3e029d12a167f50b74f6a8a730f262f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209249929
+        }
+    ],
+    "wof:id":1209249929,
+    "wof:lastmodified":1537584030,
+    "wof:name":"Popinare",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48889,
+    41.61639,
+    20.48889,
+    41.61639
+],
+  "geometry": {"coordinates":[20.48889,41.61639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293826613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93083,40.82306,19.93083,40.82306",
+    "geom:latitude":40.82306,
+    "geom:longitude":19.93083,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Tabakaj",
+    "gn:country_code":"AL",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343864,
+    "gn:latitude":40.82306,
+    "gn:longitude":19.93083,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Tabakaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343864
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"972242e896a33d0fa3f5a7b1ed53c346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720871,
+            "locality_id":1293826613,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293826613,
+    "wof:lastmodified":1536795587,
+    "wof:name":"Tabakaj",
+    "wof:parent_id":1108720871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93083,
+    40.82306,
+    19.93083,
+    40.82306
+],
+  "geometry": {"coordinates":[19.93083,40.82306],"type":"Point"}
+}

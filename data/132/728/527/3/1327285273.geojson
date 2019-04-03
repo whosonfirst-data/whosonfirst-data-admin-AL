@@ -1,0 +1,76 @@
+{
+  "id": 1327285273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31278,40.51361,20.31278,40.51361",
+    "geom:latitude":40.51361,
+    "geom:longitude":20.31278,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Vlushe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781199,
+    "gn:latitude":40.51361,
+    "gn:longitude":20.31278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vlush\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vlusha",
+        "V\u00eblusha",
+        "Veluscia",
+        "Velushe",
+        "Vlush\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781199,
+        "wk:page":"Vlush%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"69ce7e878b40969b5b577c159ef574c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1327285273,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1327285273,
+    "wof:lastmodified":1537583979,
+    "wof:name":"Vlushe",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31278,
+    40.51361,
+    20.31278,
+    40.51361
+],
+  "geometry": {"coordinates":[20.31278,40.51361],"type":"Point"}
+}

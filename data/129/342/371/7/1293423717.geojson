@@ -1,0 +1,72 @@
+{
+  "id": 1293423717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61639,41.73333,19.61639,41.73333",
+    "geom:latitude":41.73333,
+    "geom:longitude":19.61639,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Koder Mulliri",
+    "gn:country_code":"AL",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185162,
+    "gn:latitude":41.73333,
+    "gn:longitude":19.61639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kod\u00ebr Mulliri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kod\u00ebrmulliri",
+        "Kod\u00ebr Mulli",
+        "Kod\u00ebr Mulliri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421169921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185162
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9c146c28d71fda868418d4bdfd7a4580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169921,
+            "locality_id":1293423717,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1293423717,
+    "wof:lastmodified":1537584253,
+    "wof:name":"Koder Mulliri",
+    "wof:parent_id":421169921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61639,
+    41.73333,
+    19.61639,
+    41.73333
+],
+  "geometry": {"coordinates":[19.61639,41.73333],"type":"Point"}
+}

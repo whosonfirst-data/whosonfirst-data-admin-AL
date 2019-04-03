@@ -1,0 +1,71 @@
+{
+  "id": 1209646227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21333,39.99222,20.21333,39.99222",
+    "geom:latitude":39.99222,
+    "geom:longitude":20.21333,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Sofratike",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363230,
+    "gn:latitude":39.99222,
+    "gn:longitude":20.21333,
+    "gn:modification_date":"2018-02-24",
+    "gn:name":"Sofratik\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c9\u03c6\u03c1\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sofratika",
+        "Sofratiku",
+        "Sofratik\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363230
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"30185ebf47f80e9378a48d5829af9004",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209646227
+        }
+    ],
+    "wof:id":1209646227,
+    "wof:lastmodified":1537583956,
+    "wof:name":"Sofratike",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21333,
+    39.99222,
+    20.21333,
+    39.99222
+],
+  "geometry": {"coordinates":[20.21333,39.99222],"type":"Point"}
+}

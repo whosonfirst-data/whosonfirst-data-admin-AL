@@ -1,0 +1,77 @@
+{
+  "id": 1259818451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.735,40.78611,20.735,40.78611",
+    "geom:latitude":40.78611,
+    "geom:longitude":20.735,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zvirine",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781063,
+    "gn:latitude":40.78611,
+    "gn:longitude":20.735,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Zvirin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0438\u0440\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Svirna",
+        "Zvirina",
+        "Svirin\u00eb",
+        "Zvirin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        1108720877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781063
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"75d05735fe31d481b3f8ea3ba0af5a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720877,
+            "locality_id":1259818451,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259818451,
+    "wof:lastmodified":1537583969,
+    "wof:name":"Zvirine",
+    "wof:parent_id":1108720877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.735,
+    40.78611,
+    20.735,
+    40.78611
+],
+  "geometry": {"coordinates":[20.735,40.78611],"type":"Point"}
+}

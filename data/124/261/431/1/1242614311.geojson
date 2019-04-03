@@ -1,0 +1,75 @@
+{
+  "id": 1242614311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89694,40.87694,19.89694,40.87694",
+    "geom:latitude":40.87694,
+    "geom:longitude":19.89694,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dragot-Dumre",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185775,
+    "gn:latitude":40.87694,
+    "gn:longitude":19.89694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dragot-Dumre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragot",
+        "Dragoti-Dumre",
+        "Dragoti",
+        "Dragot-Dumreja",
+        "Dragot-Dumre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185775
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a0e48e9b037da4cbaed947341cc91c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":1242614311,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242614311,
+    "wof:lastmodified":1537584293,
+    "wof:name":"Dragot-Dumre",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89694,
+    40.87694000000001,
+    19.89694,
+    40.87694000000001
+],
+  "geometry": {"coordinates":[19.89694,40.87694000000001],"type":"Point"}
+}

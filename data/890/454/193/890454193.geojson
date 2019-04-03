@@ -1,0 +1,66 @@
+{
+  "id": 890454193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96167,41.39667,19.96167,41.39667",
+    "geom:latitude":41.39667,
+    "geom:longitude":19.96167,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kutreq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316652,
+        "gp:id":472135,
+        "qs:id":581826
+    },
+    "wof:country":"AL",
+    "wof:created":1469052890,
+    "wof:geomhash":"7fdd0efb6cbbb6ba603129f2733c94eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":890454193,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":890454193,
+    "wof:lastmodified":1505343655,
+    "wof:name":"Kutreq",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96167,
+    41.39667,
+    19.96167,
+    41.39667
+],
+  "geometry": {"coordinates":[19.96167,41.39667],"type":"Point"}
+}

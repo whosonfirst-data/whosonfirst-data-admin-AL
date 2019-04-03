@@ -1,0 +1,67 @@
+{
+  "id": 1310341073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52028,41.33444,19.52028,41.33444",
+    "geom:latitude":41.33444,
+    "geom:longitude":19.52028,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Maliq Muco",
+    "gn:country_code":"AL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184821,
+    "gn:latitude":41.33444,
+    "gn:longitude":19.52028,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Maliq Mu\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184821
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"64b51584c1ad0f15eb5ff1ee82678201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":1310341073,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1310341073,
+    "wof:lastmodified":1536656710,
+    "wof:name":"Maliq Muco",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52028,
+    41.33444,
+    19.52028,
+    41.33444
+],
+  "geometry": {"coordinates":[19.52028,41.33444],"type":"Point"}
+}

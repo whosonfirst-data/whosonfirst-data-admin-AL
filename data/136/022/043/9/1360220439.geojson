@@ -1,0 +1,72 @@
+{
+  "id": 1360220439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12139,40.4675,20.12139,40.4675",
+    "geom:latitude":40.4675,
+    "geom:longitude":20.12139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Beqaraj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783630,
+    "gn:latitude":40.4675,
+    "gn:longitude":20.12139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beqaraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beqareja",
+        "Beqaraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783630
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9fae3b9fde2045898e1bb97908578326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1360220439,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1360220439,
+    "wof:lastmodified":1537584134,
+    "wof:name":"Beqaraj",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12139,
+    40.4675,
+    20.12139,
+    40.4675
+],
+  "geometry": {"coordinates":[20.12139,40.4675],"type":"Point"}
+}

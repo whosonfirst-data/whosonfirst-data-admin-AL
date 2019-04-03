@@ -1,0 +1,66 @@
+{
+  "id": 1209043111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,40.81667,19.5,40.81667",
+    "geom:latitude":40.81667,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Adriatik",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186227,
+    "gn:latitude":40.81667,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adriatik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adriatiku",
+        "Adriatik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186227
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d11073efd39d4550428cd51500a15133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209043111
+        }
+    ],
+    "wof:id":1209043111,
+    "wof:lastmodified":1537584324,
+    "wof:name":"Adriatik",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    40.81667,
+    19.5,
+    40.81667
+],
+  "geometry": {"coordinates":[19.5,40.81667],"type":"Point"}
+}

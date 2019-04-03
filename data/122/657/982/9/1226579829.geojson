@@ -1,0 +1,81 @@
+{
+  "id": 1226579829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.715,41.07639,19.715,41.07639",
+    "geom:latitude":41.07639,
+    "geom:longitude":19.715,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Rosten",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184248,
+    "gn:latitude":41.07639,
+    "gn:longitude":19.715,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rosten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rrozeni",
+        "Rrostej",
+        "Rrozenj",
+        "Rozeni",
+        "Rrozej",
+        "Rozen",
+        "Rrozen",
+        "Rozej",
+        "Rostej",
+        "Rosten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184248,
+        "wk:page":"Rrostej"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"45b294df12d96a4bed3be1fe6c764422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1226579829,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226579829,
+    "wof:lastmodified":1537584194,
+    "wof:name":"Rosten",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.715,
+    41.07639,
+    19.715,
+    41.07639
+],
+  "geometry": {"coordinates":[19.715,41.07639],"type":"Point"}
+}

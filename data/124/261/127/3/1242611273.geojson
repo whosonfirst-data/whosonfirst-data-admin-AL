@@ -1,0 +1,67 @@
+{
+  "id": 1242611273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89528,40.92444,19.89528,40.92444",
+    "geom:latitude":40.92444,
+    "geom:longitude":19.89528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Canaj",
+    "gn:country_code":"AL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343779,
+    "gn:latitude":40.92444,
+    "gn:longitude":19.89528,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Canaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343779
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3ee82bdcf7fd52d017a15ee87bca1124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":1242611273,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242611273,
+    "wof:lastmodified":1537014492,
+    "wof:name":"Canaj",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89528,
+    40.92444,
+    19.89528,
+    40.92444
+],
+  "geometry": {"coordinates":[19.89528,40.92444],"type":"Point"}
+}

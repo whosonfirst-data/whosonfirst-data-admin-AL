@@ -1,0 +1,76 @@
+{
+  "id": 1276796191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07833,41.22833,20.07833,41.22833",
+    "geom:latitude":41.22833,
+    "geom:longitude":20.07833,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ceruje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783430,
+    "gn:latitude":41.22833,
+    "gn:longitude":20.07833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"C\u00ebruj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceraja",
+        "C\u00ebrnje",
+        "C\u00ebrruj\u00eb",
+        "C\u00ebrunja",
+        "Ceruja",
+        "C\u00ebruj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783430
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3ba0638059bc77b03c493e821a84b54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1276796191,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1276796191,
+    "wof:lastmodified":1537584120,
+    "wof:name":"Ceruje",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07833,
+    41.22833,
+    20.07833,
+    41.22833
+],
+  "geometry": {"coordinates":[20.07833,41.22833],"type":"Point"}
+}

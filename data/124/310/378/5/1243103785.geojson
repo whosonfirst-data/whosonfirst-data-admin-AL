@@ -1,0 +1,76 @@
+{
+  "id": 1243103785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51972,40.52389,19.51972,40.52389",
+    "geom:latitude":40.52389,
+    "geom:longitude":19.51972,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Bunavi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185947,
+    "gn:latitude":40.52389,
+    "gn:longitude":19.51972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bunavi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonari",
+        "Bunar",
+        "Bunavia",
+        "Burovi",
+        "Bunavija",
+        "Bunavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421193353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185947
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1dab3203cc609a3a815b42133644a373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193353,
+            "locality_id":1243103785,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1243103785,
+    "wof:lastmodified":1537584305,
+    "wof:name":"Bunavi",
+    "wof:parent_id":421193353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51972,
+    40.52389,
+    19.51972,
+    40.52389
+],
+  "geometry": {"coordinates":[19.51972,40.52389],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326459467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43139,40.42083,20.43139,40.42083",
+    "geom:latitude":40.42083,
+    "geom:longitude":20.43139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Vercisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781263,
+    "gn:latitude":40.42083,
+    "gn:longitude":20.43139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"V\u00ebr\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vercisti",
+        "Ver\u00e7ishta",
+        "Verceshta",
+        "Ver\u00e7ist",
+        "V\u00ebr\u00e7isht-Gostromicka",
+        "V\u00ebr\u00e7isht-Gostromick\u00eb",
+        "V\u00ebr\u00e7ishti",
+        "V\u00ebr\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781263
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"27800ded664f8c0825026f3830b9e86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1326459467,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1326459467,
+    "wof:lastmodified":1537583983,
+    "wof:name":"Vercisht",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43139,
+    40.42083,
+    20.43139,
+    40.42083
+],
+  "geometry": {"coordinates":[20.43139,40.42083],"type":"Point"}
+}

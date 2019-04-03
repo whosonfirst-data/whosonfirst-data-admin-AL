@@ -1,0 +1,73 @@
+{
+  "id": 1293136597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14361,40.37056,20.14361,40.37056",
+    "geom:latitude":40.37056,
+    "geom:longitude":20.14361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Potgoran-Fushe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781995,
+    "gn:latitude":40.37056,
+    "gn:longitude":20.14361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Potgoran-Fush\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fush\u00eb",
+        "Podgoran-Fush\u00eb",
+        "Potgoran-Fush\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781995
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ceb413ace1baa330a97d38770c8011d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1293136597,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293136597,
+    "wof:lastmodified":1537584032,
+    "wof:name":"Potgoran-Fushe",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14361,
+    40.37056,
+    20.14361,
+    40.37056
+],
+  "geometry": {"coordinates":[20.14361,40.37056],"type":"Point"}
+}

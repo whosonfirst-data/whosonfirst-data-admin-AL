@@ -1,0 +1,76 @@
+{
+  "id": 1293920189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60556,40.80056,20.60556,40.80056",
+    "geom:latitude":40.80056,
+    "geom:longitude":20.60556,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Derdushe",
+    "gn:country_code":"AL",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783372,
+    "gn:latitude":40.80056,
+    "gn:longitude":20.60556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u00ebrdush\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u0440\u0434\u0443\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dardhusha",
+        "D\u00ebrdusha",
+        "Dardush\u00eb",
+        "D\u00ebrdush\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783372
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4bb42a9aa01019fc04a0f62d25912239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1293920189,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293920189,
+    "wof:lastmodified":1537584117,
+    "wof:name":"Derdushe",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60556,
+    40.80056,
+    20.60556,
+    40.80056
+],
+  "geometry": {"coordinates":[20.60556,40.80056],"type":"Point"}
+}

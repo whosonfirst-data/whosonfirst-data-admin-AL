@@ -1,0 +1,73 @@
+{
+  "id": 1277113269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87056,41.51583,19.87056,41.51583",
+    "geom:latitude":41.51583,
+    "geom:longitude":19.87056,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cudhi-Kamt",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185863,
+    "gn:latitude":41.51583,
+    "gn:longitude":19.87056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cudhi-Kamt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cudhi-Kamat",
+        "Cudhi-Kampt",
+        "Cudhi-Kamt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185863
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3311e46b23786ba5375c19ff57fd76d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1277113269,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1277113269,
+    "wof:lastmodified":1537584299,
+    "wof:name":"Cudhi-Kamt",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87056,
+    41.51583,
+    19.87056,
+    41.51583
+],
+  "geometry": {"coordinates":[19.87056,41.51583],"type":"Point"}
+}

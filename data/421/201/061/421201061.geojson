@@ -1,0 +1,105 @@
+{
+  "id": 421201061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62222,40.51083,19.62222,40.51083",
+    "geom:latitude":40.51083,
+    "geom:longitude":19.62222,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0435\u043d"
+    ],
+    "name:ita_x_preferred":[
+        "Gracen"
+    ],
+    "name:msa_x_preferred":[
+        "Gracen"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gra\u00e7en"
+    ],
+    "name:por_x_preferred":[
+        "Gracen"
+    ],
+    "name:sqi_x_preferred":[
+        "Nj\u00ebsia administrative Gra\u00e7en"
+    ],
+    "name:unk_x_variant":[
+        "Grani"
+    ],
+    "name:vie_x_preferred":[
+        "Gracen"
+    ],
+    "name:war_x_preferred":[
+        "Gracen"
+    ],
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3343970,
+    "qs:gn_pop":0,
+    "qs:name":"Gracen",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Elbasan",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":910251,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":469983,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343970,
+        "gp:id":469983,
+        "qs:id":910251,
+        "wd:id":"Q2618964"
+    },
+    "wof:country":"AL",
+    "wof:created":1459010050,
+    "wof:geomhash":"22af2264ade476a4b2433505a43f45ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":421201061,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":421201061,
+    "wof:lastmodified":1527716440,
+    "wof:name":"Gracen",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62222,
+    40.51083,
+    19.62222,
+    40.51083
+],
+  "geometry": {"coordinates":[19.62222,40.51083],"type":"Point"}
+}

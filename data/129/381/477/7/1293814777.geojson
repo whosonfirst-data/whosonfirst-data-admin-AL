@@ -1,0 +1,77 @@
+{
+  "id": 1293814777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53556,40.97611,19.53556,40.97611",
+    "geom:latitude":40.97611,
+    "geom:longitude":19.53556,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Xeng",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183685,
+    "gn:latitude":40.97611,
+    "gn:longitude":19.53556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xeng",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zenk",
+        "Xengu",
+        "Zenka",
+        "Zenk\u00eb",
+        "Xeng\u00eb",
+        "Xenga",
+        "Xeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        1108720853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183685
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7eb3d76cf56fa168ef66f47b320c9e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720853,
+            "locality_id":1293814777,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1293814777,
+    "wof:lastmodified":1537584161,
+    "wof:name":"Xeng",
+    "wof:parent_id":1108720853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53556,
+    40.97611,
+    19.53556,
+    40.97611
+],
+  "geometry": {"coordinates":[19.53556,40.97611],"type":"Point"}
+}

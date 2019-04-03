@@ -1,0 +1,72 @@
+{
+  "id": 1260323405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01111,40.14722,20.01111,40.14722",
+    "geom:latitude":40.14722,
+    "geom:longitude":20.01111,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Linat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865209,
+    "gn:latitude":40.14722,
+    "gn:longitude":20.01111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Linat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linati",
+        "Linat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865209
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"173a2ed9e879270cae3606acf1b82791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1260323405,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1260323405,
+    "wof:lastmodified":1537584153,
+    "wof:name":"Linat",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01111,
+    40.14722,
+    20.01111,
+    40.14722
+],
+  "geometry": {"coordinates":[20.01111,40.14722],"type":"Point"}
+}

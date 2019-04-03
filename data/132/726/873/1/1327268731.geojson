@@ -1,0 +1,73 @@
+{
+  "id": 1327268731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96611,42.31056,19.96611,42.31056",
+    "geom:latitude":42.31056,
+    "geom:longitude":19.96611,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Betoshe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186063,
+    "gn:latitude":42.31056,
+    "gn:longitude":19.96611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u00ebtosh\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betosh",
+        "B\u00ebtosha",
+        "B\u00ebtosh\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186063
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9af2886e839e2b71baec7b6be8d3cf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":1327268731,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":1327268731,
+    "wof:lastmodified":1537584313,
+    "wof:name":"Betoshe",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96611,
+    42.31056,
+    19.96611,
+    42.31056
+],
+  "geometry": {"coordinates":[19.96611,42.31056],"type":"Point"}
+}

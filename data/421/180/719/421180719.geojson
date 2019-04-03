@@ -1,0 +1,82 @@
+{
+  "id": 421180719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19806,41.40556,20.19806,41.40556",
+    "geom:latitude":41.40556,
+    "geom:longitude":20.19806,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Peshku"
+    ],
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":834215,
+    "qs:gn_pop":5,
+    "qs:name":"Peshk",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Diber",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1212746,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":471332,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834215,
+        "gp:id":471332,
+        "qs:id":1212746
+    },
+    "wof:country":"AL",
+    "wof:created":1459009268,
+    "wof:geomhash":"678158c9396dfa1a4ef2717a1c668b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":421180719,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":421180719,
+    "wof:lastmodified":1505340649,
+    "wof:name":"Peshk",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19806,
+    41.40556,
+    20.19806,
+    41.40556
+],
+  "geometry": {"coordinates":[20.19806,41.40556],"type":"Point"}
+}

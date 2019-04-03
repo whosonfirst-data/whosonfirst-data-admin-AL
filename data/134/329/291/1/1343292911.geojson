@@ -1,0 +1,73 @@
+{
+  "id": 1343292911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01667,41.15,20.01667,41.15",
+    "geom:latitude":41.15,
+    "geom:longitude":20.01667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kozan",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782719,
+    "gn:latitude":41.15,
+    "gn:longitude":20.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kozan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edh\u00ebza",
+        "Kozani",
+        "Kozan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782719
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"10f944369d3232f3600cd996fb244d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1343292911,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343292911,
+    "wof:lastmodified":1537584074,
+    "wof:name":"Kozan",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01667,
+    41.15,
+    20.01667,
+    41.15
+],
+  "geometry": {"coordinates":[20.01667,41.15],"type":"Point"}
+}

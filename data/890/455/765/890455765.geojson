@@ -1,0 +1,66 @@
+{
+  "id": 890455765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17056,41.27806,20.17056,41.27806",
+    "geom:latitude":41.27806,
+    "geom:longitude":20.17056,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Gjorkaj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834187,
+        "gp:id":472405,
+        "qs:id":554361
+    },
+    "wof:country":"AL",
+    "wof:created":1469052974,
+    "wof:geomhash":"3a101b158dc87d324d76ed8c174eb364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":890455765,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":890455765,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Gjorkaj",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17056,
+    41.27806,
+    20.17056,
+    41.27806
+],
+  "geometry": {"coordinates":[20.17056,41.27806],"type":"Point"}
+}

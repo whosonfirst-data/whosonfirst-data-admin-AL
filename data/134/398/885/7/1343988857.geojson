@@ -1,0 +1,67 @@
+{
+  "id": 1343988857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27944,41.54806,20.27944,41.54806",
+    "geom:latitude":41.54806,
+    "geom:longitude":20.27944,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Shytaj",
+    "gn:country_code":"AL",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781597,
+    "gn:latitude":41.54806,
+    "gn:longitude":20.27944,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Shytaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781597
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fcdffb8a887f3d0fd1335fe02c2bb9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1343988857,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1343988857,
+    "wof:lastmodified":1536978503,
+    "wof:name":"Shytaj",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27944,
+    41.54806,
+    20.27944,
+    41.54806
+],
+  "geometry": {"coordinates":[20.27944,41.54806],"type":"Point"}
+}

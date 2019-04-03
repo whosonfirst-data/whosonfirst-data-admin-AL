@@ -1,0 +1,61 @@
+{
+  "id": 1209140443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47806,40.4525,20.47806,40.4525",
+    "geom:latitude":40.4525,
+    "geom:longitude":20.47806,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Trebicke e Siperme",
+    "gn:country_code":"AL",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781384,
+    "gn:latitude":40.4525,
+    "gn:longitude":20.47806,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Trebick\u00eb e Sip\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781384
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fcd41a2b653f6600d6b45a1a13bfea3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209140443
+        }
+    ],
+    "wof:id":1209140443,
+    "wof:lastmodified":1536296522,
+    "wof:name":"Trebicke e Siperme",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47806,
+    40.4525,
+    20.47806,
+    40.4525
+],
+  "geometry": {"coordinates":[20.47806,40.4525],"type":"Point"}
+}

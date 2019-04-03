@@ -1,0 +1,73 @@
+{
+  "id": 1293139093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13028,40.60083,20.13028,40.60083",
+    "geom:latitude":40.60083,
+    "geom:longitude":20.13028,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Nishove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782177,
+    "gn:latitude":40.60083,
+    "gn:longitude":20.13028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nishov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nishova",
+        "Nishov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782177,
+        "wk:page":"Nishov%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"24f7bbbbee82e3d6d6a071be969fe4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1293139093,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1293139093,
+    "wof:lastmodified":1537584043,
+    "wof:name":"Nishove",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13028,
+    40.60083,
+    20.13028,
+    40.60083
+],
+  "geometry": {"coordinates":[20.13028,40.60083],"type":"Point"}
+}

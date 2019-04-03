@@ -1,0 +1,76 @@
+{
+  "id": 1310236485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94556,40.14194,19.94556,40.14194",
+    "geom:latitude":40.14194,
+    "geom:longitude":19.94556,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kaparjel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185262,
+    "gn:latitude":40.14194,
+    "gn:longitude":19.94556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaparjel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaparjeli",
+        "Kapariel",
+        "Kaperjeli",
+        "Kapariet",
+        "Kaparieli",
+        "Kaparjel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185262
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"499f00052cdc4e381cb883183ccc0e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1310236485,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310236485,
+    "wof:lastmodified":1537584258,
+    "wof:name":"Kaparjel",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94556,
+    40.14194000000001,
+    19.94556,
+    40.14194000000001
+],
+  "geometry": {"coordinates":[19.94556,40.14194000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226473211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07917,39.85861,20.07917,39.85861",
+    "geom:latitude":39.85861,
+    "geom:longitude":20.07917,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Aliko",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":363409,
+    "gn:latitude":39.85861,
+    "gn:longitude":20.07917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Aliko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alikoj\u00eb",
+        "Alikaj",
+        "Alikon",
+        "Alikoja",
+        "Alicu",
+        "Aliko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363409,
+        "wk:page":"Aliko"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5e91718a9eec7c727080179f122d58a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1226473211,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1226473211,
+    "wof:lastmodified":1537583968,
+    "wof:name":"Aliko",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07917,
+    39.85861,
+    20.07917,
+    39.85861
+],
+  "geometry": {"coordinates":[20.07917,39.85861],"type":"Point"}
+}

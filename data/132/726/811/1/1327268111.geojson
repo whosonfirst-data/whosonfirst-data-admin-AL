@@ -1,0 +1,75 @@
+{
+  "id": 1327268111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62333,41.29889,19.62333,41.29889",
+    "geom:latitude":41.29889,
+    "geom:longitude":19.62333,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Eminasi i Vogel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185701,
+    "gn:latitude":41.29889,
+    "gn:longitude":19.62333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Eminasi i Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Memisi Vog\u00ebl",
+        "Eminasi",
+        "Eminas i Vog\u00ebl",
+        "Eminas",
+        "Eminasi i Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        1108720905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185701
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1e7ff65891636d4bce41b896ecd2b8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720905,
+            "locality_id":1327268111,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1327268111,
+    "wof:lastmodified":1537584288,
+    "wof:name":"Eminasi i Vogel",
+    "wof:parent_id":1108720905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62333,
+    41.29889,
+    19.62333,
+    41.29889
+],
+  "geometry": {"coordinates":[19.62333,41.29889],"type":"Point"}
+}

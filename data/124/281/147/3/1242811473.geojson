@@ -1,0 +1,67 @@
+{
+  "id": 1242811473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84194,40.62833,19.84194,40.62833",
+    "geom:latitude":40.62833,
+    "geom:longitude":19.84194,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Mecaj",
+    "gn:country_code":"AL",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344003,
+    "gn:latitude":40.62833,
+    "gn:longitude":19.84194,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Me\u00e7aj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344003
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7add7556211ebe3977b2f52ec6ce42b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1242811473,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1242811473,
+    "wof:lastmodified":1536727300,
+    "wof:name":"Mecaj",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84194,
+    40.62833,
+    19.84194,
+    40.62833
+],
+  "geometry": {"coordinates":[19.84194,40.62833],"type":"Point"}
+}

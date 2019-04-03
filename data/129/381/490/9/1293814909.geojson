@@ -1,0 +1,75 @@
+{
+  "id": 1293814909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33889,41.64556,20.33889,41.64556",
+    "geom:latitude":41.64556,
+    "geom:longitude":20.33889,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Arapaj i Eperm",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783744,
+    "gn:latitude":41.64556,
+    "gn:longitude":20.33889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Arapaj i Ep\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arapaj i Ep\u00ebrm\u00eb",
+        "Arap i Ep\u00ebrm",
+        "Arapaj e Eperme",
+        "Arn i Ep\u00ebrm",
+        "Arapaj i Ep\u00ebrm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783744
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6fc2ccdb83ab5bfc60f9f80047f36864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1293814909,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1293814909,
+    "wof:lastmodified":1537584141,
+    "wof:name":"Arapaj i Eperm",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33889,
+    41.64556,
+    20.33889,
+    41.64556
+],
+  "geometry": {"coordinates":[20.33889,41.64556],"type":"Point"}
+}

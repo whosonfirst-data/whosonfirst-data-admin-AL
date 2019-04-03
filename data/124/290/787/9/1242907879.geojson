@@ -1,0 +1,74 @@
+{
+  "id": 1242907879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76444,40.55417,20.76444,40.55417",
+    "geom:latitude":40.55417,
+    "geom:longitude":20.76444,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Boboshtice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783581,
+    "gn:latitude":40.55417,
+    "gn:longitude":20.76444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boboshtic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobo\u0161\u010d\u00edca",
+        "Boboshtica",
+        "Boboshtic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783581,
+        "wk:page":"Boboshtic%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"453a8e24e65c1da8eb883860d374484a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1242907879,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1242907879,
+    "wof:lastmodified":1537584131,
+    "wof:name":"Boboshtice",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76444,
+    40.55417,
+    20.76444,
+    40.55417
+],
+  "geometry": {"coordinates":[20.76444,40.55417],"type":"Point"}
+}

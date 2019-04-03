@@ -1,0 +1,76 @@
+{
+  "id": 1310334139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.685,40.62694,20.685,40.62694",
+    "geom:latitude":40.62694,
+    "geom:longitude":20.685,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Goskova e Siperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783095,
+    "gn:latitude":40.62694,
+    "gn:longitude":20.685,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goskova e Sip\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ano Goskova",
+        "Goskova Sip\u00ebr",
+        "Goskov\u00eb e Sip\u00ebr",
+        "Goskov\u00eb e Sip\u00ebrme",
+        "Goskov\u00eb e Lart\u00eb",
+        "Goskova e Sip\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783095
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2d43ed4a1ace12618183f8d8d24490f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1310334139,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310334139,
+    "wof:lastmodified":1537584099,
+    "wof:name":"Goskova e Siperme",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.685,
+    40.62694000000001,
+    20.685,
+    40.62694000000001
+],
+  "geometry": {"coordinates":[20.685,40.62694000000001],"type":"Point"}
+}

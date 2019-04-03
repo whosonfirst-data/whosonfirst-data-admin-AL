@@ -1,0 +1,66 @@
+{
+  "id": 890430791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95472,41.47861,19.95472,41.47861",
+    "geom:latitude":41.47861,
+    "geom:longitude":19.95472,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":5,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mal Pje\u00e7",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316646,
+        "gp:id":470384,
+        "qs:id":582464
+    },
+    "wof:country":"AL",
+    "wof:created":1469051866,
+    "wof:geomhash":"b019b693fd9d6a6babaa15f22c262076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":890430791,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":890430791,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Mal Pje\u00e7",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95472,
+    41.47861,
+    19.95472,
+    41.47861
+],
+  "geometry": {"coordinates":[19.95472,41.47861],"type":"Point"}
+}

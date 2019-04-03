@@ -1,0 +1,73 @@
+{
+  "id": 1209849265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46861,41.64111,20.46861,41.64111",
+    "geom:latitude":41.64111,
+    "geom:longitude":20.46861,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Trepce",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781368,
+    "gn:latitude":41.64111,
+    "gn:longitude":20.46861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Trep\u00e7\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trepshk\u00eb",
+        "Trep\u00e7a",
+        "Trep\u00e7\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781368
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"406b286877ef475e55d587e8336c18b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1209849265,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1209849265,
+    "wof:lastmodified":1537583990,
+    "wof:name":"Trepce",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46861,
+    41.64111,
+    20.46861,
+    41.64111
+],
+  "geometry": {"coordinates":[20.46861,41.64111],"type":"Point"}
+}

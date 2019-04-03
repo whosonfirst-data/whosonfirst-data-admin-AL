@@ -1,0 +1,74 @@
+{
+  "id": 1293420373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50056,40.885,20.50056,40.885",
+    "geom:latitude":40.885,
+    "geom:longitude":20.50056,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Llenge",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782488,
+    "gn:latitude":40.885,
+    "gn:longitude":20.50056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ll\u00ebng\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ll\u00ebnga",
+        "L\u00ebng\u00eb",
+        "Lenga",
+        "Ll\u00ebng\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782488
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4702dfe387c28eb98915a06c557ae928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1293420373,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1293420373,
+    "wof:lastmodified":1537584061,
+    "wof:name":"Llenge",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50056,
+    40.885,
+    20.50056,
+    40.885
+],
+  "geometry": {"coordinates":[20.50056,40.885],"type":"Point"}
+}

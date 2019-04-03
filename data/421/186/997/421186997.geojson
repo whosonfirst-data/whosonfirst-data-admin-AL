@@ -1,0 +1,303 @@
+{
+  "id": 421186997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.052795,42.360319,20.052795,42.360319",
+    "geom:latitude":42.360319,
+    "geom:longitude":20.052795,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062c\u0631\u0627\u0645 \u0643\u0648\u0631\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0561\u0575\u0580\u0561\u0574 \u0551\u0578\u0582\u0580\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ces_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u4f9d\u62c9\u59c6\u695a\u91cc\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:deu_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:deu_x_variant":[
+        "Bajram Curr"
+    ],
+    "name:dut_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:eng_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:fin_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:fra_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:fre_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ger_x_preferred":[
+        "Bajram Curr"
+    ],
+    "name:hbs_x_preferred":[
+        "Bajram Curi"
+    ],
+    "name:hrv_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:hun_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0580\u0561\u0574 \u0551\u0578\u0582\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:lit_x_preferred":[
+        "Bairam Curis"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:oci_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:pol_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:por_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ron_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:rum_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0440\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c-\u0426\u0443\u0440\u0440\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:spa_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:sqi_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u0439\u0440\u04d9\u043c-\u0421\u0443\u0440\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Bayram Curri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u062c\u0631\u0627\u0645 \u06a9\u0648\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:war_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f9d\u62c9\u59c6\u695a\u91cc\u57ce"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Albania",
+    "ne:ADM0_A3":"ALB",
+    "ne:ADM1NAME":"Kuk\u00ebs",
+    "ne:ADMIN1_COD":47,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":783708,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Bajram Curri",
+    "ne:GN_POP":7967,
+    "ne:GTOPO30":313.0,
+    "ne:ISO_A2":"AL",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":42.3333,
+    "ne:LONGITUDE":20.083303,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Bajram Curri",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bajram Curri",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":7967,
+    "ne:POP_MIN":7967,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Albania",
+    "ne:SOV_A3":"ALB",
+    "ne:TIMEZONE":"Europe/Tirane",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bajram Curri",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Kukes",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077598,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":469111,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "wd:wordcount":1058,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667797,
+        421200781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932375,
+        "gp:id":469111,
+        "qs:id":1077598,
+        "wd:id":"Q18705"
+    },
+    "wof:country":"AL",
+    "wof:created":1459009498,
+    "wof:geomhash":"74060e44ead3039e857ffb15ed4cf81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421200781,
+            "locality_id":421186997,
+            "region_id":85667797
+        }
+    ],
+    "wof:id":421186997,
+    "wof:lastmodified":1527716311,
+    "wof:name":"Bajram Curri",
+    "wof:parent_id":421200781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.052795,
+    42.360319,
+    20.052795,
+    42.360319
+],
+  "geometry": {"coordinates":[20.052795,42.360319],"type":"Point"}
+}

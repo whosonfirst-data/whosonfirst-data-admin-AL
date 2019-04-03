@@ -1,0 +1,68 @@
+{
+  "id": 1259814445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.79528,41.23833,19.79528,41.23833",
+    "geom:latitude":41.23833,
+    "geom:longitude":19.79528,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Fushas",
+    "gn:country_code":"AL",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185643,
+    "gn:latitude":41.23833,
+    "gn:longitude":19.79528,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Fushas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185643,
+        "wk:page":"Fushas"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ce2fbd442873b0980b395215e1aae4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1259814445,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1259814445,
+    "wof:lastmodified":1537486107,
+    "wof:name":"Fushas",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.79528,
+    41.23833,
+    19.79528,
+    41.23833
+],
+  "geometry": {"coordinates":[19.79528,41.23833],"type":"Point"}
+}

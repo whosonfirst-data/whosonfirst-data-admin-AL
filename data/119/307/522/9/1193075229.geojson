@@ -1,0 +1,67 @@
+{
+  "id": 1193075229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18417,40.49694,20.18417,40.49694",
+    "geom:latitude":40.49694,
+    "geom:longitude":20.18417,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Hamzallare",
+    "gn:country_code":"AL",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865151,
+    "gn:latitude":40.49694,
+    "gn:longitude":20.18417,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Hamzallar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865151
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"29b0efb3ca5a9e677736c2f42ddd9827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":1193075229,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1193075229,
+    "wof:lastmodified":1536364774,
+    "wof:name":"Hamzallare",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18417,
+    40.49694,
+    20.18417,
+    40.49694
+],
+  "geometry": {"coordinates":[20.18417,40.49694],"type":"Point"}
+}

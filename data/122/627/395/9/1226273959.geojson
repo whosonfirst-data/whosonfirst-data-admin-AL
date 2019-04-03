@@ -1,0 +1,78 @@
+{
+  "id": 1226273959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6375,40.935,20.6375,40.935",
+    "geom:latitude":40.935,
+    "geom:longitude":20.6375,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Memelisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782314,
+    "gn:latitude":40.935,
+    "gn:longitude":20.6375,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"M\u00ebm\u00eblisht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043c\u0443\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "M\u00ebmlisht",
+        "Memlishta",
+        "M\u00ebmlisht\u00eb",
+        "Memelishti",
+        "M\u00ebm\u00eblisht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782314
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a7607f15ff6d8cc9451553b4e81caef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1226273959,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226273959,
+    "wof:lastmodified":1537584052,
+    "wof:name":"Memelisht",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6375,
+    40.935,
+    20.6375,
+    40.935
+],
+  "geometry": {"coordinates":[20.6375,40.935],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259419177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18889,41.0225,20.18889,41.0225",
+    "geom:latitude":41.0225,
+    "geom:longitude":20.18889,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Gjinar",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783156,
+    "gn:latitude":41.0225,
+    "gn:longitude":20.18889,
+    "gn:modification_date":"2012-05-31",
+    "gn:name":"Gjinar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giniari",
+        "Gjinari",
+        "Gjinar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783156
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"99c1ba90b00662d2597b846623b9a7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1259419177,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1259419177,
+    "wof:lastmodified":1537584103,
+    "wof:name":"Gjinar",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18889,
+    41.0225,
+    20.18889,
+    41.0225
+],
+  "geometry": {"coordinates":[20.18889,41.0225],"type":"Point"}
+}

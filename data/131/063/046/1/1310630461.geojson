@@ -1,0 +1,67 @@
+{
+  "id": 1310630461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71667,40.85,20.71667,40.85",
+    "geom:latitude":40.85,
+    "geom:longitude":20.71667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Qershize",
+    "gn:country_code":"AL",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781882,
+    "gn:latitude":40.85,
+    "gn:longitude":20.71667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Qershiz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781882
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"00e9e29b3d517edcddad2cdc3b917b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1310630461,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1310630461,
+    "wof:lastmodified":1536736720,
+    "wof:name":"Qershize",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71667,
+    40.85,
+    20.71667,
+    40.85
+],
+  "geometry": {"coordinates":[20.71667,40.85],"type":"Point"}
+}

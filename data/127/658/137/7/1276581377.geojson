@@ -1,0 +1,75 @@
+{
+  "id": 1276581377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.59528,40.66528,20.59528,40.66528",
+    "geom:latitude":40.66528,
+    "geom:longitude":20.59528,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shipske",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781669,
+    "gn:latitude":40.66528,
+    "gn:longitude":20.59528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shipsk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sipsk\u00eb",
+        "Shipck\u00eb",
+        "Shipska",
+        "Shipcka",
+        "Shipsk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781669
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6811e26b86331e68f46cadfe7e59aa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1276581377,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276581377,
+    "wof:lastmodified":1537584008,
+    "wof:name":"Shipske",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.59528,
+    40.66528,
+    20.59528,
+    40.66528
+],
+  "geometry": {"coordinates":[20.59528,40.66528],"type":"Point"}
+}

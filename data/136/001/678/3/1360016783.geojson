@@ -1,0 +1,78 @@
+{
+  "id": 1360016783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2675,40.76861,20.2675,40.76861",
+    "geom:latitude":40.76861,
+    "geom:longitude":20.2675,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Bletez",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781701,
+    "gn:latitude":40.76861,
+    "gn:longitude":20.2675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Blet\u00ebz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00ebmberdhej i Sip\u00ebrm",
+        "Blet\u00ebza",
+        "Shemerdhenj i Sip\u00ebrm",
+        "Shemberdhej i Siperme",
+        "Sh\u00ebmb\u00ebrthej i Sip\u00ebrm",
+        "Sh\u00ebmberdhenj i Sip\u00ebrm",
+        "Sh\u00ebmerdhej i Siperm",
+        "Blet\u00ebz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781701
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d56fb7f686d843f151fd344f30a388d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1360016783,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1360016783,
+    "wof:lastmodified":1537584011,
+    "wof:name":"Bletez",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2675,
+    40.76861,
+    20.2675,
+    40.76861
+],
+  "geometry": {"coordinates":[20.2675,40.76861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293920333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92083,40.4475,19.92083,40.4475",
+    "geom:latitude":40.4475,
+    "geom:longitude":19.92083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kamcisht",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185278,
+    "gn:latitude":40.4475,
+    "gn:longitude":19.92083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kam\u00e7isht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kam\u00e7ishti",
+        "Kam\u00e7ishta",
+        "Kamshishti",
+        "Kam\u00e7ista",
+        "Kam\u00e7isht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185278
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"32b6527470ce080905a4d9b0887edb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1293920333,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293920333,
+    "wof:lastmodified":1537584259,
+    "wof:name":"Kamcisht",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92083,
+    40.4475,
+    19.92083,
+    40.4475
+],
+  "geometry": {"coordinates":[19.92083,40.4475],"type":"Point"}
+}

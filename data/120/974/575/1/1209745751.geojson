@@ -1,0 +1,73 @@
+{
+  "id": 1209745751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85361,40.39611,19.85361,40.39611",
+    "geom:latitude":40.39611,
+    "geom:longitude":19.85361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Anevjose",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186200,
+    "gn:latitude":40.39611,
+    "gn:longitude":19.85361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An\u00ebvjos\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shehaj",
+        "An\u00ebvjosa",
+        "An\u00ebvjos\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186200
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"502b690cf55a47a5967cc5db1b8bdfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1209745751,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1209745751,
+    "wof:lastmodified":1537584322,
+    "wof:name":"Anevjose",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85361,
+    40.39611,
+    19.85361,
+    40.39611
+],
+  "geometry": {"coordinates":[19.85361,40.39611],"type":"Point"}
+}

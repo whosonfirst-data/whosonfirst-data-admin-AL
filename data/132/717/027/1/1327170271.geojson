@@ -1,0 +1,75 @@
+{
+  "id": 1327170271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90667,41.25556,19.90667,41.25556",
+    "geom:latitude":41.25556,
+    "geom:longitude":19.90667,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Qehe-Shytaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184376,
+    "gn:latitude":41.25556,
+    "gn:longitude":19.90667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qeh\u00eb-Shytaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qeha",
+        "Shytaj",
+        "Qeha-Shytaj",
+        "Qeh\u00eb-Shytaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184376,
+        "wk:page":"Qeha"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d9f03533ebd9df957aadfb25f7219507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1327170271,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1327170271,
+    "wof:lastmodified":1537584204,
+    "wof:name":"Qehe-Shytaj",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90667,
+    41.25556,
+    19.90667,
+    41.25556
+],
+  "geometry": {"coordinates":[19.90667,41.25556],"type":"Point"}
+}

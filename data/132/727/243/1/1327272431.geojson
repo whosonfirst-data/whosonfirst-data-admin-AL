@@ -1,0 +1,73 @@
+{
+  "id": 1327272431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97028,40.51167,19.97028,40.51167",
+    "geom:latitude":40.51167,
+    "geom:longitude":19.97028,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Zhapokike",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183630,
+    "gn:latitude":40.51167,
+    "gn:longitude":19.97028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zhapokik\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhabokik\u00eb",
+        "Zhapokika",
+        "Zhapokik\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183630
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2aa3dad8812aa5216385541a838feb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1327272431,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1327272431,
+    "wof:lastmodified":1537584157,
+    "wof:name":"Zhapokike",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97028,
+    40.51167,
+    19.97028,
+    40.51167
+],
+  "geometry": {"coordinates":[19.97028,40.51167],"type":"Point"}
+}

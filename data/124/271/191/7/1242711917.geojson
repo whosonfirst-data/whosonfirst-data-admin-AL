@@ -1,0 +1,67 @@
+{
+  "id": 1242711917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22389,40.98528,20.22389,40.98528",
+    "geom:latitude":40.98528,
+    "geom:longitude":20.22389,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Manth",
+    "gn:country_code":"AL",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865022,
+    "gn:latitude":40.98528,
+    "gn:longitude":20.22389,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Manth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421185415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865022
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d321733cf614e0fe5965dc6cb1351718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421185415,
+            "locality_id":1242711917,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1242711917,
+    "wof:lastmodified":1536869181,
+    "wof:name":"Manth",
+    "wof:parent_id":421185415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22389,
+    40.98528,
+    20.22389,
+    40.98528
+],
+  "geometry": {"coordinates":[20.22389,40.98528],"type":"Point"}
+}

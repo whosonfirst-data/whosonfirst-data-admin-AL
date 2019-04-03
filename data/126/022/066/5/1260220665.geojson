@@ -1,0 +1,74 @@
+{
+  "id": 1260220665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.60222,40.38944,19.60222,40.38944",
+    "geom:latitude":40.38944,
+    "geom:longitude":19.60222,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Kote",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185113,
+    "gn:latitude":40.38944,
+    "gn:longitude":19.60222,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kot\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kota",
+        "Kotta",
+        "Kot\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185113
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"30c551e5a698c6a4d3f1ccf53f119a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1260220665,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1260220665,
+    "wof:lastmodified":1537584249,
+    "wof:name":"Kote",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.60222000000001,
+    40.38944,
+    19.60222000000001,
+    40.38944
+],
+  "geometry": {"coordinates":[19.60222000000001,40.38944],"type":"Point"}
+}

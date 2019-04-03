@@ -1,0 +1,76 @@
+{
+  "id": 1309748063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78611,41.4525,19.78611,41.4525",
+    "geom:latitude":41.4525,
+    "geom:longitude":19.78611,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Virjon",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183759,
+    "gn:latitude":41.4525,
+    "gn:longitude":19.78611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Virjon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verjon",
+        "Verjani",
+        "Verjan",
+        "Virion",
+        "Virjoni",
+        "Virjon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183759
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"df12f205a30dae9bbe1e9ca9d4159777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1309748063,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1309748063,
+    "wof:lastmodified":1537584166,
+    "wof:name":"Virjon",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78611,
+    41.4525,
+    19.78611,
+    41.4525
+],
+  "geometry": {"coordinates":[19.78611,41.4525],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209849411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05472,41.77278,20.05472,41.77278",
+    "geom:latitude":41.77278,
+    "geom:longitude":20.05472,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Lekunde",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782570,
+    "gn:latitude":41.77278,
+    "gn:longitude":20.05472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"L\u00ebkund\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00ebkundi",
+        "Lekuna",
+        "L\u00ebkun",
+        "Lkund",
+        "Lkundi",
+        "L\u00ebkunda",
+        "L\u00ebkund\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782570
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a4274c95571c3cb5fe6cbad8efbcf265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1209849411,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1209849411,
+    "wof:lastmodified":1537584065,
+    "wof:name":"Lekunde",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05472,
+    41.77278,
+    20.05472,
+    41.77278
+],
+  "geometry": {"coordinates":[20.05472,41.77278],"type":"Point"}
+}

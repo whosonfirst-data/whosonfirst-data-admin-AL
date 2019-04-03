@@ -1,0 +1,66 @@
+{
+  "id": 1209043025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9225,40.91944,19.9225,40.91944",
+    "geom:latitude":40.91944,
+    "geom:longitude":19.9225,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Hazizolle",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343811,
+    "gn:latitude":40.91944,
+    "gn:longitude":19.9225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hazizoll\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gropa e Bardh\u00eb",
+        "Hazizoll\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343811
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"34481f4da9e62045e7fc6a59ab866266",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209043025
+        }
+    ],
+    "wof:id":1209043025,
+    "wof:lastmodified":1537584333,
+    "wof:name":"Hazizolle",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9225,
+    40.91944,
+    19.9225,
+    40.91944
+],
+  "geometry": {"coordinates":[19.9225,40.91944],"type":"Point"}
+}

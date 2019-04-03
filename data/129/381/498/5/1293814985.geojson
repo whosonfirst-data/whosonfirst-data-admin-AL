@@ -1,0 +1,73 @@
+{
+  "id": 1293814985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72944,41.0875,19.72944,41.0875",
+    "geom:latitude":41.0875,
+    "geom:longitude":19.72944,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sinametaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184020,
+    "gn:latitude":41.0875,
+    "gn:longitude":19.72944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinametaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinejmetej",
+        "Sinomelaji",
+        "Sinametaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184020
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f17a3ae5901d383659130e1ecbfc0f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720889,
+            "locality_id":1293814985,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1293814985,
+    "wof:lastmodified":1537584179,
+    "wof:name":"Sinametaj",
+    "wof:parent_id":1108720889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72944,
+    41.0875,
+    19.72944,
+    41.0875
+],
+  "geometry": {"coordinates":[19.72944,41.0875],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293035997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01056,40.32833,20.01056,40.32833",
+    "geom:latitude":40.32833,
+    "geom:longitude":20.01056,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dames",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865197,
+    "gn:latitude":40.32833,
+    "gn:longitude":20.01056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dam\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dam\u00ebsi",
+        "Dam\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865197
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"06f92886667b9b6d9e128f16f758e104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720885,
+            "locality_id":1293035997,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293035997,
+    "wof:lastmodified":1537584152,
+    "wof:name":"Dames",
+    "wof:parent_id":1108720885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01056,
+    40.32833,
+    20.01056,
+    40.32833
+],
+  "geometry": {"coordinates":[20.01056,40.32833],"type":"Point"}
+}

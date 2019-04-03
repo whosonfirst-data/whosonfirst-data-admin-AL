@@ -1,0 +1,80 @@
+{
+  "id": 1226579711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74833,41.44417,19.74833,41.44417",
+    "geom:latitude":41.44417,
+    "geom:longitude":19.74833,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Nikel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3184594,
+    "gn:latitude":41.44417,
+    "gn:longitude":19.74833,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Nik\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niklla",
+        "M\u00ebniklli",
+        "M\u00ebnikll",
+        "Menga",
+        "Monikl\u00eb",
+        "Monikelj",
+        "Nikla",
+        "Nikll\u00eb",
+        "Nik\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        421187431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184594
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0f8d466f3f55e97a6ba3f15c042d4633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187431,
+            "locality_id":1226579711,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1226579711,
+    "wof:lastmodified":1537584217,
+    "wof:name":"Nikel",
+    "wof:parent_id":421187431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74833,
+    41.44417,
+    19.74833,
+    41.44417
+],
+  "geometry": {"coordinates":[19.74833,41.44417],"type":"Point"}
+}

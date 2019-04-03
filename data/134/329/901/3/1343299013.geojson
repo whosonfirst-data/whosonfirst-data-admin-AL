@@ -1,0 +1,72 @@
+{
+  "id": 1343299013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20556,41.87417,20.20556,41.87417",
+    "geom:latitude":41.87417,
+    "geom:longitude":20.20556,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Lajthize",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782603,
+    "gn:latitude":41.87417,
+    "gn:longitude":20.20556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lajthiz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lajthiza",
+        "Lajthiz\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421188337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782603
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7398f4cb4f902ad3251440534b78ccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421188337,
+            "locality_id":1343299013,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1343299013,
+    "wof:lastmodified":1537584067,
+    "wof:name":"Lajthize",
+    "wof:parent_id":421188337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20556,
+    41.87417,
+    20.20556,
+    41.87417
+],
+  "geometry": {"coordinates":[20.20556,41.87417],"type":"Point"}
+}

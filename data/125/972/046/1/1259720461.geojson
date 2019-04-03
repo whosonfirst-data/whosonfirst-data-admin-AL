@@ -1,0 +1,73 @@
+{
+  "id": 1259720461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90972,41.41889,19.90972,41.41889",
+    "geom:latitude":41.41889,
+    "geom:longitude":19.90972,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Besh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186067,
+    "gn:latitude":41.41889,
+    "gn:longitude":19.90972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Besh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Byeish",
+        "Beshi",
+        "Besh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186067
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"883b0e02418d2261e14682d06a9a41cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1259720461,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1259720461,
+    "wof:lastmodified":1537584313,
+    "wof:name":"Besh",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90972,
+    41.41889000000001,
+    19.90972,
+    41.41889000000001
+],
+  "geometry": {"coordinates":[19.90972,41.41889000000001],"type":"Point"}
+}

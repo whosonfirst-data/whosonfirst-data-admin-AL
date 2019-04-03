@@ -1,0 +1,79 @@
+{
+  "id": 1343892149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36583,40.77278,20.36583,40.77278",
+    "geom:latitude":40.77278,
+    "geom:longitude":20.36583,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Grabova e Poshtme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783073,
+    "gn:latitude":40.77278,
+    "gn:longitude":20.36583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Grabova e Poshtme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabova",
+        "Grabova Moamethaniki",
+        "Grabov\u00eb",
+        "Grabova A",
+        "Grabov\u00eb e Muhamedan\u00ebve",
+        "Grabov\u00eb A",
+        "Grabova e Poshteme",
+        "Grabov\u00eb e Tyrk",
+        "Grabova e Poshtme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783073
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5c83674b4435ed9212a1f3885f2c6710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1343892149,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1343892149,
+    "wof:lastmodified":1537584097,
+    "wof:name":"Grabova e Poshtme",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36583,
+    40.77278,
+    20.36583,
+    40.77278
+],
+  "geometry": {"coordinates":[20.36583,40.77278],"type":"Point"}
+}

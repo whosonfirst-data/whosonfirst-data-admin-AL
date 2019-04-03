@@ -1,0 +1,77 @@
+{
+  "id": 1277013389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51722,41.5825,20.51722,41.5825",
+    "geom:latitude":41.5825,
+    "geom:longitude":20.51722,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kercishti i Eperm",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782832,
+    "gn:latitude":41.5825,
+    "gn:longitude":20.51722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00ebr\u00e7ishti i Ep\u00ebrm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorna Kroi\u0161ta",
+        "K\u00ebr\u00e7isht i Sip\u00ebrm",
+        "Ker\u00e7ishta e Ep\u00ebr",
+        "K\u00ebr\u00e7isht i Ep\u00ebrm",
+        "Ker\u00e7isht\u00eb e Ep\u00ebr",
+        "K\u00ebr\u00e7ishti i Ep\u00ebrm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782832,
+        "wk:page":"K%C3%ABr%C3%A7isht_i_Sip%C3%ABrm"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b51f698418011d1c195c37206a9785d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1277013389,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1277013389,
+    "wof:lastmodified":1537584081,
+    "wof:name":"Kercishti i Eperm",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51722,
+    41.5825,
+    20.51722,
+    41.5825
+],
+  "geometry": {"coordinates":[20.51722,41.5825],"type":"Point"}
+}

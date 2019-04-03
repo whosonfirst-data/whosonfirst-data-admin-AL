@@ -1,0 +1,78 @@
+{
+  "id": 1243398057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35472,41.52028,20.35472,41.52028",
+    "geom:latitude":41.52028,
+    "geom:longitude":20.35472,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Godvi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783116,
+    "gn:latitude":41.52028,
+    "gn:longitude":20.35472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Godvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0458\u0435"
+    ],
+    "name:und_x_variant":[
+        "Godvi\u00eb",
+        "Gotvija",
+        "Godivya",
+        "Godvija",
+        "Godvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783116
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6da8e7deb43c33e0542b2a3e9a25e132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1243398057,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1243398057,
+    "wof:lastmodified":1537584100,
+    "wof:name":"Godvi",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35472,
+    41.52028,
+    20.35472,
+    41.52028
+],
+  "geometry": {"coordinates":[20.35472,41.52028],"type":"Point"}
+}

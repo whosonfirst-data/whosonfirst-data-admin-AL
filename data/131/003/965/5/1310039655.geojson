@@ -1,0 +1,74 @@
+{
+  "id": 1310039655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13444,40.41667,20.13444,40.41667",
+    "geom:latitude":40.41667,
+    "geom:longitude":20.13444,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Ballaban",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783695,
+    "gn:latitude":40.41667,
+    "gn:longitude":20.13444,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ballaban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balaban",
+        "Ballabani",
+        "Ballaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783695
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"91a7bce1a840dde73410ab9657f1c2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1310039655,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310039655,
+    "wof:lastmodified":1537584138,
+    "wof:name":"Ballaban",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13444,
+    40.41667,
+    20.13444,
+    40.41667
+],
+  "geometry": {"coordinates":[20.13444,40.41667],"type":"Point"}
+}

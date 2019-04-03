@@ -1,0 +1,72 @@
+{
+  "id": 1225981327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58083,40.89583,20.58083,40.89583",
+    "geom:latitude":40.89583,
+    "geom:longitude":20.58083,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kalivac",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782904,
+    "gn:latitude":40.89583,
+    "gn:longitude":20.58083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaliva\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaliva\u00e7i",
+        "Kaliva\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782904
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb72e78235cc95b66388616685c2b9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1225981327,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1225981327,
+    "wof:lastmodified":1537584085,
+    "wof:name":"Kalivac",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58083,
+    40.89583,
+    20.58083,
+    40.89583
+],
+  "geometry": {"coordinates":[20.58083,40.89583],"type":"Point"}
+}

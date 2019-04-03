@@ -1,0 +1,80 @@
+{
+  "id": 1310239975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16667,41.43333,20.16667,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":20.16667,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Stavec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781523,
+    "gn:latitude":41.43333,
+    "gn:longitude":20.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stave\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Stevec",
+        "Stovec",
+        "St\u00ebrve\u00e7",
+        "Storeci",
+        "Stoveci",
+        "Staveci",
+        "Stave\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781523
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8576441baf43ba79d4dc04d66ff22da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1310239975,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1310239975,
+    "wof:lastmodified":1537584000,
+    "wof:name":"Stavec",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16667,
+    41.43333,
+    20.16667,
+    41.43333
+],
+  "geometry": {"coordinates":[20.16667,41.43333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343891621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.99889,39.99972,19.99889,39.99972",
+    "geom:latitude":39.99972,
+    "geom:longitude":19.99889,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Fushe-Verri",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525818,
+    "gn:latitude":39.99972,
+    "gn:longitude":19.99889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fush\u00eb-V\u00ebrri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fush\u00eb-V\u00ebrri\u00eb",
+        "Fush\u00eb-V\u00ebrrij\u00eb",
+        "Fush\u00eb-V\u00ebrrinja",
+        "Fush\u00eb-V\u00ebrija",
+        "Fush\u00eb-V\u00ebrrija",
+        "Fush\u00eb-V\u00ebrria",
+        "Fush\u00eb-Vrinja",
+        "Fush\u00eb-V\u00ebrri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421184327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525818
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0754ed83ef5a9dbfd28f3180edc3e7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184327,
+            "locality_id":1343891621,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1343891621,
+    "wof:lastmodified":1537584154,
+    "wof:name":"Fushe-Verri",
+    "wof:parent_id":421184327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.99889,
+    39.99972,
+    19.99889,
+    39.99972
+],
+  "geometry": {"coordinates":[19.99889,39.99972],"type":"Point"}
+}

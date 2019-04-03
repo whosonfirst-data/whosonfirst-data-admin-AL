@@ -1,0 +1,72 @@
+{
+  "id": 1277111143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53306,40.38833,20.53306,40.38833",
+    "geom:latitude":40.38833,
+    "geom:longitude":20.53306,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lencke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782565,
+    "gn:latitude":40.38833,
+    "gn:longitude":20.53306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lenck\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lencka",
+        "Lenck\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782565
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3d0caa57d65207933756300e7f70b316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1277111143,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1277111143,
+    "wof:lastmodified":1537584065,
+    "wof:name":"Lencke",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53306,
+    40.38833,
+    20.53306,
+    40.38833
+],
+  "geometry": {"coordinates":[20.53306,40.38833],"type":"Point"}
+}

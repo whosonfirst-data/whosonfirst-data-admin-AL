@@ -1,0 +1,72 @@
+{
+  "id": 1209448915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99972,40.66556,20.99972,40.66556",
+    "geom:latitude":40.66556,
+    "geom:longitude":20.99972,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Tren",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781370,
+    "gn:latitude":40.66556,
+    "gn:longitude":20.99972,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"Tren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03bd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Treni",
+        "Tren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781370
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"78b18a22d73ad1dd58a16b0bc9a4caef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209448915
+        }
+    ],
+    "wof:id":1209448915,
+    "wof:lastmodified":1537583990,
+    "wof:name":"Tren",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99972,
+    40.66556,
+    20.99972,
+    40.66556
+],
+  "geometry": {"coordinates":[20.99972,40.66556],"type":"Point"}
+}

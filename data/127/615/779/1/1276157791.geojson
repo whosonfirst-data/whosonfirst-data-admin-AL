@@ -1,0 +1,72 @@
+{
+  "id": 1276157791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96139,41.52639,19.96139,41.52639",
+    "geom:latitude":41.52639,
+    "geom:longitude":19.96139,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Mali-Leze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343693,
+    "gn:latitude":41.52639,
+    "gn:longitude":19.96139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mali-Leze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali-Leza",
+        "Mali-Leze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        1108720867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343693
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e82045ad32fc3000946a5062c1f9f89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720867,
+            "locality_id":1276157791,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1276157791,
+    "wof:lastmodified":1537584331,
+    "wof:name":"Mali-Leze",
+    "wof:parent_id":1108720867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96139,
+    41.52639,
+    19.96139,
+    41.52639
+],
+  "geometry": {"coordinates":[19.96139,41.52639],"type":"Point"}
+}

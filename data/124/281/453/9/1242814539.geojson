@@ -1,0 +1,77 @@
+{
+  "id": 1242814539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29917,40.06806,20.29917,40.06806",
+    "geom:latitude":40.06806,
+    "geom:longitude":20.29917,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Labova e Siperme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782608,
+    "gn:latitude":40.06806,
+    "gn:longitude":20.29917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Labova e Sip\u00ebrme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ano Labov e Kryqit",
+        "Labova",
+        "Gliabovo voghel",
+        "Labov\u00eb e Sip\u00ebrme",
+        "Labov\u00eb",
+        "Labov\u00eb e Vog\u00ebl",
+        "Labova e Sip\u00ebrme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782608
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a97a03b384a9cf53aedb5c9d92564f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720875,
+            "locality_id":1242814539,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1242814539,
+    "wof:lastmodified":1537584068,
+    "wof:name":"Labova e Siperme",
+    "wof:parent_id":1108720875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29917,
+    40.06806,
+    20.29917,
+    40.06806
+],
+  "geometry": {"coordinates":[20.29917,40.06806],"type":"Point"}
+}

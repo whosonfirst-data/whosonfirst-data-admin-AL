@@ -1,0 +1,68 @@
+{
+  "id": 1209035623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81361,40.65139,20.81361,40.65139",
+    "geom:latitude":40.65139,
+    "geom:longitude":20.81361,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Dishnice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783343,
+    "gn:latitude":40.65139,
+    "gn:longitude":20.81361,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Dishnic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tishnica",
+        "Dishnica",
+        "Deshnica",
+        "Dishnic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783343
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"fb13c2c7506d5f8a0d4bb6288447ac79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209035623
+        }
+    ],
+    "wof:id":1209035623,
+    "wof:lastmodified":1537584115,
+    "wof:name":"Dishnice",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81361,
+    40.65139,
+    20.81361,
+    40.65139
+],
+  "geometry": {"coordinates":[20.81361,40.65139],"type":"Point"}
+}

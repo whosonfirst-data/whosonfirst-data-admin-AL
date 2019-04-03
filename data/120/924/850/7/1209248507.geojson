@@ -1,0 +1,68 @@
+{
+  "id": 1209248507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52306,41.42056,19.52306,41.42056",
+    "geom:latitude":41.42056,
+    "geom:longitude":19.52306,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dushk",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185717,
+    "gn:latitude":41.42056,
+    "gn:longitude":19.52306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dushk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dushk\u00eb",
+        "Dushku",
+        "Du\u0161k",
+        "Dushk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185717
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"09746901823d07b4b75c597493b74382",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209248507
+        }
+    ],
+    "wof:id":1209248507,
+    "wof:lastmodified":1537584290,
+    "wof:name":"Dushk",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52306,
+    41.42056,
+    19.52306,
+    41.42056
+],
+  "geometry": {"coordinates":[19.52306,41.42056],"type":"Point"}
+}

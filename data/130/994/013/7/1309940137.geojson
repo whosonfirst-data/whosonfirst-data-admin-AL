@@ -1,0 +1,75 @@
+{
+  "id": 1309940137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21444,41.81333,20.21444,41.81333",
+    "geom:latitude":41.81333,
+    "geom:longitude":20.21444,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Lura e Vjeter",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782436,
+    "gn:latitude":41.81333,
+    "gn:longitude":20.21444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lura e Vjet\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lurja",
+        "Lur\u2019 e Vjet\u00ebr",
+        "Lura Vjet\u00ebr",
+        "Lur\u00eb e Vjet\u00ebr",
+        "Lura e Vjet\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782436
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f29a818a64bd99f6d525dd36c8ba401f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1309940137,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1309940137,
+    "wof:lastmodified":1537584058,
+    "wof:name":"Lura e Vjeter",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21444,
+    41.81333,
+    20.21444,
+    41.81333
+],
+  "geometry": {"coordinates":[20.21444,41.81333],"type":"Point"}
+}

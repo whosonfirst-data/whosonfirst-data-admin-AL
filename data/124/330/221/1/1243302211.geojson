@@ -1,0 +1,73 @@
+{
+  "id": 1243302211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82917,40.71889,19.82917,40.71889",
+    "geom:latitude":40.71889,
+    "geom:longitude":19.82917,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bistrovice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186034,
+    "gn:latitude":40.71889,
+    "gn:longitude":19.82917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bistrovic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bistrovica",
+        "Bestrovic\u00eb",
+        "Bistrovic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186034
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1d94888f3caeec8b3cff1f564b01a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":1243302211,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1243302211,
+    "wof:lastmodified":1537584311,
+    "wof:name":"Bistrovice",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82917,
+    40.71889,
+    19.82917,
+    40.71889
+],
+  "geometry": {"coordinates":[19.82917,40.71889],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293622825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45722,40.49917,19.45722,40.49917",
+    "geom:latitude":40.49917,
+    "geom:longitude":19.45722,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Narte",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184626,
+    "gn:latitude":40.49917,
+    "gn:longitude":19.45722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nart\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arta",
+        "Narta",
+        "Nart\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        421193353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184626,
+        "wk:page":"Nart%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"25a8b6d40d4569caa95a36447ad8cb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193353,
+            "locality_id":1293622825,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1293622825,
+    "wof:lastmodified":1537584220,
+    "wof:name":"Narte",
+    "wof:parent_id":421193353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45722,
+    40.49917,
+    19.45722,
+    40.49917
+],
+  "geometry": {"coordinates":[19.45722,40.49917],"type":"Point"}
+}

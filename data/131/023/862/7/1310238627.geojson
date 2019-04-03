@@ -1,0 +1,72 @@
+{
+  "id": 1310238627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54472,42.08417,19.54472,42.08417",
+    "geom:latitude":42.08417,
+    "geom:longitude":19.54472,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Bleran",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205167,
+    "gn:latitude":42.08417,
+    "gn:longitude":19.54472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bleran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blerani",
+        "Bleran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205167
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7260a1f95a0ecbe91270c1a1b2783cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1310238627,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1310238627,
+    "wof:lastmodified":1537584326,
+    "wof:name":"Bleran",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54472,
+    42.08417,
+    19.54472,
+    42.08417
+],
+  "geometry": {"coordinates":[19.54472,42.08417],"type":"Point"}
+}

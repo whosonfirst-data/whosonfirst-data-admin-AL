@@ -1,0 +1,68 @@
+{
+  "id": 1209449623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80639,40.475,20.80639,40.475",
+    "geom:latitude":40.475,
+    "geom:longitude":20.80639,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Nikolice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782185,
+    "gn:latitude":40.475,
+    "gn:longitude":20.80639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nikolic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nikolica",
+        "Nikolica e Kasoll\u00eb",
+        "Niqolica",
+        "Nikolic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782185
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cf5ec0ae3120239f70e43f0c412a2d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209449623
+        }
+    ],
+    "wof:id":1209449623,
+    "wof:lastmodified":1537584044,
+    "wof:name":"Nikolice",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80639,
+    40.475,
+    20.80639,
+    40.475
+],
+  "geometry": {"coordinates":[20.80639,40.475],"type":"Point"}
+}

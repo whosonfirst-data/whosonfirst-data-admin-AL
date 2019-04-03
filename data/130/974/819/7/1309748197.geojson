@@ -1,0 +1,67 @@
+{
+  "id": 1309748197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48444,42.35278,19.48444,42.35278",
+    "geom:latitude":42.35278,
+    "geom:longitude":19.48444,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Varr i Papes",
+    "gn:country_code":"AL",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183786,
+    "gn:latitude":42.35278,
+    "gn:longitude":19.48444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Varr i Papes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183786
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8c6ea62c8fc6b2a3c1e0f04f98f1e3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1309748197,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1309748197,
+    "wof:lastmodified":1537013418,
+    "wof:name":"Varr i Papes",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48444,
+    42.35278,
+    19.48444,
+    42.35278
+],
+  "geometry": {"coordinates":[19.48444,42.35278],"type":"Point"}
+}

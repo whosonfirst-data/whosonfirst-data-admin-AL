@@ -1,0 +1,73 @@
+{
+  "id": 1310142193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00417,40.29667,20.00417,40.29667",
+    "geom:latitude":40.29667,
+    "geom:longitude":20.00417,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Veliqot",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781274,
+    "gn:latitude":40.29667,
+    "gn:longitude":20.00417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Veliqot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliqoti",
+        "Valiqeti",
+        "Veliqot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421189559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781274
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a4add7abca0b6df4779f3aaad9173604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421189559,
+            "locality_id":1310142193,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310142193,
+    "wof:lastmodified":1537583984,
+    "wof:name":"Veliqot",
+    "wof:parent_id":421189559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00417,
+    40.29667,
+    20.00417,
+    40.29667
+],
+  "geometry": {"coordinates":[20.00417,40.29667],"type":"Point"}
+}

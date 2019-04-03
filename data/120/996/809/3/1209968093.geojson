@@ -1,0 +1,72 @@
+{
+  "id": 1209968093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07972,40.54111,20.07972,40.54111",
+    "geom:latitude":40.54111,
+    "geom:longitude":20.07972,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Palec",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865112,
+    "gn:latitude":40.54111,
+    "gn:longitude":20.07972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Palec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paleci",
+        "Palec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865112
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e8d2da05361a60df6e7bf4f7c7d55a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720891,
+            "locality_id":1209968093,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1209968093,
+    "wof:lastmodified":1537584150,
+    "wof:name":"Palec",
+    "wof:parent_id":1108720891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07972,
+    40.54111,
+    20.07972,
+    40.54111
+],
+  "geometry": {"coordinates":[20.07972,40.54111],"type":"Point"}
+}

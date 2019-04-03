@@ -1,0 +1,77 @@
+{
+  "id": 1326861079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54556,41.35417,19.54556,41.35417",
+    "geom:latitude":41.35417,
+    "geom:longitude":19.54556,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sallmonaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184221,
+    "gn:latitude":41.35417,
+    "gn:longitude":19.54556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sallmonaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shalmoni",
+        "Salmana",
+        "Saljmanaj",
+        "Salmanaj",
+        "Shalmonia",
+        "Sallmone",
+        "Sallmonaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667783,
+        1108720905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184221
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"1c42735cfe326ceda95321a1b323ec3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720905,
+            "locality_id":1326861079,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":1326861079,
+    "wof:lastmodified":1537584192,
+    "wof:name":"Sallmonaj",
+    "wof:parent_id":1108720905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54556,
+    41.35417,
+    19.54556,
+    41.35417
+],
+  "geometry": {"coordinates":[19.54556,41.35417],"type":"Point"}
+}

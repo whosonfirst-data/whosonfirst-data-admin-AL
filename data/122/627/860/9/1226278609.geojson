@@ -1,0 +1,79 @@
+{
+  "id": 1226278609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21194,41.28472,20.21194,41.28472",
+    "geom:latitude":41.28472,
+    "geom:longitude":20.21194,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Orenje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":782140,
+    "gn:latitude":41.28472,
+    "gn:longitude":20.21194,
+    "gn:modification_date":"2012-06-01",
+    "gn:name":"Orenj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0435\u045a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Orhenj\u00eb",
+        "Oreja",
+        "Orhenja",
+        "Orenja",
+        "Orenj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782140
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0fc5e65f24eaa8072a419d31cc1d75e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1226278609,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226278609,
+    "wof:lastmodified":1537584041,
+    "wof:name":"Orenje",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21194,
+    41.28472,
+    20.21194,
+    41.28472
+],
+  "geometry": {"coordinates":[20.21194,41.28472],"type":"Point"}
+}

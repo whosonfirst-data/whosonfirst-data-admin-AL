@@ -1,0 +1,73 @@
+{
+  "id": 1310537749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16361,40.15694,20.16361,40.15694",
+    "geom:latitude":40.15694,
+    "geom:longitude":20.16361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Erind",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783261,
+    "gn:latitude":40.15694,
+    "gn:longitude":20.16361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Erind",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erindi",
+        "Erind"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783261,
+        "wk:page":"Erind"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"68c5ecbf0be3d9d746694129355f55d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1310537749,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1310537749,
+    "wof:lastmodified":1537584110,
+    "wof:name":"Erind",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16361,
+    40.15694000000001,
+    20.16361,
+    40.15694000000001
+],
+  "geometry": {"coordinates":[20.16361,40.15694000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326464301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78306,40.93278,19.78306,40.93278",
+    "geom:latitude":40.93278,
+    "geom:longitude":19.78306,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Zgjane",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183635,
+    "gn:latitude":40.93278,
+    "gn:longitude":19.78306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zgjan\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgjana",
+        "Z\u0111ane",
+        "Zgjan",
+        "Zgjan\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183635
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d2bbfa473e98293da833222f1395abb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1326464301,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1326464301,
+    "wof:lastmodified":1537584158,
+    "wof:name":"Zgjane",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78306,
+    40.93278,
+    19.78306,
+    40.93278
+],
+  "geometry": {"coordinates":[19.78306,40.93278],"type":"Point"}
+}

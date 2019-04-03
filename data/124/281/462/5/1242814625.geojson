@@ -1,0 +1,72 @@
+{
+  "id": 1242814625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56306,40.39833,19.56306,40.39833",
+    "geom:latitude":40.39833,
+    "geom:longitude":19.56306,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Millone",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184704,
+    "gn:latitude":40.39833,
+    "gn:longitude":19.56306,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Millon\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milona",
+        "Miljona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184704
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0c92f829f8c33c108892b55827953ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1242814625,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1242814625,
+    "wof:lastmodified":1537584225,
+    "wof:name":"Millone",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56306,
+    40.39833,
+    19.56306,
+    40.39833
+],
+  "geometry": {"coordinates":[19.56306,40.39833],"type":"Point"}
+}

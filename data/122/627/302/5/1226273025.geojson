@@ -1,0 +1,77 @@
+{
+  "id": 1226273025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19611,39.82194,20.19611,39.82194",
+    "geom:latitude":39.82194,
+    "geom:longitude":20.19611,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Shendre",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363235,
+    "gn:latitude":39.82194,
+    "gn:longitude":20.19611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00ebndre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajios Andreas",
+        "Shen Ndreu",
+        "Andrea",
+        "Sh\u00ebn\u00ebndreca",
+        "Sh\u00ebndreu",
+        "Sh\u00ebn Ndre",
+        "Sh\u00ebndre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363235
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a17b0af234b62994befbe77435bda516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":1226273025,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1226273025,
+    "wof:lastmodified":1537583956,
+    "wof:name":"Shendre",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19611,
+    39.82194000000001,
+    20.19611,
+    39.82194000000001
+],
+  "geometry": {"coordinates":[20.19611,39.82194000000001],"type":"Point"}
+}

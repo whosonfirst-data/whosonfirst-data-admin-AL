@@ -1,0 +1,78 @@
+{
+  "id": 1226478561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46972,40.84667,19.46972,40.84667",
+    "geom:latitude":40.84667,
+    "geom:longitude":19.46972,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Hasturkas",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185391,
+    "gn:latitude":40.84667,
+    "gn:longitude":19.46972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hasturkas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasturkaj",
+        "Hasturkani",
+        "Hastriku",
+        "Hasturk",
+        "Hasturkasi",
+        "Hasturkan",
+        "Hasturkuj",
+        "Hasturkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185391
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4ddfd4692c31b982d12967475baa286a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":1226478561,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1226478561,
+    "wof:lastmodified":1537584267,
+    "wof:name":"Hasturkas",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46972,
+    40.84667,
+    19.46972,
+    40.84667
+],
+  "geometry": {"coordinates":[19.46972,40.84667],"type":"Point"}
+}

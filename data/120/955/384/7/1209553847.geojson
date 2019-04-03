@@ -1,0 +1,73 @@
+{
+  "id": 1209553847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28028,40.68972,20.28028,40.68972",
+    "geom:latitude":40.68972,
+    "geom:longitude":20.28028,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Corrotat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783405,
+    "gn:latitude":40.68972,
+    "gn:longitude":20.28028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00c7orrotat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7orrotati",
+        "\u00c7orati",
+        "\u00c7orotati",
+        "\u00c7errotat",
+        "\u00c7orotat",
+        "Gorotati",
+        "Gorotat",
+        "\u00c7orrotat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783405,
+        "wk:page":"%C3%87orrotat"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"350d3a2f73a7c06393413a6e2cc238ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209553847
+        }
+    ],
+    "wof:id":1209553847,
+    "wof:lastmodified":1537584118,
+    "wof:name":"Corrotat",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28028,
+    40.68972,
+    20.28028,
+    40.68972
+],
+  "geometry": {"coordinates":[20.28028,40.68972],"type":"Point"}
+}

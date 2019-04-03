@@ -1,0 +1,74 @@
+{
+  "id": 1226676947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08472,41.66694,20.08472,41.66694",
+    "geom:latitude":41.66694,
+    "geom:longitude":20.08472,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Shqefen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781636,
+    "gn:latitude":41.66694,
+    "gn:longitude":20.08472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shqef\u00ebn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shtjefen",
+        "Shq\u00ebfeni",
+        "Shqefni",
+        "Shqef\u00ebn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421202751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781636
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"96c2d9530c0e952df2a0e7d90150aede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421202751,
+            "locality_id":1226676947,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1226676947,
+    "wof:lastmodified":1537584007,
+    "wof:name":"Shqefen",
+    "wof:parent_id":421202751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08472,
+    41.66694,
+    20.08472,
+    41.66694
+],
+  "geometry": {"coordinates":[20.08472,41.66694],"type":"Point"}
+}

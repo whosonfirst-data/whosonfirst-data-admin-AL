@@ -1,0 +1,68 @@
+{
+  "id": 1259989959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69043,40.29508,20.69043,40.29508",
+    "geom:latitude":40.29508,
+    "geom:longitude":20.69043,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Teqe e Dervish Elmazit, Gjonc",
+    "gn:country_code":"AL",
+    "gn:dem":1243,
+    "gn:elevation":"1260.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9256469,
+    "gn:latitude":40.29508,
+    "gn:longitude":20.69043,
+    "gn:modification_date":"2014-07-29",
+    "gn:name":"Teqe e Dervish Elmazit, Gjon\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256469
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a9bc814435ba0cb0d8ed9a0babbe7702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1259989959,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259989959,
+    "wof:lastmodified":1536623754,
+    "wof:name":"Teqe e Dervish Elmazit, Gjonc",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69043,
+    40.29508,
+    20.69043,
+    40.29508
+],
+  "geometry": {"coordinates":[20.69043,40.29508],"type":"Point"}
+}

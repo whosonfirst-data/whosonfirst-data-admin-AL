@@ -1,0 +1,78 @@
+{
+  "id": 1242808979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70778,41.65583,19.70778,41.65583",
+    "geom:latitude":41.65583,
+    "geom:longitude":19.70778,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Shullaz",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184030,
+    "gn:latitude":41.65583,
+    "gn:longitude":19.70778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shullaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kod\u00ebr Shullazi",
+        "\u0160ulaz",
+        "Shullazi",
+        "Scholaz",
+        "Shullas",
+        "Shulla",
+        "Shlasu",
+        "Shullaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667829,
+        421181321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184030
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9a9c6231b8e33845a41640f967622507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421181321,
+            "locality_id":1242808979,
+            "region_id":85667829
+        }
+    ],
+    "wof:id":1242808979,
+    "wof:lastmodified":1537584180,
+    "wof:name":"Shullaz",
+    "wof:parent_id":421181321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70778,
+    41.65583,
+    19.70778,
+    41.65583
+],
+  "geometry": {"coordinates":[19.70778,41.65583],"type":"Point"}
+}

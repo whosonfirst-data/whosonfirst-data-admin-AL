@@ -1,0 +1,73 @@
+{
+  "id": 1243297505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.58111,40.44694,19.58111,40.44694",
+    "geom:latitude":40.44694,
+    "geom:longitude":19.58111,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Drashovice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3185771,
+    "gn:latitude":40.44694,
+    "gn:longitude":19.58111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Drashovic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drascioviza",
+        "Drashovica",
+        "Drashovic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185771
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a12e09c52c4b80447cac84694d75b854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":1243297505,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":1243297505,
+    "wof:lastmodified":1537584292,
+    "wof:name":"Drashovice",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.58111,
+    40.44694000000001,
+    19.58111,
+    40.44694000000001
+],
+  "geometry": {"coordinates":[19.58111,40.44694000000001],"type":"Point"}
+}

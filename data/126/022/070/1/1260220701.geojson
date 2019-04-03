@@ -1,0 +1,76 @@
+{
+  "id": 1260220701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65611,40.88944,20.65611,40.88944",
+    "geom:latitude":40.88944,
+    "geom:longitude":20.65611,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Verdove",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781262,
+    "gn:latitude":40.88944,
+    "gn:longitude":20.65611,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"V\u00ebrdov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Verdova",
+        "V\u00ebrtov\u00eb",
+        "V\u00ebrdov\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781262
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"2daa7ca3202fcad41ae4d3ac2de62adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1260220701,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1260220701,
+    "wof:lastmodified":1537583983,
+    "wof:name":"Verdove",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65611,
+    40.88944,
+    20.65611,
+    40.88944
+],
+  "geometry": {"coordinates":[20.65611,40.88944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293329731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20139,40.09972,20.20139,40.09972",
+    "geom:latitude":40.09972,
+    "geom:longitude":20.20139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Krine",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782691,
+    "gn:latitude":40.09972,
+    "gn:longitude":20.20139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Krin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crina",
+        "Krina",
+        "Krin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782691
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"5cdfb55b3a062f0fb40bc3c0fbbe52cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1293329731,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1293329731,
+    "wof:lastmodified":1537584072,
+    "wof:name":"Krine",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20139,
+    40.09972,
+    20.20139,
+    40.09972
+],
+  "geometry": {"coordinates":[20.20139,40.09972],"type":"Point"}
+}

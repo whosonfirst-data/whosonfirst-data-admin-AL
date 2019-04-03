@@ -1,0 +1,73 @@
+{
+  "id": 1276263345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.645,40.54,20.645,40.54",
+    "geom:latitude":40.54,
+    "geom:longitude":20.645,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gjanc",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783174,
+    "gn:latitude":40.54,
+    "gn:longitude":20.645,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjan\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gjan\u00e7i",
+        "Gjan\u00e7\u00eb",
+        "Gjan\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783174
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a1421fa193895460faee2e4a00f7cd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1276263345,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276263345,
+    "wof:lastmodified":1537584104,
+    "wof:name":"Gjanc",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.645,
+    40.54,
+    20.645,
+    40.54
+],
+  "geometry": {"coordinates":[20.645,40.54],"type":"Point"}
+}

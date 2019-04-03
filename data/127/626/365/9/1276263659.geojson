@@ -1,0 +1,77 @@
+{
+  "id": 1276263659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19972,40.1175,20.19972,40.1175",
+    "geom:latitude":40.1175,
+    "geom:longitude":20.19972,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Qestorat",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":781877,
+    "gn:latitude":40.1175,
+    "gn:longitude":20.19972,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Qestorat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiesarat",
+        "Khiesarat",
+        "Qesarat",
+        "Qestorati",
+        "Qestorat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421187729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781877,
+        "wk:page":"Qestorat"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"99ef2f8dae2277102e2a147147a21ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187729,
+            "locality_id":1276263659,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276263659,
+    "wof:lastmodified":1537584023,
+    "wof:name":"Qestorat",
+    "wof:parent_id":421187729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19972000000001,
+    40.1175,
+    20.19972000000001,
+    40.1175
+],
+  "geometry": {"coordinates":[20.19972000000001,40.1175],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276373841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58583,40.43861,20.58583,40.43861",
+    "geom:latitude":40.43861,
+    "geom:longitude":20.58583,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Psari i Zi",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781914,
+    "gn:latitude":40.43861,
+    "gn:longitude":20.58583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Psari i Zi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Psarezi",
+        "Psari",
+        "Psar i Zi",
+        "Psari i Zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781914
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"b244810ed8fd579d38bbf9077d6f50d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1276373841,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1276373841,
+    "wof:lastmodified":1537584026,
+    "wof:name":"Psari i Zi",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58583,
+    40.43861,
+    20.58583,
+    40.43861
+],
+  "geometry": {"coordinates":[20.58583,40.43861],"type":"Point"}
+}

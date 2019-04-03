@@ -1,0 +1,74 @@
+{
+  "id": 1360321509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38806,41.58972,20.38806,41.58972",
+    "geom:latitude":41.58972,
+    "geom:longitude":20.38806,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Stushaj",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781488,
+    "gn:latitude":41.58972,
+    "gn:longitude":20.38806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stushaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shtushaj",
+        "Shotshan",
+        "Shtoshan",
+        "Stushaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781488
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"0087791b74aeb49324ee600aa040c133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1360321509,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1360321509,
+    "wof:lastmodified":1537583997,
+    "wof:name":"Stushaj",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38806,
+    41.58972,
+    20.38806,
+    41.58972
+],
+  "geometry": {"coordinates":[20.38806,41.58972],"type":"Point"}
+}

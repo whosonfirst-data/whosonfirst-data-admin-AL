@@ -1,0 +1,72 @@
+{
+  "id": 1243206627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76278,42.19194,19.76278,42.19194",
+    "geom:latitude":42.19194,
+    "geom:longitude":19.76278,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Qershis e Palajt",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205257,
+    "gn:latitude":42.19194,
+    "gn:longitude":19.76278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qershis e Palajt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qershisa e Palajve",
+        "Qershis e Palajt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205257
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"477c497098175d10dc58cd4ac1b7cd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1243206627,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1243206627,
+    "wof:lastmodified":1537584326,
+    "wof:name":"Qershis e Palajt",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76278,
+    42.19194,
+    19.76278,
+    42.19194
+],
+  "geometry": {"coordinates":[19.76278,42.19194],"type":"Point"}
+}

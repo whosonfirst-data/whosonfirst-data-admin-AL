@@ -1,0 +1,76 @@
+{
+  "id": 1309748023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86694,41.30556,19.86694,41.30556",
+    "geom:latitude":41.30556,
+    "geom:longitude":19.86694,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Farka e Madhe",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185689,
+    "gn:latitude":41.30556,
+    "gn:longitude":19.86694,
+    "gn:modification_date":"2012-06-13",
+    "gn:name":"Farka e Madhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fark\u00eb e Madhe",
+        "Fark\u00eb",
+        "Farka",
+        "Farka e Madhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185689,
+        "wk:page":"Fark%C3%AB_e_Madhe"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e8e29f940fce81ad7a5f4a5abda23ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1309748023,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1309748023,
+    "wof:lastmodified":1537584288,
+    "wof:name":"Farka e Madhe",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86694,
+    41.30556,
+    19.86694,
+    41.30556
+],
+  "geometry": {"coordinates":[19.86694,41.30556],"type":"Point"}
+}

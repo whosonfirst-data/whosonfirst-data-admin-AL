@@ -1,0 +1,77 @@
+{
+  "id": 1310137183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27833,41.7625,20.27833,41.7625",
+    "geom:latitude":41.7625,
+    "geom:longitude":20.27833,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Gryke-Noke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783033,
+    "gn:latitude":41.7625,
+    "gn:longitude":20.27833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gryk\u00eb-Nok\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gryka-e Ndokes",
+        "Gryk\u00eb-Ndokaj",
+        "Gryk\u2019 e Ndokajt",
+        "Gryk\u00eb-Noka",
+        "Gryka Noks",
+        "Gryke Nokaj",
+        "Gryk\u00eb-Nok\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421169685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783033
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cb8ac070b6e3376406953c2f84996a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421169685,
+            "locality_id":1310137183,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1310137183,
+    "wof:lastmodified":1537584095,
+    "wof:name":"Gryke-Noke",
+    "wof:parent_id":421169685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27833,
+    41.7625,
+    20.27833,
+    41.7625
+],
+  "geometry": {"coordinates":[20.27833,41.7625],"type":"Point"}
+}

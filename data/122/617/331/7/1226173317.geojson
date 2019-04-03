@@ -1,0 +1,67 @@
+{
+  "id": 1226173317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53333,40.93333,20.53333,40.93333",
+    "geom:latitude":40.93333,
+    "geom:longitude":20.53333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Krickove",
+    "gn:country_code":"AL",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782693,
+    "gn:latitude":40.93333,
+    "gn:longitude":20.53333,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Kri\u00e7kov\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782693
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"cac02b0e76af650ecc509802b3778eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1226173317,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1226173317,
+    "wof:lastmodified":1537036452,
+    "wof:name":"Krickove",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53333,
+    40.93333,
+    20.53333,
+    40.93333
+],
+  "geometry": {"coordinates":[20.53333,40.93333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309842209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20111,40.84833,20.20111,40.84833",
+    "geom:latitude":40.84833,
+    "geom:longitude":20.20111,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Cekreze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865027,
+    "gn:latitude":40.84833,
+    "gn:longitude":20.20111,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u00c7ekrez\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cekreza",
+        "\u00c7ekrez\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865027
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"01c0d58c84a1fcce65583dcbb1820957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1309842209,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1309842209,
+    "wof:lastmodified":1537584147,
+    "wof:name":"Cekreze",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20111,
+    40.84833,
+    20.20111,
+    40.84833
+],
+  "geometry": {"coordinates":[20.20111,40.84833],"type":"Point"}
+}

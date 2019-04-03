@@ -1,0 +1,79 @@
+{
+  "id": 1259617773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52417,40.22472,20.52417,40.22472",
+    "geom:latitude":40.22472,
+    "geom:longitude":20.52417,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gjirakare",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783167,
+    "gn:latitude":40.22472,
+    "gn:longitude":20.52417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gjirakar\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zirakara",
+        "Gjinakare",
+        "Gjerakara",
+        "Gjerekar\u00eb",
+        "Gjirokar\u00eb",
+        "Gjierakare",
+        "Gjirokara",
+        "Gjerakar\u00eb",
+        "Gjirakar\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421193597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783167
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"668b89943c4207a5e1dad3b875f2d675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193597,
+            "locality_id":1259617773,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1259617773,
+    "wof:lastmodified":1537584104,
+    "wof:name":"Gjirakare",
+    "wof:parent_id":421193597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52417,
+    40.22472,
+    20.52417,
+    40.22472
+],
+  "geometry": {"coordinates":[20.52417,40.22472],"type":"Point"}
+}

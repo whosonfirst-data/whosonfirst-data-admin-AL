@@ -1,0 +1,78 @@
+{
+  "id": 1276580879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10139,40.42889,20.10139,40.42889",
+    "geom:latitude":40.42889,
+    "geom:longitude":20.10139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Komarak",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782770,
+    "gn:latitude":40.42889,
+    "gn:longitude":20.10139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Komarak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spi Comarate",
+        "Komar\u00eb",
+        "Kumaraka",
+        "Kumarak\u00eb",
+        "Komar",
+        "Komaraku",
+        "Komaraka",
+        "Komarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782770
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"bb44a8f49c59a1d76dae7cbc371febc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1276580879,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1276580879,
+    "wof:lastmodified":1537584077,
+    "wof:name":"Komarak",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10139,
+    40.42889,
+    20.10139,
+    40.42889
+],
+  "geometry": {"coordinates":[20.10139,40.42889],"type":"Point"}
+}

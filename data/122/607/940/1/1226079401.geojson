@@ -1,0 +1,72 @@
+{
+  "id": 1226079401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12278,40.9375,20.12278,40.9375",
+    "geom:latitude":40.9375,
+    "geom:longitude":20.12278,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Shtraze",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781620,
+    "gn:latitude":40.9375,
+    "gn:longitude":20.12278,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Shtraz\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strad\u00ebs",
+        "Stad\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421191637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781620
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"85b3ba183f5b9706f45b5a3db0fb63fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421191637,
+            "locality_id":1226079401,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1226079401,
+    "wof:lastmodified":1537584005,
+    "wof:name":"Shtraze",
+    "wof:parent_id":421191637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12278,
+    40.9375,
+    20.12278,
+    40.9375
+],
+  "geometry": {"coordinates":[20.12278,40.9375],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421171635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0,41.93333,20.0,41.93333",
+    "geom:latitude":41.93333,
+    "geom:longitude":20.0,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":782323,
+    "qs:gn_pop":0,
+    "qs:name":"Mekth e Zall\u00eb",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Shkod\u00ebr",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263479,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":470973,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        421193315,
+        85667793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782323,
+        "gp:id":470973,
+        "qs:id":1263479
+    },
+    "wof:country":"AL",
+    "wof:created":1459008901,
+    "wof:geomhash":"66560bc1c6c14692fda64c61146c111f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193315,
+            "locality_id":-1,
+            "neighbourhood_id":421171635,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":421171635,
+    "wof:lastmodified":1531858366,
+    "wof:name":"Mekth e Zall\u00eb",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0,
+    41.93333,
+    20.0,
+    41.93333
+],
+  "geometry": {"coordinates":[20.0,41.93333],"type":"Point"}
+}

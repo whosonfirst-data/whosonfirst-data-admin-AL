@@ -1,0 +1,67 @@
+{
+  "id": 1209041029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08111,39.80917,20.08111,39.80917",
+    "geom:latitude":39.80917,
+    "geom:longitude":20.08111,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Pllake",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363256,
+    "gn:latitude":39.80917,
+    "gn:longitude":20.08111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pllak\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Memushbej",
+        "Pllaka",
+        "Pllak\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363256
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4c3e936cd1bd93e372867949974b039e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209041029
+        }
+    ],
+    "wof:id":1209041029,
+    "wof:lastmodified":1537583958,
+    "wof:name":"Pllake",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08111,
+    39.80917,
+    20.08111,
+    39.80917
+],
+  "geometry": {"coordinates":[20.08111,39.80917],"type":"Point"}
+}

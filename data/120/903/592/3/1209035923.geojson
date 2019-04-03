@@ -1,0 +1,72 @@
+{
+  "id": 1209035923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42583,41.47472,20.42583,41.47472",
+    "geom:latitude":41.47472,
+    "geom:longitude":20.42583,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Lubalesh",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782469,
+    "gn:latitude":41.47472,
+    "gn:longitude":20.42583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lubalesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pjeloreja",
+        "Lubaleshi",
+        "Lublesha",
+        "Lubelesh",
+        "Lubeleshi",
+        "Lubolesh",
+        "Libolesh",
+        "Lubalesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782469
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"22aad27115c365d2965f6e7671032646",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209035923
+        }
+    ],
+    "wof:id":1209035923,
+    "wof:lastmodified":1537584060,
+    "wof:name":"Lubalesh",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42583,
+    41.47472,
+    20.42583,
+    41.47472
+],
+  "geometry": {"coordinates":[20.42583,41.47472],"type":"Point"}
+}

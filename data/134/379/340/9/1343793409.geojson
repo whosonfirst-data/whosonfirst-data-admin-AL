@@ -1,0 +1,80 @@
+{
+  "id": 1343793409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52444,40.99333,20.52444,40.99333",
+    "geom:latitude":40.99333,
+    "geom:longitude":20.52444,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Selca e Poshtme",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781753,
+    "gn:latitude":40.99333,
+    "gn:longitude":20.52444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Selca e Poshtme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradisht",
+        "Kato Selce",
+        "Selc\u00eb e Posht\u00ebme",
+        "Selc\u00eb e Poshtme",
+        "Selc\u00eb e Posht\u00ebm",
+        "Selca e Poshteme",
+        "Selc e Posht\u00ebme",
+        "Selc\u2019 e Poshtme",
+        "Selca e Poshtme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421178941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781753,
+        "wk:page":"Selc%C3%AB_e_Poshtme"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"563aa894a6112c37a71904ab03f78f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421178941,
+            "locality_id":1343793409,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1343793409,
+    "wof:lastmodified":1537584015,
+    "wof:name":"Selca e Poshtme",
+    "wof:parent_id":421178941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52444,
+    40.99333,
+    20.52444,
+    40.99333
+],
+  "geometry": {"coordinates":[20.52444,40.99333],"type":"Point"}
+}

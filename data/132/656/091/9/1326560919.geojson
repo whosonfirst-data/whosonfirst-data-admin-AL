@@ -1,0 +1,97 @@
+{
+  "id": 1326560919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62472,42.01,19.62472,42.01",
+    "geom:latitude":42.01,
+    "geom:longitude":19.62472,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Vau i Dejes",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3185823,
+    "gn:latitude":42.01,
+    "gn:longitude":19.62472,
+    "gn:modification_date":"2012-06-12",
+    "gn:name":"Vau i Dej\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0443-\u0414\u0435\u044f\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Vau-Deja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0626\u0648 \u062f\u062c\u0633"
+    ],
+    "name:hrv_x_preferred":[
+        "Vau-Dejs"
+    ],
+    "name:ita_x_preferred":[
+        "Vau-Dej\u00ebs"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u045a\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:und_x_variant":[
+        "Dejas",
+        "Vai Dej\u00ebs",
+        "Vau Dej\u00ebs",
+        "Vau i Dej\u00ebs"
+    ],
+    "name:war_x_preferred":[
+        "Vau-Dej\u00ebs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3185823,
+        "wk:page":"Vau_i_Dej%C3%ABs"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"9032d2880c602369be6ad4cba50cbf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720909,
+            "locality_id":1326560919,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326560919,
+    "wof:lastmodified":1537584296,
+    "wof:name":"Vau i Dejes",
+    "wof:parent_id":1108720909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62472,
+    42.01,
+    19.62472,
+    42.01
+],
+  "geometry": {"coordinates":[19.62472,42.01],"type":"Point"}
+}

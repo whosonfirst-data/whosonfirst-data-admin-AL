@@ -1,0 +1,78 @@
+{
+  "id": 1360316819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49556,41.42944,20.49556,41.42944",
+    "geom:latitude":41.42944,
+    "geom:longitude":20.49556,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ostreni i Vogel",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782116,
+    "gn:latitude":41.42944,
+    "gn:longitude":20.49556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ostreni i Vog\u00ebl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostren",
+        "Pljakoni i Vogelj",
+        "Ostren i Voge",
+        "Ostrenivogele",
+        "Ostren-i Vogl",
+        "Ostren i Vog\u00ebl",
+        "Ostren-i nogl",
+        "Ostreni i Vog\u00ebl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667821,
+        421190851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782116
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3414ba3d77c3022f5c271d5bb3d9a361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190851,
+            "locality_id":1360316819,
+            "region_id":85667821
+        }
+    ],
+    "wof:id":1360316819,
+    "wof:lastmodified":1537584040,
+    "wof:name":"Ostreni i Vogel",
+    "wof:parent_id":421190851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49556,
+    41.42944,
+    20.49556,
+    41.42944
+],
+  "geometry": {"coordinates":[20.49556,41.42944],"type":"Point"}
+}

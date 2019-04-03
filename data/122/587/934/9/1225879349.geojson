@@ -1,0 +1,75 @@
+{
+  "id": 1225879349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71306,40.64417,20.71306,40.64417",
+    "geom:latitude":40.64417,
+    "geom:longitude":20.71306,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Porodine",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781960,
+    "gn:latitude":40.64417,
+    "gn:longitude":20.71306,
+    "gn:modification_date":"2017-12-24",
+    "gn:name":"Porodin\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u043e\u0434\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Porodina",
+        "Porodin\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667807,
+        421190783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781960
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"618ee67bf9534b5eed676faccc71c09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421190783,
+            "locality_id":1225879349,
+            "region_id":85667807
+        }
+    ],
+    "wof:id":1225879349,
+    "wof:lastmodified":1537584029,
+    "wof:name":"Porodine",
+    "wof:parent_id":421190783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71306,
+    40.64417,
+    20.71306,
+    40.64417
+],
+  "geometry": {"coordinates":[20.71306,40.64417],"type":"Point"}
+}

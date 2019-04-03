@@ -1,0 +1,76 @@
+{
+  "id": 1260013767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53556,40.0975,20.53556,40.0975",
+    "geom:latitude":40.0975,
+    "geom:longitude":20.53556,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Biovizhde",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783604,
+    "gn:latitude":40.0975,
+    "gn:longitude":20.53556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Biovizhd\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biovijoa",
+        "Biovizhda",
+        "Biovishte",
+        "Biovjoa",
+        "Biovishd",
+        "Biovizhd\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783604
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"7ee13db0e6715634d21d4129771a5780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1260013767,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1260013767,
+    "wof:lastmodified":1537584133,
+    "wof:name":"Biovizhde",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53556,
+    40.0975,
+    20.53556,
+    40.0975
+],
+  "geometry": {"coordinates":[20.53556,40.0975],"type":"Point"}
+}

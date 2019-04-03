@@ -1,0 +1,80 @@
+{
+  "id": 1277106261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17139,40.35444,20.17139,40.35444",
+    "geom:latitude":40.35444,
+    "geom:longitude":20.17139,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gorice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783102,
+    "gn:latitude":40.35444,
+    "gn:longitude":20.17139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goric\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suk\u00eb-Goric\u00eb",
+        "Gorriza",
+        "Kuqar",
+        "Gorica",
+        "Suk\u00eb",
+        "Suca",
+        "Suk\u00eb-Gorica",
+        "Suka Gorica",
+        "Suk-Goric\u00eb",
+        "Goric\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        1108720873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783102
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"3dbea4663ec3c6b6637033ad73d92bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720873,
+            "locality_id":1277106261,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1277106261,
+    "wof:lastmodified":1537584099,
+    "wof:name":"Gorice",
+    "wof:parent_id":1108720873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17139,
+    40.35444,
+    20.17139,
+    40.35444
+],
+  "geometry": {"coordinates":[20.17139,40.35444],"type":"Point"}
+}

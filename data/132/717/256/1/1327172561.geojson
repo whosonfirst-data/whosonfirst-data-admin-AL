@@ -1,0 +1,74 @@
+{
+  "id": 1327172561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80056,40.74028,19.80056,40.74028",
+    "geom:latitude":40.74028,
+    "geom:longitude":19.80056,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Slanice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3183998,
+    "gn:latitude":40.74028,
+    "gn:longitude":19.80056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Slanic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sllanice",
+        "Slanica",
+        "Slanic\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3183998,
+        "wk:page":"Slanice"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"324d518feb47164f43694b02692312c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":1327172561,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1327172561,
+    "wof:lastmodified":1537584178,
+    "wof:name":"Slanice",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80056,
+    40.74028,
+    19.80056,
+    40.74028
+],
+  "geometry": {"coordinates":[19.80056,40.74028],"type":"Point"}
+}

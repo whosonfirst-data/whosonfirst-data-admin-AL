@@ -1,0 +1,71 @@
+{
+  "id": 1243207957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31667,41.28333,20.31667,41.28333",
+    "geom:latitude":41.28333,
+    "geom:longitude":20.31667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dranovice",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783302,
+    "gn:latitude":41.28333,
+    "gn:longitude":20.31667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dranovic\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dranovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783302
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"56bd700a1dd528f4b9fddee79d7c4535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1243207957,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1243207957,
+    "wof:lastmodified":1537584112,
+    "wof:name":"Dranovice",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31667,
+    41.28333,
+    20.31667,
+    41.28333
+],
+  "geometry": {"coordinates":[20.31667,41.28333],"type":"Point"}
+}

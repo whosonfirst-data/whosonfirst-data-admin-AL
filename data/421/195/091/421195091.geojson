@@ -1,0 +1,104 @@
+{
+  "id": 421195091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89111,40.01444,19.89111,40.01444",
+    "geom:latitude":40.01444,
+    "geom:longitude":19.89111,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Piqeras"
+    ],
+    "name:dut_x_preferred":[
+        "Piqeras"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03ba\u03ad\u03c1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Piqeras"
+    ],
+    "name:ger_x_preferred":[
+        "Piqeras"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b9\u03ba\u03ad\u03c1\u03bd\u03b7"
+    ],
+    "name:sqi_x_preferred":[
+        "Piqeras"
+    ],
+    "name:unk_x_variant":[
+        "Bitserni"
+    ],
+    "qs:gn_country":"AL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3184455,
+    "qs:gn_pop":0,
+    "qs:name":"Piqeras",
+    "qs:name_adm0":"Shqip\u00ebri",
+    "qs:name_adm1":"Vlor\u00eb",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":211212,
+    "qs:woe_adm0":23424742,
+    "qs:woe_id":471369,
+    "src:geom":"quattroshapes",
+    "wd:latitude":40.016389,
+    "wd:longitude":19.8925,
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667801,
+        1108720861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184455,
+        "gp:id":471369,
+        "qs:id":211212,
+        "wd:id":"Q13044227"
+    },
+    "wof:country":"AL",
+    "wof:created":1459009831,
+    "wof:geomhash":"18254807e7e1510a47e031f811616f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720861,
+            "locality_id":421195091,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":421195091,
+    "wof:lastmodified":1527716119,
+    "wof:name":"Piqeras",
+    "wof:parent_id":1108720861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89111,
+    40.01444,
+    19.89111,
+    40.01444
+],
+  "geometry": {"coordinates":[19.89111,40.01444],"type":"Point"}
+}

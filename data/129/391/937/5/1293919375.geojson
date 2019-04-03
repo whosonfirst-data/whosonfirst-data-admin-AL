@@ -1,0 +1,75 @@
+{
+  "id": 1293919375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.645,42.22278,19.645,42.22278",
+    "geom:latitude":42.22278,
+    "geom:longitude":19.645,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Pergjen",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184492,
+    "gn:latitude":42.22278,
+    "gn:longitude":19.645,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pergjen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suma",
+        "Pergjon",
+        "Pergjan",
+        "Pergjoni",
+        "Pergjen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184492
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4c0a098f4668aac5a5c4208449dc3b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":1293919375,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1293919375,
+    "wof:lastmodified":1537584212,
+    "wof:name":"Pergjen",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.645,
+    42.22278,
+    19.645,
+    42.22278
+],
+  "geometry": {"coordinates":[19.645,42.22278],"type":"Point"}
+}

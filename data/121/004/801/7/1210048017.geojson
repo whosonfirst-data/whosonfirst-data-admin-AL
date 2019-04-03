@@ -1,0 +1,67 @@
+{
+  "id": 1210048017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52167,42.19194,19.52167,42.19194",
+    "geom:latitude":42.19194,
+    "geom:longitude":19.52167,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kcar",
+    "gn:country_code":"AL",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205142,
+    "gn:latitude":42.19194,
+    "gn:longitude":19.52167,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Kcar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205142
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f34bcf7a30c53d120c95dc5ba70ba519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720883,
+            "locality_id":1210048017,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1210048017,
+    "wof:lastmodified":1536376770,
+    "wof:name":"Kcar",
+    "wof:parent_id":1108720883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52167,
+    42.19194,
+    19.52167,
+    42.19194
+],
+  "geometry": {"coordinates":[19.52167,42.19194],"type":"Point"}
+}

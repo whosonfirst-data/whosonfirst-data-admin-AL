@@ -1,0 +1,71 @@
+{
+  "id": 1209651821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.10583,41.64639,20.10583,41.64639",
+    "geom:latitude":41.64639,
+    "geom:longitude":20.10583,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Shelli",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":781703,
+    "gn:latitude":41.64639,
+    "gn:longitude":20.10583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u00eblli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scili",
+        "Shlliu",
+        "Shlli",
+        "Shllin",
+        "Shillij\u00eb",
+        "Sh\u00eblliu",
+        "Sh\u00eblli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":781703
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"adb765c0f0f824d32413c14438475c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209651821
+        }
+    ],
+    "wof:id":1209651821,
+    "wof:lastmodified":1537584011,
+    "wof:name":"Shelli",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.10583,
+    41.64639,
+    20.10583,
+    41.64639
+],
+  "geometry": {"coordinates":[20.10583,41.64639],"type":"Point"}
+}

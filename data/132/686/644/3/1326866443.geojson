@@ -1,0 +1,67 @@
+{
+  "id": 1326866443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04056,42.24861,20.04056,42.24861",
+    "geom:latitude":42.24861,
+    "geom:longitude":20.04056,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Grope",
+    "gn:country_code":"AL",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864606,
+    "gn:latitude":42.24861,
+    "gn:longitude":20.04056,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Grop\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667793,
+        1108720859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864606
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a3e2242a954dcbf4a6a4caeedef0de76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720859,
+            "locality_id":1326866443,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":1326866443,
+    "wof:lastmodified":1536998650,
+    "wof:name":"Grope",
+    "wof:parent_id":1108720859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04056,
+    42.24861,
+    20.04056,
+    42.24861
+],
+  "geometry": {"coordinates":[20.04056,42.24861],"type":"Point"}
+}

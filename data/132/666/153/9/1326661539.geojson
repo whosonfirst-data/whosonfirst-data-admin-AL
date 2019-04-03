@@ -1,0 +1,73 @@
+{
+  "id": 1326661539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72333,40.86556,19.72333,40.86556",
+    "geom:latitude":40.86556,
+    "geom:longitude":19.72333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Lifaj i Vjeter",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3184926,
+    "gn:latitude":40.86556,
+    "gn:longitude":19.72333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lifaj i Vjet\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lifan i Vjet\u00ebr",
+        "Liftani i Vjet\u00ebr",
+        "Lifaj i Vjet\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421184543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184926
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8105a18d099fc90a387c87eb2591fd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421184543,
+            "locality_id":1326661539,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":1326661539,
+    "wof:lastmodified":1537584239,
+    "wof:name":"Lifaj i Vjeter",
+    "wof:parent_id":421184543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72333,
+    40.86556,
+    19.72333,
+    40.86556
+],
+  "geometry": {"coordinates":[19.72333,40.86556],"type":"Point"}
+}

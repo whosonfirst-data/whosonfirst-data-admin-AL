@@ -1,0 +1,78 @@
+{
+  "id": 1327462825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36333,41.18111,20.36333,41.18111",
+    "geom:latitude":41.18111,
+    "geom:longitude":20.36333,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dragostunje",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783310,
+    "gn:latitude":41.18111,
+    "gn:longitude":20.36333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dragostunj\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melj\u0107iza",
+        "Dragoshtunja",
+        "Dragostunja",
+        "Dragostun",
+        "Dragoshtunj",
+        "Dragostunj",
+        "Dragostuja",
+        "Dragostunj\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        421199463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783310
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"f4ffb22adb1f7d634f4e4e756cf1bb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421199463,
+            "locality_id":1327462825,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1327462825,
+    "wof:lastmodified":1537584113,
+    "wof:name":"Dragostunje",
+    "wof:parent_id":421199463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36333,
+    41.18111,
+    20.36333,
+    41.18111
+],
+  "geometry": {"coordinates":[20.36333,41.18111],"type":"Point"}
+}

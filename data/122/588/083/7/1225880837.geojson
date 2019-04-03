@@ -1,0 +1,67 @@
+{
+  "id": 1225880837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51583,41.06194,20.51583,41.06194",
+    "geom:latitude":41.06194,
+    "geom:longitude":20.51583,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Plishtes",
+    "gn:country_code":"AL",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864998,
+    "gn:latitude":41.06194,
+    "gn:longitude":20.51583,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Plisht\u00ebs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667815,
+        1108720893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864998
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"38e59baa30306f21403d9b1a60e1604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720893,
+            "locality_id":1225880837,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":1225880837,
+    "wof:lastmodified":1536962845,
+    "wof:name":"Plishtes",
+    "wof:parent_id":1108720893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51583,
+    41.06194,
+    20.51583,
+    41.06194
+],
+  "geometry": {"coordinates":[20.51583,41.06194],"type":"Point"}
+}

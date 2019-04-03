@@ -1,0 +1,67 @@
+{
+  "id": 1209546831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38167,41.79333,20.38167,41.79333",
+    "geom:latitude":41.79333,
+    "geom:longitude":20.38167,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Palaman",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782103,
+    "gn:latitude":41.79333,
+    "gn:longitude":20.38167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Palaman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palamani",
+        "Palamat",
+        "Palaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782103
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"a976fcf04ae0efbb3930019a2c11a4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632405,
+            "locality_id":1209546831
+        }
+    ],
+    "wof:id":1209546831,
+    "wof:lastmodified":1537584039,
+    "wof:name":"Palaman",
+    "wof:parent_id":85632405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38167,
+    41.79333,
+    20.38167,
+    41.79333
+],
+  "geometry": {"coordinates":[20.38167,41.79333],"type":"Point"}
+}

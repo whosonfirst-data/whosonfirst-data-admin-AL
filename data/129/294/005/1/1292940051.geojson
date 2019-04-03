@@ -1,0 +1,74 @@
+{
+  "id": 1292940051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01972,41.26917,20.01972,41.26917",
+    "geom:latitude":41.26917,
+    "geom:longitude":20.01972,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kllojke",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":782812,
+    "gn:latitude":41.26917,
+    "gn:longitude":20.01972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kllojk\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kllojka",
+        "Kudhojk\u00ebs",
+        "Kllojk\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        1108803089,
+        421182353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":782812,
+        "wk:page":"Kllojk%C3%AB"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e7e04a13cbf69d61b6b8ea86ef1788fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":1292940051,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":1292940051,
+    "wof:lastmodified":1537584080,
+    "wof:name":"Kllojke",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01972,
+    41.26917,
+    20.01972,
+    41.26917
+],
+  "geometry": {"coordinates":[20.01972,41.26917],"type":"Point"}
+}

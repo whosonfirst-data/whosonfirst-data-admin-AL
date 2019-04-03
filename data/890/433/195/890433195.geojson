@@ -1,0 +1,72 @@
+{
+  "id": 890433195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65083,40.64278,19.65083,40.64278",
+    "geom:latitude":40.64278,
+    "geom:longitude":19.65083,
+    "gn:country":"AL",
+    "gn:fcode":"PPL",
+    "gn:pop":22679,
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Patosi Fshat"
+    ],
+    "qs:name":"Patos Fshat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667789,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184517,
+        "gp:id":471291,
+        "qs:id":279716,
+        "wd:id":"Q7930773",
+        "wk:page":"Villages of Albania"
+    },
+    "wof:country":"AL",
+    "wof:created":1469051970,
+    "wof:geomhash":"f9052b79c046259f9052ae4a44c3e1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":890433195,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":890433195,
+    "wof:lastmodified":1527792951,
+    "wof:name":"Patos Fshat",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:population":22679,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65083,
+    40.64278,
+    19.65083,
+    40.64278
+],
+  "geometry": {"coordinates":[19.65083,40.64278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327484811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86028,40.60528,19.86028,40.60528",
+    "geom:latitude":40.60528,
+    "geom:longitude":19.86028,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sulajt",
+    "gn:country_code":"AL",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344002,
+    "gn:latitude":40.60528,
+    "gn:longitude":19.86028,
+    "gn:modification_date":"2005-03-31",
+    "gn:name":"Sulajt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667811,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344002
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"6a18c566bdf3aa4bef9e3f12d739cb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":1327484811,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":1327484811,
+    "wof:lastmodified":1536601988,
+    "wof:name":"Sulajt",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86028,
+    40.60528,
+    19.86028,
+    40.60528
+],
+  "geometry": {"coordinates":[19.86028,40.60528],"type":"Point"}
+}

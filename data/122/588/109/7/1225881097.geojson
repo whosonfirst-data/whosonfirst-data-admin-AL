@@ -1,0 +1,76 @@
+{
+  "id": 1225881097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42444,40.36889,20.42444,40.36889",
+    "geom:latitude":40.36889,
+    "geom:longitude":20.42444,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Frasher",
+    "gn:cc2":"AL",
+    "gn:country_code":"AL",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":783231,
+    "gn:latitude":40.36889,
+    "gn:longitude":20.42444,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Frash\u00ebr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Tirane",
+    "iso:country":"AL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phrasar\u00eb",
+        "Frasceri",
+        "Frash\u00ebri",
+        "Frash\u00ebr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632405,
+        85667819,
+        421192831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783231,
+        "wk:page":"Frash%C3%ABr"
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"8c6f14a3bdcd048e65ba56895f703644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421192831,
+            "locality_id":1225881097,
+            "region_id":85667819
+        }
+    ],
+    "wof:id":1225881097,
+    "wof:lastmodified":1537584108,
+    "wof:name":"Frasher",
+    "wof:parent_id":421192831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42444,
+    40.36889,
+    20.42444,
+    40.36889
+],
+  "geometry": {"coordinates":[20.42444,40.36889],"type":"Point"}
+}
