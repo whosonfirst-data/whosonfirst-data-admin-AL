@@ -10,6 +10,12 @@
     "geom:latitude":40.132262,
     "geom:longitude":19.797717,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Himar\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.174913,
     "lbl:longitude":19.775892,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720861,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718459,
     "wof:name":"Himar\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

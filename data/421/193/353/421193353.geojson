@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065827,
-    "geom:area_square_m":619736141.764387,
+    "geom:area_square_m":619736141.764392,
     "geom:bbox":"19.262861252,40.1711384115,19.6193084699,40.6647105134",
     "geom:latitude":40.414173,
     "geom:longitude":19.474202,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Vlor\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.253919,
     "lbl:longitude":19.533289,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":421193353,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555037074,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":42.140524,
     "geom:longitude":20.058361,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Fush\u00eb Arr\u00ebs Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":42.140877,
     "lbl:longitude":20.076905,
     "meso:adm1_loc":"Shkod\u00ebr",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720859,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718459,
     "wof:name":"Fush\u00eb Arr\u00ebs",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

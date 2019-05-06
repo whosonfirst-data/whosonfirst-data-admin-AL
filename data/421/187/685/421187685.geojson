@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040725,
-    "geom:area_square_m":381872691.872775,
+    "geom:area_square_m":381872691.872799,
     "geom:bbox":"19.8081838122,40.5176870867,20.1573110212,40.7839313165",
     "geom:latitude":40.68325,
     "geom:longitude":19.954874,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Berat Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.69614,
     "lbl:longitude":19.92847,
     "meso:adm1_loc":"Berat",
@@ -48,6 +54,9 @@
         "Berat"
     ],
     "name:eng_x_preferred":[
+        "Berat"
+    ],
+    "name:eng_x_variant":[
         "Berat District"
     ],
     "name:epo_x_preferred":[
@@ -219,7 +228,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555220346,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

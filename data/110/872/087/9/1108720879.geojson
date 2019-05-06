@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034741,
-    "geom:area_square_m":326385923.755521,
+    "geom:area_square_m":326385923.755494,
     "geom:bbox":"19.65051211,40.4192333631,19.9234899728,40.6638073194",
     "geom:latitude":40.554477,
     "geom:longitude":19.776391,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Mallakast\u00ebr Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.560128,
     "lbl:longitude":19.785694,
     "meso:adm1_loc":"Fier",
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108720879,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1555037331,
     "wof:name":"Mallakast\u00ebr",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

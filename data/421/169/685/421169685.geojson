@@ -10,6 +10,12 @@
     "geom:latitude":41.726662,
     "geom:longitude":20.350991,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Dib\u00ebr Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.717901,
     "lbl:longitude":20.355337,
     "meso:adm1_loc":"Dib\u00ebr",
@@ -267,7 +273,7 @@
         }
     ],
     "wof:id":421169685,
-    "wof:lastmodified":1536615901,
+    "wof:lastmodified":1553717305,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

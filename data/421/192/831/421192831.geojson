@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063716,
-    "geom:area_square_m":601317262.896243,
+    "geom:area_square_m":601317262.896274,
     "geom:bbox":"20.2075144121,40.06349,20.6120336557,40.441306706",
     "geom:latitude":40.250108,
     "geom:longitude":20.405744,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "P\u00ebrmet Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.283551,
     "lbl:longitude":20.385943,
     "meso:adm1_loc":"Gjirokast\u00ebr",
@@ -222,7 +228,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555037077,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

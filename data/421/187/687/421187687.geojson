@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064774,
-    "geom:area_square_m":607051433.746542,
+    "geom:area_square_m":607051433.746595,
     "geom:bbox":"19.308750153,40.5476967865,19.6834561952,40.869216902",
     "geom:latitude":40.718949,
     "geom:longitude":19.515603,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Fier Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.749576,
     "lbl:longitude":19.497083,
     "meso:adm1_loc":"Fier",
@@ -39,6 +45,9 @@
         "Fier"
     ],
     "name:eng_x_preferred":[
+        "Fier"
+    ],
+    "name:eng_x_variant":[
         "Fier District"
     ],
     "name:epo_x_preferred":[
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555220346,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

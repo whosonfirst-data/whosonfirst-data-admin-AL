@@ -10,6 +10,12 @@
     "geom:latitude":41.374569,
     "geom:longitude":19.777585,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kam\u00ebz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.379521,
     "lbl:longitude":19.762047,
     "meso:adm1_loc":"Tiran\u00eb",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720865,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718459,
     "wof:name":"Kam\u00ebz",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

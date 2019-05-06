@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021509,
-    "geom:area_square_m":200162433.688862,
+    "geom:area_square_m":200162433.688902,
     "geom:bbox":"19.436250687,41.0977950756,19.7002633114,41.2702228401",
     "geom:latitude":41.184712,
     "geom:longitude":19.56644,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kavaj\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.192772,
     "lbl:longitude":19.553398,
     "meso:adm1_loc":"Tiran\u00eb",
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":421187447,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555037098,
     "wof:name":"Kavaj\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

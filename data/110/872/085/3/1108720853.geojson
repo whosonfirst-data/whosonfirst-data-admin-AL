@@ -10,6 +10,12 @@
     "geom:latitude":40.953316,
     "geom:longitude":19.547326,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Divjak\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.984048,
     "lbl:longitude":19.567641,
     "meso:adm1_loc":"Fier",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720853,
-    "wof:lastmodified":1536615583,
+    "wof:lastmodified":1553718459,
     "wof:name":"Divjak\u00eb",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

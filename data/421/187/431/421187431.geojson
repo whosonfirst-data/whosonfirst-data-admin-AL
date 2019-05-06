@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036694,
-    "geom:area_square_m":339816769.633955,
+    "geom:area_square_m":339816769.633944,
     "geom:bbox":"19.583901335,41.3999265036,19.9112872821,41.5902857593",
     "geom:latitude":41.501798,
     "geom:longitude":19.747757,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kruj\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.500242,
     "lbl:longitude":19.744642,
     "meso:adm1_loc":"Durr\u00ebs",
@@ -66,6 +72,9 @@
         "\u039a\u03c1\u03bf\u03cd\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Kruj\u00eb"
+    ],
+    "name:eng_x_variant":[
         "Kruj\u00eb District"
     ],
     "name:epo_x_preferred":[
@@ -234,7 +243,7 @@
         }
     ],
     "wof:id":421187431,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555220346,
     "wof:name":"Kruj\u00eb",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

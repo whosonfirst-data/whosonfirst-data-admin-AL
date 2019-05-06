@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091518,
-    "geom:area_square_m":862862520.40519,
+    "geom:area_square_m":862862520.40523,
     "geom:bbox":"20.4423036474,40.0793507285,20.7926485115,40.4991871875",
     "geom:latitude":40.315489,
     "geom:longitude":20.620329,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kolonj\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.335546,
     "lbl:longitude":20.60617,
     "meso:adm1_loc":"Kor\u00e7\u00eb",
@@ -217,7 +223,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555037072,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

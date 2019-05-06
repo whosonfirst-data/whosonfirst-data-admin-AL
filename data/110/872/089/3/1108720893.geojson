@@ -10,6 +10,12 @@
     "geom:latitude":41.063761,
     "geom:longitude":20.460328,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Prrenjas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.065103,
     "lbl:longitude":20.473712,
     "meso:adm1_loc":"Elbasan",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720893,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718460,
     "wof:name":"Prrenjas",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

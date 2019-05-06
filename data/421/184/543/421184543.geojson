@@ -10,6 +10,12 @@
     "geom:latitude":40.909875,
     "geom:longitude":19.708116,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Lushnje Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.930508,
     "lbl:longitude":19.73231,
     "meso:adm1_loc":"Fier",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":421184543,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1553717427,
     "wof:name":"Lushnje",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

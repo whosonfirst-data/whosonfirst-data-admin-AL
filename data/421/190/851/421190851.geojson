@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073389,
-    "geom:area_square_m":680029799.136821,
+    "geom:area_square_m":680029799.136914,
     "geom:bbox":"20.1187012904,41.3158252598,20.561153,41.6190031211",
     "geom:latitude":41.464491,
     "geom:longitude":20.342146,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Bulqiz\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.473962,
     "lbl:longitude":20.323681,
     "meso:adm1_loc":"Dib\u00ebr",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":421190851,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1555037081,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

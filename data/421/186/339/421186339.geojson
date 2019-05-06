@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101219,
-    "geom:area_square_m":930159116.87495,
+    "geom:area_square_m":930159116.874945,
     "geom:bbox":"20.1366385684,41.8158253417,20.625484,42.181315667",
     "geom:latitude":41.997019,
     "geom:longitude":20.400702,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kuk\u00ebs Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.98022,
     "lbl:longitude":20.437707,
     "meso:adm1_loc":"Kuk\u00ebs",
@@ -57,6 +63,9 @@
         "Kuk\u00ebs"
     ],
     "name:eng_x_preferred":[
+        "Kuk\u00ebs"
+    ],
+    "name:eng_x_variant":[
         "Kuk\u00ebs District"
     ],
     "name:epo_x_preferred":[
@@ -258,7 +267,7 @@
         }
     ],
     "wof:id":421186339,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555220346,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

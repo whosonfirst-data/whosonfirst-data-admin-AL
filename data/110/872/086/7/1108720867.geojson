@@ -10,6 +10,12 @@
     "geom:latitude":41.510219,
     "geom:longitude":20.08692,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Klos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.506803,
     "lbl:longitude":20.07396,
     "meso:adm1_loc":"Dib\u00ebr",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720867,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718459,
     "wof:name":"Klos",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

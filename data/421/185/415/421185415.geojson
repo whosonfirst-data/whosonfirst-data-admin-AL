@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093417,
-    "geom:area_square_m":870422198.274186,
+    "geom:area_square_m":870422198.274163,
     "geom:bbox":"19.8680691562,40.9366195654,20.3666296304,41.2825600337",
     "geom:latitude":41.102432,
     "geom:longitude":20.108414,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Elbasan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.124606,
     "lbl:longitude":20.070719,
     "meso:adm1_loc":"Elbasan",
@@ -48,6 +54,9 @@
         "Elbasan"
     ],
     "name:eng_x_preferred":[
+        "Elbasan"
+    ],
+    "name:eng_x_variant":[
         "Elbasan District"
     ],
     "name:epo_x_preferred":[
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":421185415,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555220346,
     "wof:name":"Elbasan",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099156,
-    "geom:area_square_m":908902591.194972,
+    "geom:area_square_m":908902591.194905,
     "geom:bbox":"19.341614078,41.8405400915,19.8474795937,42.4876649034",
     "geom:latitude":42.156856,
     "geom:longitude":19.614811,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Shkod\u00ebr Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":42.241434,
     "lbl:longitude":19.698761,
     "meso:adm1_loc":"Shkod\u00ebr",
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1555037172,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

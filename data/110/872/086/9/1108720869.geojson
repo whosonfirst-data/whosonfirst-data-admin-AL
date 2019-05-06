@@ -10,6 +10,12 @@
     "geom:latitude":39.713292,
     "geom:longitude":20.133398,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Konispol Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":39.702243,
     "lbl:longitude":20.175048,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720869,
-    "wof:lastmodified":1536615584,
+    "wof:lastmodified":1553718459,
     "wof:name":"Konispol",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

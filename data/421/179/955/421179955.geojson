@@ -10,6 +10,12 @@
     "geom:latitude":39.842104,
     "geom:longitude":20.006299,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Sarand\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":39.892534,
     "lbl:longitude":19.996645,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -355,7 +361,7 @@
         }
     ],
     "wof:id":421179955,
-    "wof:lastmodified":1536615965,
+    "wof:lastmodified":1553717374,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

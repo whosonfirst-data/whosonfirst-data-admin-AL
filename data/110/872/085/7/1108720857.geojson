@@ -10,6 +10,12 @@
     "geom:latitude":39.840977,
     "geom:longitude":20.168294,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Finiq Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":39.85057,
     "lbl:longitude":20.153207,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720857,
-    "wof:lastmodified":1536615583,
+    "wof:lastmodified":1553718459,
     "wof:name":"Finiq",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

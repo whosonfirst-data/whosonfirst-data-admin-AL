@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017147,
-    "geom:area_square_m":160465350.999925,
+    "geom:area_square_m":160465350.999941,
     "geom:bbox":"19.8379838354,40.7647172165,20.0895622375,40.8748686154",
     "geom:latitude":40.817158,
     "geom:longitude":19.958074,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Ku\u00e7ov\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.822229,
     "lbl:longitude":19.968209,
     "meso:adm1_loc":"Berat",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":1108720871,
-    "wof:lastmodified":1553816490,
+    "wof:lastmodified":1555037331,
     "wof:name":"Ku\u00e7ov\u00eb",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

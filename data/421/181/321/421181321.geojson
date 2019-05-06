@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02907,
-    "geom:area_square_m":268672630.401752,
+    "geom:area_square_m":268672630.401736,
     "geom:bbox":"19.5612393279,41.556874117,19.8457154878,41.7248357332",
     "geom:latitude":41.630265,
     "geom:longitude":19.714448,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Kurbin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.627872,
     "lbl:longitude":19.716604,
     "meso:adm1_loc":"Lezh\u00eb",
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":421181321,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1555037128,
     "wof:name":"Kurbin",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

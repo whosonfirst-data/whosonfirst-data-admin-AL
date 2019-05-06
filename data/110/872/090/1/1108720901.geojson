@@ -10,6 +10,12 @@
     "geom:latitude":41.09755,
     "geom:longitude":19.594644,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Rrogozhin\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.108735,
     "lbl:longitude":19.632807,
     "meso:adm1_loc":"Tiran\u00eb",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720901,
-    "wof:lastmodified":1536615585,
+    "wof:lastmodified":1553718461,
     "wof:name":"Rrogozhin\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

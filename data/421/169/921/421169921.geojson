@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055844,
-    "geom:area_square_m":514533869.179764,
+    "geom:area_square_m":514533869.179781,
     "geom:bbox":"19.4624220484,41.6546476178,19.8610048658,41.9520719894",
     "geom:latitude":41.828985,
     "geom:longitude":19.670464,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Lezh\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.846595,
     "lbl:longitude":19.651109,
     "meso:adm1_loc":"Lezh\u00eb",
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":421169921,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1555037167,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

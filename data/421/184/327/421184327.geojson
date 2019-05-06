@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019318,
-    "geom:area_square_m":182989568.416722,
+    "geom:area_square_m":182989568.416726,
     "geom:bbox":"19.9152070602,39.9131366087,20.1405407722,40.072635892",
     "geom:latitude":39.997746,
     "geom:longitude":20.031924,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Delvin\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.001224,
     "lbl:longitude":20.033626,
     "meso:adm1_loc":"Vlor\u00eb",
@@ -54,6 +60,9 @@
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0394\u03ad\u03bb\u03b2\u03b9\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
+        "Delvin\u00eb"
+    ],
+    "name:eng_x_variant":[
         "Delvin\u00eb District"
     ],
     "name:epo_x_preferred":[
@@ -228,7 +237,7 @@
         }
     ],
     "wof:id":421184327,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555220346,
     "wof:name":"Delvin\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

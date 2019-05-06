@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055007,
-    "geom:area_square_m":505361304.013614,
+    "geom:area_square_m":505361304.013634,
     "geom:bbox":"19.7188559691,41.8740732257,20.08847703,42.1492023481",
     "geom:latitude":42.012679,
     "geom:longitude":19.912001,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Puk\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":42.045508,
     "lbl:longitude":19.90923,
     "meso:adm1_loc":"Shkod\u00ebr",
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421193315,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555037074,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

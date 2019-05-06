@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115351,
-    "geom:area_square_m":1053780535.398396,
+    "geom:area_square_m":1053780535.398369,
     "geom:bbox":"19.8003539618,42.1958693088,20.3618144852,42.5592565",
     "geom:latitude":42.370674,
     "geom:longitude":20.048948,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Tropoj\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":42.387515,
     "lbl:longitude":20.067896,
     "meso:adm1_loc":"Kuk\u00ebs",
@@ -51,6 +57,9 @@
         "Tropoj\u00eb"
     ],
     "name:eng_x_preferred":[
+        "Tropoj\u00eb"
+    ],
+    "name:eng_x_variant":[
         "Tropoj\u00eb District"
     ],
     "name:epo_x_preferred":[
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":421200781,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1555220347,
     "wof:name":"Tropoj\u00eb",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

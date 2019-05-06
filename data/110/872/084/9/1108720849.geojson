@@ -10,6 +10,12 @@
     "geom:latitude":40.967704,
     "geom:longitude":19.990629,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "C\u00ebrrik Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.981507,
     "lbl:longitude":19.998157,
     "meso:adm1_loc":"Elbasan",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108720849,
-    "wof:lastmodified":1536615583,
+    "wof:lastmodified":1553718458,
     "wof:name":"C\u00ebrrik",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

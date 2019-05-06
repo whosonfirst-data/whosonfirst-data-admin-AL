@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09413,
-    "geom:area_square_m":867191168.829579,
+    "geom:area_square_m":867191168.829563,
     "geom:bbox":"19.7174502041,41.6880132007,20.2759172482,42.0250330949",
     "geom:latitude":41.836657,
     "geom:longitude":19.995238,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Mirdit\u00eb Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":41.792514,
     "lbl:longitude":19.990967,
     "meso:adm1_loc":"Lezh\u00eb",
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421188337,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1555037093,
     "wof:name":"Mirdit\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049557,
-    "geom:area_square_m":468529570.083624,
+    "geom:area_square_m":468529570.083623,
     "geom:bbox":"19.8879162643,40.0050925779,20.2421378699,40.2306472706",
     "geom:latitude":40.128984,
     "geom:longitude":20.072653,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Gjirokast\u00ebr Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.140814,
     "lbl:longitude":20.076019,
     "meso:adm1_loc":"Gjirokast\u00ebr",
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":421187729,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1555037096,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

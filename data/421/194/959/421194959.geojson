@@ -10,6 +10,12 @@
     "geom:latitude":40.554647,
     "geom:longitude":20.262583,
     "iso:country":"AL",
+    "label:eng_x_preferred_longname":[
+        "Skrapar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":40.555295,
     "lbl:longitude":20.258986,
     "meso:adm1_loc":"Berat",
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421194959,
-    "wof:lastmodified":1536616118,
+    "wof:lastmodified":1553717532,
     "wof:name":"Skrapar",
     "wof:parent_id":85667811,
     "wof:placetype":"county",
