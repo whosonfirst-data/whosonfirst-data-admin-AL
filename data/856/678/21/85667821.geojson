@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267079,
-    "geom:area_square_m":2469343818.960705,
+    "geom:area_square_m":2469343818.960808,
     "geom:bbox":"19.806707192,41.3158252598,20.573702,41.9074465872",
     "geom:latitude":41.606223,
     "geom:longitude":20.239622,
@@ -25,20 +25,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Dibr\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u064a\u0628\u0631"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Dib\u00ebr"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u056b\u0562\u0561\u0580\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Dib\u00ebr konderria"
     ],
     "name:bre_x_preferred":[
         "Dib\u00ebr"
@@ -55,17 +46,8 @@
     "name:ces_x_preferred":[
         "Dibr\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u7b2c\u5df4\u723e\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Dibr\u00eb"
-    ],
     "name:deu_x_preferred":[
         "Qark Dibra"
-    ],
-    "name:dut_x_preferred":[
-        "Dib\u00ebr"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03bc\u03cc\u03c2 \u039d\u03c4\u03af\u03bc\u03c0\u03c1\u03b1"
@@ -79,26 +61,23 @@
     "name:est_x_preferred":[
         "Dib\u00ebri maakond"
     ],
+    "name:eus_x_preferred":[
+        "Dib\u00ebr konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u06cc\u0628\u0631"
+    ],
     "name:fin_x_preferred":[
         "Dib\u00ebrin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Dib\u00ebr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d1\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Dibra"
     ],
     "name:gle_x_preferred":[
         "Contae Dib\u00ebr"
     ],
     "name:glg_x_preferred":[
         "condado de Dib\u00ebr"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u039d\u03c4\u03af\u03bc\u03c0\u03c1\u03b1"
     ],
     "name:hin_x_preferred":[
         "\u0921\u093f\u092c\u0945\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -109,11 +88,17 @@
     "name:hun_x_preferred":[
         "Dibra megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0562\u0561\u0580\u056b \u0563\u0561\u057e\u0561\u057c"
+    ],
     "name:ita_x_preferred":[
         "prefettura di Dib\u00ebr"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30d6\u30e9\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d1\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kon_x_preferred":[
         "Dib\u00ebr"
@@ -130,8 +115,11 @@
     "name:lmo_x_preferred":[
         "Prefettura de Dib\u00ebr"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Dib\u00ebr"
     ],
     "name:nob_x_preferred":[
         "Dib\u00ebr"
@@ -142,9 +130,6 @@
     "name:pan_x_preferred":[
         "\u0a21\u0a3f\u0a2c\u0a30 \u0a15\u0a3e\u0a09\u0a02\u0a1f\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u06cc\u0628\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u06cc\u0628\u0631"
     ],
@@ -154,7 +139,7 @@
     "name:por_x_preferred":[
         "Dib\u00ebr"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Dib\u00ebr"
     ],
     "name:rus_x_preferred":[
@@ -163,11 +148,14 @@
     "name:sco_x_preferred":[
         "Dib\u00ebr Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dib\u00ebr"
     ],
     "name:spa_x_preferred":[
         "condado de Dib\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Dibr\u00ebs"
     ],
     "name:swe_x_preferred":[
         "Dib\u00ebr prefektur"
@@ -195,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Dib\u00ebr"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u5df4\u723e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -319,7 +310,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814706,
+    "wof:lastmodified":1561777910,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

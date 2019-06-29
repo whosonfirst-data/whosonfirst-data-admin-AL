@@ -14,23 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Berati"
-    ],
     "name:als_x_preferred":[
         "Berat"
     ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0580\u0561\u057f"
-    ],
     "name:aze_x_preferred":[
         "B\u0259rat"
-    ],
-    "name:baq_x_preferred":[
-        "Berat"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0440\u0430\u0442"
@@ -53,19 +44,10 @@
     "name:che_x_preferred":[
         "\u0411\u0435\u0440\u0430\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u57f9\u62c9\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Berat"
-    ],
     "name:dan_x_preferred":[
         "Berat"
     ],
     "name:deu_x_preferred":[
-        "Berat"
-    ],
-    "name:dut_x_preferred":[
         "Berat"
     ],
     "name:ell_x_preferred":[
@@ -92,20 +74,8 @@
     "name:fra_x_preferred":[
         "Berat"
     ],
-    "name:fre_x_preferred":[
-        "Berat"
-    ],
     "name:frr_x_preferred":[
         "Berat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e0\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Berat"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c1\u03ac\u03c4"
     ],
     "name:gsw_x_preferred":[
         "Berat"
@@ -155,17 +125,14 @@
     "name:lit_x_preferred":[
         "Beratis"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u0440\u0430\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u093e\u091f"
     ],
-    "name:may_x_preferred":[
-        "Berat"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0440\u0430\u0434"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u0440\u0430\u0442"
     ],
     "name:msa_x_preferred":[
         "Berat"
@@ -182,9 +149,6 @@
     "name:oci_x_preferred":[
         "Berat"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0627\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0631\u0627\u062a"
     ],
@@ -200,9 +164,6 @@
     "name:ron_x_preferred":[
         "Berat"
     ],
-    "name:rum_x_preferred":[
-        "Berat"
-    ],
     "name:rup_x_preferred":[
         "Berat"
     ],
@@ -216,9 +177,6 @@
         "\u0db6\u0dd9\u0dbb\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Berat"
-    ],
-    "name:slo_x_preferred":[
         "Berat"
     ],
     "name:slv_x_preferred":[
@@ -417,7 +375,7 @@
         }
     ],
     "wof:id":421201955,
-    "wof:lastmodified":1527716432,
+    "wof:lastmodified":1561777928,
     "wof:name":"Berat",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

@@ -13,20 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Vlora"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056c\u0578\u0580\u0561"
-    ],
     "name:aze_x_preferred":[
         "Vlyora"
-    ],
-    "name:baq_x_preferred":[
-        "Vlor\u00eb"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u043b\u0451\u0440\u0430"
@@ -58,23 +49,14 @@
     "name:che_x_preferred":[
         "\u0412\u043b\u0451\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u53d1\u7f57\u62c9"
-    ],
     "name:cym_x_preferred":[
         "Vlor\u00eb"
-    ],
-    "name:cze_x_preferred":[
-        "Vlora"
     ],
     "name:dan_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:deu_x_preferred":[
         "Vlora"
-    ],
-    "name:dut_x_preferred":[
-        "Vlor\u00eb"
     ],
     "name:ell_x_preferred":[
         "Avlonya"
@@ -93,6 +75,9 @@
     "name:est_x_preferred":[
         "Vlor\u00eb"
     ],
+    "name:eus_x_preferred":[
+        "Vlor\u00eb"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u0648\u0631\u0647"
     ],
@@ -102,26 +87,14 @@
     "name:fra_x_preferred":[
         "Vlora"
     ],
-    "name:fre_x_preferred":[
-        "Vlora"
-    ],
     "name:frr_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:gag_x_preferred":[
         "Vlor\u00eb"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10da\u10dd\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Vlora"
-    ],
     "name:glg_x_preferred":[
         "Vlor\u00eb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c5\u03bb\u03ce\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ab2\u0acb\u0ab0\u0ac7"
@@ -153,6 +126,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0ccd\u0cb2\u0ccb\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10da\u10dd\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ube14\ub85c\ub7ec"
     ],
@@ -165,20 +141,17 @@
     "name:lit_x_preferred":[
         "Vlior\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u043b\u043e\u043d\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u094b\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Vlore"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u043b\u043e\u043d\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0412\u043b\u0451\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Vlore"
     ],
     "name:nld_x_preferred":[
         "Vlor\u00eb"
@@ -195,9 +168,6 @@
     "name:nor_x_variant":[
         "Vlora"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0648\u0631\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0644\u0648\u0631\u06c1"
     ],
@@ -207,7 +177,7 @@
     "name:por_x_preferred":[
         "Vlor\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vlora"
     ],
     "name:rup_x_preferred":[
@@ -225,7 +195,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dca\u0dbd\u0ddc\u0dbb\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:slv_x_preferred":[
@@ -277,9 +247,6 @@
         "Vlora"
     ],
     "name:war_x_preferred":[
-        "Vlor\u00eb"
-    ],
-    "name:wel_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:zho_x_preferred":[
@@ -335,7 +302,7 @@
         }
     ],
     "wof:id":421187039,
-    "wof:lastmodified":1527716247,
+    "wof:lastmodified":1561777926,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

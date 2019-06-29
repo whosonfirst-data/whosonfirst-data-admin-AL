@@ -29,9 +29,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Vlor\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u0644\u0648\u0631\u0647"
     ],
@@ -47,17 +44,8 @@
     "name:ces_x_preferred":[
         "Okres Vlora"
     ],
-    "name:chi_x_preferred":[
-        "\u592b\u7f85\u52d2\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Vlora"
-    ],
     "name:deu_x_preferred":[
         "Kreis Vlora"
-    ],
-    "name:dut_x_preferred":[
-        "Vlor\u00eb"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03c5\u03bb\u03ce\u03bd\u03b1"
@@ -74,20 +62,11 @@
     "name:fin_x_preferred":[
         "Vlor\u00ebn piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Vlor\u00eb"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10da\u10dd\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Vlora"
     ],
     "name:glg_x_preferred":[
         "Distrito de Vlor\u00eb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03c5\u03bb\u03ce\u03bd\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Valonski distrikt"
@@ -107,6 +86,9 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30ed\u30e9\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10da\u10dd\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube14\ub85c\ub7ec \ud604"
     ],
@@ -116,20 +98,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Val\u00f2na"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0430\u043b\u043e\u043d\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Vlor\u00eb"
+    ],
+    "name:nld_x_preferred":[
+        "Vlor\u00eb"
     ],
     "name:nob_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a32\u0a4b\u0a30\u0a47 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0644\u0648\u0631\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0648\u0644\u0648\u0631\u06c1"
@@ -140,7 +122,7 @@
     "name:por_x_preferred":[
         "Vlor\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Vlor\u00eb"
     ],
     "name:rus_x_preferred":[
@@ -149,11 +131,14 @@
     "name:sco_x_preferred":[
         "Vlor\u00eb Destrict"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vlor\u00eb"
     ],
     "name:spa_x_preferred":[
         "Distrito de Vlor\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Vlor\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0430\u043b\u043e\u043d\u0430"
@@ -178,6 +163,9 @@
     ],
     "name:war_x_preferred":[
         "Vlor\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u592b\u7f85\u52d2\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -240,7 +228,7 @@
         }
     ],
     "wof:id":421193353,
-    "wof:lastmodified":1555037074,
+    "wof:lastmodified":1561777925,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

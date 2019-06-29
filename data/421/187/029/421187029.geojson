@@ -16,26 +16,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrogozhina"
-    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0436\u0438\u043d\u0430"
     ],
     "name:ces_x_preferred":[
         "Rrogozhin\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u6208\u65e5\u5167"
-    ],
-    "name:cze_x_preferred":[
-        "Rrogozhin\u00eb"
-    ],
     "name:deu_x_preferred":[
         "Rrogozhina"
-    ],
-    "name:dut_x_preferred":[
-        "Rrogozhin\u00eb"
     ],
     "name:eng_x_preferred":[
         "Rrogozhin\u00eb"
@@ -43,20 +31,11 @@
     "name:fra_x_preferred":[
         "Rrogozhin\u00eb"
     ],
-    "name:fre_x_preferred":[
-        "Rrogozhin\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Rrogozhina"
-    ],
     "name:ita_x_preferred":[
         "Rrogozhin\u00eb"
     ],
     "name:lit_x_preferred":[
         "Rogo\u017ein\u0117"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u043e\u0433\u043e\u0436\u0438\u043d\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0436\u0438\u043d\u0430"
@@ -70,17 +49,17 @@
     "name:ron_x_preferred":[
         "Rrogozhina"
     ],
-    "name:rum_x_preferred":[
-        "Rrogozhina"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0436\u0438\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rrogozhin\u00eb"
     ],
     "name:spa_x_preferred":[
         "Rrogozhin\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrogozhina"
     ],
     "name:swe_x_preferred":[
         "Rrogozhina"
@@ -154,7 +133,7 @@
         }
     ],
     "wof:id":421187029,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561777927,
     "wof:name":"Rrogozhin\u00eb",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

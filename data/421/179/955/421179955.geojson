@@ -30,9 +30,6 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Sarand\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0633\u0627\u0631\u0627\u0646\u062f\u0647"
     ],
@@ -49,12 +46,7 @@
         "Saranda"
     ],
     "name:ces_x_variant":[
-        "Sarand\u00eb"
-    ],
-    "name:chi_x_preferred":[
-        "\u6f54\u862d\u5fb7\u5340"
-    ],
-    "name:cze_x_preferred":[
+        "Sarand\u00eb",
         "Okres Saranda"
     ],
     "name:dan_x_preferred":[
@@ -63,14 +55,15 @@
     "name:deu_x_preferred":[
         "Saranda"
     ],
-    "name:dut_x_preferred":[
-        "Sarand\u00eb"
+    "name:deu_x_variant":[
+        "Kreis Saranda"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:ell_x_variant":[
-        "Ayii Saranda"
+        "Ayii Saranda",
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03b3\u03af\u03c9\u03bd \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sarand\u00eb"
@@ -84,20 +77,17 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0627\u0646\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Saranda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Sarand\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Saranda"
     ],
     "name:glg_x_preferred":[
         "Distrito de Sarand\u00eb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03b3\u03af\u03c9\u03bd \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05e0\u05d3\u05d4"
@@ -135,23 +125,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Santi Quaranta"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Daerah Sarand\u00eb"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Sarand\u00eb"
+    ],
+    "name:nld_x_preferred":[
+        "Sarand\u00eb"
     ],
     "name:nob_x_preferred":[
         "Sarand\u00eb"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a30\u0a3e\u0a02\u0a26\u0a47 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0627\u0646\u062f\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u06c1"
@@ -162,13 +149,13 @@
     "name:por_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Sarand\u00eb"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sarand\u00eb"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +165,8 @@
         "Sarand\u00eb"
     ],
     "name:sqi_x_variant":[
-        "Saranda"
+        "Saranda",
+        "Rrethi i Sarand\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u0430\u0440\u0430\u043d\u0434\u0430"
@@ -206,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8428\u5170\u8fbe"
+    ],
+    "name:zho_x_variant":[
+        "\u6f54\u862d\u5fb7\u5340"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Albania",
@@ -361,7 +352,7 @@
         }
     ],
     "wof:id":421179955,
-    "wof:lastmodified":1553717374,
+    "wof:lastmodified":1561777928,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

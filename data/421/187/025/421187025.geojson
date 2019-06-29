@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Saranda"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0580\u0561\u0576\u0564\u0561"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
@@ -28,17 +22,17 @@
     "name:cat_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5170\u8fbe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Saranda"
     ],
     "name:dan_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:dut_x_preferred":[
-        "Sarand\u00eb"
+    "name:deu_x_preferred":[
+        "Saranda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sarand\u00eb"
@@ -49,26 +43,26 @@
     "name:est_x_preferred":[
         "Sarand\u00eb"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:fre_x_preferred":[
-        "Saranda"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Saranda"
     ],
     "name:glg_x_preferred":[
         "Sarand\u00eb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05e0\u05d3\u05d4"
     ],
     "name:hun_x_preferred":[
         "Saranda"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0576\u0564\u0561"
     ],
     "name:ind_x_preferred":[
         "Sarand\u00eb"
@@ -88,17 +82,17 @@
     "name:lit_x_preferred":[
         "Sarand\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Sarand\u00eb"
     ],
     "name:nno_x_preferred":[
         "Saranda"
     ],
     "name:nob_x_preferred":[
         "Saranda"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0627\u0646\u062f\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u06c1"
@@ -109,7 +103,7 @@
     "name:por_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saranda"
     ],
     "name:rup_x_preferred":[
@@ -121,11 +115,14 @@
     "name:sco_x_preferred":[
         "Sarand\u00eb"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sarand\u00eb"
     ],
     "name:spa_x_preferred":[
         "Sarand\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Saranda"
     ],
     "name:swe_x_preferred":[
         "Saranda"
@@ -144,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Sarand\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5170\u8fbe"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":421187025,
-    "wof:lastmodified":1513888553,
+    "wof:lastmodified":1561777926,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":421179955,
     "wof:placetype":"locality",

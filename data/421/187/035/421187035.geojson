@@ -15,9 +15,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rubiku"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u0628\u064a\u0643"
     ],
@@ -30,28 +27,13 @@
     "name:ces_x_preferred":[
         "Rubik"
     ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u6bd4\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Rubik"
-    ],
     "name:deu_x_preferred":[
-        "Rubik"
-    ],
-    "name:dut_x_preferred":[
         "Rubik"
     ],
     "name:eng_x_preferred":[
         "Rubik"
     ],
     "name:fra_x_preferred":[
-        "Rubik"
-    ],
-    "name:fre_x_preferred":[
-        "Rubik"
-    ],
-    "name:ger_x_preferred":[
         "Rubik"
     ],
     "name:glg_x_preferred":[
@@ -66,7 +48,7 @@
     "name:lav_x_preferred":[
         "Rubiks"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0443\u0431\u0438\u043a"
     ],
     "name:nld_x_preferred":[
@@ -81,7 +63,7 @@
     "name:por_x_preferred":[
         "Rubik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rubik"
     ],
     "name:rus_x_preferred":[
@@ -92,6 +74,9 @@
     ],
     "name:spa_x_preferred":[
         "Rubik"
+    ],
+    "name:sqi_x_preferred":[
+        "Rubiku"
     ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0431\u0438\u043a"
@@ -104,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Rubik"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u6bd4\u514b"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -150,7 +138,7 @@
         }
     ],
     "wof:id":421187035,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777927,
     "wof:name":"Rubik",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

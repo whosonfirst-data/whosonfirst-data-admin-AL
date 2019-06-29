@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Kuk\u00ebsi"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0633"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u056f\u0561\u057d"
     ],
     "name:aze_x_preferred":[
         "Kukes"
@@ -46,20 +40,14 @@
     "name:che_x_preferred":[
         "\u041a\u0443\u043a\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u514b\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Kuk\u00ebs"
-    ],
     "name:dan_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:deu_x_preferred":[
         "Kuk\u00ebs"
     ],
-    "name:dut_x_preferred":[
-        "Kuk\u00ebs"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ba\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kuk\u00ebs"
@@ -70,20 +58,14 @@
     "name:est_x_preferred":[
         "Kuk\u00ebsi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:fra_x_preferred":[
         "Kuk\u00ebs"
-    ],
-    "name:fre_x_preferred":[
-        "Kuk\u00ebs"
-    ],
-    "name:ger_x_preferred":[
-        "Kuk\u00ebs"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03ba\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a95\u0ac7\u0ab8"
@@ -96,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Kuk\u00ebs"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Kuk\u00ebs"
@@ -118,20 +103,20 @@
     "name:lit_x_preferred":[
         "Kukesis"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u043a\u0443\u0448"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0915\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0448"
+    ],
+    "name:msa_x_preferred":[
         "Kukes"
+    ],
+    "name:nld_x_preferred":[
+        "Kuk\u00ebs"
     ],
     "name:nob_x_preferred":[
         "Kukes"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06a9\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u06a9\u0633"
@@ -142,7 +127,7 @@
     "name:por_x_preferred":[
         "Kuk\u00ebs"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:rup_x_preferred":[
@@ -154,7 +139,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0d9a\u0dd3\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:spa_x_preferred":[
@@ -198,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Kuk\u00ebs"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u514b\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Albania",
@@ -327,7 +315,7 @@
         }
     ],
     "wof:id":890443443,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777930,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

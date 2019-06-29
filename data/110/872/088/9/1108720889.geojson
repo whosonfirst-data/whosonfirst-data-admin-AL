@@ -28,17 +28,11 @@
     "mps:longitude":19.80461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rrethi i Peqinit"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u4eca\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Peqin"
     ],
-    "name:dut_x_preferred":[
-        "Peqin"
+    "name:deu_x_preferred":[
+        "Kreis Peqin"
     ],
     "name:eng_x_preferred":[
         "Peqin"
@@ -46,14 +40,14 @@
     "name:epo_x_preferred":[
         "Distrikto Peqin"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0686\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Peqin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Peqin"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Peqin"
     ],
     "name:glg_x_preferred":[
         "Distrito de Peqin"
@@ -85,20 +79,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Peqin"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u0435\u045c\u0438\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Peqin"
+    ],
+    "name:nld_x_preferred":[
+        "Peqin"
     ],
     "name:nob_x_preferred":[
         "Peqin"
     ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a40\u0a15\u0a3f\u0a28 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0686\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0686\u06cc\u0646"
@@ -109,17 +103,20 @@
     "name:por_x_preferred":[
         "Peqin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Peqin"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Peqin"
     ],
     "name:spa_x_preferred":[
         "Distrito de Peqin"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Peqinit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u0435\u045b\u0438\u043d\u0430"
@@ -141,6 +138,9 @@
     ],
     "name:war_x_preferred":[
         "Peqin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u4eca\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1108720889,
-    "wof:lastmodified":1555037329,
+    "wof:lastmodified":1561777922,
     "wof:name":"Peqin",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

@@ -16,9 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Orikumi"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
     ],
@@ -28,25 +25,13 @@
     "name:ces_x_preferred":[
         "Orikumi"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u91cc\u5eab\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "Orikumi"
-    ],
     "name:deu_x_preferred":[
-        "Orikum"
-    ],
-    "name:dut_x_preferred":[
         "Orikum"
     ],
     "name:eng_x_preferred":[
         "Orikum"
     ],
-    "name:fre_x_preferred":[
-        "Orikum"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Orikum"
     ],
     "name:hun_x_preferred":[
@@ -54,9 +39,6 @@
     ],
     "name:ita_x_preferred":[
         "Orikum"
-    ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0438\u043a\u0443\u043c"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
@@ -71,9 +53,6 @@
         "Orikum"
     ],
     "name:ron_x_preferred":[
-        "Orikum"
-    ],
-    "name:rum_x_preferred":[
         "Orikum"
     ],
     "name:rus_x_preferred":[
@@ -157,7 +136,7 @@
         }
     ],
     "wof:id":421187033,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777927,
     "wof:name":"Orikum",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

@@ -29,23 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Skraparit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0633\u0643\u0631\u0627\u0628\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056f\u0580\u0561\u057a\u0561\u0580\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u514b\u62c9\u5e15\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Skrapar"
     ],
-    "name:dut_x_preferred":[
-        "Skrapar"
+    "name:deu_x_preferred":[
+        "Kreis Skrapar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03ba\u03c1\u03b1\u03c0\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Skrapar"
@@ -53,26 +47,23 @@
     "name:epo_x_preferred":[
         "Distrikto Skrapar"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06a9\u0631\u0627\u067e\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Skrapar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Skrapar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d9\u10e0\u10d0\u10de\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Skrapar"
     ],
     "name:glg_x_preferred":[
         "Distrito de Skrapar"
     ],
-    "name:gre_x_preferred":[
-        "\u03c0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03ba\u03c1\u03b1\u03c0\u03ac\u03c1"
-    ],
     "name:hrv_x_preferred":[
         "Skraparski distrikt"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0580\u0561\u057a\u0561\u0580\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Skrapar"
@@ -86,6 +77,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30af\u30e9\u30d1\u30eb\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d9\u10e0\u10d0\u10de\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud06c\ub77c\ud30c\ub974 \ud604"
     ],
@@ -95,20 +89,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Skrapar"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043a\u0440\u0430\u043f\u0430\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Skrapar"
+    ],
+    "name:nld_x_preferred":[
+        "Skrapar"
     ],
     "name:nob_x_preferred":[
         "Skrapar"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a15\u0a30\u0a3e\u0a2a\u0a30 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06a9\u0631\u0627\u067e\u0627\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06a9\u0631\u0627\u067e\u0631"
@@ -119,7 +113,7 @@
     "name:por_x_preferred":[
         "Skrapar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Skrapar"
     ],
     "name:rus_x_preferred":[
@@ -128,11 +122,14 @@
     "name:sco_x_preferred":[
         "Skrapar Destrict"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skrapar"
     ],
     "name:spa_x_preferred":[
         "Distrito de Skrapar"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Skraparit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u043a\u0440\u0430\u043f\u0430\u0440"
@@ -157,6 +154,9 @@
     ],
     "name:war_x_preferred":[
         "Skrapar"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u514b\u62c9\u5e15\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":421194959,
-    "wof:lastmodified":1553717532,
+    "wof:lastmodified":1561777925,
     "wof:name":"Skrapar",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

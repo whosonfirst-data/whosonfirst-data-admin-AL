@@ -29,14 +29,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Elbasanit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
@@ -44,14 +38,11 @@
     "name:cat_x_preferred":[
         "Districte d'Elbasan"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u5df4\u7533\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Elbasan"
     ],
-    "name:dut_x_preferred":[
-        "Elbasan"
+    "name:deu_x_preferred":[
+        "Kreis Elbasan"
     ],
     "name:eng_x_preferred":[
         "Elbasan"
@@ -62,17 +53,14 @@
     "name:epo_x_preferred":[
         "Distrikto Elbasan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Elbasan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district d'Elbasan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d1\u10d0\u10e1\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Elbasan"
     ],
     "name:glg_x_preferred":[
         "Distrito de Elbasan"
@@ -82,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Elbasan ker\u00fclet"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Elbasan"
@@ -95,6 +86,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30d0\u30b5\u30f3\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d1\u10d0\u10e1\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d8\ubc14\uc0b0 \ud604"
     ],
@@ -104,20 +98,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Elbasan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Elbasan"
+    ],
+    "name:nld_x_preferred":[
+        "Elbasan"
     ],
     "name:nob_x_preferred":[
         "Elbasan"
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a32\u0a2c\u0a3e\u0a38\u0a28 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
@@ -128,17 +122,20 @@
     "name:por_x_preferred":[
         "Elbasan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Elbasan"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Elbasan"
     ],
     "name:spa_x_preferred":[
         "Distrito de Elbasan"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Elbasanit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0415\u043b\u0431\u0430\u0441\u0430\u043d"
@@ -163,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Elbasan"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5df4\u7533\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":421185415,
-    "wof:lastmodified":1555220346,
+    "wof:lastmodified":1561777929,
     "wof:name":"Elbasan",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

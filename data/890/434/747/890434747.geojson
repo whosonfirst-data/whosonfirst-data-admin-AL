@@ -15,31 +15,25 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Komuna Krrab\u00eb"
-    ],
     "name:cat_x_preferred":[
         "Krrab\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u4f2f"
-    ],
-    "name:dut_x_preferred":[
-        "Krrab\u00eb"
+    "name:deu_x_preferred":[
+        "Krraba"
     ],
     "name:eng_x_preferred":[
         "Krrab\u00eb"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krrab\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Krraba"
     ],
     "name:ita_x_preferred":[
         "Krrab\u00eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Krrab\u00eb"
+    ],
+    "name:nld_x_preferred":[
         "Krrab\u00eb"
     ],
     "name:oci_x_preferred":[
@@ -48,7 +42,7 @@
     "name:por_x_preferred":[
         "Krrab\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krraba"
     ],
     "name:rus_x_preferred":[
@@ -59,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "Krrab\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna Krrab\u00eb"
     ],
     "name:swe_x_preferred":[
         "Komuna e K\u00ebrrab\u00ebs"
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Krrab\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u4f2f"
     ],
     "qs:name":"Krrab\u00eb",
     "qs:photos_9r":0,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":890434747,
-    "wof:lastmodified":1527792945,
+    "wof:lastmodified":1561777931,
     "wof:name":"Krrab\u00eb",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

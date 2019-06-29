@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.260326,
-    "geom:area_square_m":2384783528.572192,
+    "geom:area_square_m":2384783528.572149,
     "geom:bbox":"19.8003539618,41.8158253417,20.625484,42.5592565",
     "geom:latitude":42.195849,
     "geom:longitude":20.242173,
@@ -25,20 +25,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Kuk\u00ebsit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0643\u0633"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Kuk\u00ebs"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u056f\u0561\u057d\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Kuk\u00ebs konderria"
     ],
     "name:bre_x_preferred":[
         "Kuk\u00ebs"
@@ -55,17 +46,8 @@
     "name:ces_x_preferred":[
         "Kuk\u00ebs"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u514b\u65af\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Kuk\u00ebs"
-    ],
     "name:deu_x_preferred":[
         "Qark Kuk\u00ebs"
-    ],
-    "name:dut_x_preferred":[
-        "Kuk\u00ebs"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03c5\u03ba\u03c2"
@@ -79,23 +61,23 @@
     "name:est_x_preferred":[
         "Kuk\u00ebsi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Kuk\u00ebs konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Kuk\u00ebsin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Kuk\u00ebs"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Kuk\u00ebs"
     ],
     "name:gle_x_preferred":[
         "Contae Kuk\u00ebs"
     ],
     "name:glg_x_preferred":[
         "Condado de Kuk\u00ebs"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03c5\u03ba\u03c2"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0915\u0947\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -105,6 +87,9 @@
     ],
     "name:hun_x_preferred":[
         "Kuk\u00ebs megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u0561\u057d\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ita_x_preferred":[
         "prefettura di Kuk\u00ebs"
@@ -124,17 +109,17 @@
     "name:lmo_x_preferred":[
         "Prefettura de Kuk\u00ebs"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Kuk\u00ebs"
     ],
     "name:nob_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:oci_x_preferred":[
         "Prefectura de Kuk\u00ebs"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u06a9\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u06a9\u0633"
@@ -145,7 +130,7 @@
     "name:por_x_preferred":[
         "Kuk\u00ebs"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Kuk\u00ebs"
     ],
     "name:rus_x_preferred":[
@@ -154,11 +139,14 @@
     "name:sco_x_preferred":[
         "Kuk\u00ebs Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:spa_x_preferred":[
         "Condado de Kuk\u00ebs"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Kuk\u00ebsit"
     ],
     "name:swe_x_preferred":[
         "Kuk\u00ebs prefektur"
@@ -186,6 +174,9 @@
     ],
     "name:war_x_preferred":[
         "Kuk\u00ebs"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u514b\u65af\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -312,7 +303,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814706,
+    "wof:lastmodified":1561777911,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

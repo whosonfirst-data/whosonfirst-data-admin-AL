@@ -29,9 +29,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Shkodr\u00ebs"
-    ],
     "name:als_x_preferred":[
         "Shkodra"
     ],
@@ -59,20 +56,17 @@
     "name:cat_x_preferred":[
         "Shkod\u00ebr"
     ],
+    "name:ces_x_preferred":[
+        "Okres Shkod\u00ebr"
+    ],
     "name:che_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u58eb\u79d1\u5fb7\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Shkod\u00ebr"
     ],
     "name:dan_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:dut_x_preferred":[
-        "Shkod\u00ebr"
+    "name:deu_x_preferred":[
+        "Kreis Shkodra"
     ],
     "name:eng_x_preferred":[
         "Shkod\u00ebr"
@@ -80,14 +74,14 @@
     "name:epo_x_preferred":[
         "Distrikto Shkod\u00ebr"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0634\u06a9\u0648\u062f\u0631"
+    ],
     "name:fin_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Shkod\u00ebr"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Shkodra"
     ],
     "name:glg_x_preferred":[
         "Distrito de Shkod\u00ebr"
@@ -113,20 +107,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Scutar"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043a\u0430\u0434\u0430\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Shkod\u00ebr"
+    ],
+    "name:nld_x_preferred":[
+        "Shkod\u00ebr"
     ],
     "name:nob_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a15\u0a4b\u0a26\u0a30 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0634\u06a9\u0648\u062f\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0634\u06a9\u0648\u062f\u0631"
@@ -137,17 +131,20 @@
     "name:por_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Shkod\u00ebr"
     ],
     "name:rus_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:spa_x_preferred":[
         "Distrito de Shkod\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Shkodr\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u043a\u0430\u0434\u0430\u0440"
@@ -172,6 +169,9 @@
     ],
     "name:war_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u79d1\u5fb7\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -237,7 +237,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1555037172,
+    "wof:lastmodified":1561777925,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

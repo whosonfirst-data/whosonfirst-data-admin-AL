@@ -14,14 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Bajram Curri"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u062c\u0631\u0627\u0645 \u0643\u0648\u0631\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0575\u0580\u0561\u0574 \u0551\u0578\u0582\u0580\u056b"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
@@ -32,20 +26,11 @@
     "name:ces_x_preferred":[
         "Bajram Curri"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4f9d\u62c9\u59c6\u695a\u91cc\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "Bajram Curri"
-    ],
     "name:deu_x_preferred":[
         "Bajram Curri"
     ],
     "name:deu_x_variant":[
         "Bajram Curr"
-    ],
-    "name:dut_x_preferred":[
-        "Bajram Curri"
     ],
     "name:eng_x_preferred":[
         "Bajram Curri"
@@ -55,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Bajram Curri"
-    ],
-    "name:fre_x_preferred":[
-        "Bajram Curri"
-    ],
-    "name:ger_x_preferred":[
-        "Bajram Curr"
     ],
     "name:hbs_x_preferred":[
         "Bajram Curi"
@@ -80,11 +59,11 @@
     "name:lit_x_preferred":[
         "Bairam Curis"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Bajram Curri"
     ],
     "name:oci_x_preferred":[
         "Bajram Curri"
@@ -98,16 +77,13 @@
     "name:ron_x_preferred":[
         "Bajram Curri"
     ],
-    "name:rum_x_preferred":[
-        "Bajram Curri"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0440\u0438"
     ],
     "name:rus_x_variant":[
         "\u0411\u0430\u0439\u0440\u0430\u043c-\u0426\u0443\u0440\u0440\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bajram Curri"
     ],
     "name:spa_x_preferred":[
@@ -284,7 +260,7 @@
         }
     ],
     "wof:id":421186997,
-    "wof:lastmodified":1527716311,
+    "wof:lastmodified":1561777927,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",
