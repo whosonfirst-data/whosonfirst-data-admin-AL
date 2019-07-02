@@ -19,35 +19,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Ku\u00e7ova"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0447\u043e\u0432\u0430"
     ],
     "name:cat_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u4e54\u97e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
     "name:dan_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
-    "name:dut_x_preferred":[
-        "Ku\u00e7ov\u00eb"
+    "name:deu_x_preferred":[
+        "Ku\u00e7ova"
     ],
     "name:eng_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
-    "name:fre_x_preferred":[
-        "Ku\u00e7ov\u00eb"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0686\u0648\u0648\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Ku\u00e7ova"
+    "name:fra_x_preferred":[
+        "Ku\u00e7ov\u00eb"
     ],
     "name:hun_x_preferred":[
         "Ku\u00e7ova"
@@ -64,14 +58,14 @@
     "name:lit_x_preferred":[
         "Ku\u010dov\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0443\u0447\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Ku\u00e7ov\u00eb"
     ],
     "name:oci_x_preferred":[
         "Ku\u00e7ov\u00eb"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0686\u0648\u0648\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u0686\u0648\u0648\u06c1"
@@ -82,7 +76,7 @@
     "name:por_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ku\u00e7ova"
     ],
     "name:rup_x_preferred":[
@@ -91,10 +85,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0447\u043e\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
     "name:spa_x_preferred":[
+        "Ku\u00e7ova"
+    ],
+    "name:sqi_x_preferred":[
         "Ku\u00e7ova"
     ],
     "name:swe_x_preferred":[
@@ -120,6 +117,9 @@
     ],
     "name:war_x_preferred":[
         "Ku\u00e7ov\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u4e54\u97e6"
     ],
     "qs_pg:aaroncc":"AL",
     "qs_pg:gn_country":"AL",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":1125871675,
-    "wof:lastmodified":1513888516,
+    "wof:lastmodified":1561777931,
     "wof:name":"Ku\u00e7ov\u00eb",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

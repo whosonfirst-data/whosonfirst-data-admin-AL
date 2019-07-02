@@ -19,16 +19,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Maliqi"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438\u0447"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5229\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maliq"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +31,7 @@
     "name:fin_x_preferred":[
         "Maliq"
     ],
-    "name:fre_x_preferred":[
-        "Maliq"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Maliq"
     ],
     "name:hun_x_preferred":[
@@ -49,8 +40,11 @@
     "name:ita_x_preferred":[
         "Maliq"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0438\u045c"
+    ],
+    "name:nld_x_preferred":[
+        "Maliq"
     ],
     "name:pol_x_preferred":[
         "Maliq"
@@ -58,17 +52,20 @@
     "name:por_x_preferred":[
         "Maliq"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Maliq"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Maliq"
     ],
     "name:spa_x_preferred":[
         "Maliq"
+    ],
+    "name:sqi_x_preferred":[
+        "Maliqi"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0438\u0447"
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Maliq"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5229\u5947"
     ],
     "qs_pg:aaroncc":"AL",
     "qs_pg:gn_country":"AL",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125889041,
-    "wof:lastmodified":1513888532,
+    "wof:lastmodified":1561777931,
     "wof:name":"Maliq",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

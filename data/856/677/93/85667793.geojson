@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382133,
-    "geom:area_square_m":3501750736.730527,
+    "geom:area_square_m":3501750736.730424,
     "geom:bbox":"19.289555459,41.8405400915,20.2449809031,42.661082",
     "geom:latitude":42.175625,
     "geom:longitude":19.720585,
@@ -21,20 +21,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Shkodr\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0643\u0648\u062f\u0631"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Shkod\u00ebr"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u056f\u0578\u0564\u0565\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Shkod\u00ebr konderria"
     ],
     "name:bel_x_preferred":[
         "\u0428\u043a\u043e\u0434\u044d\u0440"
@@ -54,20 +45,11 @@
     "name:ces_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:chi_x_preferred":[
-        "\u58eb\u79d1\u5fb7\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Shkod\u00ebr"
-    ],
     "name:dan_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:deu_x_preferred":[
         "Qark Shkodra"
-    ],
-    "name:dut_x_preferred":[
-        "Shkod\u00ebr"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a3\u03ba\u03cc\u03b4\u03c1\u03b1\u03c2"
@@ -81,14 +63,17 @@
     "name:est_x_preferred":[
         "Shkod\u00ebri maakond"
     ],
+    "name:eus_x_preferred":[
+        "Shkod\u00ebr konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06a9\u0648\u062f\u0631"
+    ],
     "name:fin_x_preferred":[
         "Shkod\u00ebrin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Shkod\u00ebr"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Shkodra"
     ],
     "name:gle_x_preferred":[
         "Contae Shkod\u00ebr"
@@ -96,14 +81,14 @@
     "name:glg_x_preferred":[
         "Condado de Shkod\u00ebr"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a3\u03ba\u03cc\u03b4\u03c1\u03b1\u03c2"
-    ],
     "name:hin_x_preferred":[
         "\u0936\u094d\u0915\u094b\u0921\u0947\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
         "Skadarski okrug"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056f\u0578\u0564\u0565\u0580"
     ],
     "name:ita_x_preferred":[
         "prefettura di Scutari"
@@ -123,17 +108,17 @@
     "name:lmo_x_preferred":[
         "Prefettura de Scutar"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043a\u0430\u0434\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Shkod\u00ebr"
     ],
     "name:nob_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:oci_x_preferred":[
         "Prefectura de Shkod\u00ebr"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06a9\u0648\u062f\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0634\u06a9\u0648\u062f\u0631"
@@ -144,7 +129,7 @@
     "name:por_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Shkod\u00ebr"
     ],
     "name:rus_x_preferred":[
@@ -153,11 +138,14 @@
     "name:sco_x_preferred":[
         "Shkod\u00ebr Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:spa_x_preferred":[
         "Condado de Shkod\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Shkodr\u00ebs"
     ],
     "name:swe_x_preferred":[
         "Shkod\u00ebr prefektur"
@@ -188,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u79d1\u5fb7\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -297,7 +288,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814705,
+    "wof:lastmodified":1561777911,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

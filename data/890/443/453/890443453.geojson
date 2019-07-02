@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Elbasani"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u0644\u0628\u0627\u0633\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Elbasan"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
@@ -45,20 +36,23 @@
     "name:cat_x_preferred":[
         "Elbasan"
     ],
+    "name:ces_x_preferred":[
+        "Elbasan"
+    ],
     "name:che_x_preferred":[
         "\u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u7231\u5c14\u5df4\u6851"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Elbasan"
     ],
     "name:dan_x_preferred":[
         "Elbasan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Elbasan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03bc\u03c0\u03b1\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Elbasan"
@@ -69,26 +63,23 @@
     "name:est_x_preferred":[
         "Elbasan"
     ],
+    "name:eus_x_preferred":[
+        "Elbasan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Elbasan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Elbasan"
     ],
     "name:frr_x_preferred":[
         "Elbasan"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d1\u10d0\u10e1\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Elbasan"
-    ],
     "name:glg_x_preferred":[
         "Elbasan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb\u03bc\u03c0\u03b1\u03c3\u03ac\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Elbasan"
@@ -105,6 +96,9 @@
     "name:hun_x_preferred":[
         "Elbasan"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
         "Elbasan"
     ],
@@ -120,6 +114,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb2\u0ccd\u0cac\u0cbe\u0cb8\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d1\u10d0\u10e1\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d8\ubc14\uc0b0"
     ],
@@ -132,13 +129,16 @@
     "name:lmo_x_preferred":[
         "Elbasan"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0932\u094d\u092c\u0947\u0938\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Elbasan"
+    ],
+    "name:nld_x_preferred":[
         "Elbasan"
     ],
     "name:nno_x_preferred":[
@@ -150,9 +150,6 @@
     "name:oci_x_preferred":[
         "Elbasan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u0627\u0633\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
@@ -162,7 +159,7 @@
     "name:por_x_preferred":[
         "Elbasan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Elbasan"
     ],
     "name:rup_x_preferred":[
@@ -177,7 +174,7 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dbd\u0dca\u0db6\u0dc3\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Elbasan"
     ],
     "name:slv_x_preferred":[
@@ -185,6 +182,9 @@
     ],
     "name:spa_x_preferred":[
         "Elbasan"
+    ],
+    "name:sqi_x_preferred":[
+        "Elbasani"
     ],
     "name:srp_x_preferred":[
         "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
@@ -228,8 +228,8 @@
     "name:war_x_preferred":[
         "Elbasan"
     ],
-    "name:wel_x_preferred":[
-        "Elbasan"
+    "name:zho_x_preferred":[
+        "\u7231\u5c14\u5df4\u6851"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Albania",
@@ -358,7 +358,7 @@
         }
     ],
     "wof:id":890443453,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561777930,
     "wof:name":"Elbasan",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

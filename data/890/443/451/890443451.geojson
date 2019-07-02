@@ -15,31 +15,22 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Poli\u00e7ani"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0438\u0447\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Poli\u00e7an"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5229\u5361\u5c3c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Poli\u00e7an"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Poli\u00e7an"
     ],
     "name:eng_x_preferred":[
         "Poli\u00e7an"
     ],
-    "name:fre_x_preferred":[
-        "Poli\u00e7an"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Poli\u00e7an"
     ],
     "name:hun_x_preferred":[
@@ -48,8 +39,11 @@
     "name:ita_x_preferred":[
         "Poli\u00e7an"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Poli\u00e7an"
     ],
     "name:oci_x_preferred":[
         "Poli\u00e7an"
@@ -60,7 +54,7 @@
     "name:por_x_preferred":[
         "Poli\u00e7an"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poli\u00e7an"
     ],
     "name:rup_x_preferred":[
@@ -69,11 +63,14 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0438\u0447\u0430\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Poli\u00e7an"
     ],
     "name:spa_x_preferred":[
         "Poli\u00e7an"
+    ],
+    "name:sqi_x_preferred":[
+        "Poli\u00e7ani"
     ],
     "name:swe_x_preferred":[
         "Poli\u00e7an"
@@ -98,6 +95,9 @@
     ],
     "name:war_x_preferred":[
         "Poli\u00e7an"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5229\u5361\u5c3c"
     ],
     "qs:name":"Poli\u00e7an",
     "qs:photos_9r":0,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":890443451,
-    "wof:lastmodified":1527787069,
+    "wof:lastmodified":1561777930,
     "wof:name":"Poli\u00e7an",
     "wof:parent_id":1108720891,
     "wof:placetype":"locality",

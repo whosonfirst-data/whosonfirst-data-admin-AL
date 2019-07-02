@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Burreli"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u0435\u043b"
     ],
@@ -25,19 +22,10 @@
     "name:ces_x_preferred":[
         "Burrel"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u96f7\u5229"
-    ],
-    "name:cze_x_preferred":[
-        "Burrel"
-    ],
     "name:dan_x_preferred":[
         "Burrel"
     ],
     "name:deu_x_preferred":[
-        "Burrel"
-    ],
-    "name:dut_x_preferred":[
         "Burrel"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +38,6 @@
         "Burrel"
     ],
     "name:fra_x_preferred":[
-        "Burrel"
-    ],
-    "name:fre_x_preferred":[
-        "Burrel"
-    ],
-    "name:ger_x_preferred":[
         "Burrel"
     ],
     "name:hun_x_preferred":[
@@ -72,9 +54,6 @@
     ],
     "name:lit_x_preferred":[
         "Burelis"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u0440\u0435\u043b"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0440\u0435\u043b"
@@ -97,9 +76,6 @@
     "name:ron_x_preferred":[
         "Burrel"
     ],
-    "name:rum_x_preferred":[
-        "Burrel"
-    ],
     "name:rup_x_preferred":[
         "Burrel"
     ],
@@ -107,9 +83,6 @@
         "\u0411\u0443\u0440\u0440\u0435\u043b\u0438"
     ],
     "name:slk_x_preferred":[
-        "Burrel"
-    ],
-    "name:slo_x_preferred":[
         "Burrel"
     ],
     "name:sqi_x_preferred":[
@@ -191,7 +164,7 @@
         }
     ],
     "wof:id":421198035,
-    "wof:lastmodified":1527716356,
+    "wof:lastmodified":1561777928,
     "wof:name":"Burrel",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

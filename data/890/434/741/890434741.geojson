@@ -17,28 +17,19 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:alb_x_preferred":[
-        "Orikumi"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u91cc\u5eab\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Orikumi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Orikum"
     ],
     "name:eng_x_preferred":[
         "Orikum"
     ],
-    "name:fre_x_preferred":[
-        "Orikum"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Orikum"
     ],
     "name:hun_x_preferred":[
@@ -47,8 +38,11 @@
     "name:ita_x_preferred":[
         "Orikum"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Orikum"
     ],
     "name:pol_x_preferred":[
         "Orikum"
@@ -56,11 +50,14 @@
     "name:por_x_preferred":[
         "Orikum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Orikum"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
+    ],
+    "name:sqi_x_preferred":[
+        "Orikumi"
     ],
     "name:swe_x_preferred":[
         "Bashkia e Orikumit"
@@ -82,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Orikum"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u91cc\u5eab\u59c6"
     ],
     "qs:name":"Orikum",
     "qs:photos_9r":0,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":890434741,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777931,
     "wof:name":"Orikum",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

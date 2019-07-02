@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397103,
-    "geom:area_square_m":3726543803.134348,
+    "geom:area_square_m":3726543803.13444,
     "geom:bbox":"20.2965006885,40.0793507285,21.057282,41.091640147",
     "geom:latitude":40.629473,
     "geom:longitude":20.67074,
@@ -25,20 +25,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Kor\u00e7\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0631\u062a\u0634\u064a"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Kor\u00e7\u00eb"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0579\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Kor\u00e7\u00eb konderria"
     ],
     "name:bel_x_preferred":[
         "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u041a\u043e\u0440\u0447\u0430"
@@ -55,17 +46,17 @@
     "name:cat_x_preferred":[
         "Comtat de Kor\u00e7\u00eb"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8d64\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:dan_x_preferred":[
         "Kor\u00e7\u00eb County"
     ],
-    "name:dut_x_preferred":[
-        "Kor\u00e7\u00eb"
+    "name:deu_x_preferred":[
+        "Qark Kor\u00e7a"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03c1\u03c5\u03c4\u03c3\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kor\u00e7\u00eb"
@@ -76,23 +67,23 @@
     "name:est_x_preferred":[
         "Kor\u00e7\u00eb maakond"
     ],
+    "name:eus_x_preferred":[
+        "Kor\u00e7\u00eb konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u0686\u0647"
+    ],
     "name:fin_x_preferred":[
         "Kor\u00e7\u00ebn maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Kor\u00e7\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Kor\u00e7a"
     ],
     "name:gle_x_preferred":[
         "Contae Kor\u00e7\u00eb"
     ],
     "name:glg_x_preferred":[
         "Condado de Kor\u00e7\u00eb"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03c1\u03c5\u03c4\u03c3\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0ab8\u0ac7 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -105,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "Kor\u00e7a megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0579\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ind_x_preferred":[
         "Kor\u00e7\u00eb County"
@@ -133,26 +127,26 @@
     "name:lmo_x_preferred":[
         "Prefettura de Coriza"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u0440\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u0949\u090f \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Korce County"
     ],
     "name:nep_x_preferred":[
         "\u0915\u094b\u0930\u094d\u0938\u0947 \u0915\u093e\u0909\u0928\u094d\u091f\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Kor\u00e7\u00eb"
     ],
     "name:nob_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:oci_x_preferred":[
         "Prefectura de Kor\u00e7\u00eb"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u0686\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u0631\u0686\u06c1"
@@ -163,7 +157,7 @@
     "name:por_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Kor\u00e7\u00eb"
     ],
     "name:rus_x_preferred":[
@@ -175,11 +169,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0dca\u0dc3\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:spa_x_preferred":[
         "Condado de Kor\u00e7\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Kor\u00e7\u00ebs"
     ],
     "name:swe_x_preferred":[
         "Kor\u00e7\u00eb prefektur"
@@ -219,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "Kor\u00e7\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8d64\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -343,7 +343,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814706,
+    "wof:lastmodified":1561777910,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

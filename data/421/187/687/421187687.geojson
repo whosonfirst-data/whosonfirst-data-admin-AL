@@ -29,20 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i Fierit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u0631"
     ],
-    "name:chi_x_preferred":[
-        "\u975e\u590f\u723e\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Fier"
     ],
-    "name:dut_x_preferred":[
-        "Fier"
+    "name:deu_x_preferred":[
+        "Kreis Fier"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a6\u03b9\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Fier"
@@ -53,20 +50,17 @@
     "name:epo_x_preferred":[
         "Distrikto Fier"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Fier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Fier"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis Fier"
     ],
     "name:glg_x_preferred":[
         "Distrito de Fier"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a6\u03b9\u03ad\u03c1"
     ],
     "name:hrv_x_preferred":[
         "Fierski distrikt"
@@ -92,20 +86,20 @@
     "name:lmo_x_preferred":[
         "Distrett de Fier"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u0438\u0435\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Fier"
+    ],
+    "name:nld_x_preferred":[
+        "Fier"
     ],
     "name:nob_x_preferred":[
         "Fier"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a40\u0a0f\u0a30 \u0a1c\u0a3c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u06cc\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0641\u06cc\u0631"
@@ -116,17 +110,20 @@
     "name:por_x_preferred":[
         "Fier"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Fier"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u0435\u0440\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fier"
     ],
     "name:spa_x_preferred":[
         "Distrito de Fier"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i Fierit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0424\u0458\u0435\u0440"
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "Fier"
+    ],
+    "name:zho_x_preferred":[
+        "\u975e\u590f\u723e\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1555220346,
+    "wof:lastmodified":1561777926,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

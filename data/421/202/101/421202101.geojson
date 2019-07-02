@@ -13,23 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Vora"
-    ],
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u0430"
     ],
     "name:ceb_x_preferred":[
         "Bashkia e Vor\u00ebs"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u62c9"
-    ],
     "name:deu_x_preferred":[
         "Vora"
-    ],
-    "name:dut_x_preferred":[
-        "Vor\u00eb"
     ],
     "name:eng_x_preferred":[
         "Vor\u00eb"
@@ -37,17 +28,8 @@
     "name:fra_x_preferred":[
         "Vor\u00eb"
     ],
-    "name:fre_x_preferred":[
-        "Vor\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Vora"
-    ],
     "name:ita_x_preferred":[
         "Vor\u00eb"
-    ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u0440\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u043e\u0440\u0430"
@@ -64,9 +46,6 @@
     "name:ron_x_preferred":[
         "Vora"
     ],
-    "name:rum_x_preferred":[
-        "Vora"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u0430"
     ],
@@ -75,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Vor\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Vora"
     ],
     "name:swe_x_preferred":[
         "Bashkia e Vor\u00ebs"
@@ -93,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Vor\u00eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":421202101,
-    "wof:lastmodified":1527716210,
+    "wof:lastmodified":1561777926,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108720911,
     "wof:placetype":"locality",

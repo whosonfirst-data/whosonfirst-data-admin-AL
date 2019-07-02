@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Lezha"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0632\u0647\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0565\u056a\u0561"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u0436\u0430"
@@ -46,20 +40,14 @@
     "name:che_x_preferred":[
         "\u041b\u0435\u0436\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u83b1\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Lezh\u00eb"
-    ],
     "name:dan_x_preferred":[
         "Lezh\u00eb"
     ],
     "name:deu_x_preferred":[
         "Lezha"
     ],
-    "name:dut_x_preferred":[
-        "Lezh\u00eb"
+    "name:ell_x_preferred":[
+        "\u039b\u03ad\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lezh\u00eb"
@@ -73,17 +61,8 @@
     "name:fin_x_preferred":[
         "Lezh\u00eb"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lezh\u00eb"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10df\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Lezha"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ad\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0a9d\u0ac7"
@@ -93,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Lezha"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u056a\u0561"
     ],
     "name:ind_x_preferred":[
         "Lezh\u00eb"
@@ -118,26 +100,23 @@
     "name:lit_x_preferred":[
         "Le\u017e\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0435\u0436"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0947\u091d\u0947"
     ],
-    "name:may_x_preferred":[
-        "Lezhe"
-    ],
     "name:mkd_x_preferred":[
         "\u041b\u0435\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Lezhe"
+    ],
+    "name:nld_x_preferred":[
+        "Lezh\u00eb"
     ],
     "name:nob_x_preferred":[
         "Lezhe"
     ],
     "name:nor_x_preferred":[
         "Lezhe"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0698\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0698\u06c1"
@@ -148,7 +127,7 @@
     "name:por_x_preferred":[
         "Lezh\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lezha"
     ],
     "name:rup_x_preferred":[
@@ -160,7 +139,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd9\u0dc3\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lezh\u00eb"
     ],
     "name:slv_x_preferred":[
@@ -264,7 +243,7 @@
         }
     ],
     "wof:id":421187023,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777926,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":421169921,
     "wof:placetype":"locality",

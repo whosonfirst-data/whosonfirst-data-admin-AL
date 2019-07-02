@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177069,
-    "geom:area_square_m":1645649970.064466,
+    "geom:area_square_m":1645649970.064628,
     "geom:bbox":"19.430389404,41.0021060339,20.2337288797,41.517133662",
     "geom:latitude":41.269464,
     "geom:longitude":19.792985,
@@ -22,20 +22,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Tiran\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u0631\u0627\u0646\u0627"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Tirana"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u056b\u0580\u0561\u0576\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Tirana konderria"
     ],
     "name:bel_x_preferred":[
         "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0422\u044b\u0440\u0430\u043d\u0430"
@@ -49,14 +40,14 @@
     "name:cat_x_preferred":[
         "Comtat de Tirana"
     ],
-    "name:chi_x_preferred":[
-        "\u5730\u62c9\u90a3\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tiran\u00eb"
     ],
-    "name:dut_x_preferred":[
-        "Tirana"
+    "name:deu_x_preferred":[
+        "Qark Tirana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a4\u03b9\u03c1\u03ac\u03bd\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tiran\u00eb"
@@ -67,14 +58,17 @@
     "name:est_x_preferred":[
         "Tirana maakond"
     ],
+    "name:eus_x_preferred":[
+        "Tirana konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u06cc\u0631\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tiranan maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Tirana"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Tirana"
     ],
     "name:gle_x_preferred":[
         "Contae Tiran\u00eb"
@@ -82,14 +76,14 @@
     "name:glg_x_preferred":[
         "Condado de Tirana"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a4\u03b9\u03c1\u03ac\u03bd\u03c9\u03bd"
-    ],
     "name:hin_x_preferred":[
         "\u0924\u093f\u0930\u093e\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
         "Tiranski okrug"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u056b\u0580\u0561\u0576\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ita_x_preferred":[
         "prefettura di Tirana"
@@ -109,17 +103,17 @@
     "name:lmo_x_preferred":[
         "Prefettura de Tirana"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Tirana"
     ],
     "name:nob_x_preferred":[
         "Tiran\u00eb"
     ],
     "name:oci_x_preferred":[
         "Prefectura de Tiran\u00eb"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u06cc\u0631\u0627\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u0631\u0627\u0646\u0627"
@@ -130,7 +124,7 @@
     "name:por_x_preferred":[
         "Tirana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Tirana"
     ],
     "name:rus_x_preferred":[
@@ -139,11 +133,14 @@
     "name:sco_x_preferred":[
         "Tirana Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tirana"
     ],
     "name:spa_x_preferred":[
         "Condado de Tirana"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Tiran\u00ebs"
     ],
     "name:swe_x_preferred":[
         "Tiran\u00eb prefektur"
@@ -168,6 +165,9 @@
     ],
     "name:war_x_preferred":[
         "Tirana"
+    ],
+    "name:zho_x_preferred":[
+        "\u5730\u62c9\u90a3\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -213,7 +213,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553816514,
+    "wof:lastmodified":1561777922,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

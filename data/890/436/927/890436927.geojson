@@ -15,32 +15,23 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Leskoviku"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u65af\u79d1\u7dad\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leskovik"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Leskovik"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c3\u03ba\u03bf\u03b2\u03af\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Leskovik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leskovik"
-    ],
-    "name:ger_x_preferred":[
-        "Leskovik"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03c3\u03ba\u03bf\u03b2\u03af\u03ba\u03b9"
     ],
     "name:hun_x_preferred":[
         "Leskovik"
@@ -48,20 +39,26 @@
     "name:ita_x_preferred":[
         "Leskovik"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u043a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Leskovik"
+    ],
+    "name:nld_x_preferred":[
         "Leskovik"
     ],
     "name:por_x_preferred":[
         "Leskovik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Leskovik"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u043a"
+    ],
+    "name:sqi_x_preferred":[
+        "Leskoviku"
     ],
     "name:swe_x_preferred":[
         "Leskovik"
@@ -80,6 +77,9 @@
     ],
     "name:war_x_preferred":[
         "Leskovik"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u65af\u79d1\u7dad\u514b"
     ],
     "qs:name":"Leskovik",
     "qs:photos_9r":0,
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":890436927,
-    "wof:lastmodified":1527735406,
+    "wof:lastmodified":1561777930,
     "wof:name":"Leskovik",
     "wof:parent_id":421193597,
     "wof:placetype":"locality",

@@ -16,20 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Kor\u00e7\u00eb"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u062a\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0579\u0561"
-    ],
     "name:aze_x_preferred":[
         "Kor\u00e7a"
-    ],
-    "name:baq_x_preferred":[
-        "Kor\u00e7\u00eb"
     ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0430"
@@ -49,10 +40,7 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5c14\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:dan_x_preferred":[
@@ -60,9 +48,6 @@
     ],
     "name:deu_x_preferred":[
         "Kor\u00e7a"
-    ],
-    "name:dut_x_preferred":[
-        "Kor\u00e7\u00eb"
     ],
     "name:ell_x_preferred":[
         "Korytsa"
@@ -76,6 +61,9 @@
     "name:epo_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
+    "name:eus_x_preferred":[
+        "Kor\u00e7\u00eb"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0686\u0647"
     ],
@@ -85,17 +73,8 @@
     "name:fra_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
-    "name:fre_x_preferred":[
-        "Kor\u00e7\u00eb"
-    ],
     "name:frr_x_preferred":[
         "Kor\u00e7\u00eb"
-    ],
-    "name:ger_x_preferred":[
-        "Kor\u00e7a"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03c5\u03c4\u03c3\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acd\u0ab8"
@@ -139,20 +118,17 @@
     "name:lit_x_preferred":[
         "Kor\u010d\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u0440\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u0915\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Korce"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0446\u0430"
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Korce"
     ],
     "name:nld_x_preferred":[
         "Kor\u00e7\u00eb"
@@ -166,9 +142,6 @@
     "name:oci_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0686\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u0631\u0686\u06c1"
     ],
@@ -178,7 +151,7 @@
     "name:por_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kor\u00e7a"
     ],
     "name:rup_x_preferred":[
@@ -193,7 +166,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0dc3\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:spa_x_preferred":[
@@ -242,9 +215,6 @@
         "Kor\u00e7a"
     ],
     "name:war_x_preferred":[
-        "Kor\u00e7\u00eb"
-    ],
-    "name:wel_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:zho_x_preferred":[
@@ -375,7 +345,7 @@
         }
     ],
     "wof:id":890443445,
-    "wof:lastmodified":1527787068,
+    "wof:lastmodified":1561777930,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

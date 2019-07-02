@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193667,
-    "geom:area_square_m":1813692079.459922,
+    "geom:area_square_m":1813692079.459975,
     "geom:bbox":"19.308750153,40.4192333631,19.9234899728,41.0671785727",
     "geom:latitude":40.767071,
     "geom:longitude":19.627894,
@@ -25,20 +25,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Fierit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u064a\u0631"
     ],
     "name:arg_x_preferred":[
         "Prefectura de Fier"
-    ],
-    "name:arm_x_preferred":[
-        "\u0556\u056b\u0565\u0580\u056b\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Fier konderria"
     ],
     "name:bre_x_preferred":[
         "Fier"
@@ -49,14 +40,14 @@
     "name:cat_x_preferred":[
         "Comtat de Fier"
     ],
-    "name:chi_x_preferred":[
-        "\u975e\u590f\u723e\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fier"
     ],
-    "name:dut_x_preferred":[
-        "Fier"
+    "name:deu_x_preferred":[
+        "Qark Fier"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a6\u03b9\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Fier"
@@ -67,14 +58,17 @@
     "name:est_x_preferred":[
         "Fieri maakond"
     ],
+    "name:eus_x_preferred":[
+        "Fier konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Fierin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Fier"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Fier"
     ],
     "name:gle_x_preferred":[
         "Contae Fier"
@@ -82,14 +76,14 @@
     "name:glg_x_preferred":[
         "Condado de Fier"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a6\u03b9\u03ad\u03c1"
-    ],
     "name:hin_x_preferred":[
         "\u092b\u093f\u090f\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
         "Fierski okrug"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056b\u0565\u0580\u056b\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ita_x_preferred":[
         "prefettura di Fier"
@@ -109,17 +103,17 @@
     "name:lmo_x_preferred":[
         "Prefettura de Fier"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u0438\u0435\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Fier"
     ],
     "name:nob_x_preferred":[
         "Fier"
     ],
     "name:oci_x_preferred":[
         "Prefectura de Fier"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u06cc\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u06cc\u0631"
@@ -130,7 +124,7 @@
     "name:por_x_preferred":[
         "Fier"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Fier"
     ],
     "name:rus_x_preferred":[
@@ -139,11 +133,14 @@
     "name:sco_x_preferred":[
         "Fier Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fier"
     ],
     "name:spa_x_preferred":[
         "Condado de Fier"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Fierit"
     ],
     "name:swe_x_preferred":[
         "Fier prefektur"
@@ -171,6 +168,9 @@
     ],
     "name:war_x_preferred":[
         "Fier"
+    ],
+    "name:zho_x_preferred":[
+        "\u975e\u590f\u723e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814705,
+    "wof:lastmodified":1561777911,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -13,26 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Shkodra"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u0642\u0648\u062f\u0631\u0629"
     ],
     "name:arg_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u056f\u0578\u0564\u0565\u0580"
-    ],
     "name:aze_x_preferred":[
         "\u015ekoder"
     ],
     "name:bak_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
-    ],
-    "name:baq_x_preferred":[
-        "Shkod\u00ebr"
     ],
     "name:bel_x_preferred":[
         "\u0428\u043a\u043e\u0434\u044d\u0440"
@@ -52,17 +43,17 @@
     "name:cat_x_preferred":[
         "Scutari"
     ],
+    "name:ces_x_preferred":[
+        "Skadar"
+    ],
     "name:che_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u5e93\u53f0"
     ],
     "name:chv_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
     ],
-    "name:cze_x_preferred":[
-        "Skadar"
+    "name:cym_x_preferred":[
+        "Shkod\u00ebr"
     ],
     "name:dan_x_preferred":[
         "Shkod\u00ebr"
@@ -70,8 +61,11 @@
     "name:deu_x_preferred":[
         "Scutari"
     ],
-    "name:dut_x_preferred":[
-        "Shkod\u00ebr"
+    "name:deu_x_variant":[
+        "Shkodra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03cc\u03b4\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Shkod\u00ebr"
@@ -82,29 +76,26 @@
     "name:est_x_preferred":[
         "Shkod\u00ebr"
     ],
+    "name:eus_x_preferred":[
+        "Shkod\u00ebr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u06a9\u0648\u062f\u0631"
+    ],
     "name:fin_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:fra_x_preferred":[
         "Scutari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Shkod\u00ebr"
     ],
     "name:frr_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d9\u10dd\u10d3\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shkodra"
-    ],
     "name:glg_x_preferred":[
         "Shkod\u00ebr"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03cc\u03b4\u03c1\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Shkodra"
@@ -124,6 +115,9 @@
     "name:hun_x_preferred":[
         "Shkodra"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u056f\u0578\u0564\u0565\u0580"
+    ],
     "name:ile_x_preferred":[
         "Shkod\u00ebr"
     ],
@@ -138,6 +132,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb7\u0ccb\u0ca1\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d9\u10dd\u10d3\u10d4\u10e0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc288\ucf54\ub354\ub974"
@@ -154,13 +151,13 @@
     "name:ltz_x_preferred":[
         "Shkodra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043a\u0430\u0434\u0430\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u094d\u0915\u094b\u0926\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u0430\u0434\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:myv_x_preferred":[
@@ -169,11 +166,11 @@
     "name:nld_x_preferred":[
         "Scutari"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_variant":[
         "Shkod\u00ebr"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0634\u06a9\u0648\u062f\u0631"
+    "name:nob_x_preferred":[
+        "Shkod\u00ebr"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06a9\u0648\u062f\u0631"
@@ -187,7 +184,7 @@
     "name:ron_x_preferred":[
         "Scutari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Shkod\u00ebr"
     ],
     "name:rup_x_preferred":[
@@ -202,7 +199,7 @@
     "name:sin_x_preferred":[
         "\u0dc1\u0dca\u0d9a\u0ddc\u0daf\u0dd3\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Shkod\u00ebr"
     ],
     "name:slv_x_preferred":[
@@ -210,6 +207,9 @@
     ],
     "name:spa_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Shkodra"
     ],
     "name:srd_x_preferred":[
         "Shkod\u00ebr"
@@ -250,8 +250,8 @@
     "name:war_x_preferred":[
         "Shkod\u00ebr"
     ],
-    "name:wel_x_preferred":[
-        "Shkod\u00ebr"
+    "name:zho_x_preferred":[
+        "\u65af\u5e93\u53f0"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -298,7 +298,7 @@
         }
     ],
     "wof:id":421197919,
-    "wof:lastmodified":1527716408,
+    "wof:lastmodified":1561777928,
     "wof:name":"Scutari",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

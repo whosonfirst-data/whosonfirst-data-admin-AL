@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355218,
-    "geom:area_square_m":3312310525.504961,
+    "geom:area_square_m":3312310525.504972,
     "geom:bbox":"19.6754564647,40.7072758901,20.6033402327,41.3936641778",
     "geom:latitude":41.051981,
     "geom:longitude":20.193393,
@@ -25,20 +25,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Qarku i Elbasanit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
     "name:arg_x_preferred":[
         "prefectura d'Elbasan"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Elbasan konderria"
     ],
     "name:bel_x_preferred":[
         "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
@@ -52,14 +43,14 @@
     "name:cat_x_preferred":[
         "Comtat d'Elbasan"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u5df4\u7533\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Elbasan"
     ],
-    "name:dut_x_preferred":[
-        "Elbasan"
+    "name:deu_x_preferred":[
+        "Qark Elbasan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u0395\u03bb\u03b2\u03b1\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Elbasan"
@@ -70,23 +61,23 @@
     "name:est_x_preferred":[
         "Elbasani maakond"
     ],
+    "name:eus_x_preferred":[
+        "Elbasan konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Elbasanin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture d'Elbasan"
-    ],
-    "name:ger_x_preferred":[
-        "Qark Elbasan"
     ],
     "name:gle_x_preferred":[
         "Contae Elbasan"
     ],
     "name:glg_x_preferred":[
         "condado de Elbasan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03bc\u03cc\u03c2 \u0395\u03bb\u03b2\u03b1\u03c3\u03ac\u03bd"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0932\u092c\u0938\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -96,6 +87,9 @@
     ],
     "name:hun_x_preferred":[
         "Elbasan megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0562\u0561\u057d\u0561\u0576\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
     "name:ita_x_preferred":[
         "prefettura di Elbasan"
@@ -118,17 +112,17 @@
     "name:lmo_x_preferred":[
         "Prefettura de Elbasan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Elbasan"
     ],
     "name:nob_x_preferred":[
         "Elbasan"
     ],
     "name:oci_x_preferred":[
         "prefectura d'Elbasan"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
@@ -139,7 +133,7 @@
     "name:por_x_preferred":[
         "Elbasan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Elbasan"
     ],
     "name:rus_x_preferred":[
@@ -148,11 +142,14 @@
     "name:sco_x_preferred":[
         "Elbasan Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Elbasan"
     ],
     "name:spa_x_preferred":[
         "condado de Elbasan"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku i Elbasanit"
     ],
     "name:swe_x_preferred":[
         "Elbasan prefektur"
@@ -180,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "Elbasan"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5df4\u7533\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALB",
@@ -304,7 +304,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1553814706,
+    "wof:lastmodified":1561777910,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

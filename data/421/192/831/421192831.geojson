@@ -29,9 +29,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Rrethi i P\u00ebrmetit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0631\u0645\u062a"
     ],
@@ -44,17 +41,8 @@
     "name:ces_x_preferred":[
         "Okres P\u00ebrmet"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u723e\u6885\u7279\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Okres P\u00ebrmet"
-    ],
     "name:deu_x_preferred":[
         "Kreis P\u00ebrmet"
-    ],
-    "name:dut_x_preferred":[
-        "P\u00ebrmet"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03c1\u03b5\u03bc\u03b5\u03c4\u03ae\u03c2"
@@ -71,17 +59,11 @@
     "name:fin_x_preferred":[
         "P\u00ebrmetin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de P\u00ebrmet"
-    ],
-    "name:ger_x_preferred":[
-        "Kreis P\u00ebrmet"
     ],
     "name:glg_x_preferred":[
         "Distrito de P\u00ebrmet"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03c1\u03b5\u03bc\u03b5\u03c4\u03ae\u03c2"
     ],
     "name:hrv_x_preferred":[
         "P\u00ebrmetski distrikt"
@@ -107,20 +89,20 @@
     "name:lmo_x_preferred":[
         "Distrett de P\u00ebrmet"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u043c\u0435\u0442"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah P\u00ebrmet"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00ebrmet"
     ],
     "name:nob_x_preferred":[
         "P\u00ebrmet"
     ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a47\u0a30\u0a2e\u0a47\u0a24 \u0a1c\u0a3f\u0a32\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0631\u0645\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0631\u0645\u062a"
@@ -131,17 +113,20 @@
     "name:por_x_preferred":[
         "P\u00ebrmet"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul P\u00ebrmet"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u043c\u0435\u0442\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00ebrmet"
     ],
     "name:spa_x_preferred":[
         "Distrito de P\u00ebrmet"
+    ],
+    "name:sqi_x_preferred":[
+        "Rrethi i P\u00ebrmetit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u0430\u0440\u043c\u0435\u0442"
@@ -166,6 +151,9 @@
     ],
     "name:war_x_preferred":[
         "P\u00ebrmet"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u723e\u6885\u7279\u5340"
     ],
     "qs:gn_country":"AL",
     "qs:gn_fcode":"ADM2",
@@ -228,7 +216,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1555037077,
+    "wof:lastmodified":1561777925,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

@@ -15,9 +15,6 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kopliku"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u043b\u0438\u043a"
     ],
@@ -27,16 +24,7 @@
     "name:ces_x_preferred":[
         "Koplik"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u666e\u5229\u5eab"
-    ],
-    "name:cze_x_preferred":[
-        "Koplik"
-    ],
     "name:deu_x_preferred":[
-        "Koplik"
-    ],
-    "name:dut_x_preferred":[
         "Koplik"
     ],
     "name:eng_x_preferred":[
@@ -45,10 +33,7 @@
     "name:fin_x_preferred":[
         "Koplik"
     ],
-    "name:fre_x_preferred":[
-        "Koplik"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Koplik"
     ],
     "name:ita_x_preferred":[
@@ -56,9 +41,6 @@
     ],
     "name:lit_x_preferred":[
         "Kopliku"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043f\u043b\u0438\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043f\u043b\u0438\u043a"
@@ -75,16 +57,10 @@
     "name:ron_x_preferred":[
         "Koplik"
     ],
-    "name:rum_x_preferred":[
-        "Koplik"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043f\u043b\u0438\u043a"
     ],
     "name:slk_x_preferred":[
-        "Koplik"
-    ],
-    "name:slo_x_preferred":[
         "Koplik"
     ],
     "name:sqi_x_preferred":[
@@ -156,7 +132,7 @@
         }
     ],
     "wof:id":890434749,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1561777931,
     "wof:name":"Koplik",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",
