@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Kolonj\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Kolonj\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Kolonj\u00eb"
     ],
@@ -59,6 +62,9 @@
     "name:fin_x_preferred":[
         "Kolonj\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Kolonj\u00eb"
+    ],
     "name:fra_x_preferred":[
         "district de Kolonj\u00eb"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hrv_x_preferred":[
         "Kolonje\u0161ki distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Kolonja ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Kolonje"
@@ -211,7 +220,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318362,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

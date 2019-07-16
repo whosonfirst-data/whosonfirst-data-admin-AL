@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Vlor\u00eb"
     ],
+    "name:ceb_x_preferred":[
+        "Vlor\u00eb"
+    ],
     "name:ces_x_preferred":[
         "Vlora"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:epo_x_preferred":[
         "Vlor\u00eb"
+    ],
+    "name:epo_x_variant":[
+        "Vlora"
     ],
     "name:est_x_preferred":[
         "Vlor\u00eb"
@@ -102,6 +108,9 @@
         "Vlora"
     ],
     "name:hye_x_preferred":[
+        "\u054e\u056c\u0578\u0580\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u054e\u056c\u0578\u0580\u0561"
     ],
     "name:ind_x_preferred":[
@@ -195,6 +204,9 @@
         "\u0412\u0430\u043b\u043e\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "Vlora"
+    ],
+    "name:szl_x_preferred":[
         "Vlora"
     ],
     "name:tam_x_preferred":[
@@ -349,7 +361,7 @@
         }
     ],
     "wof:id":1141906787,
-    "wof:lastmodified":1561777940,
+    "wof:lastmodified":1563318637,
     "wof:name":"Vlore",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

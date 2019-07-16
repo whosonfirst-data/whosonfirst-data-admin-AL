@@ -28,7 +28,13 @@
     "name:cat_x_preferred":[
         "Kruj\u00eb"
     ],
+    "name:ceb_x_preferred":[
+        "Kruj\u00eb"
+    ],
     "name:ces_x_preferred":[
+        "Kruj\u00eb"
+    ],
+    "name:cym_x_preferred":[
         "Kruj\u00eb"
     ],
     "name:dan_x_preferred":[
@@ -63,6 +69,9 @@
     ],
     "name:hun_x_preferred":[
         "Kruj\u00eb"
+    ],
+    "name:hun_x_variant":[
+        "Kruja"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u0578\u0582\u0575\u0565"
@@ -109,6 +118,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0443\u044f"
+    ],
     "name:slk_x_preferred":[
         "Kruj\u00eb"
     ],
@@ -126,6 +138,9 @@
     ],
     "name:swe_x_preferred":[
         "Kruj\u00eb"
+    ],
+    "name:swe_x_variant":[
+        "Kruja"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0440\u0443\u0435"
@@ -279,7 +294,7 @@
         }
     ],
     "wof:id":890435375,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318447,
     "wof:name":"Kruj\u00eb",
     "wof:parent_id":421187431,
     "wof:placetype":"locality",

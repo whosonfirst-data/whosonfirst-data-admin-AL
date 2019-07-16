@@ -21,11 +21,17 @@
     "name:cat_x_preferred":[
         "Ballsh"
     ],
+    "name:ceb_x_preferred":[
+        "Ballsh"
+    ],
     "name:ces_x_preferred":[
         "Ballsh"
     ],
     "name:deu_x_preferred":[
         "Ballsh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ballsh"
@@ -66,6 +72,9 @@
     "name:por_x_preferred":[
         "Balshi"
     ],
+    "name:por_x_variant":[
+        "Ballsh"
+    ],
     "name:ron_x_preferred":[
         "Ballsh"
     ],
@@ -75,6 +84,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0448\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0448"
+    ],
     "name:slk_x_preferred":[
         "Ballsh"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:sqi_x_preferred":[
         "Ballshi"
+    ],
+    "name:sqi_x_variant":[
+        "Ballsh"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0448"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":890434753,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318443,
     "wof:name":"Ballsh",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

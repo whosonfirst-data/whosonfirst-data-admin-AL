@@ -18,6 +18,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u043a\u0438\u0437\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0443\u043b\u0447\u0438\u0437\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Bulqiz\u00eb"
+    ],
     "name:ces_x_preferred":[
         "Bulqiza"
     ],
@@ -26,6 +32,9 @@
     ],
     "name:deu_x_preferred":[
         "Bulqiza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bb\u03ba\u03af\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bulqiz\u00eb"
@@ -41,6 +50,9 @@
     ],
     "name:hrv_x_preferred":[
         "Bul\u010dica"
+    ],
+    "name:hrv_x_variant":[
+        "Bulqiz\u00eb"
     ],
     "name:hun_x_preferred":[
         "Bulqiza"
@@ -61,6 +73,9 @@
         "Bulqiz\u00eb"
     ],
     "name:nld_x_preferred":[
+        "Bulqiz\u00eb"
+    ],
+    "name:nno_x_preferred":[
         "Bulqiz\u00eb"
     ],
     "name:nob_x_preferred":[
@@ -98,6 +113,9 @@
     ],
     "name:srp_x_preferred":[
         "Bul\u0107iza"
+    ],
+    "name:srp_x_variant":[
+        "Bul\u010diza"
     ],
     "name:swe_x_preferred":[
         "Bulqiza"
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":890443459,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318440,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

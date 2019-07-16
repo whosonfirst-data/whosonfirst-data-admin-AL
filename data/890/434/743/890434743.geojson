@@ -18,16 +18,25 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0440\u0430\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Mamurras"
+    ],
     "name:ces_x_preferred":[
         "Mamurras"
     ],
     "name:deu_x_preferred":[
         "Mamurras"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bc\u03bf\u03c5\u03c1\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Mamurras"
     ],
     "name:fra_x_preferred":[
+        "Mamurras"
+    ],
+    "name:hun_x_preferred":[
         "Mamurras"
     ],
     "name:ita_x_preferred":[
@@ -54,11 +63,23 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0440\u0440\u0430\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043c\u0443\u0440\u0440\u0430\u0448"
+    ],
     "name:slk_x_preferred":[
+        "Mamurras"
+    ],
+    "name:spa_x_preferred":[
         "Mamurras"
     ],
     "name:sqi_x_preferred":[
         "Mamurrasi"
+    ],
+    "name:sqi_x_variant":[
+        "Mamurras"
+    ],
+    "name:swe_x_preferred":[
+        "Mamurras"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0440\u0440\u0430\u0441"
@@ -117,7 +138,7 @@
         }
     ],
     "wof:id":890434743,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318445,
     "wof:name":"Mamurras",
     "wof:parent_id":421181321,
     "wof:placetype":"locality",

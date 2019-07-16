@@ -24,6 +24,9 @@
     "name:deu_x_preferred":[
         "Selenica"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Selenic\u00eb"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890444559,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318430,
     "wof:name":"Selenic\u00eb",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

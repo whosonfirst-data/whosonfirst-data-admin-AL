@@ -15,6 +15,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "village of Albania"
+    ],
+    "name:sqi_x_preferred":[
+        "Fshatrat e Shqip\u00ebris\u00eb"
+    ],
     "name:unk_x_variant":[
         "Patosi Fshat"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":890433195,
-    "wof:lastmodified":1527792951,
+    "wof:lastmodified":1563318446,
     "wof:name":"Patos Fshat",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:arg_x_preferred":[
         "Prefectura de Kuk\u00ebs"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043a\u0435\u0441"
+    ],
+    "name:bos_x_preferred":[
+        "Okrug Kuk\u00ebs"
+    ],
     "name:bre_x_preferred":[
         "Kuk\u00ebs"
     ],
@@ -52,8 +58,14 @@
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03c5\u03ba\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03bc\u03cc\u03c2 \u039a\u03bf\u03cd\u03ba\u03b5\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Kuk\u00ebs"
+    ],
+    "name:eng_x_variant":[
+        "Kuk\u00ebs County"
     ],
     "name:epo_x_preferred":[
         "Provinco Kuk\u00ebs"
@@ -73,6 +85,12 @@
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Kuk\u00ebs"
     ],
+    "name:fra_x_variant":[
+        "Kuk\u00ebs"
+    ],
+    "name:frr_x_preferred":[
+        "Kuk\u00ebs"
+    ],
     "name:gle_x_preferred":[
         "Contae Kuk\u00ebs"
     ],
@@ -90,6 +108,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u056f\u0561\u057d\u056b \u0563\u0561\u057e\u0561\u057c"
+    ],
+    "name:ind_x_preferred":[
+        "County Kuk\u00ebs"
     ],
     "name:ita_x_preferred":[
         "prefettura di Kuk\u00ebs"
@@ -303,7 +324,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1561777911,
+    "wof:lastmodified":1563318012,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

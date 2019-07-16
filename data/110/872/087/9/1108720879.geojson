@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Mallakast\u00ebr"
     ],
+    "name:eng_x_variant":[
+        "Mallakast\u00ebr District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Mallakast\u00ebr"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mallakastrski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Mallakastra ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Mallakaster"
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1108720879,
-    "wof:lastmodified":1561777922,
+    "wof:lastmodified":1563318261,
     "wof:name":"Mallakast\u00ebr",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Gramsh"
     ],
+    "name:eng_x_variant":[
+        "Gramsh District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Gramsh"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0430\u043c\u0448"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u043c\u0435\u0448"
     ],
     "name:msa_x_preferred":[
         "Daerah Gramsh"
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":421191637,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318396,
     "wof:name":"Gramsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

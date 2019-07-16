@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0448\u043d\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Lushnj\u00eb"
+    ],
     "name:ces_x_preferred":[
         "Lushnj\u00eb"
     ],
@@ -38,11 +41,17 @@
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03cd\u03c3\u03bd\u03c4\u03b6\u03b5"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03cd\u03c3\u03bd\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Lushnj\u00eb"
     ],
     "name:epo_x_preferred":[
         "Lushnj\u00eb"
+    ],
+    "name:epo_x_variant":[
+        "Lushnje"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0634\u0646\u062c\u0647"
@@ -95,6 +104,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u0443\u0448\u045a\u0435"
     ],
+    "name:mon_x_preferred":[
+        "\u041b\u044e\u0448\u043d\u044f"
+    ],
     "name:msa_x_preferred":[
         "Lushnje"
     ],
@@ -133,6 +145,9 @@
     ],
     "name:sqi_x_preferred":[
         "Lushnja"
+    ],
+    "name:sqi_x_variant":[
+        "Lushnj\u00eb"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0448\u045a\u0435"
@@ -295,7 +310,7 @@
         }
     ],
     "wof:id":1141906135,
-    "wof:lastmodified":1561777940,
+    "wof:lastmodified":1563318636,
     "wof:name":"Lushnje",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

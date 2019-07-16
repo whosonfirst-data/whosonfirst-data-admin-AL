@@ -133,6 +133,9 @@
     "name:lav_x_preferred":[
         "E\u013cbasani"
     ],
+    "name:lav_x_variant":[
+        "E\u013cbasana"
+    ],
     "name:lit_x_preferred":[
         "Elbasanis"
     ],
@@ -144,6 +147,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0415\u043b\u0431\u0430\u0441\u0430\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
     "name:msa_x_preferred":[
         "Elbasan"
@@ -171,6 +177,9 @@
     ],
     "name:por_x_preferred":[
         "Elbasani"
+    ],
+    "name:por_x_variant":[
+        "Elbasan"
     ],
     "name:ron_x_preferred":[
         "Elbasan"
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":421187005,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318388,
     "wof:name":"Elbasan",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

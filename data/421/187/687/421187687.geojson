@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0641\u064a\u0631"
+    ],
     "name:ces_x_preferred":[
         "Okres Fier"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:hrv_x_preferred":[
         "Fierski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Fier ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Fier"
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318374,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

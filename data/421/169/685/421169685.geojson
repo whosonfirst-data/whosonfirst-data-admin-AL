@@ -59,6 +59,9 @@
     "name:eng_x_preferred":[
         "Dib\u00ebr"
     ],
+    "name:eng_x_variant":[
+        "Dib\u00ebr District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Dib\u00ebr"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:fin_x_preferred":[
         "Dib\u00ebrin piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Dib\u00ebr"
     ],
     "name:fra_x_preferred":[
         "District de Dib\u00ebr"
@@ -85,6 +91,9 @@
     ],
     "name:hrv_x_preferred":[
         "Dibrski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Dibra ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u0534\u056b\u0562\u0561\u0580\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -264,7 +273,7 @@
         }
     ],
     "wof:id":421169685,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318365,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

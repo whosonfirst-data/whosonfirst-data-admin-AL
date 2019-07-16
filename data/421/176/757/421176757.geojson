@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Labinot-Mal"
     ],
+    "name:hun_x_preferred":[
+        "Labinot-Mal"
+    ],
     "name:ita_x_preferred":[
         "Labinot Mal"
     ],
@@ -34,11 +37,17 @@
     "name:por_x_preferred":[
         "Labinot-Mal"
     ],
+    "name:spa_x_preferred":[
+        "Labinot-Mal"
+    ],
     "name:sqi_x_preferred":[
         "Nj\u00ebsia administrative Labinot-Mal"
     ],
     "name:sqi_x_variant":[
         "Komuna Labinot-Mal"
+    ],
+    "name:tur_x_preferred":[
+        "Labinot-Mal"
     ],
     "name:vie_x_preferred":[
         "Labinot Mal"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421176757,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318410,
     "wof:name":"Labinot-Mal",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

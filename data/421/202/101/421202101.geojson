@@ -22,11 +22,17 @@
     "name:deu_x_preferred":[
         "Vora"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Vor\u00eb"
     ],
     "name:fra_x_preferred":[
         "Vor\u00eb"
+    ],
+    "name:hun_x_preferred":[
+        "Vora"
     ],
     "name:ita_x_preferred":[
         "Vor\u00eb"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421202101,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318369,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108720911,
     "wof:placetype":"locality",

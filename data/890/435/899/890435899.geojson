@@ -21,10 +21,16 @@
     "name:deu_x_preferred":[
         "Fush\u00eb-Arr\u00ebz"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03c3\u03ad-\u0391\u03c1\u03ad\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Fush\u00eb-Arr\u00ebz"
     ],
     "name:fra_x_preferred":[
+        "Fush\u00eb-Arr\u00ebz"
+    ],
+    "name:hun_x_preferred":[
         "Fush\u00eb-Arr\u00ebz"
     ],
     "name:ita_x_preferred":[
@@ -32,6 +38,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0424\u0443\u0448\u0430-\u0410\u0440\u0430\u0437"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u0440\u0430\u0441\u043a\u043e \u041f\u043e\u043b\u0435"
     ],
     "name:msa_x_preferred":[
         "Fush\u00eb-Arr\u00ebz"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":890435899,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318447,
     "wof:name":"Fush\u00eb-Arr\u00ebz",
     "wof:parent_id":1108720859,
     "wof:placetype":"locality",

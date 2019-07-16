@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Tepelen\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Tepelen\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Tepelen\u00eb"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:fin_x_preferred":[
         "Tepelen\u00ebn piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Tepelen\u00eb"
     ],
     "name:fra_x_preferred":[
         "District de Tepelen\u00eb"
@@ -67,6 +73,9 @@
     ],
     "name:hrv_x_preferred":[
         "Tepelenski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Tepelena ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Tepelen\u00eb"
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":421189559,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318390,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

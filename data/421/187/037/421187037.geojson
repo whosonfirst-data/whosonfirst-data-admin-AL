@@ -50,7 +50,19 @@
     "name:ast_x_preferred":[
         "Tirana"
     ],
+    "name:ava_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u043d\u0430"
+    ],
+    "name:aym_x_preferred":[
+        "Tirana"
+    ],
     "name:aze_x_preferred":[
+        "Tirana"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u043d\u0430"
+    ],
+    "name:bcl_x_preferred":[
         "Tirana"
     ],
     "name:bel_x_preferred":[
@@ -75,6 +87,9 @@
         "\u0422\u0438\u0440\u0430\u043d\u0430"
     ],
     "name:cat_x_preferred":[
+        "Tirana"
+    ],
+    "name:cdo_x_preferred":[
         "Tirana"
     ],
     "name:ceb_x_preferred":[
@@ -150,6 +165,9 @@
         "Tirana"
     ],
     "name:fry_x_preferred":[
+        "Tirana"
+    ],
+    "name:ful_x_preferred":[
         "Tirana"
     ],
     "name:gag_x_preferred":[
@@ -272,6 +290,9 @@
     "name:lav_x_preferred":[
         "Tir\u0101na"
     ],
+    "name:lfn_x_preferred":[
+        "Tirana"
+    ],
     "name:lij_x_preferred":[
         "Tirana"
     ],
@@ -293,6 +314,9 @@
     "name:ltz_x_preferred":[
         "Tirana"
     ],
+    "name:mai_x_preferred":[
+        "\u091f\u093f\u0930\u093e\u0928\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d3f\u0d31\u0d3e\u0d28"
     ],
@@ -302,20 +326,32 @@
     "name:mhr_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d\u0435"
     ],
+    "name:mhr_x_variant":[
+        "\u0422\u0438\u0440\u0430\u043d\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
         "Tirana"
     ],
+    "name:mlt_x_preferred":[
+        "Tirana"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d"
+    ],
+    "name:mon_x_variant":[
+        "\u0422\u0438\u0440\u0430\u043d \u0445\u043e\u0442"
     ],
     "name:mri_x_preferred":[
         "Tirana"
     ],
     "name:msa_x_preferred":[
         "Tirana"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u102e\u101b\u102c\u1014\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d\u0430 \u043e\u0448"
@@ -348,6 +384,9 @@
         "Tirana"
     ],
     "name:oci_x_preferred":[
+        "Tirana"
+    ],
+    "name:olo_x_preferred":[
         "Tirana"
     ],
     "name:ori_x_preferred":[
@@ -686,7 +725,7 @@
         }
     ],
     "wof:id":421187037,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318380,
     "wof:name":"Tirana",
     "wof:parent_id":85667831,
     "wof:placetype":"locality",

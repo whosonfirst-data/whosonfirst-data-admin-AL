@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Fush\u00eb-Kruj\u00eb"
     ],
+    "name:hun_x_preferred":[
+        "Fush\u00eb-Kruja"
+    ],
     "name:ita_x_preferred":[
         "Fush\u00eb Kruj\u00eb"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0424\u0443\u0448\u0430-\u041a\u0440\u0443\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u043e\u0458\u0441\u043a\u043e \u041f\u043e\u043b\u0435"
     ],
     "name:myv_x_preferred":[
         "\u0424\u0443\u0448\u0435-\u041a\u0440\u0443\u044f \u043e\u0448"
@@ -67,7 +73,13 @@
     "name:rus_x_preferred":[
         "\u0424\u0443\u0448\u0430-\u041a\u0440\u0443\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0443\u0448\u0435-\u041a\u0440\u0443\u044f"
+    ],
     "name:sco_x_preferred":[
+        "Fush\u00eb-Kruj\u00eb"
+    ],
+    "name:spa_x_preferred":[
         "Fush\u00eb-Kruj\u00eb"
     ],
     "name:sqi_x_preferred":[
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1125871697,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318452,
     "wof:name":"Fush\u00eb-Kruj\u00eb",
     "wof:parent_id":421187431,
     "wof:placetype":"locality",

@@ -59,6 +59,9 @@
     "name:eng_x_preferred":[
         "Lezh\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Lezh\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Lezh\u00eb"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:fin_x_preferred":[
         "Lezh\u00ebn piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Lezh\u00eb"
     ],
     "name:fra_x_preferred":[
         "District de Lezh\u00eb"
@@ -85,6 +91,9 @@
     ],
     "name:hrv_x_preferred":[
         "Lje\u0161ki distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Lezha ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Lezhe"
@@ -118,6 +127,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0435\u0436"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0435\u0441\u043a\u0430"
     ],
     "name:msa_x_preferred":[
         "Daerah Lezh\u00eb"
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":421169921,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318366,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

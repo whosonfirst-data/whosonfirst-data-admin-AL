@@ -78,6 +78,12 @@
     "name:sqi_x_preferred":[
         "Rubiku"
     ],
+    "name:sqi_x_variant":[
+        "Rubik"
+    ],
+    "name:swe_x_preferred":[
+        "Rubik"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0431\u0438\u043a"
     ],
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":890444561,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318430,
     "wof:name":"Rubik",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

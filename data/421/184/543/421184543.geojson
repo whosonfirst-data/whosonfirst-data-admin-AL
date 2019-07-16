@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Lushnje"
     ],
+    "name:eng_x_variant":[
+        "Lushnj\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Lushnj\u00eb"
     ],
@@ -53,6 +56,9 @@
     "name:fin_x_preferred":[
         "Lushnj\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Lushnj\u00eb"
+    ],
     "name:fra_x_preferred":[
         "District de Lushnj\u00eb"
     ],
@@ -64,6 +70,12 @@
     ],
     "name:hrv_x_preferred":[
         "Lu\u0161nja\u0161ki distrikt"
+    ],
+    "name:hrv_x_variant":[
+        "Lushnj\u00eb\u0161ki distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Lushnja ker\u00fclet"
     ],
     "name:ind_x_preferred":[
         "Distrik Lushnj\u00eb"
@@ -85,6 +97,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u0448\u045a\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0443\u0448\u045a\u0435"
     ],
     "name:msa_x_preferred":[
         "Daerah Lushnj\u00eb"
@@ -210,7 +225,7 @@
         }
     ],
     "wof:id":421184543,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318403,
     "wof:name":"Lushnje",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

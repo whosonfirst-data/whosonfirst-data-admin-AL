@@ -27,6 +27,9 @@
     "name:deu_x_preferred":[
         "Koplik"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c0\u03bb\u03b9\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Koplik"
     ],
@@ -34,6 +37,9 @@
         "Koplik"
     ],
     "name:fra_x_preferred":[
+        "Koplik"
+    ],
+    "name:hun_x_preferred":[
         "Koplik"
     ],
     "name:ita_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":890434749,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318444,
     "wof:name":"Koplik",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

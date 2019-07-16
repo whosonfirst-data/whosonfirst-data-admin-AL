@@ -44,8 +44,14 @@
     "name:deu_x_preferred":[
         "Kreis Puka"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03bf\u03cd\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Puk\u00eb"
+    ],
+    "name:eng_x_variant":[
+        "Puk\u00eb District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Puk\u00eb"
@@ -55,6 +61,9 @@
     ],
     "name:fin_x_preferred":[
         "Puk\u00ebn piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Puk\u00eb"
     ],
     "name:fra_x_preferred":[
         "District de Puk\u00eb"
@@ -67,6 +76,9 @@
     ],
     "name:hrv_x_preferred":[
         "Puk\u00ebski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Puka ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Puke"
@@ -216,7 +228,7 @@
         }
     ],
     "wof:id":421193315,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318362,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0625\u0644\u0628\u0627\u0633\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Elbasan ker\u00fclet"
+    ],
+    "name:hun_x_variant":[
+        "Elbasan k\u00f6zs\u00e9g"
     ],
     "name:hye_x_preferred":[
         "\u0537\u056c\u0562\u0561\u057d\u0561\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":421185415,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318411,
     "wof:name":"Elbasan",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

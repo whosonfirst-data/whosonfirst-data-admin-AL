@@ -46,6 +46,9 @@
     "name:sqi_x_variant":[
         "Komuna Vaqarr"
     ],
+    "name:tur_x_preferred":[
+        "Vaqarr"
+    ],
     "name:vie_x_preferred":[
         "Vaqarr"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202103,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318367,
     "wof:name":"Vaqar",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",
