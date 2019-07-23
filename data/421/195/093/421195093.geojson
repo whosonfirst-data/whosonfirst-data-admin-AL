@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Dh\u00ebrmi"
     ],
+    "name:tur_x_preferred":[
+        "Dh\u00ebrmi"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u043c\u0456"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195093,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318359,
     "wof:name":"Dh\u00ebrmi",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:eng_x_variant":[
+        "Durr\u00ebs District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Durr\u00ebs"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:fin_x_preferred":[
         "Durr\u00ebsin piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Durr\u00ebs"
     ],
     "name:fra_x_preferred":[
         "District de Durr\u00ebs"
@@ -82,6 +88,9 @@
     ],
     "name:hrv_x_preferred":[
         "Dra\u010dki distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Durr\u00ebs ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0580\u0580\u0561\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -261,7 +270,7 @@
         }
     ],
     "wof:id":421187433,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318386,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

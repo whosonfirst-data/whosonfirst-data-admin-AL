@@ -19,17 +19,32 @@
     "name:deu_x_preferred":[
         "Theth"
     ],
+    "name:ell_x_preferred":[
+        "\u0398\u03ad\u03b8\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Theth"
     ],
     "name:fra_x_preferred":[
         "Theth"
     ],
+    "name:hun_x_preferred":[
+        "Theth"
+    ],
+    "name:msa_x_preferred":[
+        "Kolonj\u00eb"
+    ],
     "name:nld_x_preferred":[
         "Theth"
     ],
     "name:pol_x_preferred":[
         "Theth"
+    ],
+    "name:ron_x_preferred":[
+        "Theth"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0442\u0438"
     ],
     "name:sqi_x_preferred":[
         "Thethi"
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":421193155,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318363,
     "wof:name":"Theth",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

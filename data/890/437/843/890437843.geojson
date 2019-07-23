@@ -27,6 +27,9 @@
     "name:deu_x_preferred":[
         "Memaliaj"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bc\u03b1\u03bb\u03b9\u03ac\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Memaliaj"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890437843,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318420,
     "wof:name":"Memaliaj",
     "wof:parent_id":1108720885,
     "wof:placetype":"locality",

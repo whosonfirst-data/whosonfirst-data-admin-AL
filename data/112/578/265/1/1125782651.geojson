@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Gramsh"
     ],
+    "name:ceb_x_preferred":[
+        "Gramsh"
+    ],
     "name:ces_x_preferred":[
         "Gramsh"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0430\u043c\u0448"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u043c\u0435\u0448"
     ],
     "name:nld_x_preferred":[
         "Gramsh"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1125782651,
-    "wof:lastmodified":1561777932,
+    "wof:lastmodified":1563318454,
     "wof:name":"Gramsh",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

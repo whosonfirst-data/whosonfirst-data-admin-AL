@@ -59,6 +59,9 @@
     "name:fin_x_preferred":[
         "Delvin\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Delvin\u00eb"
+    ],
     "name:fra_x_preferred":[
         "District de Delvin\u00eb"
     ],
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421184327,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318404,
     "wof:name":"Delvin\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

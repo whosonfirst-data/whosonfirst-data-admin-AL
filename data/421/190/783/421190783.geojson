@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u0631\u062a\u0634\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0631\u062a\u0634\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u041a\u043e\u0440\u0447\u0430"
     ],
@@ -74,8 +77,14 @@
     "name:eng_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Kor\u00e7\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Kor\u00e7\u00eb"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto Kor\u00e7\u00eb"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u0686\u0647"
@@ -91,6 +100,9 @@
     ],
     "name:hrv_x_preferred":[
         "Kor\u010danski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Kor\u00e7a ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Kor\u00e7e"
@@ -235,7 +247,7 @@
         }
     ],
     "wof:id":421190783,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318398,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

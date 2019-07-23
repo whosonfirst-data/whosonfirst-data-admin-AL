@@ -48,6 +48,9 @@
     "name:hrv_x_preferred":[
         "Bili\u0161ta"
     ],
+    "name:hrv_x_variant":[
+        "Bilisht"
+    ],
     "name:hun_x_preferred":[
         "Bilisht"
     ],
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890436581,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318425,
     "wof:name":"Bilisht",
     "wof:parent_id":1108720851,
     "wof:placetype":"locality",

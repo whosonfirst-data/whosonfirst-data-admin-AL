@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u099a\u09c7 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Kor\u010da"
+    ],
     "name:bre_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
@@ -61,6 +64,9 @@
     "name:eng_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Kor\u00e7\u00eb County"
+    ],
     "name:epo_x_preferred":[
         "Provinco Kor\u00e7\u00eb"
     ],
@@ -78,6 +84,12 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Kor\u00e7\u00eb"
+    ],
+    "name:fra_x_variant":[
+        "Kor\u00e7\u00eb"
+    ],
+    "name:frr_x_preferred":[
+        "Kor\u00e7\u00eb"
     ],
     "name:gle_x_preferred":[
         "Contae Kor\u00e7\u00eb"
@@ -343,7 +355,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1561777910,
+    "wof:lastmodified":1563318006,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

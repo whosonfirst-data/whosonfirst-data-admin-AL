@@ -17,17 +17,26 @@
     "name:als_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:ang_x_preferred":[
+        "Dyrrhachium"
+    ],
     "name:ara_x_preferred":[
         "\u062f\u0631\u0627\u0633"
     ],
     "name:arg_x_preferred":[
         "Durrazo"
     ],
+    "name:ast_x_preferred":[
+        "Durr\u00ebs"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0440\u044d\u0441"
     ],
     "name:bel_x_variant":[
         "\u0414\u0443\u0440\u044d\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cc\u09b0\u09c7\u09b8"
     ],
     "name:bos_x_preferred":[
         "Dra\u010d"
@@ -44,6 +53,9 @@
     "name:cat_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:ceb_x_preferred":[
+        "Durr\u00ebs"
+    ],
     "name:ces_x_preferred":[
         "Dra\u010d"
     ],
@@ -52,6 +64,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0414\u0443\u0440\u0440\u0435\u0441"
+    ],
+    "name:cym_x_preferred":[
+        "Durr\u00ebs"
     ],
     "name:dan_x_preferred":[
         "Durr\u00ebs"
@@ -71,6 +86,9 @@
     "name:est_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:eus_x_preferred":[
+        "Durr\u00ebs"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0627\u062c"
     ],
@@ -80,11 +98,26 @@
     "name:fra_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:frr_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:glg_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:gsw_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0ac1\u0ab0\u0acd\u0ab0\u0ac7\u0ab8"
+    ],
     "name:hbs_x_preferred":[
         "Dra\u010d"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0941\u0930\u094d\u0930\u0947\u0938"
     ],
     "name:hrv_x_preferred":[
         "Dra\u010d"
@@ -92,14 +125,26 @@
     "name:hun_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0580\u0580\u0561\u057d"
+    ],
+    "name:ina_x_preferred":[
+        "Durres"
+    ],
     "name:ind_x_preferred":[
         "Durres"
+    ],
+    "name:ind_x_variant":[
+        "Durr\u00ebs"
     ],
     "name:ita_x_preferred":[
         "Durazzo"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30e9\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cc1\u0cb0\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10e3\u10e0\u10d4\u10e1\u10d8"
@@ -119,13 +164,31 @@
     "name:lit_x_preferred":[
         "Duresis"
     ],
+    "name:mar_x_preferred":[
+        "\u0926\u0941\u0930\u094d\u0930\u0947\u0938"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0440\u0430\u0447"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u0440\u0440\u0435\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u0443\u0440\u0440\u0435\u0441 \u043e\u0448"
+    ],
+    "name:nds_x_preferred":[
+        "Durr\u00ebs"
+    ],
     "name:nld_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:nob_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:oci_x_preferred":[
         "Durr\u00ebs"
     ],
     "name:pnb_x_preferred":[
@@ -137,11 +200,23 @@
     "name:por_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:ron_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:rup_x_preferred":[
+        "Durr\u00ebs"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0440\u0440\u0435\u0441"
     ],
     "name:scn_x_preferred":[
         "Durazzu"
+    ],
+    "name:sco_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dbb\u0dd2\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
         "Dra\u010d"
@@ -161,8 +236,20 @@
     "name:swe_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc2\u0bb0\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u044b\u0440\u0430\u0447"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c41\u0c30\u0c4d\u0c30\u0c47\u0c38\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e39\u0e23\u0e4c\u0e40\u0e23\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "D\u0131ra\u00e7"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0440\u0440\u0435\u0441"
@@ -173,8 +260,20 @@
     "name:urd_x_preferred":[
         "\u062f\u0631\u0627\u062c"
     ],
+    "name:uzb_x_preferred":[
+        "Durres"
+    ],
     "name:vec_x_preferred":[
         "Durazo"
+    ],
+    "name:vie_x_preferred":[
+        "Durr\u00ebs"
+    ],
+    "name:vol_x_preferred":[
+        "Durr\u00ebsi"
+    ],
+    "name:war_x_preferred":[
+        "Durr\u00ebs"
     ],
     "name:zho_x_preferred":[
         "\u90fd\u62c9\u65af"
@@ -325,7 +424,7 @@
         }
     ],
     "wof:id":421187003,
-    "wof:lastmodified":1527716250,
+    "wof:lastmodified":1563318385,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

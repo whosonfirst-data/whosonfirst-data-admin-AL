@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Devoll"
     ],
+    "name:eng_x_variant":[
+        "Devoll District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Devoll"
     ],
@@ -64,8 +67,14 @@
     "name:glg_x_preferred":[
         "Distrito de Devoll"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d5\u05dc"
+    ],
     "name:hrv_x_preferred":[
         "Devollski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Devoll ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Devoll"
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":1108720851,
-    "wof:lastmodified":1561777922,
+    "wof:lastmodified":1563318257,
     "wof:name":"Devoll",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

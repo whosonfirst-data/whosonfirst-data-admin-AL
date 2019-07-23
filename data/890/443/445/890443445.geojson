@@ -22,6 +22,9 @@
     "name:aze_x_preferred":[
         "Kor\u00e7a"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u0440\u0447\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0430"
     ],
@@ -32,6 +35,9 @@
         "\u041a\u043e\u0440\u0447\u0430"
     ],
     "name:cat_x_preferred":[
+        "Kor\u00e7\u00eb"
+    ],
+    "name:ceb_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
     "name:ces_x_preferred":[
@@ -85,14 +91,23 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05e6\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d5\u05e8\u05e6'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0930\u094d\u0938\u0947"
     ],
     "name:hun_x_preferred":[
         "Kor\u00e7\u00eb"
     ],
+    "name:hun_x_variant":[
+        "Kor\u00e7a"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0580\u0579\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Kor\u00e7\u00eb"
     ],
     "name:ile_x_preferred":[
         "Kor\u00e7\u00eb"
@@ -109,14 +124,23 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb0\u0ccd\u0c95\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10e9\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ucc98"
     ],
     "name:lav_x_preferred":[
         "Kor\u010de"
     ],
+    "name:lav_x_variant":[
+        "Kor\u010da"
+    ],
     "name:lit_x_preferred":[
         "Kor\u010d\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Kor\u00e7a"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u0915\u0947"
@@ -154,6 +178,9 @@
     "name:ron_x_preferred":[
         "Kor\u00e7a"
     ],
+    "name:ron_x_variant":[
+        "Corcea"
+    ],
     "name:rup_x_preferred":[
         "Kor\u00e7a"
     ],
@@ -183,6 +210,12 @@
     ],
     "name:swe_x_preferred":[
         "Kor\u00e7\u00eb"
+    ],
+    "name:swe_x_variant":[
+        "Kor\u00e7a"
+    ],
+    "name:szl_x_preferred":[
+        "Kor\u00e7a"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb0\u0bcd\u0bb8\u0bcd"
@@ -345,7 +378,7 @@
         }
     ],
     "wof:id":890443445,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318438,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

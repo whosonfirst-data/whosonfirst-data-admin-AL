@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Librazhd"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03c0\u03c1\u03ac\u03b6\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Librazhd"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:sqi_x_preferred":[
         "Librazhdi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u0440\u0430\u0436\u0434"
     ],
     "name:swe_x_preferred":[
         "Librazhd"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421171277,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318410,
     "wof:name":"Librazhd",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

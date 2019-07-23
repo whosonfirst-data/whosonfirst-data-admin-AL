@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Kreis Tirana"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b9\u03c1\u03ac\u03bd\u03c9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Tirana"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Tiranski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Tirana ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Tiran\u00eb"
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421182353,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318409,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

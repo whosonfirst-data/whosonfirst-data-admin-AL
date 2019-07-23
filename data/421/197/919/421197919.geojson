@@ -43,6 +43,12 @@
     "name:cat_x_preferred":[
         "Scutari"
     ],
+    "name:cat_x_variant":[
+        "Shkod\u00ebr"
+    ],
+    "name:ceb_x_preferred":[
+        "Shkod\u00ebr"
+    ],
     "name:ces_x_preferred":[
         "Skadar"
     ],
@@ -136,6 +142,9 @@
     "name:kat_x_preferred":[
         "\u10e8\u10d9\u10dd\u10d3\u10d4\u10e0\u10d8"
     ],
+    "name:kon_x_preferred":[
+        "Shkod\u00ebr"
+    ],
     "name:kor_x_preferred":[
         "\uc288\ucf54\ub354\ub974"
     ],
@@ -156,6 +165,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043a\u0430\u0434\u0430\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0428\u043a\u043e\u0434\u0435\u0440"
     ],
     "name:msa_x_preferred":[
         "Shkod\u00ebr"
@@ -180,6 +192,9 @@
     ],
     "name:por_x_preferred":[
         "Scutari"
+    ],
+    "name:por_x_variant":[
+        "Shkod\u00ebr"
     ],
     "name:ron_x_preferred":[
         "Scutari"
@@ -218,6 +233,9 @@
         "\u0421\u043a\u0430\u0434\u0430\u0440"
     ],
     "name:swe_x_preferred":[
+        "Shkodra"
+    ],
+    "name:szl_x_preferred":[
         "Shkodra"
     ],
     "name:tam_x_preferred":[
@@ -298,7 +316,7 @@
         }
     ],
     "wof:id":421197919,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318399,
     "wof:name":"Scutari",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

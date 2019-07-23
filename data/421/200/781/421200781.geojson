@@ -59,6 +59,9 @@
     "name:fin_x_preferred":[
         "Tropoj\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Tropoj\u00eb"
+    ],
     "name:fra_x_preferred":[
         "District de Tropoj\u00eb"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:hrv_x_preferred":[
         "Tropojski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Tropoja ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Tropoj\u00eb"
@@ -222,7 +228,7 @@
         }
     ],
     "wof:id":421200781,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318401,
     "wof:name":"Tropoj\u00eb",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Peqin"
     ],
+    "name:eng_x_variant":[
+        "Peqin District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Peqin"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u045c\u0438\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0435\u043a\u0438\u043d"
     ],
     "name:msa_x_preferred":[
         "Daerah Peqin"
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":1108720889,
-    "wof:lastmodified":1561777922,
+    "wof:lastmodified":1563318265,
     "wof:name":"Peqin",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

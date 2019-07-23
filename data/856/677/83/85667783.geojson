@@ -37,14 +37,23 @@
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09b0\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Dra\u010d"
+    ],
     "name:bre_x_preferred":[
         "Durr\u00ebs"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0447"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u0443\u0440\u044a\u0441"
+    ],
     "name:cat_x_preferred":[
         "Comtat de Durr\u00ebs"
+    ],
+    "name:cat_x_variant":[
+        "Durr\u00ebs"
     ],
     "name:ceb_x_preferred":[
         "Qarku i Durr\u00ebsit"
@@ -64,8 +73,14 @@
     "name:eng_x_preferred":[
         "Durr\u00ebs"
     ],
+    "name:eng_x_variant":[
+        "Durr\u00ebs County"
+    ],
     "name:epo_x_preferred":[
         "Provinco Durr\u00ebs"
+    ],
+    "name:epo_x_variant":[
+        "provinco Durr\u00ebs"
     ],
     "name:est_x_preferred":[
         "Durr\u00ebsi maakond"
@@ -81,6 +96,12 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Durr\u00ebs"
+    ],
+    "name:fra_x_variant":[
+        "Durr\u00ebs"
+    ],
+    "name:frr_x_preferred":[
+        "Durr\u00ebs"
     ],
     "name:gle_x_preferred":[
         "Contae Durr\u00ebs"
@@ -124,6 +145,9 @@
     "name:lav_x_preferred":[
         "Duresi apgabals"
     ],
+    "name:lav_x_variant":[
+        "Duresi \u0137arka"
+    ],
     "name:lit_x_preferred":[
         "Duresio apskritis"
     ],
@@ -135,6 +159,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0440\u0430\u0447"
+    ],
+    "name:mon_x_preferred":[
+        "\u0414\u0443\u0440\u0440\u0435\u0441 \u0445\u043e\u0448\u0443\u0443"
     ],
     "name:msa_x_preferred":[
         "Durres County"
@@ -344,7 +371,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1561777911,
+    "wof:lastmodified":1563318013,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:deu_x_preferred":[
         "Puka"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Puk\u00eb"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:sqi_x_preferred":[
         "Puka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "Puka"
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":890444553,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318432,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":421193315,
     "wof:placetype":"locality",

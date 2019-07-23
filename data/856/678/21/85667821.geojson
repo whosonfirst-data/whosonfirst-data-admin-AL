@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Prefectura de Dib\u00ebr"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Dibr"
+    ],
     "name:bre_x_preferred":[
         "Dib\u00ebr"
     ],
@@ -55,8 +58,14 @@
     "name:eng_x_preferred":[
         "Dib\u00ebr"
     ],
+    "name:eng_x_variant":[
+        "Dib\u00ebr County"
+    ],
     "name:epo_x_preferred":[
         "Provinco Dib\u00ebr"
+    ],
+    "name:epo_x_variant":[
+        "provinco Dib\u00ebr"
     ],
     "name:est_x_preferred":[
         "Dib\u00ebri maakond"
@@ -72,6 +81,12 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Dib\u00ebr"
+    ],
+    "name:fra_x_variant":[
+        "Dib\u00ebr"
+    ],
+    "name:frr_x_preferred":[
+        "Dib\u00ebr"
     ],
     "name:gle_x_preferred":[
         "Contae Dib\u00ebr"
@@ -91,6 +106,9 @@
     "name:hye_x_preferred":[
         "\u0534\u056b\u0562\u0561\u0580\u056b \u0563\u0561\u057e\u0561\u057c"
     ],
+    "name:ind_x_preferred":[
+        "County Dib\u00ebr"
+    ],
     "name:ita_x_preferred":[
         "prefettura di Dib\u00ebr"
     ],
@@ -108,6 +126,9 @@
     ],
     "name:lav_x_preferred":[
         "Dibras apgabals"
+    ],
+    "name:lav_x_variant":[
+        "Dibras \u0137arka"
     ],
     "name:lit_x_preferred":[
         "Diberio apskritis"
@@ -310,7 +331,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1561777910,
+    "wof:lastmodified":1563318005,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

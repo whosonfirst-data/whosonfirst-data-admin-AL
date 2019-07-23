@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0642\u0648\u062f\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0634\u0643\u0648\u062f\u0631"
+    ],
     "name:arg_x_preferred":[
         "Shkod\u00ebr"
     ],
@@ -68,8 +71,14 @@
     "name:deu_x_preferred":[
         "Kreis Shkodra"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03ba\u03cc\u03b4\u03c1\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:eng_x_variant":[
+        "Shkod\u00ebr District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Shkod\u00ebr"
@@ -88,6 +97,9 @@
     ],
     "name:hrv_x_preferred":[
         "Skadarski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Shkodra ker\u00fclet"
     ],
     "name:ind_x_preferred":[
         "Distrik Shkod\u00ebr"
@@ -237,7 +249,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318364,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

@@ -49,6 +49,12 @@
     "name:sqi_x_variant":[
         "Komuna Bushat"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0448\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Bu\u015fat"
+    ],
     "name:unk_x_variant":[
         "Buschatti"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421170803,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318405,
     "wof:name":"Bushat",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

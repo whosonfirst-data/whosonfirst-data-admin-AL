@@ -44,8 +44,14 @@
     "name:ell_x_preferred":[
         "\u039c\u0399\u03a1\u0394\u038a\u03a4\u0391"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b9\u03c1\u03bd\u03c4\u03af\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mirdit\u00eb"
+    ],
+    "name:eng_x_variant":[
+        "Mirdit\u00eb District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Mirdit\u00eb"
@@ -59,6 +65,9 @@
     "name:fin_x_preferred":[
         "Mirdit\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Mirdit\u00eb"
+    ],
     "name:fra_x_preferred":[
         "District de Mirdit\u00eb"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mirditski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Mirdita ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Mirdit\u00eb"
@@ -219,7 +231,7 @@
         }
     ],
     "wof:id":421188337,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318390,
     "wof:name":"Mirdit\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

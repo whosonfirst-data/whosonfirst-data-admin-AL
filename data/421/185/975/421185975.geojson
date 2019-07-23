@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Tepelen\u00eb"
     ],
+    "name:cym_x_preferred":[
+        "Tepelen\u00eb"
+    ],
     "name:dan_x_preferred":[
         "Tepelen\u00eb"
     ],
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421185975,
-    "wof:lastmodified":1561777929,
+    "wof:lastmodified":1563318413,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

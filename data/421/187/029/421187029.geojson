@@ -25,11 +25,17 @@
     "name:deu_x_preferred":[
         "Rrogozhina"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b3\u03ba\u03bf\u03b6\u03af\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Rrogozhin\u00eb"
     ],
     "name:fra_x_preferred":[
         "Rrogozhin\u00eb"
+    ],
+    "name:hun_x_preferred":[
+        "Rrogozhina"
     ],
     "name:ita_x_preferred":[
         "Rrogozhin\u00eb"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421187029,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318383,
     "wof:name":"Rrogozhin\u00eb",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u043a\u0438\u0437\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0443\u043b\u0447\u0438\u0437\u0430"
+    ],
     "name:cat_x_preferred":[
         "Districte de Bulqiz\u00eb"
     ],
@@ -50,6 +53,9 @@
     "name:eng_x_preferred":[
         "Bulqiz\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Bulqiz\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Bulqiz\u00eb"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:fin_x_preferred":[
         "Bulqiz\u00ebn piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Bulqiz\u00eb"
     ],
     "name:fra_x_preferred":[
         "District de Bulqiz\u00eb"
@@ -70,6 +79,9 @@
     ],
     "name:hrv_x_preferred":[
         "Bulqiski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Bulqiza ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u056c\u056f\u056b\u0566\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -100,6 +112,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u043b\u045c\u0438\u0437\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u043b\u0447\u0438\u0446\u0430"
     ],
     "name:msa_x_preferred":[
         "Daerah Bulqiz\u00eb"
@@ -231,7 +246,7 @@
         }
     ],
     "wof:id":421190851,
-    "wof:lastmodified":1561777928,
+    "wof:lastmodified":1563318397,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

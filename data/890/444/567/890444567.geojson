@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Roskovec"
     ],
+    "name:ceb_x_preferred":[
+        "Roskovec"
+    ],
     "name:ces_x_preferred":[
         "Roskovec"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03cc\u03c3\u03ba\u03bf\u03b2\u03b5\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03cc\u03c3\u03ba\u03bf\u03b2\u03b5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Roskovec"
@@ -120,6 +126,9 @@
     "name:sqi_x_preferred":[
         "Roskoveci"
     ],
+    "name:sqi_x_variant":[
+        "Roskovec"
+    ],
     "name:swe_x_preferred":[
         "Roskovec"
     ],
@@ -189,7 +198,7 @@
         }
     ],
     "wof:id":890444567,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318429,
     "wof:name":"Roskovec",
     "wof:parent_id":1108720897,
     "wof:placetype":"locality",

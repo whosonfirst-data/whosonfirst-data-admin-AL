@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Gjirokast\u00ebr"
     ],
+    "name:eng_x_variant":[
+        "Gjirokast\u00ebr District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Gjirokast\u00ebr"
     ],
@@ -59,6 +62,9 @@
     "name:fin_x_preferred":[
         "Gjirokast\u00ebrin piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Gjirokast\u00ebr"
+    ],
     "name:fra_x_preferred":[
         "district de Gjirokast\u00ebr"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hrv_x_preferred":[
         "Gjirokast\u00ebrski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Gjirokastra ker\u00fclet"
     ],
     "name:ido_x_preferred":[
         "Distrikto di Gjirokastra"
@@ -219,7 +228,7 @@
         }
     ],
     "wof:id":421187729,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1563318389,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:ron_x_preferred":[
         "Ulza"
     ],
+    "name:spa_x_preferred":[
+        "Ul\u00ebz"
+    ],
     "name:sqi_x_preferred":[
         "Komuna Ul\u00ebz"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890429475,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1563318441,
     "wof:name":"Ul\u00ebz",
     "wof:parent_id":421202751,
     "wof:placetype":"locality",

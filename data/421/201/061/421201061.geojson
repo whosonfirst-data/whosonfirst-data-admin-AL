@@ -16,20 +16,41 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0447\u0435\u043d"
     ],
+    "name:eng_x_preferred":[
+        "Gracen"
+    ],
+    "name:fra_x_preferred":[
+        "Gracen"
+    ],
+    "name:hun_x_preferred":[
+        "Gracen"
+    ],
     "name:ita_x_preferred":[
         "Gracen"
     ],
     "name:msa_x_preferred":[
         "Gracen"
     ],
+    "name:nld_x_preferred":[
+        "Gracen"
+    ],
     "name:pol_x_preferred":[
         "Gmina Gra\u00e7en"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Gracen"
     ],
     "name:por_x_preferred":[
         "Gracen"
     ],
+    "name:spa_x_preferred":[
+        "Gracen"
+    ],
     "name:sqi_x_preferred":[
         "Nj\u00ebsia administrative Gra\u00e7en"
+    ],
+    "name:tur_x_preferred":[
+        "Gracen"
     ],
     "name:unk_x_variant":[
         "Grani"
@@ -86,7 +107,7 @@
         }
     ],
     "wof:id":421201061,
-    "wof:lastmodified":1527716440,
+    "wof:lastmodified":1563318403,
     "wof:name":"Gracen",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

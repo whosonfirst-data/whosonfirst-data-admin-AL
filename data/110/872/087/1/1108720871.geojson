@@ -31,14 +31,23 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u062a\u0634\u0648\u0648\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u062a\u0634\u0648\u0648\u0647"
+    ],
     "name:ces_x_preferred":[
         "Okres Ku\u00e7ov\u00eb"
     ],
     "name:deu_x_preferred":[
         "Kreis Ku\u00e7ova"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03bf\u03cd\u03c4\u03c3\u03bf\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ku\u00e7ov\u00eb"
+    ],
+    "name:eng_x_variant":[
+        "Ku\u00e7ov\u00eb District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Ku\u00e7ov\u00eb"
@@ -57,6 +66,9 @@
     ],
     "name:hrv_x_preferred":[
         "Ku\u00e7ovski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Ku\u00e7ova ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0579\u0578\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":1108720871,
-    "wof:lastmodified":1561777922,
+    "wof:lastmodified":1563318262,
     "wof:name":"Ku\u00e7ov\u00eb",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

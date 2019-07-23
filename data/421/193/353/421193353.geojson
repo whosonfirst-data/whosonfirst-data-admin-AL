@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Vlor\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Vlor\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Vlor\u00eb"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:fin_x_preferred":[
         "Vlor\u00ebn piirikunta"
+    ],
+    "name:fin_x_variant":[
+        "Vlor\u00eb"
     ],
     "name:fra_x_preferred":[
         "district de Vlor\u00eb"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":421193353,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318361,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

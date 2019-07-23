@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Skrapar"
     ],
+    "name:eng_x_variant":[
+        "Skrapar District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Skrapar"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:hrv_x_preferred":[
         "Skraparski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Skrapar ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056f\u0580\u0561\u057a\u0561\u0580\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -97,6 +103,9 @@
     ],
     "name:nld_x_preferred":[
         "Skrapar"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Skrapar"
     ],
     "name:nob_x_preferred":[
         "Skrapar"
@@ -219,7 +228,7 @@
         }
     ],
     "wof:id":421194959,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318360,
     "wof:name":"Skrapar",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

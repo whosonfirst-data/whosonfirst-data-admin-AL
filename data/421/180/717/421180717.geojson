@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Kurbnesh"
     ],
+    "name:fra_x_preferred":[
+        "Kurbnesh"
+    ],
+    "name:hun_x_preferred":[
+        "Kurbnesh"
+    ],
     "name:nld_x_preferred":[
         "Kurbnesh"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421180717,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318369,
     "wof:name":"Kurbnesh",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

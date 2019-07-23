@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Fier"
     ],
+    "name:ceb_x_preferred":[
+        "Fier"
+    ],
     "name:ces_x_preferred":[
         "Fier"
     ],
@@ -109,6 +112,9 @@
     "name:mkd_x_preferred":[
         "\u0424\u0438\u0435\u0440"
     ],
+    "name:mon_x_preferred":[
+        "\u0424\u0438\u0435\u0440"
+    ],
     "name:msa_x_preferred":[
         "Fier"
     ],
@@ -138,6 +144,9 @@
     ],
     "name:rup_x_preferred":[
         "Fearica"
+    ],
+    "name:rup_x_variant":[
+        "Fier"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u0435\u0440\u0438"
@@ -183,6 +192,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0454\u0440\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0456\u0454\u0440"
     ],
     "name:unk_x_variant":[
         "Fjeri"
@@ -333,7 +345,7 @@
         }
     ],
     "wof:id":890435381,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318449,
     "wof:name":"Fier",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Kreis Berat"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b5\u03c1\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Berat"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Beratski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Berat ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0580\u0561\u057f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318382,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

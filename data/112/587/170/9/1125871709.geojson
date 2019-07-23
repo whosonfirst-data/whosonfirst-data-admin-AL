@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u0438\u043a"
     ],
+    "name:bul_x_variant":[
+        "\u0426\u0435\u0440\u0438\u043a"
+    ],
     "name:cat_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ceb_x_preferred":[
         "C\u00ebrrik"
     ],
     "name:ces_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "C\u00ebrrik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03c1\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "C\u00ebrrik"
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":1125871709,
-    "wof:lastmodified":1561777931,
+    "wof:lastmodified":1563318453,
     "wof:name":"C\u00ebrrik",
     "wof:parent_id":1108720849,
     "wof:placetype":"locality",

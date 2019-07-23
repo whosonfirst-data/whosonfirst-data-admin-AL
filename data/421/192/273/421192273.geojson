@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Kanin\u00eb"
     ],
+    "name:ita_x_preferred":[
+        "Canina"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043d\u0438\u043d\u0430"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:sqi_x_preferred":[
         "Kanina e Vlores"
+    ],
+    "name:sqi_x_variant":[
+        "Kanin\u00eb"
     ],
     "name:tur_x_preferred":[
         "Kanina"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421192273,
-    "wof:lastmodified":1561777925,
+    "wof:lastmodified":1563318357,
     "wof:name":"Kanin\u00eb",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

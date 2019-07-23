@@ -28,8 +28,14 @@
     "name:arg_x_preferred":[
         "Prefectura de Tirana"
     ],
+    "name:aze_x_preferred":[
+        "Tirana vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0422\u044b\u0440\u0430\u043d\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Okrug Tirana"
     ],
     "name:bre_x_preferred":[
         "Tirana"
@@ -52,6 +58,9 @@
     "name:eng_x_preferred":[
         "Tiran\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Tirana County"
+    ],
     "name:epo_x_preferred":[
         "Provinco Tirano"
     ],
@@ -70,6 +79,12 @@
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Tirana"
     ],
+    "name:fra_x_variant":[
+        "Tirana"
+    ],
+    "name:frr_x_preferred":[
+        "Tirana"
+    ],
     "name:gle_x_preferred":[
         "Contae Tiran\u00eb"
     ],
@@ -82,8 +97,17 @@
     "name:hrv_x_preferred":[
         "Tiranski okrug"
     ],
+    "name:hun_x_preferred":[
+        "Tirana megye"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u056b\u0580\u0561\u0576\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
+    ],
+    "name:ido_x_preferred":[
+        "Komtio Tiran\u00eb"
+    ],
+    "name:ind_x_preferred":[
+        "County Tiran\u00eb"
     ],
     "name:ita_x_preferred":[
         "prefettura di Tirana"
@@ -97,6 +121,9 @@
     "name:kor_x_preferred":[
         "\ud2f0\ub77c\ub098 \uc8fc"
     ],
+    "name:lav_x_preferred":[
+        "Tir\u0101nas \u0137arka"
+    ],
     "name:lit_x_preferred":[
         "Tiranos apskritis"
     ],
@@ -105,6 +132,12 @@
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0438\u0440\u0430\u043d\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u043d \u0445\u043e\u0448\u0443\u0443"
+    ],
+    "name:nan_x_preferred":[
+        "Tirana Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Tirana"
@@ -213,7 +246,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1561777922,
+    "wof:lastmodified":1563318255,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

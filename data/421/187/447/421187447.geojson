@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Kavaj\u00eb"
     ],
+    "name:eng_x_variant":[
+        "Kavaj\u00eb District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Kavaj\u00eb"
     ],
@@ -59,6 +62,9 @@
     "name:fin_x_preferred":[
         "Kavaj\u00ebn piirikunta"
     ],
+    "name:fin_x_variant":[
+        "Kavaj\u00eb"
+    ],
     "name:fra_x_preferred":[
         "District de Kavaj\u00eb"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:hrv_x_preferred":[
         "Kavajski distrikt"
+    ],
+    "name:hun_x_preferred":[
+        "Kavaja ker\u00fclet"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u057e\u0561\u0575\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -225,7 +234,7 @@
         }
     ],
     "wof:id":421187447,
-    "wof:lastmodified":1561777926,
+    "wof:lastmodified":1563318370,
     "wof:name":"Kavaj\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",
