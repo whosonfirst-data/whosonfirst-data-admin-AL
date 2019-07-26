@@ -26,6 +26,18 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Domen"
+    ],
+    "name:bos_x_preferred":[
+        "Domen"
+    ],
+    "name:ceb_x_preferred":[
+        "Domen"
+    ],
+    "name:swe_x_preferred":[
+        "Domen"
+    ],
     "name:und_x_variant":[
         "Domni",
         "Domeni",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293035199,
-    "wof:lastmodified":1537584294,
+    "wof:lastmodified":1564152884,
     "wof:name":"Domen",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

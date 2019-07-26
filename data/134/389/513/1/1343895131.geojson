@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vreshtas"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0440\u0435\u0448\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Vreshtaz"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Vreshtas"
+    ],
+    "name:por_x_preferred":[
+        "Vreshtas"
+    ],
+    "name:spa_x_preferred":[
+        "Vreshtas"
+    ],
+    "name:tur_x_preferred":[
+        "Vreshtas"
     ],
     "name:und_x_variant":[
         "Vreshtasi",
         "Vreshtas"
+    ],
+    "name:vie_x_preferred":[
+        "Vreshtas"
+    ],
+    "name:war_x_preferred":[
+        "Vreshtaz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1343895131,
-    "wof:lastmodified":1537583977,
+    "wof:lastmodified":1564152829,
     "wof:name":"Vreshtas",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

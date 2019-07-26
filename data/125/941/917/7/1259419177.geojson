@@ -27,9 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Gjinar"
+    ],
+    "name:ita_x_preferred":[
+        "Gjinar"
+    ],
+    "name:msa_x_preferred":[
+        "Gjinar"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gjinar"
+    ],
+    "name:por_x_preferred":[
+        "Gjinar"
+    ],
+    "name:spa_x_preferred":[
+        "Gjinar"
+    ],
+    "name:tur_x_preferred":[
+        "Gjinar"
+    ],
     "name:und_x_variant":[
         "Giniari",
         "Gjinari",
+        "Gjinar"
+    ],
+    "name:vie_x_preferred":[
+        "Gjinar"
+    ],
+    "name:war_x_preferred":[
         "Gjinar"
     ],
     "src:geom":"geonames",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1259419177,
-    "wof:lastmodified":1537584103,
+    "wof:lastmodified":1564153362,
     "wof:name":"Gjinar",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

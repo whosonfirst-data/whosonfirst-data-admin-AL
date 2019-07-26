@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Gjonaj"
+    ],
     "name:und_x_variant":[
         "Gionaj",
         "Gjonaj"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226785971,
-    "wof:lastmodified":1537584102,
+    "wof:lastmodified":1564153451,
     "wof:name":"Gjonaj",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

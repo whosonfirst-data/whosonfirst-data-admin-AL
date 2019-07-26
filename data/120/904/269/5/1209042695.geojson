@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Muriqan"
+    ],
+    "name:ita_x_preferred":[
+        "Muriqan"
+    ],
+    "name:sqi_x_preferred":[
+        "Muriqan"
+    ],
     "name:und_x_variant":[
         "Uriqaj",
         "Murigan",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209042695,
-    "wof:lastmodified":1537584222,
+    "wof:lastmodified":1564153039,
     "wof:name":"Muriqan",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

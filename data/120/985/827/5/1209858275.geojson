@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Turhan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0445\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Turhani",
         "Turhan"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209858275,
-    "wof:lastmodified":1537584150,
+    "wof:lastmodified":1564153015,
     "wof:name":"Turhan",
     "wof:parent_id":1108720891,
     "wof:placetype":"locality",

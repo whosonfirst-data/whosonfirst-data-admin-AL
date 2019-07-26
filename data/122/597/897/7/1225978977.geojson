@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1"
+    ],
+    "name:ita_x_preferred":[
+        "Rov"
+    ],
     "name:und_x_variant":[
         "Rovi",
         "Rof \u00c7iflik",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1225978977,
-    "wof:lastmodified":1537584018,
+    "wof:lastmodified":1564153437,
     "wof:name":"Rov",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

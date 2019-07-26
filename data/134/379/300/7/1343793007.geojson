@@ -27,8 +27,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dushk"
+    ],
+    "name:msa_x_preferred":[
+        "Dushk"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dushk"
+    ],
+    "name:por_x_preferred":[
+        "Dushk"
+    ],
+    "name:spa_x_preferred":[
+        "Dushk"
+    ],
+    "name:tur_x_preferred":[
+        "Dushk"
+    ],
     "name:und_x_variant":[
         "Dushku",
+        "Dushk"
+    ],
+    "name:vie_x_preferred":[
+        "Dushk"
+    ],
+    "name:war_x_preferred":[
         "Dushk"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343793007,
-    "wof:lastmodified":1537584333,
+    "wof:lastmodified":1564152786,
     "wof:name":"Dushk",
     "wof:parent_id":1108720897,
     "wof:placetype":"locality",

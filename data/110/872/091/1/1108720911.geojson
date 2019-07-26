@@ -28,7 +28,58 @@
     "mps:longitude":19.658693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Vora"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:fra_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:hun_x_preferred":[
+        "Vora"
+    ],
+    "name:ita_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Vora"
+    ],
+    "name:por_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:ron_x_preferred":[
+        "Vora"
+    ],
+    "name:sco_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:spa_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Vora"
+    ],
+    "name:tur_x_preferred":[
+        "Vora"
+    ],
+    "name:vie_x_preferred":[
+        "Vor\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Vor\u00eb"
     ],
     "src:geom":"meso",
@@ -66,7 +117,7 @@
         }
     ],
     "wof:id":1108720911,
-    "wof:lastmodified":1553718460,
+    "wof:lastmodified":1564153125,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Karpen"
+    ],
     "name:und_x_variant":[
         "Ristone Karpun",
         "Karpun Rystanja",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276473311,
-    "wof:lastmodified":1537584257,
+    "wof:lastmodified":1564152955,
     "wof:name":"Karpen",
     "wof:parent_id":1108720905,
     "wof:placetype":"locality",

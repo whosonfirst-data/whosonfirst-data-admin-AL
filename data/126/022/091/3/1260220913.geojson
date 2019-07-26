@@ -27,10 +27,37 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Kodovjat alk\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Kodovjat"
+    ],
+    "name:msa_x_preferred":[
+        "Kodovjat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kodovjat"
+    ],
+    "name:por_x_preferred":[
+        "Kodovjat"
+    ],
+    "name:spa_x_preferred":[
+        "Kodovjat"
+    ],
+    "name:tur_x_preferred":[
+        "Kodovjat"
+    ],
     "name:und_x_variant":[
         "Kodoviati",
         "Kodovjati",
         "Lidaj",
+        "Kodovjat"
+    ],
+    "name:vie_x_preferred":[
+        "Kodovjat"
+    ],
+    "name:war_x_preferred":[
         "Kodovjat"
     ],
     "src:geom":"geonames",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1260220913,
-    "wof:lastmodified":1537584078,
+    "wof:lastmodified":1564153091,
     "wof:name":"Kodovjat",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

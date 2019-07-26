@@ -27,8 +27,26 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lunik"
+    ],
+    "name:msa_x_preferred":[
+        "Lunik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lunik"
+    ],
+    "name:por_x_preferred":[
+        "Lunik"
+    ],
+    "name:spa_x_preferred":[
+        "Lunik"
+    ],
     "name:sqi_x_preferred":[
         "Luniku"
+    ],
+    "name:tur_x_preferred":[
+        "Lunik"
     ],
     "name:und_x_variant":[
         "Lumnik",
@@ -36,6 +54,12 @@
         "Lunik",
         "Ljumnik",
         "Luniku"
+    ],
+    "name:vie_x_preferred":[
+        "Lunik"
+    ],
+    "name:war_x_preferred":[
+        "Lunik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1326664645,
-    "wof:lastmodified":1537584058,
+    "wof:lastmodified":1564152717,
     "wof:name":"Lunik",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

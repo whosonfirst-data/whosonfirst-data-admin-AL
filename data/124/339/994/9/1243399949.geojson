@@ -27,9 +27,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Golaj"
+    ],
+    "name:msa_x_preferred":[
+        "Golaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Golaj"
+    ],
+    "name:por_x_preferred":[
+        "Golaj"
+    ],
+    "name:tur_x_preferred":[
+        "Golaj"
+    ],
     "name:und_x_variant":[
         "Goljai",
         "Golai",
+        "Golaj"
+    ],
+    "name:vie_x_preferred":[
+        "Golaj"
+    ],
+    "name:war_x_preferred":[
         "Golaj"
     ],
     "src:geom":"geonames",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1243399949,
-    "wof:lastmodified":1537584100,
+    "wof:lastmodified":1564153278,
     "wof:name":"Golaj",
     "wof:parent_id":421168061,
     "wof:placetype":"locality",

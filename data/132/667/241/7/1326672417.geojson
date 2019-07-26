@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u0642"
+    ],
+    "name:por_x_preferred":[
+        "Buzuq"
+    ],
+    "name:slk_x_preferred":[
+        "Buzuk"
+    ],
     "name:und_x_variant":[
         "Bozuchi",
         "Buzuqi",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326672417,
-    "wof:lastmodified":1537584124,
+    "wof:lastmodified":1564152714,
     "wof:name":"Buzuq",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

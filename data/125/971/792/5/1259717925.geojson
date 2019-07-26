@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Golem"
+    ],
+    "name:msa_x_preferred":[
+        "Golem"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Golem"
+    ],
+    "name:por_x_preferred":[
+        "Golem"
+    ],
+    "name:spa_x_preferred":[
+        "Golem"
+    ],
+    "name:tur_x_preferred":[
+        "Golem"
+    ],
     "name:und_x_variant":[
         "\u00c7ela i Madh",
         "Golemi i Madh",
         "Golemi",
         "Golem i Math",
         "Golem i Madh",
+        "Golem"
+    ],
+    "name:vie_x_preferred":[
+        "Golem"
+    ],
+    "name:war_x_preferred":[
         "Golem"
     ],
     "src:geom":"geonames",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1259717925,
-    "wof:lastmodified":1537584276,
+    "wof:lastmodified":1564153366,
     "wof:name":"Golem",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

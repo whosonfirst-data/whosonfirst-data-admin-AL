@@ -29,12 +29,18 @@
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03b1\u03bd\u03bd\u03b9\u03c4\u03c3\u03ac\u03c4\u03b9"
     ],
+    "name:sqi_x_preferred":[
+        "Janicat"
+    ],
     "name:und_x_variant":[
         "Junicati",
         "Jenicat",
         "Penikati",
         "Janicati",
         "Janicat"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0627\u06cc\u06a9\u0679"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259411459,
-    "wof:lastmodified":1537583964,
+    "wof:lastmodified":1564153359,
     "wof:name":"Janicat",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

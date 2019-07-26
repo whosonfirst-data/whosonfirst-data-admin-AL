@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0648\u0644\u0627"
+    ],
     "name:und_x_variant":[
         "Anol\u00eb",
         "Anola"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209645609,
-    "wof:lastmodified":1537584142,
+    "wof:lastmodified":1564153000,
     "wof:name":"Anola",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
         "Barbulloj\u00eb",
         "Barbullush"
     ],
+    "name:vie_x_preferred":[
+        "Barbullush"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226682811,
-    "wof:lastmodified":1537584317,
+    "wof:lastmodified":1564153413,
     "wof:name":"Barbullush",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

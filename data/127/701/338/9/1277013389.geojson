@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u044a\u0440\u0447\u0438\u0449\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u0440\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Gorno K\u0131r\u00e7i\u015fte"
+    ],
     "name:und_x_variant":[
         "Gorna Kroi\u0161ta",
         "K\u00ebr\u00e7isht i Sip\u00ebrm",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1277013389,
-    "wof:lastmodified":1537584081,
+    "wof:lastmodified":1564152918,
     "wof:name":"Kercishti i Eperm",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

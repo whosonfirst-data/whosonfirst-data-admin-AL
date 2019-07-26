@@ -26,6 +26,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palas\u00eb"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03ac\u03c3\u03b1 \u03a7\u03b5\u03b9\u03bc\u03ac\u03c1\u03c1\u03b1\u03c2"
+    ],
+    "name:slv_x_preferred":[
+        "Palasa"
+    ],
+    "name:sqi_x_preferred":[
+        "Palasa"
+    ],
+    "name:swe_x_preferred":[
+        "Palas\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Palasa"
+    ],
     "name:und_x_variant":[
         "Mailica",
         "Paljasa",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1226683461,
-    "wof:lastmodified":1537584214,
+    "wof:lastmodified":1564153415,
     "wof:name":"Palase",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

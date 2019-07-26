@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Perlati"
+    ],
     "name:und_x_variant":[
         "Perlati",
         "Perlat"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1309741129,
-    "wof:lastmodified":1537584331,
+    "wof:lastmodified":1564153239,
     "wof:name":"Perlat",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

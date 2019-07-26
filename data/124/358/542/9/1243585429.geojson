@@ -27,11 +27,35 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Hajmel"
+    ],
+    "name:ita_x_preferred":[
+        "Hajmel"
+    ],
+    "name:msa_x_preferred":[
+        "Hajmel"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Hajmel"
+    ],
+    "name:por_x_preferred":[
+        "Hajmeli"
+    ],
+    "name:tur_x_preferred":[
+        "Hajmel"
+    ],
     "name:und_x_variant":[
         "Ajmeli",
         "Guragi",
         "Hajmelj",
         "Hajmeli",
+        "Hajmel"
+    ],
+    "name:vie_x_preferred":[
+        "Hajmel"
+    ],
+    "name:war_x_preferred":[
         "Hajmel"
     ],
     "src:geom":"geonames",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1243585429,
-    "wof:lastmodified":1537584268,
+    "wof:lastmodified":1564153310,
     "wof:name":"Hajmel",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

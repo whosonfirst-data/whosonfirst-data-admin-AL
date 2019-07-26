@@ -28,10 +28,40 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0435\u043d"
+    ],
+    "name:hun_x_preferred":[
+        "Gracen alk\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Gracen"
+    ],
+    "name:msa_x_preferred":[
+        "Gracen"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gra\u00e7en"
+    ],
+    "name:por_x_preferred":[
+        "Gracen"
+    ],
+    "name:spa_x_preferred":[
+        "Gracen"
+    ],
+    "name:tur_x_preferred":[
+        "Gracen"
+    ],
     "name:und_x_variant":[
         "Grreceni",
         "Grrecen",
         "Graceni",
+        "Gracen"
+    ],
+    "name:vie_x_preferred":[
+        "Gracen"
+    ],
+    "name:war_x_preferred":[
         "Gracen"
     ],
     "src:geom":"geonames",
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1242909809,
-    "wof:lastmodified":1537584273,
+    "wof:lastmodified":1564153327,
     "wof:name":"Gracen",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

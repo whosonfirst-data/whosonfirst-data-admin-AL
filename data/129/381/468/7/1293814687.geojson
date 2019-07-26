@@ -34,6 +34,9 @@
         "Zaharishte",
         "Zahrisht"
     ],
+    "name:urd_x_preferred":[
+        "\u0632\u06c1\u0631\u06cc\u0634\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293814687,
-    "wof:lastmodified":1537583974,
+    "wof:lastmodified":1564152912,
     "wof:name":"Zahrisht",
     "wof:parent_id":421168061,
     "wof:placetype":"locality",

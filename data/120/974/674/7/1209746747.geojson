@@ -26,8 +26,35 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ballaban"
+    ],
+    "name:ita_x_preferred":[
+        "Ballaban"
+    ],
+    "name:msa_x_preferred":[
+        "Ballaban"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ballaban"
+    ],
+    "name:por_x_preferred":[
+        "Ballaban"
+    ],
+    "name:spa_x_preferred":[
+        "Ballaban"
+    ],
+    "name:tur_x_preferred":[
+        "Balaban"
+    ],
     "name:und_x_variant":[
         "Ballabani",
+        "Ballaban"
+    ],
+    "name:vie_x_preferred":[
+        "Ballaban"
+    ],
+    "name:war_x_preferred":[
         "Ballaban"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1209746747,
-    "wof:lastmodified":1537584339,
+    "wof:lastmodified":1564153049,
     "wof:name":"Ballaban",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

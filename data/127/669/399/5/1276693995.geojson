@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Matogjin"
+    ],
     "name:und_x_variant":[
         "Totogini",
         "Matodjini",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276693995,
-    "wof:lastmodified":1537584230,
+    "wof:lastmodified":1564152940,
     "wof:name":"Matogjin",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

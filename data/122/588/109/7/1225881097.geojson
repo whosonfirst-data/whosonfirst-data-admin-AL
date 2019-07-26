@@ -27,10 +27,58 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0440\u0430\u0448\u044a\u0440"
+    ],
+    "name:ces_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:deu_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:fra_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:hun_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:ita_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0440\u0430\u0448\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Frash\u00ebr"
+    ],
+    "name:por_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:spa_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Frash\u00ebri"
+    ],
+    "name:tur_x_preferred":[
+        "Fra\u015fer"
+    ],
     "name:und_x_variant":[
         "Phrasar\u00eb",
         "Frasceri",
         "Frash\u00ebri",
+        "Frash\u00ebr"
+    ],
+    "name:vie_x_preferred":[
+        "Frash\u00ebr"
+    ],
+    "name:war_x_preferred":[
         "Frash\u00ebr"
     ],
     "src:geom":"geonames",
@@ -57,7 +105,7 @@
         }
     ],
     "wof:id":1225881097,
-    "wof:lastmodified":1537584108,
+    "wof:lastmodified":1564153427,
     "wof:name":"Frasher",
     "wof:parent_id":421192831,
     "wof:placetype":"locality",

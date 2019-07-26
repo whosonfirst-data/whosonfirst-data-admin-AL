@@ -29,8 +29,20 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b5\u03bd"
     ],
+    "name:ind_x_preferred":[
+        "Tren"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0440\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Tren"
+    ],
+    "name:por_x_preferred":[
+        "Trena"
+    ],
+    "name:spa_x_preferred":[
+        "Tren"
     ],
     "name:und_x_variant":[
         "Treni",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209448915,
-    "wof:lastmodified":1537583990,
+    "wof:lastmodified":1564153059,
     "wof:name":"Tren",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

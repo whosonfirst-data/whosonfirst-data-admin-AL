@@ -25,6 +25,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0574\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Lumas"
+    ],
+    "name:msa_x_preferred":[
+        "Lumas"
+    ],
+    "name:nno_x_preferred":[
+        "Lumas"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lumas"
+    ],
+    "name:por_x_preferred":[
+        "Lumas"
+    ],
+    "name:spa_x_preferred":[
+        "Lumas"
+    ],
+    "name:tur_x_preferred":[
+        "Lumas"
+    ],
+    "name:vie_x_preferred":[
+        "Lumas"
+    ],
+    "name:war_x_preferred":[
+        "Lumas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1243098285,
-    "wof:lastmodified":1536809978,
+    "wof:lastmodified":1564153265,
     "wof:name":"Lumas",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

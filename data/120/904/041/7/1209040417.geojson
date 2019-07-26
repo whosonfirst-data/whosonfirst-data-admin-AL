@@ -27,8 +27,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Brataj"
+    ],
+    "name:msa_x_preferred":[
+        "Brataj"
+    ],
+    "name:pol_x_preferred":[
+        "Brataj"
+    ],
+    "name:por_x_preferred":[
+        "Brataj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0430\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Brataj"
+    ],
     "name:und_x_variant":[
         "Bratraj",
+        "Brataj"
+    ],
+    "name:vie_x_preferred":[
+        "Brataj"
+    ],
+    "name:war_x_preferred":[
         "Brataj"
     ],
     "src:geom":"geonames",
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1209040417,
-    "wof:lastmodified":1537584308,
+    "wof:lastmodified":1564153037,
     "wof:name":"Brataj",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

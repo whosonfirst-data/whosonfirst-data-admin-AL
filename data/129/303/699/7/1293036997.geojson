@@ -27,10 +27,40 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Macukull"
+    ],
+    "name:msa_x_preferred":[
+        "Macukull"
+    ],
+    "name:nld_x_preferred":[
+        "Macukull"
+    ],
+    "name:nno_x_preferred":[
+        "Macukull"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Macukull"
+    ],
+    "name:por_x_preferred":[
+        "Macukull"
+    ],
+    "name:spa_x_preferred":[
+        "Macukull"
+    ],
+    "name:tur_x_preferred":[
+        "Macukull"
+    ],
     "name:und_x_variant":[
         "Macuklli",
         "Macukuli",
         "Macukulli",
+        "Macukull"
+    ],
+    "name:vie_x_preferred":[
+        "Macukull"
+    ],
+    "name:war_x_preferred":[
         "Macukull"
     ],
     "src:geom":"geonames",
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1293036997,
-    "wof:lastmodified":1537584057,
+    "wof:lastmodified":1564152887,
     "wof:name":"Macukull",
     "wof:parent_id":421202751,
     "wof:placetype":"locality",

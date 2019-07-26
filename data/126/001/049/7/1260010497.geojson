@@ -26,11 +26,26 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Duzhe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0942\u091d\u0947\u200b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0447\u0436\u044d"
+    ],
     "name:und_x_variant":[
         "Duzha",
         "Duarza",
         "Dusha",
         "Duzh\u00eb"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8bfb\u8005"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b80\u8005"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1260010497,
-    "wof:lastmodified":1537584110,
+    "wof:lastmodified":1564153099,
     "wof:name":"Duzhe",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

@@ -27,9 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Potom"
+    ],
+    "name:msa_x_preferred":[
+        "Potom"
+    ],
+    "name:nno_x_preferred":[
+        "Potom"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Potom"
+    ],
+    "name:por_x_preferred":[
+        "Potom"
+    ],
+    "name:spa_x_preferred":[
+        "Potom"
+    ],
+    "name:tur_x_preferred":[
+        "Potom"
+    ],
     "name:und_x_variant":[
         "Podhom",
         "Potomi",
+        "Potom"
+    ],
+    "name:vie_x_preferred":[
+        "Potom"
+    ],
+    "name:war_x_preferred":[
         "Potom"
     ],
     "src:geom":"geonames",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1242720577,
-    "wof:lastmodified":1537584029,
+    "wof:lastmodified":1564153283,
     "wof:name":"Potom",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

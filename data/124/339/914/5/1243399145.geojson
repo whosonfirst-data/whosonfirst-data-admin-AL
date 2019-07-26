@@ -27,11 +27,35 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Klos"
+    ],
+    "name:msa_x_preferred":[
+        "Klos"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Klos"
+    ],
+    "name:por_x_preferred":[
+        "Klos"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u043e\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Klos"
+    ],
+    "name:tur_x_preferred":[
+        "Klos"
+    ],
     "name:und_x_variant":[
         "Klosi",
+        "Klos"
+    ],
+    "name:vie_x_preferred":[
+        "Klos"
+    ],
+    "name:war_x_preferred":[
         "Klos"
     ],
     "src:geom":"geonames",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1243399145,
-    "wof:lastmodified":1537584079,
+    "wof:lastmodified":1564153277,
     "wof:name":"Klos",
     "wof:parent_id":1108720849,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dushman"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0941\u0936\u094d\u092e\u0928"
+    ],
     "name:und_x_variant":[
         "Dushmani",
         "Dushman"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193173085,
-    "wof:lastmodified":1537584327,
+    "wof:lastmodified":1564153082,
     "wof:name":"Dushman",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

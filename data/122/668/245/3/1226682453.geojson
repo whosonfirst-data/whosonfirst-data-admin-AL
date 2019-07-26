@@ -26,6 +26,18 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamic\u00eb-Flak\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Kamic\u00eb-Flak\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kamic\u00eb-Flak\u00eb"
+    ],
     "name:und_x_variant":[
         "Kamic\u00eb-Flaka",
         "Kamice",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226682453,
-    "wof:lastmodified":1537584258,
+    "wof:lastmodified":1564153412,
     "wof:name":"Kamice-Flake",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

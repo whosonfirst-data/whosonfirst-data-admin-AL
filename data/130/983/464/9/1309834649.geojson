@@ -26,6 +26,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mursi"
+    ],
+    "name:nds_x_preferred":[
+        "Mursi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0441\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Mursi"
+    ],
+    "name:sqi_x_preferred":[
+        "Mursi"
+    ],
     "name:und_x_variant":[
         "Mursia",
         "Murs",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1309834649,
-    "wof:lastmodified":1537583959,
+    "wof:lastmodified":1564153217,
     "wof:name":"Mursi",
     "wof:parent_id":1108720869,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ismail Kadar\u00e9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0443\u0448\u0430 \u0411\u0430\u0440\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Fush\u00eb-Bardh\u00eb"
+    ],
+    "name:por_x_preferred":[
+        "Fush\u00ebbardh\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Fush\u00eb-Bardh\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Fush\u00ebbardha"
+    ],
     "name:und_x_variant":[
         "Fushe e Bardh\u00eb",
         "Fush-Bardhe",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1293619807,
-    "wof:lastmodified":1537584284,
+    "wof:lastmodified":1564152879,
     "wof:name":"Fushebardhe",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

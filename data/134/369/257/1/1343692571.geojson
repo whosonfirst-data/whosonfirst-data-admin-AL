@@ -25,6 +25,45 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Trash"
+    ],
+    "name:deu_x_preferred":[
+        "Trash"
+    ],
+    "name:fin_x_preferred":[
+        "Trash"
+    ],
+    "name:fra_x_preferred":[
+        "Trash"
+    ],
+    "name:ita_x_preferred":[
+        "Trash"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30c3\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub798\uc2dc"
+    ],
+    "name:pol_x_preferred":[
+        "Trash"
+    ],
+    "name:por_x_preferred":[
+        "Trash"
+    ],
+    "name:rus_x_preferred":[
+        "Trash"
+    ],
+    "name:spa_x_preferred":[
+        "Trash"
+    ],
+    "name:swe_x_preferred":[
+        "Trash"
+    ],
+    "name:ukr_x_preferred":[
+        "Trash"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1343692571,
-    "wof:lastmodified":1536909156,
+    "wof:lastmodified":1564152807,
     "wof:name":"Trash",
     "wof:parent_id":1108720889,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Pentar"
+    ],
     "name:und_x_variant":[
         "Pentari",
         "Pentar"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310235413,
-    "wof:lastmodified":1537584212,
+    "wof:lastmodified":1564153140,
     "wof:name":"Pentar",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

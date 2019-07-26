@@ -27,11 +27,41 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u057f\u0561\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Kutalli"
+    ],
+    "name:msa_x_preferred":[
+        "Kutalli"
+    ],
+    "name:nno_x_preferred":[
+        "Kutalli"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kutalli"
+    ],
+    "name:por_x_preferred":[
+        "Kutalli"
+    ],
+    "name:spa_x_preferred":[
+        "Kutalli"
+    ],
+    "name:tur_x_preferred":[
+        "Kutalli"
+    ],
     "name:und_x_variant":[
         "Kutali",
         "Kutallija",
         "Kutallia",
         "Kutaj",
+        "Kutalli"
+    ],
+    "name:vie_x_preferred":[
+        "Kutalli"
+    ],
+    "name:war_x_preferred":[
         "Kutalli"
     ],
     "src:geom":"geonames",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1193215483,
-    "wof:lastmodified":1537584244,
+    "wof:lastmodified":1564153089,
     "wof:name":"Kutalli",
     "wof:parent_id":1108720907,
     "wof:placetype":"locality",

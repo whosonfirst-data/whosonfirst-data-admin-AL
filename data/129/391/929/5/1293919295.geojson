@@ -27,11 +27,20 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Battement"
+    ],
+    "name:spa_x_preferred":[
+        "Rasgueo"
+    ],
     "name:und_x_variant":[
         "\u00c7iflik-Struma",
         "Strubi",
         "Strumi",
         "Strum\u00eb",
+        "Strum"
+    ],
+    "name:vie_x_preferred":[
         "Strum"
     ],
     "src:geom":"geonames",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293919295,
-    "wof:lastmodified":1537584176,
+    "wof:lastmodified":1564152837,
     "wof:name":"Strum",
     "wof:parent_id":1108720897,
     "wof:placetype":"locality",

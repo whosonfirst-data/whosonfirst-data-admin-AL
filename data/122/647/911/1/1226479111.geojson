@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pa xopat"
+    ],
+    "name:spa_x_preferred":[
+        "Sop"
+    ],
     "name:und_x_variant":[
         "Sopi",
         "Apollont\u00eb",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226479111,
-    "wof:lastmodified":1537584178,
+    "wof:lastmodified":1564153447,
     "wof:name":"Sop",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

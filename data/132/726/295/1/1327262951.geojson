@@ -26,6 +26,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galato"
+    ],
+    "name:deu_x_preferred":[
+        "Gallate"
+    ],
+    "name:spa_x_preferred":[
+        "Galato"
+    ],
+    "name:srp_x_preferred":[
+        "Galat"
+    ],
+    "name:swe_x_preferred":[
+        "Galato"
+    ],
     "name:und_x_variant":[
         "Galat",
         "Gallate",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1327262951,
-    "wof:lastmodified":1537584284,
+    "wof:lastmodified":1564152751,
     "wof:name":"Gallate",
     "wof:parent_id":421181321,
     "wof:placetype":"locality",

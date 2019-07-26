@@ -27,6 +27,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Lenija alk\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Lenie"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00ebnie"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sh\u00ebnepremte"
+    ],
+    "name:por_x_preferred":[
+        "Lenie"
+    ],
+    "name:spa_x_preferred":[
+        "Lenie"
+    ],
+    "name:tur_x_preferred":[
+        "Lenie"
+    ],
     "name:und_x_variant":[
         "Sh\u00ebnapremtja",
         "Lenie",
@@ -42,6 +63,12 @@
         "Sh\u00ebnepr\u00ebmte",
         "Sh\u00ebnpremtja",
         "Lenias"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00ebnie"
+    ],
+    "name:war_x_preferred":[
+        "L\u00ebnie"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +94,7 @@
         }
     ],
     "wof:id":1293130263,
-    "wof:lastmodified":1537584065,
+    "wof:lastmodified":1564152876,
     "wof:name":"Lenias",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

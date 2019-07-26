@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Burim"
+    ],
+    "name:deu_x_preferred":[
+        "Burim"
+    ],
+    "name:swe_x_preferred":[
+        "Burim"
+    ],
     "name:und_x_variant":[
         "Burimi",
         "Burim"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243002279,
-    "wof:lastmodified":1537584125,
+    "wof:lastmodified":1564153257,
     "wof:name":"Burim",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

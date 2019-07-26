@@ -29,6 +29,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0451\u043d\u044f"
     ],
+    "name:sqi_x_preferred":[
+        "Kolonj\u00eb"
+    ],
     "name:und_x_variant":[
         "Colonia",
         "Kolonja",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242611497,
-    "wof:lastmodified":1537584077,
+    "wof:lastmodified":1564153295,
     "wof:name":"Kolonje",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gradisht\u00eb"
+    ],
+    "name:msa_x_preferred":[
+        "Gradisht\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gradisht\u00eb"
+    ],
+    "name:por_x_preferred":[
+        "Gradisht\u00eb"
+    ],
+    "name:spa_x_preferred":[
+        "Gradisht\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Gradi\u015fte"
+    ],
     "name:und_x_variant":[
         "Qytez\u00eb",
         "Gradishti",
@@ -34,6 +52,12 @@
         "Gradi\u0161ta",
         "Gradishta",
         "Gradisht",
+        "Gradisht\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Gradisht\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Gradisht\u00eb"
     ],
     "src:geom":"geonames",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1310436323,
-    "wof:lastmodified":1537584273,
+    "wof:lastmodified":1564153168,
     "wof:name":"Gradishte",
     "wof:parent_id":1108720853,
     "wof:placetype":"locality",

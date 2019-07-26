@@ -27,6 +27,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0554\u0578\u0582\u056f\u0561\u056c\u0561\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Cukalat"
+    ],
+    "name:msa_x_preferred":[
+        "Cukalat"
+    ],
+    "name:nno_x_preferred":[
+        "Cukalat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cukalat"
+    ],
+    "name:por_x_preferred":[
+        "Cukalat"
+    ],
+    "name:spa_x_preferred":[
+        "Cukalat"
+    ],
+    "name:tur_x_preferred":[
+        "Cukalat"
+    ],
     "name:und_x_variant":[
         "Cukala",
         "Cukalati",
@@ -34,6 +58,12 @@
         "Cukakat",
         "Cukaljat",
         "Cukelati",
+        "Cukalat"
+    ],
+    "name:vie_x_preferred":[
+        "Cukalat"
+    ],
+    "name:war_x_preferred":[
         "Cukalat"
     ],
     "src:geom":"geonames",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1243019485,
-    "wof:lastmodified":1537584298,
+    "wof:lastmodified":1564153272,
     "wof:name":"Cukalat",
     "wof:parent_id":1108720907,
     "wof:placetype":"locality",

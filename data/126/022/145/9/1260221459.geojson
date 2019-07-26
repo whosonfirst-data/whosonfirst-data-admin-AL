@@ -27,10 +27,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kukur"
+    ],
+    "name:msa_x_preferred":[
+        "Kukur"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kukur"
+    ],
+    "name:por_x_preferred":[
+        "Kukur"
+    ],
+    "name:spa_x_preferred":[
+        "Kukur"
+    ],
+    "name:tur_x_preferred":[
+        "Kukur"
+    ],
     "name:und_x_variant":[
         "Kukuri",
         "Kuk\u00ebr",
         "Kuk\u00ebri",
+        "Kukur"
+    ],
+    "name:vie_x_preferred":[
+        "Kukur"
+    ],
+    "name:war_x_preferred":[
         "Kukur"
     ],
     "src:geom":"geonames",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1260221459,
-    "wof:lastmodified":1537584071,
+    "wof:lastmodified":1564153091,
     "wof:name":"Kukur",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

@@ -27,13 +27,28 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kolonj\u00eb"
+    ],
+    "name:msa_x_preferred":[
+        "Kolonj\u00eb"
+    ],
+    "name:por_x_preferred":[
+        "Kolonj\u00eb"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0451\u043d\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "Kolonya"
     ],
     "name:und_x_variant":[
         "Colonia",
         "Kolonja",
         "Kolonj",
+        "Kolonj\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Kolonj\u00eb"
     ],
     "src:geom":"geonames",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1326964381,
-    "wof:lastmodified":1537584251,
+    "wof:lastmodified":1564152748,
     "wof:name":"Kolonje",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

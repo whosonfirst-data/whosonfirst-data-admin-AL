@@ -26,8 +26,20 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u044a\u0431\u043d\u0438\u043a"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c1\u03bd\u03af\u03ba\u03b9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0431\u043d\u0438\u043a"
+    ],
+    "name:sqi_x_preferred":[
+        "Verniku"
+    ],
+    "name:tur_x_preferred":[
+        "Vernik"
     ],
     "name:und_x_variant":[
         "Verniku",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293623737,
-    "wof:lastmodified":1537583983,
+    "wof:lastmodified":1564152845,
     "wof:name":"Vernik",
     "wof:parent_id":1108720851,
     "wof:placetype":"locality",

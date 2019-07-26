@@ -26,10 +26,37 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rremas"
+    ],
+    "name:lit_x_preferred":[
+        "Remas"
+    ],
+    "name:msa_x_preferred":[
+        "Rremas"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rremas"
+    ],
+    "name:por_x_preferred":[
+        "Rremas"
+    ],
+    "name:spa_x_preferred":[
+        "Remas"
+    ],
+    "name:tur_x_preferred":[
+        "Remas"
+    ],
     "name:und_x_variant":[
         "Sektori No. 2",
         "Sektori Num\u00ebr Dy",
         "Remas"
+    ],
+    "name:vie_x_preferred":[
+        "Remas"
+    ],
+    "name:war_x_preferred":[
+        "Rremas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1226785193,
-    "wof:lastmodified":1537584337,
+    "wof:lastmodified":1564153450,
     "wof:name":"Remas",
     "wof:parent_id":1108720853,
     "wof:placetype":"locality",

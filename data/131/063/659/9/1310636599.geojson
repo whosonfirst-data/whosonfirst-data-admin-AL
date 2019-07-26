@@ -27,6 +27,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Armen"
+    ],
+    "name:ces_x_preferred":[
+        "Armen"
+    ],
+    "name:deu_x_preferred":[
+        "Armen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0645\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Armen"
+    ],
+    "name:pol_x_preferred":[
+        "Armen"
+    ],
+    "name:spa_x_preferred":[
+        "Armen"
+    ],
     "name:und_x_variant":[
         "Armeni",
         "Armen"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310636599,
-    "wof:lastmodified":1537584321,
+    "wof:lastmodified":1564153161,
     "wof:name":"Armen",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

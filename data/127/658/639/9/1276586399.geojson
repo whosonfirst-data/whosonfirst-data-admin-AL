@@ -27,12 +27,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zall Herr"
+    ],
+    "name:msa_x_preferred":[
+        "Zall-Herr"
+    ],
+    "name:por_x_preferred":[
+        "Zall-Herr"
+    ],
+    "name:tur_x_preferred":[
+        "Zall-Herr"
+    ],
     "name:und_x_variant":[
         "Zalli i Herit",
         "Zall i Herrit",
         "Zallherraj",
         "Zall-Herri",
         "Zall\u00eb-Herraj",
+        "Zall-Herr"
+    ],
+    "name:vie_x_preferred":[
+        "Zall Herr"
+    ],
+    "name:war_x_preferred":[
         "Zall-Herr"
     ],
     "src:geom":"geonames",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276586399,
-    "wof:lastmodified":1537584159,
+    "wof:lastmodified":1564152952,
     "wof:name":"Zall-Herr",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mbrostar"
+    ],
+    "name:msa_x_preferred":[
+        "Mbrostar"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Mbrostar"
+    ],
+    "name:por_x_preferred":[
+        "Mbrostar"
+    ],
+    "name:spa_x_preferred":[
+        "Mbrostar"
+    ],
+    "name:tur_x_preferred":[
+        "Mbrostar"
+    ],
     "name:und_x_variant":[
         "Brostar Ferko",
         "Mbrostar",
@@ -37,6 +55,12 @@
         "Brostari-Ferkaj",
         "Mbrotja e Sip\u00ebrme",
         "Mbrostar-Ur\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Mbrostar Ura"
+    ],
+    "name:war_x_preferred":[
+        "Mbrostar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1360319219,
-    "wof:lastmodified":1537584228,
+    "wof:lastmodified":1564153196,
     "wof:name":"Mbrostar-Ure",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

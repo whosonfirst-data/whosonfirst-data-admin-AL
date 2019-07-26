@@ -27,8 +27,26 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zall Bastar"
+    ],
+    "name:msa_x_preferred":[
+        "Zall-Bastar"
+    ],
+    "name:por_x_preferred":[
+        "Zall-Bastar"
+    ],
+    "name:tur_x_preferred":[
+        "Zall-Bastar"
+    ],
     "name:und_x_variant":[
         "Zall-Bastari",
+        "Zall-Bastar"
+    ],
+    "name:vie_x_preferred":[
+        "Zall Bastar"
+    ],
+    "name:war_x_preferred":[
         "Zall-Bastar"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326864021,
-    "wof:lastmodified":1537584159,
+    "wof:lastmodified":1564152703,
     "wof:name":"Zall-Bastar",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

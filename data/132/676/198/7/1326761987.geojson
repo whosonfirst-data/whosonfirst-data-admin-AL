@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03bb\u03b9\u03b1\u03c1\u03ac\u03c4\u03b9"
+    ],
+    "name:sqi_x_preferred":[
+        "Bularat"
+    ],
     "name:und_x_variant":[
         "Bularati",
         "Bularat"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326761987,
-    "wof:lastmodified":1537583967,
+    "wof:lastmodified":1564152737,
     "wof:name":"Bularat",
     "wof:parent_id":1108720855,
     "wof:placetype":"locality",

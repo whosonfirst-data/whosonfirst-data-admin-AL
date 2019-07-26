@@ -27,8 +27,38 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Melan"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043b\u0430\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Melan"
+    ],
+    "name:nno_x_preferred":[
+        "Melan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Melan"
+    ],
+    "name:por_x_preferred":[
+        "Melan"
+    ],
+    "name:spa_x_preferred":[
+        "Melan"
+    ],
+    "name:tur_x_preferred":[
+        "Melan"
+    ],
     "name:und_x_variant":[
         "Melani",
+        "Melan"
+    ],
+    "name:vie_x_preferred":[
+        "Melan"
+    ],
+    "name:war_x_preferred":[
         "Melan"
     ],
     "src:geom":"geonames",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1259520347,
-    "wof:lastmodified":1537584052,
+    "wof:lastmodified":1564153357,
     "wof:name":"Melan",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

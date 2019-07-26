@@ -27,6 +27,18 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sevaster"
+    ],
+    "name:msa_x_preferred":[
+        "Sevaster"
+    ],
+    "name:por_x_preferred":[
+        "Sevaster"
+    ],
+    "name:tur_x_preferred":[
+        "Sevaster"
+    ],
     "name:und_x_variant":[
         "Kudh\u00ebs",
         "S\u00ebvast\u00ebr-Kudh\u00ebs",
@@ -35,6 +47,12 @@
         "Sevasteri",
         "Sevaster Cuds",
         "Stevaster",
+        "Sevaster"
+    ],
+    "name:vie_x_preferred":[
+        "Sevaster"
+    ],
+    "name:war_x_preferred":[
         "Sevaster"
     ],
     "src:geom":"geonames",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1343892873,
-    "wof:lastmodified":1537584189,
+    "wof:lastmodified":1564152825,
     "wof:name":"Sevaster",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

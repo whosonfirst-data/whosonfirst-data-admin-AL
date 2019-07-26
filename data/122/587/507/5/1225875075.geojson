@@ -26,6 +26,39 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vile"
+    ],
+    "name:deu_x_preferred":[
+        "Vile"
+    ],
+    "name:fra_x_preferred":[
+        "Vile"
+    ],
+    "name:hun_x_preferred":[
+        "Vile"
+    ],
+    "name:ita_x_preferred":[
+        "Vile"
+    ],
+    "name:nds_x_preferred":[
+        "Vile"
+    ],
+    "name:por_x_preferred":[
+        "Vile"
+    ],
+    "name:rus_x_preferred":[
+        "Vile"
+    ],
+    "name:spa_x_preferred":[
+        "Vile"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vile"
+    ],
     "name:und_x_variant":[
         "Piscali",
         "Vila",
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1225875075,
-    "wof:lastmodified":1537584034,
+    "wof:lastmodified":1564153431,
     "wof:name":"Vile",
     "wof:parent_id":421192831,
     "wof:placetype":"locality",

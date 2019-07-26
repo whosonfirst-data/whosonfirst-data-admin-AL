@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Uj\u00ebmisht"
+    ],
+    "name:msa_x_preferred":[
+        "Ujmisht"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ujmisht"
+    ],
+    "name:por_x_preferred":[
+        "Ujmisht"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0458\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Uymi\u015fte"
+    ],
     "name:und_x_variant":[
         "Mem",
         "Ujmishti",
         "Ujmisht\u00eb",
         "Ujmisht\u00eb e Gurit",
         "Ymisht\u00eb-e Gurit",
+        "Ujmisht"
+    ],
+    "name:vie_x_preferred":[
+        "Ujmisht"
+    ],
+    "name:war_x_preferred":[
         "Ujmisht"
     ],
     "src:geom":"geonames",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343591303,
-    "wof:lastmodified":1537583988,
+    "wof:lastmodified":1564152803,
     "wof:name":"Ujmisht",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

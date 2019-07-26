@@ -27,10 +27,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hysgjokaj"
+    ],
+    "name:msa_x_preferred":[
+        "Hysgjokaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Hysgjokaj"
+    ],
+    "name:por_x_preferred":[
+        "Hysgjokaj"
+    ],
+    "name:spa_x_preferred":[
+        "Hysgjokaj"
+    ],
+    "name:tur_x_preferred":[
+        "Hysgjokaj"
+    ],
     "name:und_x_variant":[
         "Xhokaj",
         "Hysaj",
         "D\u017eokaj",
+        "Hysgjokaj"
+    ],
+    "name:vie_x_preferred":[
+        "Hysgjokaj"
+    ],
+    "name:war_x_preferred":[
         "Hysgjokaj"
     ],
     "src:geom":"geonames",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1225878599,
-    "wof:lastmodified":1537584265,
+    "wof:lastmodified":1564153430,
     "wof:name":"Hysgjokaj",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

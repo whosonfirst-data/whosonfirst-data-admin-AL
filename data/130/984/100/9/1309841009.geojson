@@ -27,12 +27,39 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Maminas"
+    ],
+    "name:msa_x_preferred":[
+        "Maminas"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Maminas"
+    ],
+    "name:por_x_preferred":[
+        "Maminas"
+    ],
+    "name:sco_x_preferred":[
+        "Maminas"
+    ],
+    "name:spa_x_preferred":[
+        "Maminas"
+    ],
+    "name:tur_x_preferred":[
+        "Maminas"
+    ],
     "name:und_x_variant":[
         "Veminasi",
         "Maminasi",
         "Meminas",
         "Meminasi",
         "Meminosi",
+        "Maminas"
+    ],
+    "name:vie_x_preferred":[
+        "Maminas"
+    ],
+    "name:war_x_preferred":[
         "Maminas"
     ],
     "src:geom":"geonames",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1309841009,
-    "wof:lastmodified":1537584232,
+    "wof:lastmodified":1564153222,
     "wof:name":"Maminas",
     "wof:parent_id":1108720905,
     "wof:placetype":"locality",

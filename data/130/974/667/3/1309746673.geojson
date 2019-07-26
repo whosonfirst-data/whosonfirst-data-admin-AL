@@ -26,8 +26,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lekas"
+    ],
+    "name:msa_x_preferred":[
+        "Lekas"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lekas"
+    ],
+    "name:por_x_preferred":[
+        "Lekas"
+    ],
+    "name:spa_x_preferred":[
+        "Lekas"
+    ],
+    "name:tur_x_preferred":[
+        "Lekas"
+    ],
     "name:und_x_variant":[
         "Lekaj",
+        "Lekas"
+    ],
+    "name:vie_x_preferred":[
+        "Lekas"
+    ],
+    "name:war_x_preferred":[
         "Lekas"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1309746673,
-    "wof:lastmodified":1537584066,
+    "wof:lastmodified":1564153234,
     "wof:name":"Lekas",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

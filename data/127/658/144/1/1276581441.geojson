@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Patin"
+    ],
+    "name:fra_x_preferred":[
+        "Patin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Paten",
         "Patini",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276581441,
-    "wof:lastmodified":1537584038,
+    "wof:lastmodified":1564152948,
     "wof:name":"Patin",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

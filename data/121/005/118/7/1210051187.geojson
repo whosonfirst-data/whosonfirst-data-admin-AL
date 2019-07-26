@@ -27,12 +27,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sinaballaj"
+    ],
+    "name:msa_x_preferred":[
+        "Sinaballaj"
+    ],
+    "name:por_x_preferred":[
+        "Sinaballaj"
+    ],
+    "name:tur_x_preferred":[
+        "Sinaballaj"
+    ],
     "name:und_x_variant":[
         "Sineballa",
         "Sinanaj",
         "Sinabella",
         "Sinebala",
         "Sinaballej",
+        "Sinaballaj"
+    ],
+    "name:vie_x_preferred":[
+        "Sinaballaj"
+    ],
+    "name:war_x_preferred":[
         "Sinaballaj"
     ],
     "src:geom":"geonames",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1210051187,
-    "wof:lastmodified":1537584179,
+    "wof:lastmodified":1564153067,
     "wof:name":"Sinaballaj",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

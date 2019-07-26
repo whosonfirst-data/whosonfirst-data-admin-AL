@@ -26,6 +26,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bram"
+    ],
+    "name:deu_x_preferred":[
+        "Bram"
+    ],
+    "name:nld_x_preferred":[
+        "Bram"
+    ],
+    "name:por_x_preferred":[
+        "Bram"
+    ],
+    "name:swe_x_preferred":[
+        "Bram"
+    ],
     "name:und_x_variant":[
         "Brami",
         "Bram"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310148313,
-    "wof:lastmodified":1537584335,
+    "wof:lastmodified":1564153147,
     "wof:name":"Bram",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

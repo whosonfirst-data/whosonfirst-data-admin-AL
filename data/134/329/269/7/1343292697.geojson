@@ -27,10 +27,37 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Surroj alk\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Surroj"
+    ],
+    "name:msa_x_preferred":[
+        "Surroj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Surroj"
+    ],
+    "name:por_x_preferred":[
+        "Surroj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0440\u043e\u0458"
+    ],
+    "name:tur_x_preferred":[
+        "Surroj"
+    ],
     "name:und_x_variant":[
         "Surroji",
         "Suroj",
         "Serroj",
+        "Surroj"
+    ],
+    "name:vie_x_preferred":[
+        "Surroj"
+    ],
+    "name:war_x_preferred":[
         "Surroj"
     ],
     "src:geom":"geonames",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1343292697,
-    "wof:lastmodified":1537583996,
+    "wof:lastmodified":1564152821,
     "wof:name":"Surroj",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

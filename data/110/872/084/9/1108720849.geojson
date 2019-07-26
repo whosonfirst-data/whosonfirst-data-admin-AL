@@ -28,8 +28,95 @@
     "mps:longitude":19.998157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0426\u044a\u0440\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ces_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:dan_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:deu_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03c1\u03b9\u03ba"
+    ],
     "name:eng_x_preferred":[
         "C\u00ebrrik"
+    ],
+    "name:fin_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:fra_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:hun_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc98\ub9ac\ud06c"
+    ],
+    "name:lmo_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:pol_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:por_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0440\u0438\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:spa_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:sqi_x_preferred":[
+        "C\u00ebrriku"
+    ],
+    "name:srp_x_preferred":[
+        "Cerik"
+    ],
+    "name:swe_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:tur_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u0440\u0456\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:war_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b56\u91cc\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -66,7 +153,7 @@
         }
     ],
     "wof:id":1108720849,
-    "wof:lastmodified":1553718458,
+    "wof:lastmodified":1564153123,
     "wof:name":"C\u00ebrrik",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

@@ -26,9 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kalush"
+    ],
     "name:und_x_variant":[
         "Kalushi",
         "Kalusch",
+        "Kalush"
+    ],
+    "name:vie_x_preferred":[
         "Kalush"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1309936321,
-    "wof:lastmodified":1537584259,
+    "wof:lastmodified":1564153227,
     "wof:name":"Kalush",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

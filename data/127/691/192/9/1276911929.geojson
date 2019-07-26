@@ -27,11 +27,38 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Kolsh"
+    ],
+    "name:ita_x_preferred":[
+        "Kolsh"
+    ],
+    "name:msa_x_preferred":[
+        "Kolsh"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kolsh"
+    ],
+    "name:por_x_preferred":[
+        "Kolsh"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u0448"
+    ],
+    "name:tur_x_preferred":[
+        "Kolsh"
+    ],
     "name:und_x_variant":[
         "Kolshi",
         "Kalshi",
         "Klosh",
         "Kolj\u0161i",
+        "Kolsh"
+    ],
+    "name:vie_x_preferred":[
+        "Kolsh"
+    ],
+    "name:war_x_preferred":[
         "Kolsh"
     ],
     "src:geom":"geonames",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1276911929,
-    "wof:lastmodified":1537584077,
+    "wof:lastmodified":1564152980,
     "wof:name":"Kolsh",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sult"
+    ],
+    "name:msa_x_preferred":[
+        "Sult"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sult"
+    ],
+    "name:por_x_preferred":[
+        "Sult"
+    ],
+    "name:spa_x_preferred":[
+        "Sult"
+    ],
+    "name:tur_x_preferred":[
+        "Sult"
+    ],
     "name:und_x_variant":[
         "Sulti",
         "Sult\u00eb",
         "Suli",
         "Sul",
         "Sulta",
+        "Sult"
+    ],
+    "name:vie_x_preferred":[
+        "Sult"
+    ],
+    "name:war_x_preferred":[
         "Sult"
     ],
     "src:geom":"geonames",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1225874947,
-    "wof:lastmodified":1537583996,
+    "wof:lastmodified":1564153432,
     "wof:name":"Sult",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

@@ -27,12 +27,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kakavija"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03b1\u03b2\u03b9\u03ac \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf\u03c5"
+    ],
+    "name:fra_x_preferred":[
+        "Kakavia"
+    ],
+    "name:sqi_x_preferred":[
+        "Kakavij\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Kakavya"
+    ],
     "name:und_x_variant":[
         "Kakavja",
         "Kakavi",
         "Kakavija",
         "Kakavia",
         "Cacavia",
+        "Kakavij\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Kakavij\u00eb"
     ],
     "src:geom":"geonames",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1326561119,
-    "wof:lastmodified":1537583964,
+    "wof:lastmodified":1564152710,
     "wof:name":"Kakavije",
     "wof:parent_id":1108720855,
     "wof:placetype":"locality",

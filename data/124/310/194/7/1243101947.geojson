@@ -26,8 +26,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Qerret"
+    ],
+    "name:msa_x_preferred":[
+        "Qerret"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Qerret"
+    ],
+    "name:por_x_preferred":[
+        "Querreti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Qerret"
+    ],
     "name:und_x_variant":[
         "Qerreti",
+        "Qerret"
+    ],
+    "name:vie_x_preferred":[
+        "Qerret"
+    ],
+    "name:war_x_preferred":[
         "Qerret"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1243101947,
-    "wof:lastmodified":1537584330,
+    "wof:lastmodified":1564153343,
     "wof:name":"Qerret",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

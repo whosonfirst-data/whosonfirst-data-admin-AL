@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fert"
+    ],
+    "name:fra_x_preferred":[
+        "Fert"
+    ],
+    "name:nds_x_preferred":[
+        "Fert"
+    ],
     "name:und_x_variant":[
         "Ferti",
         "Ferraj",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293428179,
-    "wof:lastmodified":1537584109,
+    "wof:lastmodified":1564152903,
     "wof:name":"Fert",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

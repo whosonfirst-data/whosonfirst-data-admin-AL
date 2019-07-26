@@ -28,8 +28,59 @@
     "mps:longitude":20.473712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u043d\u044f\u0441"
+    ],
+    "name:ces_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:deu_x_preferred":[
+        "P\u00ebrrenjas"
+    ],
     "name:eng_x_preferred":[
         "Prrenjas"
+    ],
+    "name:fra_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:hun_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00ebrrenjas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u045a\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00ebrrenjas"
+    ],
+    "name:nld_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:por_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:ron_x_preferred":[
+        "P\u00ebrrenjas"
+    ],
+    "name:spa_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:sqi_x_preferred":[
+        "Prrenjasi"
+    ],
+    "name:tur_x_preferred":[
+        "Prrenjas"
+    ],
+    "name:vie_x_preferred":[
+        "Perrenjas"
+    ],
+    "name:war_x_preferred":[
+        "P\u00ebrrenjas"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u96f7\u5c3c\u4e9e\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -66,7 +117,7 @@
         }
     ],
     "wof:id":1108720893,
-    "wof:lastmodified":1553718460,
+    "wof:lastmodified":1564153129,
     "wof:name":"Prrenjas",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

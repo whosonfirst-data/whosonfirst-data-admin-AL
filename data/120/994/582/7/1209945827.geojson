@@ -26,9 +26,39 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Pojan"
+    ],
+    "name:ita_x_preferred":[
+        "Pojan"
+    ],
+    "name:msa_x_preferred":[
+        "Pojan"
+    ],
+    "name:mwl_x_preferred":[
+        "Pojan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pojan"
+    ],
+    "name:por_x_preferred":[
+        "Pojani"
+    ],
+    "name:spa_x_preferred":[
+        "Pojan"
+    ],
+    "name:tur_x_preferred":[
+        "Pojan"
+    ],
     "name:und_x_variant":[
         "Polina",
         "Pojani",
+        "Pojan"
+    ],
+    "name:vie_x_preferred":[
+        "Pojan"
+    ],
+    "name:war_x_preferred":[
         "Pojan"
     ],
     "src:geom":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1209945827,
-    "wof:lastmodified":1537584206,
+    "wof:lastmodified":1564153044,
     "wof:name":"Pojan",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

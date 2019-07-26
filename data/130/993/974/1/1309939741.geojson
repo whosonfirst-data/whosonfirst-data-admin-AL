@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malas"
+    ],
+    "name:deu_x_preferred":[
+        "Malas"
+    ],
     "name:und_x_variant":[
         "Malasi",
         "Malas"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309939741,
-    "wof:lastmodified":1537584152,
+    "wof:lastmodified":1564153228,
     "wof:name":"Malas",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

@@ -29,6 +29,18 @@
     "name:ell_x_preferred":[
         "\u0394\u03b5\u03c1\u03b2\u03b9\u03c4\u03c3\u03ac\u03bd\u03b7"
     ],
+    "name:ita_x_preferred":[
+        "Dervi\u00e7an"
+    ],
+    "name:spa_x_preferred":[
+        "Dervi\u00e7an"
+    ],
+    "name:sqi_x_preferred":[
+        "Dervi\u00e7ani"
+    ],
+    "name:tur_x_preferred":[
+        "Dervi\u00e7an"
+    ],
     "name:und_x_variant":[
         "Derviciani",
         "Dervi\u00e7an",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1343798671,
-    "wof:lastmodified":1537584116,
+    "wof:lastmodified":1564152789,
     "wof:name":"Dervician",
     "wof:parent_id":1108720855,
     "wof:placetype":"locality",

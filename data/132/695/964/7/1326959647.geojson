@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Mel\u00e7ani"
+    ],
     "name:und_x_variant":[
         "Mel\u00e7ani",
         "Mel\u00e7an"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326959647,
-    "wof:lastmodified":1537584052,
+    "wof:lastmodified":1564152722,
     "wof:name":"Melcan",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

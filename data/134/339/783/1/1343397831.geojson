@@ -27,8 +27,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vllahin\u00eb"
+    ],
+    "name:msa_x_preferred":[
+        "Vllahin\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Vllahina"
+    ],
+    "name:por_x_preferred":[
+        "Vllahin\u00eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Vllahina"
+    ],
     "name:und_x_variant":[
         "Vllahina",
+        "Vllahin\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Vllahin\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Vllahin\u00eb"
     ],
     "src:geom":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1343397831,
-    "wof:lastmodified":1537584338,
+    "wof:lastmodified":1564152771,
     "wof:name":"Vllahine",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",
