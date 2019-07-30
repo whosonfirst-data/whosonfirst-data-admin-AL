@@ -19,11 +19,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ces_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:deu_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:fra_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:hrv_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:hun_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:pol_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ron_x_preferred":[
+        "Bajram Curri"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0440\u0438"
     ],
+    "name:sqi_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0440\u0456"
+    ],
     "name:unk_x_variant":[
         "Kolgecaj"
+    ],
+    "name:vie_x_preferred":[
+        "Bajram Curri"
     ],
     "qs_pg:aaroncc":"AL",
     "qs_pg:gn_country":"AL",
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1125289243,
-    "wof:lastmodified":1509387491,
+    "wof:lastmodified":1564153255,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"localadmin",

@@ -27,11 +27,41 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0628\u06cc\u0634\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Velabisht"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0431\u0438\u0448\u0442\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Velabisht"
+    ],
+    "name:nno_x_preferred":[
+        "Velabisht"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Velabisht"
+    ],
+    "name:por_x_preferred":[
+        "Velabisht"
+    ],
+    "name:spa_x_preferred":[
+        "Velabisht"
+    ],
+    "name:tur_x_preferred":[
+        "Velabisht"
+    ],
     "name:und_x_variant":[
         "Velabishti",
+        "Velabisht"
+    ],
+    "name:vie_x_preferred":[
+        "Velabisht"
+    ],
+    "name:war_x_preferred":[
         "Velabisht"
     ],
     "src:geom":"geonames",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1193189097,
-    "wof:lastmodified":1537584168,
+    "wof:lastmodified":1564153078,
     "wof:name":"Velabisht",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

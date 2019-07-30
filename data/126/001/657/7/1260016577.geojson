@@ -27,9 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Funar"
+    ],
+    "name:ita_x_preferred":[
+        "Funar\u00eb"
+    ],
+    "name:msa_x_preferred":[
+        "Funar\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Funar\u00eb"
+    ],
+    "name:por_x_preferred":[
+        "Funar\u00eb"
+    ],
+    "name:spa_x_preferred":[
+        "Funar\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Funara"
+    ],
     "name:und_x_variant":[
         "Funari",
         "Funar"
+    ],
+    "name:vie_x_preferred":[
+        "Funar\u00eb"
+    ],
+    "name:war_x_preferred":[
+        "Funar\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260016577,
-    "wof:lastmodified":1537584143,
+    "wof:lastmodified":1564153102,
     "wof:name":"Funare",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

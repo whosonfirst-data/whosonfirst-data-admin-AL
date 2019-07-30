@@ -27,6 +27,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bubq"
+    ],
+    "name:msa_x_preferred":[
+        "Bubq"
+    ],
+    "name:nno_x_preferred":[
+        "Bubq"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bubq"
+    ],
+    "name:por_x_preferred":[
+        "Bubq"
+    ],
+    "name:spa_x_preferred":[
+        "Bubq"
+    ],
+    "name:tur_x_preferred":[
+        "Bubq"
+    ],
     "name:und_x_variant":[
         "Bub\u0107",
         "Bubqi",
@@ -34,6 +55,12 @@
         "Bubsi",
         "Bub\u00ebsi",
         "Bubq\u00eb",
+        "Bubq"
+    ],
+    "name:vie_x_preferred":[
+        "Bubq"
+    ],
+    "name:war_x_preferred":[
         "Bubq"
     ],
     "src:geom":"geonames",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1259617197,
-    "wof:lastmodified":1537584306,
+    "wof:lastmodified":1564153373,
     "wof:name":"Bubq",
     "wof:parent_id":421187431,
     "wof:placetype":"locality",

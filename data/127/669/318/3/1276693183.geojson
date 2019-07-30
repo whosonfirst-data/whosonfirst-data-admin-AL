@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Thartor"
+    ],
     "name:und_x_variant":[
         "Thartori",
         "Tharter",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276693183,
-    "wof:lastmodified":1537584173,
+    "wof:lastmodified":1564152944,
     "wof:name":"Thartor",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

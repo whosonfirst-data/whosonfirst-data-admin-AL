@@ -27,12 +27,33 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Shtiq\u00ebn"
+    ],
+    "name:msa_x_preferred":[
+        "Shtiq\u00ebn"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Shtiq\u00ebn"
+    ],
+    "name:por_x_preferred":[
+        "Shtiq\u00ebn"
+    ],
+    "name:tur_x_preferred":[
+        "Shtiq\u00ebn"
+    ],
     "name:und_x_variant":[
         "Shtiq\u00ebni",
         "\u0160tid\u0111en",
         "Shtigjen",
         "Shtig\u00ebr",
         "Shticen",
+        "Shtiq\u00ebn"
+    ],
+    "name:vie_x_preferred":[
+        "Shtiqen"
+    ],
+    "name:war_x_preferred":[
         "Shtiq\u00ebn"
     ],
     "src:geom":"geonames",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327165087,
-    "wof:lastmodified":1537584005,
+    "wof:lastmodified":1564152760,
     "wof:name":"Shtiqen",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

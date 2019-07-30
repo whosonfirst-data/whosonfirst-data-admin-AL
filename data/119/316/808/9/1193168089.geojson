@@ -26,9 +26,39 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bushat"
+    ],
+    "name:hrv_x_preferred":[
+        "Bushat"
+    ],
+    "name:ita_x_preferred":[
+        "Bushat"
+    ],
+    "name:msa_x_preferred":[
+        "Bushat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bushat"
+    ],
+    "name:por_x_preferred":[
+        "Bushat"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0448\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Bu\u015fat"
+    ],
     "name:und_x_variant":[
         "Bushati",
         "Bu\u0161ati",
+        "Bushat"
+    ],
+    "name:vie_x_preferred":[
+        "Bushat"
+    ],
+    "name:war_x_preferred":[
         "Bushat"
     ],
     "src:geom":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1193168089,
-    "wof:lastmodified":1537584125,
+    "wof:lastmodified":1564153081,
     "wof:name":"Bushat",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

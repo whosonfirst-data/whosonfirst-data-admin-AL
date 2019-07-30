@@ -27,10 +27,31 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kastrat"
+    ],
+    "name:msa_x_preferred":[
+        "Kastrat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kastrat"
+    ],
+    "name:por_x_preferred":[
+        "Castrati"
+    ],
+    "name:tur_x_preferred":[
+        "Kastrat"
+    ],
     "name:und_x_variant":[
         "Vukpalaj-Kastrat",
         "Kastrati",
         "Vukpalaj",
+        "Kastrat"
+    ],
+    "name:vie_x_preferred":[
+        "Kastrat"
+    ],
+    "name:war_x_preferred":[
         "Kastrat"
     ],
     "src:geom":"geonames",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1343490187,
-    "wof:lastmodified":1537584255,
+    "wof:lastmodified":1564152798,
     "wof:name":"Kastrat",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

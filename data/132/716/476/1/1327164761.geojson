@@ -26,6 +26,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Arapaj"
+    ],
+    "name:sqi_x_preferred":[
+        "Arapaj"
+    ],
+    "name:swe_x_preferred":[
+        "Arapaj"
+    ],
+    "name:tur_x_preferred":[
+        "Arapaj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043f\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Arape-Rashbulli",
         "Arapaj"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1327164761,
-    "wof:lastmodified":1537584321,
+    "wof:lastmodified":1564152758,
     "wof:name":"Arapaj",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

@@ -28,8 +28,26 @@
     "mps:longitude":20.283525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Dropull"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Dropull"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u043e\u043f\u0443\u043b"
+    ],
+    "name:sqi_x_preferred":[
+        "Dropulli"
+    ],
+    "name:swe_x_preferred":[
+        "Dropull"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u7f85\u666e\u5229"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1108720855,
-    "wof:lastmodified":1553718459,
+    "wof:lastmodified":1564153124,
     "wof:name":"Dropull",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

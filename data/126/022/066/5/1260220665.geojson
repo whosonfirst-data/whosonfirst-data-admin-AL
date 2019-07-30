@@ -27,6 +27,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kote"
+    ],
+    "name:deu_x_preferred":[
+        "Kote"
+    ],
+    "name:swe_x_preferred":[
+        "Kote"
+    ],
     "name:und_x_variant":[
         "Kota",
         "Kotta",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260220665,
-    "wof:lastmodified":1537584249,
+    "wof:lastmodified":1564153092,
     "wof:name":"Kote",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

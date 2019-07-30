@@ -30,6 +30,9 @@
         "Agalliu",
         "Agalli"
     ],
+    "name:vie_x_preferred":[
+        "Agalli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293623527,
-    "wof:lastmodified":1537584153,
+    "wof:lastmodified":1564152841,
     "wof:name":"Agalli",
     "wof:parent_id":421193597,
     "wof:placetype":"locality",

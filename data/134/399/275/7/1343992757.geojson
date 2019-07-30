@@ -33,6 +33,9 @@
         "Urshek",
         "Yrshek"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0631\u0634\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343992757,
-    "wof:lastmodified":1537584160,
+    "wof:lastmodified":1564152774,
     "wof:name":"Yrshek",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

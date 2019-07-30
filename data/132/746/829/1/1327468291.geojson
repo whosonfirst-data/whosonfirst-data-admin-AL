@@ -27,10 +27,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ngra\u00e7an"
+    ],
+    "name:msa_x_preferred":[
+        "Ngra\u00e7an"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ngra\u00e7an"
+    ],
+    "name:por_x_preferred":[
+        "Ngra\u00e7an"
+    ],
+    "name:spa_x_preferred":[
+        "Ngra\u00e7an"
+    ],
+    "name:tur_x_preferred":[
+        "Ngra\u00e7an"
+    ],
     "name:und_x_variant":[
         "Gra\u00e7an",
         "Ngra\u00e7ani",
         "Graqani",
+        "Ngra\u00e7an"
+    ],
+    "name:vie_x_preferred":[
+        "Ngra\u00e7an"
+    ],
+    "name:war_x_preferred":[
         "Ngra\u00e7an"
     ],
     "src:geom":"geonames",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1327468291,
-    "wof:lastmodified":1537584218,
+    "wof:lastmodified":1564152729,
     "wof:name":"Ngracan",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

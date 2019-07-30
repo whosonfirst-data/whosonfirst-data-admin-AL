@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Golik"
+    ],
+    "name:deu_x_preferred":[
+        "Golik"
+    ],
+    "name:swe_x_preferred":[
+        "Golik"
+    ],
     "name:und_x_variant":[
         "Nalku\u0107",
         "Goliku",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243298417,
-    "wof:lastmodified":1537584100,
+    "wof:lastmodified":1564153340,
     "wof:name":"Golik",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

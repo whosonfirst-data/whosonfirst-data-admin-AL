@@ -27,8 +27,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Daj\u00e7"
+    ],
+    "name:ita_x_preferred":[
+        "Daj\u00e7"
+    ],
+    "name:msa_x_preferred":[
+        "Daj\u00e7"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Daj\u00e7"
+    ],
+    "name:por_x_preferred":[
+        "Daj\u00e7"
+    ],
+    "name:tur_x_preferred":[
+        "Daj\u00e7"
+    ],
     "name:und_x_variant":[
         "Daj\u00e7i",
+        "Daj\u00e7"
+    ],
+    "name:vie_x_preferred":[
+        "Daj\u00e7"
+    ],
+    "name:war_x_preferred":[
         "Daj\u00e7"
     ],
     "src:geom":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1243102289,
-    "wof:lastmodified":1537584297,
+    "wof:lastmodified":1564153343,
     "wof:name":"Dajc",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

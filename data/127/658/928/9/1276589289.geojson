@@ -26,6 +26,18 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bathore"
+    ],
+    "name:nld_x_preferred":[
+        "Bathor\u00eb"
+    ],
+    "name:sco_x_preferred":[
+        "Bathor\u00eb"
+    ],
+    "name:sqi_x_preferred":[
+        "Bathore"
+    ],
     "name:und_x_variant":[
         "Bathor\u00eb",
         "Mjull-Bethore",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1276589289,
-    "wof:lastmodified":1537584224,
+    "wof:lastmodified":1564152953,
     "wof:name":"Mjull-Bathore",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

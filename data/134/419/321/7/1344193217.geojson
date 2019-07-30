@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0453\u0443\u0433\u043e\u0440\u0458\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Mexhgoran",
         "Mezhgorani",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1344193217,
-    "wof:lastmodified":1537584051,
+    "wof:lastmodified":1564152816,
     "wof:name":"Mezhgoran",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

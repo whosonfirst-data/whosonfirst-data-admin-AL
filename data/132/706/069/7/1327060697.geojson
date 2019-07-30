@@ -25,6 +25,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bajz\u00eb"
+    ],
+    "name:hrv_x_preferred":[
+        "Bajza"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0446\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Bajza"
+    ],
+    "name:swe_x_preferred":[
+        "Bajza"
+    ],
+    "name:tur_x_preferred":[
+        "Bajza"
+    ],
     "name:und_x_variant":[
         "Bajz\u00eb"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327060697,
-    "wof:lastmodified":1537584329,
+    "wof:lastmodified":1564152689,
     "wof:name":"Bajze",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

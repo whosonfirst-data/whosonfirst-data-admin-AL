@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Okshtun"
+    ],
     "name:und_x_variant":[
         "Ok\u00ebshtun",
         "Ripasi",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243104091,
-    "wof:lastmodified":1537584216,
+    "wof:lastmodified":1564153344,
     "wof:name":"Okshtun",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

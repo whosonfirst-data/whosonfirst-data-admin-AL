@@ -27,9 +27,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ungrej"
+    ],
+    "name:msa_x_preferred":[
+        "Ungrej"
+    ],
+    "name:por_x_preferred":[
+        "Ungrej"
+    ],
+    "name:tur_x_preferred":[
+        "Ungrej"
+    ],
     "name:und_x_variant":[
         "Ungrei",
         "Ungreji",
+        "Ungrej"
+    ],
+    "name:vie_x_preferred":[
+        "Ungrej"
+    ],
+    "name:war_x_preferred":[
         "Ungrej"
     ],
     "src:geom":"geonames",
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209650253,
-    "wof:lastmodified":1537584170,
+    "wof:lastmodified":1564152996,
     "wof:name":"Ungrej",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

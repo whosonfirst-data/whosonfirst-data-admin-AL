@@ -26,8 +26,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Topojan"
+    ],
+    "name:msa_x_preferred":[
+        "Topojan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Topojan"
+    ],
+    "name:por_x_preferred":[
+        "Topojan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u0459\u0430\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Topoyan"
+    ],
     "name:und_x_variant":[
         "Topojani",
+        "Topojan"
+    ],
+    "name:vie_x_preferred":[
+        "Topojan"
+    ],
+    "name:war_x_preferred":[
         "Topojan"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1309840599,
-    "wof:lastmodified":1537583993,
+    "wof:lastmodified":1564153223,
     "wof:name":"Topojan",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

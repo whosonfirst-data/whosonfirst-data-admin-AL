@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "St\u00ebrbeq"
+    ],
+    "name:sqi_x_preferred":[
+        "St\u00ebrbeq"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00ebrbeq"
+    ],
     "name:und_x_variant":[
         "St\u00ebrheq",
         "St\u00ebrbeqi",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293329037,
-    "wof:lastmodified":1537584329,
+    "wof:lastmodified":1564152892,
     "wof:name":"Sterbeq",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

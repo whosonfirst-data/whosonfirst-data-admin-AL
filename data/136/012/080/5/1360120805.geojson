@@ -27,8 +27,35 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Tregan alk\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Tregan"
+    ],
+    "name:msa_x_preferred":[
+        "Tregan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Tregan"
+    ],
+    "name:por_x_preferred":[
+        "Tregan"
+    ],
+    "name:spa_x_preferred":[
+        "Tregan"
+    ],
+    "name:tur_x_preferred":[
+        "Tregan"
+    ],
     "name:und_x_variant":[
         "Tregani",
+        "Tregan"
+    ],
+    "name:vie_x_preferred":[
+        "Tregan"
+    ],
+    "name:war_x_preferred":[
         "Tregan"
     ],
     "src:geom":"geonames",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1360120805,
-    "wof:lastmodified":1537583990,
+    "wof:lastmodified":1564153190,
     "wof:name":"Tregan",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

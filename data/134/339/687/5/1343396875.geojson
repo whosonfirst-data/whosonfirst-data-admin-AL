@@ -27,6 +27,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Baldushk"
+    ],
+    "name:msa_x_preferred":[
+        "Baldushk"
+    ],
+    "name:por_x_preferred":[
+        "Baldushk"
+    ],
+    "name:sco_x_preferred":[
+        "Baldushk"
+    ],
+    "name:tur_x_preferred":[
+        "Baldushk"
+    ],
     "name:und_x_variant":[
         "Bulldushku",
         "Baldushku",
@@ -36,6 +51,12 @@
         "Balldushku",
         "Balldushk",
         "Baldushk\u00eb",
+        "Baldushk"
+    ],
+    "name:vie_x_preferred":[
+        "Baldushk"
+    ],
+    "name:war_x_preferred":[
         "Baldushk"
     ],
     "src:geom":"geonames",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1343396875,
-    "wof:lastmodified":1537584319,
+    "wof:lastmodified":1564152769,
     "wof:name":"Baldushk",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

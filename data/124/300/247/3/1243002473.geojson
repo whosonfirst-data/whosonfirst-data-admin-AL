@@ -27,12 +27,39 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:msa_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rrashbull"
+    ],
+    "name:por_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:sco_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:spa_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:tur_x_preferred":[
+        "Rrashbull"
+    ],
     "name:und_x_variant":[
         "Rrashbulli Arapaj",
         "Rashbulle",
         "Rrashbulli",
         "Rrashbull\u00eb",
         "Re\u017ebul",
+        "Rrashbull"
+    ],
+    "name:vie_x_preferred":[
+        "Rrashbull"
+    ],
+    "name:war_x_preferred":[
         "Rrashbull"
     ],
     "src:geom":"geonames",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1243002473,
-    "wof:lastmodified":1537584196,
+    "wof:lastmodified":1564153261,
     "wof:name":"Rrashbull",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

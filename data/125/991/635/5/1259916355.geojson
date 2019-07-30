@@ -27,6 +27,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03c1\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Xarr\u00eb"
+    ],
+    "name:msa_x_preferred":[
+        "Xarr\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Ksara"
+    ],
+    "name:por_x_preferred":[
+        "Xarr\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Xarra"
+    ],
     "name:und_x_variant":[
         "Qar\u00eb",
         "Xara",
@@ -34,6 +52,12 @@
         "Xar\u00eb",
         "Cara",
         "Xarra",
+        "Xarr\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Xarr\u00eb"
+    ],
+    "name:war_x_preferred":[
         "Xarr\u00eb"
     ],
     "src:geom":"geonames",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1259916355,
-    "wof:lastmodified":1537583954,
+    "wof:lastmodified":1564153351,
     "wof:name":"Xarre",
     "wof:parent_id":1108720869,
     "wof:placetype":"locality",

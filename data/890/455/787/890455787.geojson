@@ -15,6 +15,21 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Funar"
+    ],
+    "name:msa_x_preferred":[
+        "Funar"
+    ],
+    "name:por_x_preferred":[
+        "Funar"
+    ],
+    "name:ron_x_preferred":[
+        "Funar"
+    ],
+    "name:tet_x_preferred":[
+        "Funar"
+    ],
     "qs:name":"Funar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":890455787,
-    "wof:lastmodified":1527735399,
+    "wof:lastmodified":1564153252,
     "wof:name":"Funar",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

@@ -26,9 +26,66 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Bel"
+    ],
+    "name:ceb_x_preferred":[
+        "Bel"
+    ],
+    "name:dan_x_preferred":[
+        "Bel"
+    ],
+    "name:fin_x_preferred":[
+        "Bel"
+    ],
+    "name:fra_x_preferred":[
+        "Bel"
+    ],
+    "name:hrv_x_preferred":[
+        "Bel"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c"
+    ],
+    "name:nld_x_preferred":[
+        "Bel"
+    ],
+    "name:pol_x_preferred":[
+        "Bel"
+    ],
+    "name:por_x_preferred":[
+        "Bel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Bel"
+    ],
+    "name:spa_x_preferred":[
+        "Bel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Bel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Bel\u00eb e Bashkilet",
         "Beli",
+        "Bel"
+    ],
+    "name:uzb_x_preferred":[
         "Bel"
     ],
     "src:geom":"geonames",
@@ -54,7 +111,7 @@
         }
     ],
     "wof:id":1276151969,
-    "wof:lastmodified":1537584135,
+    "wof:lastmodified":1564152961,
     "wof:name":"Bel",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

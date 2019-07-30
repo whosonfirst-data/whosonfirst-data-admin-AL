@@ -26,10 +26,16 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Zagor\u00eb"
+    ],
     "name:und_x_variant":[
         "Zagora",
         "Zagoraj",
         "Zagor\u00eb"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u06af\u0648\u0631\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276795887,
-    "wof:lastmodified":1537584159,
+    "wof:lastmodified":1564152965,
     "wof:name":"Zagore",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0443\u043f\u0430\u0441"
+    ],
+    "name:sqi_x_preferred":[
+        "Jaupas"
+    ],
+    "name:tur_x_preferred":[
+        "Jaupas"
+    ],
     "name:und_x_variant":[
         "Jaupasi",
         "Jaupas"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293152083,
-    "wof:lastmodified":1537584087,
+    "wof:lastmodified":1564152867,
     "wof:name":"Jaupas",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

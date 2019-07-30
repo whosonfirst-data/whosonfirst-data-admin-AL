@@ -26,6 +26,15 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mollas"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna Mollas"
+    ],
+    "name:tur_x_preferred":[
+        "Mollas"
+    ],
     "name:und_x_variant":[
         "Mollasi",
         "Mollas"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310439139,
-    "wof:lastmodified":1537584224,
+    "wof:lastmodified":1564153169,
     "wof:name":"Mollas",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

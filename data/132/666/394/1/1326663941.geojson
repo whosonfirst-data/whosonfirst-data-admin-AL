@@ -27,8 +27,26 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lekaj"
+    ],
+    "name:msa_x_preferred":[
+        "Lekaj"
+    ],
+    "name:por_x_preferred":[
+        "Lekaj"
+    ],
+    "name:tur_x_preferred":[
+        "Lekaj"
+    ],
     "name:und_x_variant":[
         "Ljekaj",
+        "Lekaj"
+    ],
+    "name:vie_x_preferred":[
+        "Lekaj"
+    ],
+    "name:war_x_preferred":[
         "Lekaj"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326663941,
-    "wof:lastmodified":1537584241,
+    "wof:lastmodified":1564152718,
     "wof:name":"Lekaj",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

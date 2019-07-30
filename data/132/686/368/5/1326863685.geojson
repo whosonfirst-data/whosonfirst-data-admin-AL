@@ -27,6 +27,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Stravaj"
+    ],
+    "name:msa_x_preferred":[
+        "Stravaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Stravaj"
+    ],
+    "name:por_x_preferred":[
+        "Stravaj"
+    ],
+    "name:spa_x_preferred":[
+        "Stravaj"
+    ],
+    "name:tur_x_preferred":[
+        "Stravaj"
+    ],
     "name:und_x_variant":[
         "Lira",
         "Stravan",
@@ -35,6 +53,12 @@
         "Stravaji",
         "Stravaje",
         "Stravani",
+        "Stravaj"
+    ],
+    "name:vie_x_preferred":[
+        "Stravaj"
+    ],
+    "name:war_x_preferred":[
         "Stravaj"
     ],
     "src:geom":"geonames",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1326863685,
-    "wof:lastmodified":1537583998,
+    "wof:lastmodified":1564152700,
     "wof:name":"Stravaj",
     "wof:parent_id":1108720893,
     "wof:placetype":"locality",

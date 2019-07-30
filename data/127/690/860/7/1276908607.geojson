@@ -26,6 +26,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Myc"
+    ],
+    "name:cat_x_preferred":[
+        "Myc"
+    ],
+    "name:deu_x_preferred":[
+        "Myc"
+    ],
+    "name:fra_x_preferred":[
+        "Myc"
+    ],
+    "name:heb_x_preferred":[
+        "Myc"
+    ],
+    "name:ita_x_preferred":[
+        "Myc"
+    ],
+    "name:nld_x_preferred":[
+        "Myc"
+    ],
+    "name:rus_x_preferred":[
+        "Myc"
+    ],
+    "name:spa_x_preferred":[
+        "Myc"
+    ],
+    "name:srp_x_preferred":[
+        "Myc"
+    ],
     "name:und_x_variant":[
         "Mici",
         "Muc-Manze",
@@ -34,6 +64,9 @@
         "Mu\u00e7i",
         "Mu\u00e7",
         "My\u00e7"
+    ],
+    "name:zho_x_preferred":[
+        "C-Myc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1276908607,
-    "wof:lastmodified":1537584046,
+    "wof:lastmodified":1564152971,
     "wof:name":"Myc",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

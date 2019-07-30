@@ -27,10 +27,58 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lazarat"
+    ],
+    "name:ces_x_preferred":[
+        "Lazarat"
+    ],
+    "name:deu_x_preferred":[
+        "Lazarat"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b6\u03b1\u03c1\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Lazarat"
+    ],
+    "name:fra_x_preferred":[
+        "Lazarat"
+    ],
+    "name:ita_x_preferred":[
+        "Lazarat"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0437\u0430\u0440\u0430\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Lazarat"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lazarat"
+    ],
+    "name:por_x_preferred":[
+        "Lazarat"
+    ],
+    "name:slv_x_preferred":[
+        "Lazarat"
+    ],
+    "name:spa_x_preferred":[
+        "Lazarat"
+    ],
+    "name:tur_x_preferred":[
+        "Lazarat"
+    ],
     "name:und_x_variant":[
         "Lazarati",
         "Liazarati",
         "Linzarates",
+        "Lazarat"
+    ],
+    "name:vie_x_preferred":[
+        "Lazarat"
+    ],
+    "name:war_x_preferred":[
         "Lazarat"
     ],
     "src:geom":"geonames",
@@ -57,7 +105,7 @@
         }
     ],
     "wof:id":1260015709,
-    "wof:lastmodified":1537584066,
+    "wof:lastmodified":1564153105,
     "wof:name":"Lazarat",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

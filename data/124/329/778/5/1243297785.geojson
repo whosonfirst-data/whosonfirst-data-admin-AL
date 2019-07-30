@@ -26,10 +26,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Shllak"
+    ],
+    "name:ita_x_preferred":[
+        "Shllak"
+    ],
+    "name:msa_x_preferred":[
+        "Shllak"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Shllak"
+    ],
+    "name:por_x_preferred":[
+        "Shllak"
+    ],
+    "name:tur_x_preferred":[
+        "Shllak"
+    ],
     "name:und_x_variant":[
         "Shllak",
         "Vukjakaj",
         "Vukjakaj-Gegaj"
+    ],
+    "name:vie_x_preferred":[
+        "Shllak"
+    ],
+    "name:war_x_preferred":[
+        "Shllak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1243297785,
-    "wof:lastmodified":1537584182,
+    "wof:lastmodified":1564153339,
     "wof:name":"Vukjakaj-Gegaj",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

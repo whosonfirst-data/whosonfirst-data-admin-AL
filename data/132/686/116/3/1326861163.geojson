@@ -27,8 +27,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zerqan"
+    ],
     "name:mkd_x_preferred":[
         "\u0417\u0440\u045c\u0430\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Zerqan"
+    ],
+    "name:nld_x_preferred":[
+        "Zerqan"
+    ],
+    "name:nno_x_preferred":[
+        "Zerqan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Zerqan"
+    ],
+    "name:por_x_preferred":[
+        "Zerqan"
+    ],
+    "name:spa_x_preferred":[
+        "Zerqan"
+    ],
+    "name:tur_x_preferred":[
+        "Zerqan"
     ],
     "name:und_x_variant":[
         "Arta",
@@ -36,6 +60,12 @@
         "Zrkjan",
         "Zerqani",
         "Zergjan",
+        "Zerqan"
+    ],
+    "name:vie_x_preferred":[
+        "Zerqan"
+    ],
+    "name:war_x_preferred":[
         "Zerqan"
     ],
     "src:geom":"geonames",
@@ -62,7 +92,7 @@
         }
     ],
     "wof:id":1326861163,
-    "wof:lastmodified":1537583972,
+    "wof:lastmodified":1564152699,
     "wof:name":"Zerqan",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

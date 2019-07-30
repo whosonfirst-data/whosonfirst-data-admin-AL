@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Agim"
+    ],
+    "name:swe_x_preferred":[
+        "Agim"
+    ],
     "name:und_x_variant":[
         "Agimi",
         "Agim"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310044129,
-    "wof:lastmodified":1537584332,
+    "wof:lastmodified":1564153176,
     "wof:name":"Agim",
     "wof:parent_id":1108720907,
     "wof:placetype":"locality",

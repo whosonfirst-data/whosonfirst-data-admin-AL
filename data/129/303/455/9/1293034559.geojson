@@ -26,6 +26,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:ita_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:msa_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lekbibaj"
+    ],
+    "name:por_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:tur_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:vie_x_preferred":[
+        "Lekbibaj"
+    ],
+    "name:war_x_preferred":[
+        "Lekbibaj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1293034559,
-    "wof:lastmodified":1537486096,
+    "wof:lastmodified":1564152884,
     "wof:name":"Lekbibaj",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

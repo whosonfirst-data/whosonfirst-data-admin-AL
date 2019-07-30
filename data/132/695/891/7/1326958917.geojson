@@ -25,8 +25,32 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pirg"
+    ],
+    "name:msa_x_preferred":[
+        "Pirg"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pirg"
+    ],
+    "name:por_x_preferred":[
+        "Pirg"
+    ],
+    "name:spa_x_preferred":[
+        "Pirg"
+    ],
+    "name:tur_x_preferred":[
+        "Pirg"
+    ],
     "name:und_x_variant":[
         "Pirgu",
+        "Pirg"
+    ],
+    "name:vie_x_preferred":[
+        "Pirg"
+    ],
+    "name:war_x_preferred":[
         "Pirg"
     ],
     "src:geom":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1326958917,
-    "wof:lastmodified":1537584339,
+    "wof:lastmodified":1564152724,
     "wof:name":"Pirg",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

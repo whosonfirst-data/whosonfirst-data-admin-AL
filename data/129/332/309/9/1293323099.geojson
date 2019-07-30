@@ -27,10 +27,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mollas"
+    ],
+    "name:msa_x_preferred":[
+        "Mollas"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Mollas"
+    ],
+    "name:por_x_preferred":[
+        "Mollas"
+    ],
+    "name:spa_x_preferred":[
+        "Mollas"
+    ],
+    "name:tur_x_preferred":[
+        "Mollas"
+    ],
     "name:und_x_variant":[
         "Motas",
         "Maulas",
         "Mollasi",
+        "Mollas"
+    ],
+    "name:vie_x_preferred":[
+        "Mollas"
+    ],
+    "name:war_x_preferred":[
         "Mollas"
     ],
     "src:geom":"geonames",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293323099,
-    "wof:lastmodified":1537584048,
+    "wof:lastmodified":1564152889,
     "wof:name":"Mollas",
     "wof:parent_id":1108720849,
     "wof:placetype":"locality",

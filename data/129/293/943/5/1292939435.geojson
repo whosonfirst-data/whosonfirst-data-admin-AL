@@ -26,10 +26,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mollaj"
+    ],
+    "name:msa_x_preferred":[
+        "Mollaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Mollaj"
+    ],
+    "name:por_x_preferred":[
+        "Mollaj"
+    ],
+    "name:spa_x_preferred":[
+        "Mollaj"
+    ],
+    "name:tur_x_preferred":[
+        "Mollaj"
+    ],
     "name:und_x_variant":[
         "Molanj",
         "Moljanj",
         "Molai",
+        "Mollaj"
+    ],
+    "name:vie_x_preferred":[
+        "Mollaj"
+    ],
+    "name:war_x_preferred":[
         "Mollaj"
     ],
     "src:geom":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1292939435,
-    "wof:lastmodified":1537584224,
+    "wof:lastmodified":1564152860,
     "wof:name":"Mollaj",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Arr\u00ebn"
+    ],
+    "name:msa_x_preferred":[
+        "Arr\u00ebn"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Arr\u00ebn"
+    ],
+    "name:por_x_preferred":[
+        "Arr\u00ebn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0435\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Arr\u00ebn"
+    ],
     "name:und_x_variant":[
         "Arn",
         "Arrni",
         "Arni",
         "Arr\u00ebni",
         "Arrn",
+        "Arr\u00ebn"
+    ],
+    "name:vie_x_preferred":[
+        "Arr\u00ebn"
+    ],
+    "name:war_x_preferred":[
         "Arr\u00ebn"
     ],
     "src:geom":"geonames",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1243485275,
-    "wof:lastmodified":1537584140,
+    "wof:lastmodified":1564153299,
     "wof:name":"Arren",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cahan"
+    ],
+    "name:fra_x_preferred":[
+        "Cahan"
+    ],
     "name:und_x_variant":[
         "Sahan",
         "Cahani",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309840321,
-    "wof:lastmodified":1537584123,
+    "wof:lastmodified":1564153223,
     "wof:name":"Cahan",
     "wof:parent_id":421168061,
     "wof:placetype":"locality",

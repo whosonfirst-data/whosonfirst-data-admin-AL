@@ -27,6 +27,24 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kute"
+    ],
+    "name:ceb_x_preferred":[
+        "Kute"
+    ],
+    "name:fra_x_preferred":[
+        "Kute"
+    ],
+    "name:hrv_x_preferred":[
+        "Kute"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kute"
+    ],
     "name:und_x_variant":[
         "Cuta",
         "Kuta",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243208953,
-    "wof:lastmodified":1537584244,
+    "wof:lastmodified":1564153330,
     "wof:name":"Kute",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

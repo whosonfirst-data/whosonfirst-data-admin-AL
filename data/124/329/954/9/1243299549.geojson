@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0411\u043e\u0440\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Bori\u00e7 i Madh",
         "Bori\u00e7 i Math",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243299549,
-    "wof:lastmodified":1537584309,
+    "wof:lastmodified":1564153336,
     "wof:name":"Borici i Madh",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

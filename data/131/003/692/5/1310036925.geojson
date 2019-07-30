@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Afrim"
+    ],
     "name:und_x_variant":[
         "Afrimi",
         "Afrim"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310036925,
-    "wof:lastmodified":1537584324,
+    "wof:lastmodified":1564153173,
     "wof:name":"Afrim",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

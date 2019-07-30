@@ -27,10 +27,37 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0631\u06cc\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Blerim"
+    ],
+    "name:msa_x_preferred":[
+        "Blerim"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Blerim"
+    ],
+    "name:por_x_preferred":[
+        "Blerim"
+    ],
+    "name:spa_x_preferred":[
+        "Blerim"
+    ],
+    "name:tur_x_preferred":[
+        "Blerim"
+    ],
     "name:und_x_variant":[
         "Sakat",
         "Sakati",
         "Sakat-Kullumbri",
+        "Blerim"
+    ],
+    "name:vie_x_preferred":[
+        "Blerim"
+    ],
+    "name:war_x_preferred":[
         "Blerim"
     ],
     "src:geom":"geonames",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1226786027,
-    "wof:lastmodified":1537584132,
+    "wof:lastmodified":1564153450,
     "wof:name":"Blerim",
     "wof:parent_id":1108720859,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03b3\u03ba\u03c4\u03b6\u03af\u03bd \u03b9 \u0392\u03bf\u03b3\u03ba\u03ad\u03bb"
+    ],
     "name:und_x_variant":[
         "Sh\u00ebn Gjin i Keq",
         "Sh\u00ebngjin i Vog\u00ebl",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209651559,
-    "wof:lastmodified":1537584186,
+    "wof:lastmodified":1564152997,
     "wof:name":"Shengjini i Vogel",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

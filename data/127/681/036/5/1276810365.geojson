@@ -26,6 +26,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0627\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Ferras"
+    ],
+    "name:ita_x_preferred":[
+        "Ferras"
+    ],
+    "name:por_x_preferred":[
+        "Ferras"
+    ],
+    "name:spa_x_preferred":[
+        "Ferras"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1f\u0e23\u0e4c\u0e23\u0e32\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Ferras"
+    ],
     "name:und_x_variant":[
         "Ferras-Kozarja",
         "Ferras-Kozare",
@@ -37,6 +61,9 @@
         "Ferras-Kozarj\u00eb",
         "Ferrasi",
         "Ferras"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u62c9\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1276810365,
-    "wof:lastmodified":1537584288,
+    "wof:lastmodified":1564152926,
     "wof:name":"Ferras",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

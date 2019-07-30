@@ -26,6 +26,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prokop"
+    ],
+    "name:ceb_x_preferred":[
+        "Prokop"
+    ],
+    "name:ces_x_preferred":[
+        "Prokop"
+    ],
+    "name:deu_x_preferred":[
+        "Prokop"
+    ],
+    "name:ita_x_preferred":[
+        "Prokop"
+    ],
+    "name:nds_x_preferred":[
+        "Prokop"
+    ],
+    "name:swe_x_preferred":[
+        "Prokop"
+    ],
     "name:und_x_variant":[
         "Prokopi",
         "Prokop"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1193206537,
-    "wof:lastmodified":1537584334,
+    "wof:lastmodified":1564153077,
     "wof:name":"Prokop",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

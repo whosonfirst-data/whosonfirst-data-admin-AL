@@ -26,8 +26,35 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Picar"
+    ],
+    "name:ita_x_preferred":[
+        "Picar"
+    ],
+    "name:msa_x_preferred":[
+        "Picar"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Picar"
+    ],
+    "name:por_x_preferred":[
+        "Picar"
+    ],
+    "name:spa_x_preferred":[
+        "Picar"
+    ],
+    "name:tur_x_preferred":[
+        "Pi\u00e7ar"
+    ],
     "name:und_x_variant":[
         "Picari",
+        "Picar"
+    ],
+    "name:vie_x_preferred":[
+        "Picar"
+    ],
+    "name:war_x_preferred":[
         "Picar"
     ],
     "src:geom":"geonames",
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1209651707,
-    "wof:lastmodified":1537584210,
+    "wof:lastmodified":1564152998,
     "wof:name":"Picar",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

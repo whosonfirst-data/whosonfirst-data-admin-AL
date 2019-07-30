@@ -27,11 +27,38 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:msa_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gjepalaj"
+    ],
+    "name:por_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:sco_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:spa_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:tur_x_preferred":[
+        "Gjepalaj"
+    ],
     "name:und_x_variant":[
         "Gjepale",
         "Gjopalaj",
         "Gjepalie",
         "\u00d0epale",
+        "Gjepalaj"
+    ],
+    "name:vie_x_preferred":[
+        "Gjepalaj"
+    ],
+    "name:war_x_preferred":[
         "Gjepalaj"
     ],
     "src:geom":"geonames",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1209243379,
-    "wof:lastmodified":1537584280,
+    "wof:lastmodified":1564153011,
     "wof:name":"Gjepalaj",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

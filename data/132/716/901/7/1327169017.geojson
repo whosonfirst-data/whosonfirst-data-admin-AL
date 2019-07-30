@@ -27,11 +27,29 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kryevidh"
+    ],
+    "name:msa_x_preferred":[
+        "Kryevidh"
+    ],
+    "name:por_x_preferred":[
+        "Kryevidh"
+    ],
+    "name:tur_x_preferred":[
+        "Kryevidh"
+    ],
     "name:und_x_variant":[
         "Kryevidhi",
         "Kryevidh\u00eb",
         "Krievil",
         "Kruevith",
+        "Kryevidh"
+    ],
+    "name:vie_x_preferred":[
+        "Kryevidh"
+    ],
+    "name:war_x_preferred":[
         "Kryevidh"
     ],
     "src:geom":"geonames",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327169017,
-    "wof:lastmodified":1537584247,
+    "wof:lastmodified":1564152757,
     "wof:name":"Kryevidh",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

@@ -27,12 +27,42 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03b2\u03c1\u03b7"
+    ],
+    "name:hun_x_preferred":[
+        "Dhivra"
+    ],
+    "name:ita_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:msa_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:pol_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:por_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:sqi_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:tur_x_preferred":[
+        "Divri"
+    ],
     "name:und_x_variant":[
         "Dhivr\u00eb",
         "Dhivri",
         "Kulurat",
         "Kallarati",
         "Kulurica",
+        "Dhiv\u00ebr"
+    ],
+    "name:vie_x_preferred":[
+        "Dhiv\u00ebr"
+    ],
+    "name:war_x_preferred":[
         "Dhiv\u00ebr"
     ],
     "src:geom":"geonames",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1243206255,
-    "wof:lastmodified":1537583966,
+    "wof:lastmodified":1564153331,
     "wof:name":"Dhiver",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

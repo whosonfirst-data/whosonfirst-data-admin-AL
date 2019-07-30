@@ -26,10 +26,34 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Shosh"
+    ],
+    "name:ita_x_preferred":[
+        "Shosh"
+    ],
+    "name:msa_x_preferred":[
+        "Shosh"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Shosh"
+    ],
+    "name:por_x_preferred":[
+        "Chochi"
+    ],
+    "name:tur_x_preferred":[
+        "Shosh"
+    ],
     "name:und_x_variant":[
         "Shoshi",
         "Shosh",
         "Shoshit"
+    ],
+    "name:vie_x_preferred":[
+        "Shosh"
+    ],
+    "name:war_x_preferred":[
+        "Shosh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1293137101,
-    "wof:lastmodified":1537584181,
+    "wof:lastmodified":1564152877,
     "wof:name":"Shoshit",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

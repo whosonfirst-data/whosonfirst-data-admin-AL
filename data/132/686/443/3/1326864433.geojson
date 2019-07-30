@@ -25,14 +25,53 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ksamil"
+    ],
+    "name:deu_x_preferred":[
+        "Ksamil"
+    ],
     "name:eng_x_preferred":[
+        "Ksamil"
+    ],
+    "name:hun_x_preferred":[
+        "Ksamil"
+    ],
+    "name:ind_x_preferred":[
+        "Ksamil"
+    ],
+    "name:ita_x_preferred":[
+        "Ksamil"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0441\u0430\u043c\u0438\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Ksamil"
+    ],
+    "name:por_x_preferred":[
         "Ksamil"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0441\u0430\u043c\u0438\u043b"
     ],
+    "name:swe_x_preferred":[
+        "Ksamili"
+    ],
+    "name:tur_x_preferred":[
+        "Ksamil"
+    ],
     "name:und_x_variant":[
         "Ksamili"
+    ],
+    "name:vie_x_preferred":[
+        "Ksamil"
+    ],
+    "name:war_x_preferred":[
+        "Ksamil"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u85a9\u7c73\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +98,7 @@
         }
     ],
     "wof:id":1326864433,
-    "wof:lastmodified":1537584154,
+    "wof:lastmodified":1564152702,
     "wof:name":"Ksamil",
     "wof:parent_id":421179955,
     "wof:placetype":"locality",

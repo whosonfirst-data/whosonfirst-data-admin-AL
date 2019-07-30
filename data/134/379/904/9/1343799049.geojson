@@ -29,6 +29,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b5\u03c1\u03ba\u03bf\u03b2\u03af\u03c4\u03c3\u03b1"
     ],
+    "name:sqi_x_preferred":[
+        "Cerkovic\u00eb"
+    ],
     "name:und_x_variant":[
         "Cerkovica",
         "Cerko\u00e7iva",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343799049,
-    "wof:lastmodified":1537583967,
+    "wof:lastmodified":1564152790,
     "wof:name":"Cerkovice",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

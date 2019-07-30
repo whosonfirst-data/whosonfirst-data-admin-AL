@@ -26,6 +26,54 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Selce"
+    ],
+    "name:cat_x_preferred":[
+        "Selce"
+    ],
+    "name:ceb_x_preferred":[
+        "Selce"
+    ],
+    "name:ces_x_preferred":[
+        "Selce"
+    ],
+    "name:deu_x_preferred":[
+        "Selce"
+    ],
+    "name:epo_x_preferred":[
+        "Selce"
+    ],
+    "name:fra_x_preferred":[
+        "Selce"
+    ],
+    "name:hrv_x_preferred":[
+        "Selce"
+    ],
+    "name:hun_x_preferred":[
+        "Selce"
+    ],
+    "name:ita_x_preferred":[
+        "Selce"
+    ],
+    "name:nld_x_preferred":[
+        "Selce"
+    ],
+    "name:pol_x_preferred":[
+        "Selce"
+    ],
+    "name:ron_x_preferred":[
+        "Selce"
+    ],
+    "name:slk_x_preferred":[
+        "Selce"
+    ],
+    "name:slv_x_preferred":[
+        "Selce"
+    ],
+    "name:swe_x_preferred":[
+        "Selce"
+    ],
     "name:und_x_variant":[
         "Selca",
         "Selc\u2019 e Gor\u00ebs",
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1209249501,
-    "wof:lastmodified":1537584015,
+    "wof:lastmodified":1564153013,
     "wof:name":"Selce",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

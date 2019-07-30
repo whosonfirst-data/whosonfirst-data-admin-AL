@@ -26,9 +26,33 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fratar"
+    ],
+    "name:msa_x_preferred":[
+        "Fratar"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Fratar"
+    ],
+    "name:por_x_preferred":[
+        "Fratar"
+    ],
+    "name:spa_x_preferred":[
+        "Fratar"
+    ],
+    "name:tur_x_preferred":[
+        "Fratar"
+    ],
     "name:und_x_variant":[
         "Fratarj",
         "Fratari",
+        "Fratar"
+    ],
+    "name:vie_x_preferred":[
+        "Fratar"
+    ],
+    "name:war_x_preferred":[
         "Fratar"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1243103475,
-    "wof:lastmodified":1537584108,
+    "wof:lastmodified":1564153345,
     "wof:name":"Fratar",
     "wof:parent_id":1108720873,
     "wof:placetype":"locality",

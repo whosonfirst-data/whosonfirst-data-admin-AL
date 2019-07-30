@@ -26,6 +26,30 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Petran"
+    ],
+    "name:deu_x_preferred":[
+        "Petran"
+    ],
+    "name:ita_x_preferred":[
+        "Petran"
+    ],
+    "name:msa_x_preferred":[
+        "Petran"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Petran"
+    ],
+    "name:por_x_preferred":[
+        "Petran"
+    ],
+    "name:spa_x_preferred":[
+        "Petran"
+    ],
+    "name:tur_x_preferred":[
+        "Petran"
+    ],
     "name:und_x_variant":[
         "Petran",
         "Gjinakar",
@@ -35,6 +59,12 @@
         "Gjinkar-Petran",
         "Petrani-Gjinkari",
         "Gjinkar"
+    ],
+    "name:vie_x_preferred":[
+        "Petran"
+    ],
+    "name:war_x_preferred":[
+        "Petran"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1344194291,
-    "wof:lastmodified":1537584035,
+    "wof:lastmodified":1564152815,
     "wof:name":"Gjinkar",
     "wof:parent_id":421192831,
     "wof:placetype":"locality",

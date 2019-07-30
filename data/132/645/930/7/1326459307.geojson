@@ -27,12 +27,36 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0642\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:msa_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:por_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:sco_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:tur_x_preferred":[
+        "Vaqarr"
+    ],
     "name:und_x_variant":[
         "Vaqari",
         "Vasqarr",
         "Vagari",
         "Vaqar",
         "Vaqarri",
+        "Vaqarr"
+    ],
+    "name:vie_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:war_x_preferred":[
         "Vaqarr"
     ],
     "src:geom":"geonames",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1326459307,
-    "wof:lastmodified":1537584168,
+    "wof:lastmodified":1564152704,
     "wof:name":"Vaqarr",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

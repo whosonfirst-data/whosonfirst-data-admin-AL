@@ -27,6 +27,27 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Levan"
+    ],
+    "name:ita_x_preferred":[
+        "Levan"
+    ],
+    "name:msa_x_preferred":[
+        "Levan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Levan"
+    ],
+    "name:por_x_preferred":[
+        "Levan"
+    ],
+    "name:spa_x_preferred":[
+        "Levan"
+    ],
+    "name:tur_x_preferred":[
+        "Levan"
+    ],
     "name:und_x_variant":[
         "Levan-Samari",
         "Levan-Samaraj",
@@ -35,6 +56,12 @@
         "Levani Samar",
         "Levani Samar\u00ebs",
         "Levani Samarit",
+        "Levan"
+    ],
+    "name:vie_x_preferred":[
+        "Levan"
+    ],
+    "name:war_x_preferred":[
         "Levan"
     ],
     "src:geom":"geonames",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1310635023,
-    "wof:lastmodified":1537584240,
+    "wof:lastmodified":1564153159,
     "wof:name":"Levan",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

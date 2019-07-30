@@ -27,8 +27,29 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rrajca"
+    ],
+    "name:ita_x_preferred":[
+        "Rrajc\u00eb"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0458\u0447\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Rrajc\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rajc\u00eb"
+    ],
+    "name:por_x_preferred":[
+        "Rrajc\u00eb"
+    ],
+    "name:spa_x_preferred":[
+        "Rrajc\u00eb"
+    ],
+    "name:tur_x_preferred":[
+        "Rrajca"
     ],
     "name:und_x_variant":[
         "Sula",
@@ -37,6 +58,12 @@
         "Rrajc\u00eb",
         "Rajca",
         "Rajc\u00eb"
+    ],
+    "name:vie_x_preferred":[
+        "Rrajc\u00eb"
+    ],
+    "name:war_x_preferred":[
+        "Rrajc\u00eb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1209645727,
-    "wof:lastmodified":1537584017,
+    "wof:lastmodified":1564153002,
     "wof:name":"Rajce",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

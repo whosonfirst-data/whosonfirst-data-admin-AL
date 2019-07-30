@@ -27,11 +27,29 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zejmen"
+    ],
+    "name:msa_x_preferred":[
+        "Zejmen"
+    ],
+    "name:por_x_preferred":[
+        "Zejmen"
+    ],
+    "name:tur_x_preferred":[
+        "Zejmen"
+    ],
     "name:und_x_variant":[
         "Zojmendi",
         "Zejmeni",
         "Zojmen",
         "Zejmani",
+        "Zejmen"
+    ],
+    "name:vie_x_preferred":[
+        "Zejmen"
+    ],
+    "name:war_x_preferred":[
         "Zejmen"
     ],
     "src:geom":"geonames",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310333899,
-    "wof:lastmodified":1537584158,
+    "wof:lastmodified":1564153189,
     "wof:name":"Zejmen",
     "wof:parent_id":421169921,
     "wof:placetype":"locality",

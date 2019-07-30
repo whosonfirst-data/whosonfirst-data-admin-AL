@@ -26,6 +26,12 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cete"
+    ],
+    "name:swe_x_preferred":[
+        "Cete"
+    ],
     "name:und_x_variant":[
         "Shkuvlj",
         "\u010cet",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360115513,
-    "wof:lastmodified":1537584300,
+    "wof:lastmodified":1564153199,
     "wof:name":"Cete",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

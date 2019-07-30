@@ -26,6 +26,9 @@
     "iso:country":"AL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Bregas"
+    ],
     "name:und_x_variant":[
         "Bregasi",
         "Bregas"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226279003,
-    "wof:lastmodified":1537584307,
+    "wof:lastmodified":1564153400,
     "wof:name":"Bregas",
     "wof:parent_id":1108720853,
     "wof:placetype":"locality",
