@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Shkod\u00ebr County"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":42.168018,
     "lbl:longitude":19.633707,
     "mps:latitude":42.176954,
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85667793,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318010,
+    "wof:lastmodified":1565651729,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

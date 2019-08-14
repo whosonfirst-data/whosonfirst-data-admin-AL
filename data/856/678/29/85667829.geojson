@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LZ"
+    ],
     "lbl:latitude":41.817895,
     "lbl:longitude":19.820467,
     "mps:latitude":41.816761,
@@ -316,16 +319,13 @@
         }
     ],
     "wof:id":85667829,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318002,
+    "wof:lastmodified":1565651728,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

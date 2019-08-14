@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EB"
+    ],
     "lbl:latitude":41.049473,
     "lbl:longitude":20.18633,
     "mps:latitude":41.04703,
@@ -316,16 +319,13 @@
         }
     ],
     "wof:id":85667815,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318008,
+    "wof:lastmodified":1565651729,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

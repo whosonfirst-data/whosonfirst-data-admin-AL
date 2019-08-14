@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":40.63967,
     "lbl:longitude":20.091828,
     "mps:latitude":40.657148,
@@ -358,16 +361,13 @@
         }
     ],
     "wof:id":85667811,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318001,
+    "wof:lastmodified":1565651728,
     "wof:name":"Berat",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

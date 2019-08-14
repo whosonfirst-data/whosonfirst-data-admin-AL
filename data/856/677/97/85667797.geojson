@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":42.114911,
     "lbl:longitude":20.385909,
     "mps:latitude":42.09315,
@@ -315,16 +318,13 @@
         }
     ],
     "wof:id":85667797,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318012,
+    "wof:lastmodified":1565651729,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

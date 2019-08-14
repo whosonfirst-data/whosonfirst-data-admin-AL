@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "lbl:latitude":40.657448,
     "lbl:longitude":20.676468,
     "mps:latitude":40.65145,
@@ -346,16 +349,13 @@
         }
     ],
     "wof:id":85667807,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318006,
+    "wof:lastmodified":1565651728,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

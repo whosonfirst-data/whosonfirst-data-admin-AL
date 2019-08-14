@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GK"
+    ],
     "lbl:latitude":40.211075,
     "lbl:longitude":20.171943,
     "mps:latitude":40.179143,
@@ -355,16 +358,13 @@
         }
     ],
     "wof:id":85667819,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318004,
+    "wof:lastmodified":1565651728,
     "wof:name":"Gjirokast\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

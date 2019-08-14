@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VR"
+    ],
     "lbl:latitude":40.398985,
     "lbl:longitude":19.626386,
     "mps:latitude":40.350759,
@@ -351,16 +354,13 @@
         }
     ],
     "wof:id":85667801,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318007,
+    "wof:lastmodified":1565651729,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":41.587599,
     "lbl:longitude":20.246882,
     "mps:latitude":41.564269,
@@ -322,16 +325,13 @@
         }
     ],
     "wof:id":85667821,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318005,
+    "wof:lastmodified":1565651728,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

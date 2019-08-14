@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FI"
+    ],
     "lbl:latitude":40.755341,
     "lbl:longitude":19.578709,
     "mps:latitude":40.758132,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85667789,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318011,
+    "wof:lastmodified":1565651729,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

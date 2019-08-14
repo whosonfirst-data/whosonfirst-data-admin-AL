@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":41.372352,
     "lbl:longitude":19.540226,
     "mps:latitude":41.396831,
@@ -362,16 +365,13 @@
         }
     ],
     "wof:id":85667783,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "sqi"
     ],
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1563318013,
+    "wof:lastmodified":1565651729,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
