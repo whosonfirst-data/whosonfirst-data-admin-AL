@@ -13,6 +13,8 @@
     "iso:country":"AL",
     "lbl:latitude":40.339374,
     "lbl:longitude":20.681263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.339374,
     "mps:longitude":20.681263,
     "mz:hierarchy_label":1,
@@ -102,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0441\u0435\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erseg Giatseg"
     ],
     "name:urd_x_preferred":[
@@ -224,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.333333,
     "wd:longitude":20.683333,
@@ -239,10 +241,12 @@
     "wof:concordances":{
         "gn:id":783259,
         "gp:id":469718,
-        "qs:id":1077601,
         "qs_pg:id":273838,
         "wd:id":"Q18793",
         "wk:page":"Ersek\u00eb"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077601
     },
     "wof:country":"AL",
     "wof:geomhash":"7bfb3732799a12eb59c116b57aa14995",
@@ -256,7 +260,7 @@
         }
     ],
     "wof:id":101911679,
-    "wof:lastmodified":1561777924,
+    "wof:lastmodified":1566584928,
     "wof:name":"Ersek\u00eb",
     "wof:parent_id":421193597,
     "wof:placetype":"locality",

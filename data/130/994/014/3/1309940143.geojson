@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.83806,40.71111,20.87806,40.75111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0405\u0432\u0435\u0437\u0434\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309940143,
-    "wof:lastmodified":1537583969,
+    "wof:lastmodified":1566584935,
     "wof:name":"Zvezde",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

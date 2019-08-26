@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.63194,41.18306,19.67194,41.22306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Lis-Patros"
     ],
@@ -36,8 +40,7 @@
         "Liz\u00eb-Petros\u00eb",
         "Liz Petros",
         "Lis-Petrosej",
-        "Lis Guraj",
-        "Lis-Patros"
+        "Lis Guraj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209651827,
-    "wof:lastmodified":1564152998,
+    "wof:lastmodified":1566584798,
     "wof:name":"Lis-Patros",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

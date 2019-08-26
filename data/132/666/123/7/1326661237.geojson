@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.6425,41.0175,19.6825,41.0575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xham\u00eb",
         "Zhama",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326661237,
-    "wof:lastmodified":1537584158,
+    "wof:lastmodified":1566584615,
     "wof:name":"Zhame",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

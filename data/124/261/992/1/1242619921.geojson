@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.90611,40.81694,19.94611,40.85694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gege"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1242619921,
-    "wof:lastmodified":1564153292,
+    "wof:lastmodified":1566584994,
     "wof:name":"Gege",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

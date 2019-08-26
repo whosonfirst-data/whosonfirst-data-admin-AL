@@ -11,11 +11,15 @@
     "geom:longitude":20.02222,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"20.00222,41.41806,20.04222,41.45806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Murriz"
     ],
     "qs:name":"Marice",
@@ -33,11 +37,11 @@
     "wof:concordances":{
         "gn:id":834147,
         "gp:id":470384,
-        "qs:id":554355
+        "qs_pg:id":554355
     },
     "wof:concordances_alt":{
         "gn:id":3316651,
-        "qs:id":582466
+        "qs_pg:id":582466
     },
     "wof:country":"AL",
     "wof:created":1469052974,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890455751,
-    "wof:lastmodified":1534379077,
+    "wof:lastmodified":1566584962,
     "wof:name":"Marice",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

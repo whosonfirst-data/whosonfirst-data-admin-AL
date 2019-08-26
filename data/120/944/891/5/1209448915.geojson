@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.97972,40.64556,21.01972,40.68556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b5\u03bd"
     ],
@@ -45,8 +49,7 @@
         "Tren"
     ],
     "name:und_x_variant":[
-        "Treni",
-        "Tren"
+        "Treni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209448915,
-    "wof:lastmodified":1564153059,
+    "wof:lastmodified":1566584837,
     "wof:name":"Tren",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

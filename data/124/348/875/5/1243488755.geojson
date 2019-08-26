@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.67444,40.51444,20.71444,40.55444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pulaha",
         "Pulata",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243488755,
-    "wof:lastmodified":1537584026,
+    "wof:lastmodified":1566584998,
     "wof:name":"Pulahe",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

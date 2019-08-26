@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.8175,40.70583,20.8575,40.74583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Pojan"
     ],
@@ -59,10 +63,6 @@
     "name:tur_x_preferred":[
         "Pojan"
     ],
-    "name:und_x_variant":[
-        "Pojani",
-        "Pojan"
-    ],
     "name:vie_x_preferred":[
         "Pojan"
     ],
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1226683471,
-    "wof:lastmodified":1564153415,
+    "wof:lastmodified":1566585071,
     "wof:name":"Pojan",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

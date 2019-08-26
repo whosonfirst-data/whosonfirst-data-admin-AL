@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.05083,39.84972,20.09083,39.88972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00c7aushi",
         "Ciausci",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260010781,
-    "wof:lastmodified":1537583967,
+    "wof:lastmodified":1566584860,
     "wof:name":"Caush",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

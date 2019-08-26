@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.53861,40.82472,19.57861,40.86472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vaunar",
         "Vanar",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309940999,
-    "wof:lastmodified":1537584169,
+    "wof:lastmodified":1566584936,
     "wof:name":"Vanaj",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

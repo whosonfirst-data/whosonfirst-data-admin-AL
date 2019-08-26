@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.40028,40.64306,19.44028,40.68306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishan"
     ],
@@ -36,8 +40,7 @@
         "Bishan"
     ],
     "name:und_x_variant":[
-        "Bishani",
-        "Bishan"
+        "Bishani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310142835,
-    "wof:lastmodified":1564153146,
+    "wof:lastmodified":1566584889,
     "wof:name":"Bishan",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

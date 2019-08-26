@@ -10,6 +10,9 @@
     "geom:latitude":40.076648,
     "geom:longitude":20.143604,
     "iso:country":"AL",
+    "lbl:bbox":"20.123604,40.056648,20.163604,40.096648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -254,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0440\u043e\u043a\u0430\u0441\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arghyrocastro"
     ],
     "name:urd_x_preferred":[
@@ -397,9 +400,11 @@
     "wof:concordances":{
         "gn:id":783148,
         "gp:id":469878,
-        "qs:id":1077606,
         "qs_pg:id":273836,
         "wd:id":"Q173690"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077606
     },
     "wof:country":"AL",
     "wof:created":1459009498,
@@ -414,7 +419,7 @@
         }
     ],
     "wof:id":421187007,
-    "wof:lastmodified":1563318375,
+    "wof:lastmodified":1566584948,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

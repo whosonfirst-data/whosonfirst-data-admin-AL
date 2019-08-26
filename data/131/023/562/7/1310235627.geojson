@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.01972,42.09583,20.05972,42.13583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u0448"
     ],
@@ -48,8 +52,7 @@
         "Uru\u015f"
     ],
     "name:und_x_variant":[
-        "Oroshi",
-        "Orosh"
+        "Oroshi"
     ],
     "name:vie_x_preferred":[
         "Orosh"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1310235627,
-    "wof:lastmodified":1564153138,
+    "wof:lastmodified":1566584883,
     "wof:name":"Orosh",
     "wof:parent_id":1108720859,
     "wof:placetype":"locality",

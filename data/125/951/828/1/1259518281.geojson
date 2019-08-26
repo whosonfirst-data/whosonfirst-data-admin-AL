@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.42722,40.99167,20.46722,41.03167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fareti",
         "Faret",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259518281,
-    "wof:lastmodified":1537584109,
+    "wof:lastmodified":1566585047,
     "wof:name":"Farret",
     "wof:parent_id":1108720893,
     "wof:placetype":"locality",

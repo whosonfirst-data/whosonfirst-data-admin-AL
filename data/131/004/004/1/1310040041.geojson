@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.9475,40.39972,19.9875,40.43972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luftinj\u00eb Numer Nj\u00eb",
         "Luftinj\u00eb e Sip\u00ebrme",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310040041,
-    "wof:lastmodified":1537584236,
+    "wof:lastmodified":1566584907,
     "wof:name":"Luftinja e Siperme",
     "wof:parent_id":1108720885,
     "wof:placetype":"locality",

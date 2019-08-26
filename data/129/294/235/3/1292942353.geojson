@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.4025,42.25139,20.4425,42.29139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dobruna",
         "Dobrunna",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292942353,
-    "wof:lastmodified":1537584114,
+    "wof:lastmodified":1566584708,
     "wof:name":"Dobrune",
     "wof:parent_id":421168061,
     "wof:placetype":"locality",

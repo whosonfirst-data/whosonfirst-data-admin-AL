@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.933258,
     "lbl:longitude":19.881391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Elbasan",
     "meso:hasc_id":"AL.EB.BS",
     "meso:mps_x":19.881391,
@@ -28,6 +30,7 @@
     "mps:longitude":19.881391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0448"
     ],
@@ -83,9 +86,9 @@
         "\u8c9d\u723e\u4ec0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Belsh",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108720847,
-    "wof:lastmodified":1564153123,
+    "wof:lastmodified":1566584874,
     "wof:name":"Belsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

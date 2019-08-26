@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.395826,
     "lbl:longitude":19.650288,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Vlor\u00eb",
     "meso:hasc_id":"AL.VR.SE",
     "meso:mps_x":19.650288,
@@ -28,6 +30,7 @@
     "mps:longitude":19.650288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0435\u043d\u0438\u0446\u0430"
     ],
@@ -98,9 +101,9 @@
         "\u585e\u840a\u5c3c\u5bdf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Selenic\u00eb",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1108720903,
-    "wof:lastmodified":1564153127,
+    "wof:lastmodified":1566584877,
     "wof:name":"Selenic\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

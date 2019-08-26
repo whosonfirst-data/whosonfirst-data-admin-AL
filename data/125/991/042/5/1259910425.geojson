@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.51083,42.15194,19.55083,42.19194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Linaj"
     ],
     "name:und_x_variant":[
         "Linaj-Eg\u00e7-Lepurosh",
-        "Limaj",
-        "Linaj"
+        "Limaj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259910425,
-    "wof:lastmodified":1564153353,
+    "wof:lastmodified":1566585032,
     "wof:name":"Linaj",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.045508,
     "lbl:longitude":19.90923,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Shkod\u00ebr",
     "meso:hasc_id":"AL.SD.PU",
     "meso:mps_x":19.90923,
@@ -28,6 +30,7 @@
     "mps:longitude":19.90923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0648\u0643\u0647"
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puka"
     ],
     "name:urd_x_preferred":[
@@ -189,9 +192,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Puk\u00eb",
@@ -212,7 +215,7 @@
         "gn:id":781913,
         "gp:id":20069932,
         "hasc:id":"AL.SD.PU",
-        "qs:id":887465,
+        "qs_pg:id":887465,
         "wd:id":"Q206997",
         "wk:page":"Puk\u00eb District"
     },
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421193315,
-    "wof:lastmodified":1563318362,
+    "wof:lastmodified":1566584944,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

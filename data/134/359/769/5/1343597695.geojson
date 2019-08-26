@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.52694,40.9125,20.56694,40.9525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041f\u043b\u0435\u0448\u0438\u0448\u0442\u0430"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343597695,
-    "wof:lastmodified":1537584033,
+    "wof:lastmodified":1566584670,
     "wof:name":"Pleshisht",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

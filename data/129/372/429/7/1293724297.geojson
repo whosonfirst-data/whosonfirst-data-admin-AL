@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.05639,42.30639,20.09639,42.34639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bujan"
     ],
@@ -55,8 +59,7 @@
         "Bunjan",
         "Bujani",
         "Bunjaj",
-        "Bajani",
-        "Bujan"
+        "Bajani"
     ],
     "name:vie_x_preferred":[
         "Bujan"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1293724297,
-    "wof:lastmodified":1564152916,
+    "wof:lastmodified":1566584745,
     "wof:name":"Bujan",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

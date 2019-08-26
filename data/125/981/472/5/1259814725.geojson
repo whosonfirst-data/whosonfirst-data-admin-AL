@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.93222,40.53333,20.97222,40.57333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Fitorja"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259814725,
-    "wof:lastmodified":1564153387,
+    "wof:lastmodified":1566585053,
     "wof:name":"Fitore",
     "wof:parent_id":1108720851,
     "wof:placetype":"locality",

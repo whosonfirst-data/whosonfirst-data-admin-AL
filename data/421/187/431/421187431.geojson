@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.500242,
     "lbl:longitude":19.744642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Durr\u00ebs",
     "meso:hasc_id":"AL.DU.KE",
     "meso:mps_x":19.744642,
@@ -28,6 +30,7 @@
     "mps:longitude":19.744642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Kruja"
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kruje Rreth"
     ],
     "name:urd_x_preferred":[
@@ -210,9 +213,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Kruj\u00eb",
@@ -234,7 +237,7 @@
         "gn:id":3185084,
         "gp:id":20069936,
         "hasc:id":"AL.DU.KE",
-        "qs:id":1083105,
+        "qs_pg:id":1083105,
         "wd:id":"Q205261"
     },
     "wof:country":"AL",
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421187431,
-    "wof:lastmodified":1563318377,
+    "wof:lastmodified":1566584948,
     "wof:name":"Kruj\u00eb",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

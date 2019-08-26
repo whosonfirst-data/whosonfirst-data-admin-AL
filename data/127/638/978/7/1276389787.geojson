@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.88056,40.81083,19.92056,40.85083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kozarja",
         "Kozara",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276389787,
-    "wof:lastmodified":1537584249,
+    "wof:lastmodified":1566584787,
     "wof:name":"Kozare",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

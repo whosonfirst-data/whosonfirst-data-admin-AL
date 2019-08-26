@@ -10,8 +10,12 @@
     "geom:latitude":40.338055,
     "geom:longitude":19.991785,
     "iso:country":"AL",
+    "lbl:bbox":"19.9717845,40.318055,20.0117845,40.358055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0435\u043c\u0430\u043b\u044f\u0439"
@@ -114,7 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":470982,
-        "qs:id":1077610,
+        "qs_pg:id":1077610,
         "wd:id":"Q18749"
     },
     "wof:country":"AL",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421187017,
-    "wof:lastmodified":1563318383,
+    "wof:lastmodified":1566584949,
     "wof:name":"Memaliaj",
     "wof:parent_id":1108720885,
     "wof:placetype":"locality",

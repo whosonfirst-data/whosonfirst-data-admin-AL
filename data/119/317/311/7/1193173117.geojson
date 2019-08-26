@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.67833,40.65083,19.71833,40.69083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Ruzhdie"
     ],
@@ -50,8 +54,7 @@
         "Rushdie",
         "Rozhdia",
         "Rushdij\u00eb",
-        "Ruzhdija",
-        "Ruzhdie"
+        "Ruzhdija"
     ],
     "name:vie_x_preferred":[
         "Ruzhdie"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1193173117,
-    "wof:lastmodified":1564153085,
+    "wof:lastmodified":1566584852,
     "wof:name":"Ruzhdie",
     "wof:parent_id":1108720887,
     "wof:placetype":"locality",

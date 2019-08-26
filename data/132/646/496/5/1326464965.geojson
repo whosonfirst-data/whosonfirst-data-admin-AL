@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.30444,42.05139,20.34444,42.09139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fusha Dukagjin",
         "Fusha e Dukagjinit"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326464965,
-    "wof:lastmodified":1537584142,
+    "wof:lastmodified":1566584629,
     "wof:name":"Fusha e Dukagjinit",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

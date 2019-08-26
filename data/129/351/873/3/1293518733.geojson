@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.58028,42.03972,19.62028,42.07972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rragami"
     ],
     "name:und_x_variant":[
         "Rogam",
         "Rrogami",
-        "Rragami",
         "Ragam",
         "Ragami",
         "Rrogam",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293518733,
-    "wof:lastmodified":1564152898,
+    "wof:lastmodified":1566584733,
     "wof:name":"Rragam",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

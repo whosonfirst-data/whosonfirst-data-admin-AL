@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.33833,39.88778,20.37833,39.92778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kakavija"
     ],
@@ -45,10 +49,7 @@
     "name:und_x_variant":[
         "Kakavja",
         "Kakavi",
-        "Kakavija",
-        "Kakavia",
-        "Cacavia",
-        "Kakavij\u00eb"
+        "Cacavia"
     ],
     "name:war_x_preferred":[
         "Kakavij\u00eb"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326561119,
-    "wof:lastmodified":1564152710,
+    "wof:lastmodified":1566584607,
     "wof:name":"Kakavije",
     "wof:parent_id":1108720855,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.5075,41.08056,19.5475,41.12056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kryevidh"
     ],
@@ -43,8 +47,7 @@
         "Kryevidhi",
         "Kryevidh\u00eb",
         "Krievil",
-        "Kruevith",
-        "Kryevidh"
+        "Kruevith"
     ],
     "name:vie_x_preferred":[
         "Kryevidh"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1327169017,
-    "wof:lastmodified":1564152757,
+    "wof:lastmodified":1566584639,
     "wof:name":"Kryevidh",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

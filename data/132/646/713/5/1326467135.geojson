@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.735,41.61528,19.775,41.65528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Selit\u00eb e Keqe",
         "Selita",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326467135,
-    "wof:lastmodified":1537584189,
+    "wof:lastmodified":1566584630,
     "wof:name":"Selite",
     "wof:parent_id":421181321,
     "wof:placetype":"locality",

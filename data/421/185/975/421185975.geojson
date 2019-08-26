@@ -11,10 +11,14 @@
     "geom:longitude":20.0167,
     "gn:country":"AL",
     "gn:fcode":"PPLA2",
-    "gn:pop":11955,
+    "gn:population":11955,
     "iso:country":"AL",
+    "lbl:bbox":"19.9967,40.280082,20.0367,40.320082",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0628\u0644\u064a\u0646"
@@ -157,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043f\u0435\u043b\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tepelen"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u067e\u0644\u0646\u06c1"
     ],
@@ -203,12 +204,12 @@
     "wof:concordances":{
         "gn:id":781443,
         "gp:id":472108,
-        "qs:id":1055539,
+        "qs_pg:id":1055539,
         "wd:id":"Q81631",
         "wk:page":"Tepelen\u00eb"
     },
     "wof:concordances_alt":{
-        "qs:id":1028905
+        "qs_pg:id":1028905
     },
     "wof:country":"AL",
     "wof:created":1459009460,
@@ -223,7 +224,7 @@
         }
     ],
     "wof:id":421185975,
-    "wof:lastmodified":1563318413,
+    "wof:lastmodified":1566584957,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

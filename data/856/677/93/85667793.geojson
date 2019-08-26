@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":42.168018,
     "lbl:longitude":19.633707,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.176954,
     "mps:longitude":19.593615,
     "mz:hierarchy_label":1,
@@ -189,10 +190,7 @@
     "name:und_x_colloquial":[
         "Shkoder"
     ],
-    "name:und_x_preferred":[
-        "Shkod\u00ebr"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qarku Shkoder"
     ],
     "name:urd_x_preferred":[
@@ -279,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"AL-SH",
     "wof:belongsto":[
         102191581,
@@ -291,7 +289,7 @@
         "gn:id":3344950,
         "gp:id":29389563,
         "hasc:id":"AL.SD",
-        "qs:id":224191,
+        "qs_pg:id":224191,
         "unlc:id":"AL-SH",
         "wd:id":"Q193438",
         "wk:page":"Shkod\u00ebr County"
@@ -312,7 +310,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651729,
+    "wof:lastmodified":1566584694,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

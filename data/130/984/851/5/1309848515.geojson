@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.18667,40.47417,20.22667,40.51417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boerkool"
     ],
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":1309848515,
-    "wof:lastmodified":1564153222,
+    "wof:lastmodified":1566584931,
     "wof:name":"Kale",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

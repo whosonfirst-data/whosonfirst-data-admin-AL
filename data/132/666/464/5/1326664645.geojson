@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.30361,41.26917,20.34361,41.30917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lunik"
     ],
@@ -51,9 +55,7 @@
     "name:und_x_variant":[
         "Lumnik",
         "Lunik\u00eb",
-        "Lunik",
-        "Ljumnik",
-        "Luniku"
+        "Ljumnik"
     ],
     "name:vie_x_preferred":[
         "Lunik"
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1326664645,
-    "wof:lastmodified":1564152717,
+    "wof:lastmodified":1566584613,
     "wof:name":"Lunik",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

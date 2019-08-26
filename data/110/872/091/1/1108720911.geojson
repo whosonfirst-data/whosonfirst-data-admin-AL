@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.399702,
     "lbl:longitude":19.658693,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Tiran\u00eb",
     "meso:hasc_id":"AL.TI.VR",
     "meso:mps_x":19.658693,
@@ -28,6 +30,7 @@
     "mps:longitude":19.658693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u0430"
     ],
@@ -83,9 +86,9 @@
         "Vor\u00eb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Vor\u00eb",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108720911,
-    "wof:lastmodified":1564153125,
+    "wof:lastmodified":1566584876,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

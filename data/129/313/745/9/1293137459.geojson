@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.55889,41.03028,19.59889,41.07028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cerma-pruscaj",
         "\u00c7erma e posht\u00ebme",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293137459,
-    "wof:lastmodified":1537584302,
+    "wof:lastmodified":1566584722,
     "wof:name":"Cerme Shkumbin",
     "wof:parent_id":1108720853,
     "wof:placetype":"locality",

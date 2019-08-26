@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.97861,41.03,20.01861,41.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Muriqan"
     ],
@@ -40,8 +44,7 @@
         "Murigan",
         "Muri Kjani",
         "Muriqani",
-        "Muri\u00e7ani",
-        "Muriqan"
+        "Muri\u00e7ani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209042695,
-    "wof:lastmodified":1564153039,
+    "wof:lastmodified":1566584824,
     "wof:name":"Muriqan",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

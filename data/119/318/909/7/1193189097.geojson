@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.91222,40.68167,19.95222,40.72167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0648\u0644\u0628\u06cc\u0634\u062a"
     ],
@@ -55,8 +59,7 @@
         "Velabisht"
     ],
     "name:und_x_variant":[
-        "Velabishti",
-        "Velabisht"
+        "Velabishti"
     ],
     "name:vie_x_preferred":[
         "Velabisht"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1193189097,
-    "wof:lastmodified":1564153078,
+    "wof:lastmodified":1566584848,
     "wof:name":"Velabisht",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

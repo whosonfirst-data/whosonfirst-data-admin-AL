@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.40194,41.85861,20.44194,41.89861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Bushtric\u00eb"
     ],
@@ -43,8 +47,7 @@
         "Bu\u015ftri\u00e7e"
     ],
     "name:und_x_variant":[
-        "Bustrica",
-        "Bushtric\u00eb"
+        "Bustrica"
     ],
     "name:vie_x_preferred":[
         "Bushtric\u00eb"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1327066673,
-    "wof:lastmodified":1564152685,
+    "wof:lastmodified":1566584590,
     "wof:name":"Bushtrice",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

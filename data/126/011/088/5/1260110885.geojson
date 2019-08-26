@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.41806,41.06389,20.45806,41.10389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quk\u00ebs-Sk\u00ebnderbej",
         "Quk\u00ebs-Sk\u00ebnderbeu",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260110885,
-    "wof:lastmodified":1537584023,
+    "wof:lastmodified":1566584867,
     "wof:name":"Qukes-Skenderbe",
     "wof:parent_id":1108720893,
     "wof:placetype":"locality",

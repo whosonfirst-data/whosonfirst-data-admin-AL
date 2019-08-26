@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11287618.425399,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.942462,40.709885,19.942462,40.709885",
     "geom:latitude":40.709885,
     "geom:longitude":19.942462,
     "iso:country":"AL",
+    "lbl:bbox":"19.937462,40.704885,19.947462,40.714885",
     "lbl:latitude":40.709885,
     "lbl:longitude":19.942462,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.70971,
     "mps:longitude":19.944128,
     "mz:hierarchy_label":0,
@@ -29,12 +31,9 @@
     "name:eng_x_variant":[
         "Kostreni i Math"
     ],
-    "name:und_x_preferred":[
-        "Kostren i Math"
-    ],
-    "name:unk_x_variant":[
-        "Kostren i Madh",
-        "Kostren i Math"
+    "name:und_x_variant":[
+        "Kostren i Math",
+        "Kostren i Madh"
     ],
     "qs:gn_adm0_cc":"AL",
     "qs:gn_fcode":"PPLX",
@@ -65,18 +64,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667811,
         102191581,
         85632405,
-        421187685,
-        85667811
+        421187685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":782731,
         "gp:id":470486,
-        "qs:id":1165524
+        "qs_pg:id":1165524
     },
     "wof:country":"AL",
     "wof:geomhash":"a48afbf96855ac42f8f374c0015b06f6",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931930,
+    "wof:lastmodified":1566584695,
     "wof:name":"Kostren i Math",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

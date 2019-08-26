@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.87972,42.09944,19.91972,42.13944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bushat"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Bushati",
-        "Busciala",
-        "Bushat"
+        "Busciala"
     ],
     "name:vie_x_preferred":[
         "Bushat"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1310535553,
-    "wof:lastmodified":1564153156,
+    "wof:lastmodified":1566584894,
     "wof:name":"Bushat",
     "wof:parent_id":421193315,
     "wof:placetype":"locality",

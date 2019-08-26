@@ -11,10 +11,14 @@
     "geom:longitude":19.466143,
     "gn:country":"AL",
     "gn:fcode":"PPLA3",
-    "gn:pop":2604,
+    "gn:population":2604,
     "iso:country":"AL",
+    "lbl:bbox":"19.4461425,40.306262,19.4861425,40.346262",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u043a\u0443\u043c"
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u043a\u0443\u043c"
     ],
-    "name:unk_x_variant":[
-        "Orikumi"
-    ],
     "name:vie_x_preferred":[
         "Orikum"
     ],
@@ -116,12 +117,12 @@
     "wof:concordances":{
         "gn:id":3184575,
         "gp:id":471229,
-        "qs:id":1077619,
+        "qs_pg:id":1077619,
         "wd:id":"Q947125",
         "wk:page":"Orikum"
     },
     "wof:concordances_alt":{
-        "qs:id":147045
+        "qs_pg:id":147045
     },
     "wof:country":"AL",
     "wof:created":1459009499,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421187033,
-    "wof:lastmodified":1561777927,
+    "wof:lastmodified":1566584950,
     "wof:name":"Orikum",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

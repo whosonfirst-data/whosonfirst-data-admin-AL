@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.3925,41.97472,20.4325,42.01472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Bicaj alk\u00f6zs\u00e9g"
     ],
@@ -47,8 +51,7 @@
     ],
     "name:und_x_variant":[
         "Bitsan",
-        "Bisagni",
-        "Bicaj"
+        "Bisagni"
     ],
     "name:vie_x_preferred":[
         "Bicaj"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1326660405,
-    "wof:lastmodified":1564152716,
+    "wof:lastmodified":1566584612,
     "wof:name":"Bicaj",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

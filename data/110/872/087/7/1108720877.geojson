@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.75278,
     "lbl:longitude":20.684076,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Kor\u00e7\u00eb",
     "meso:hasc_id":"AL.KE.MQ",
     "meso:mps_x":20.684076,
@@ -28,6 +30,7 @@
     "mps:longitude":20.684076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043a"
     ],
@@ -86,9 +89,9 @@
         "\u99ac\u5229\u5947"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Maliq",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108720877,
-    "wof:lastmodified":1564153130,
+    "wof:lastmodified":1566584878,
     "wof:name":"Maliq",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

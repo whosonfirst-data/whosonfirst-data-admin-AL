@@ -24,8 +24,12 @@
     "gn:population":650,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.42778,41.07333,20.46778,41.11333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "\u0106uksi",
         "Kyuksi-Shkumbinit",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259617965,
-    "wof:lastmodified":1537584023,
+    "wof:lastmodified":1566585043,
     "wof:name":"Qukes-Shkumbin",
     "wof:parent_id":1108720893,
     "wof:placetype":"locality",

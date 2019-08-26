@@ -10,8 +10,12 @@
     "geom:latitude":41.81361,
     "geom:longitude":19.59389,
     "iso:country":"AL",
+    "lbl:bbox":"19.57389,41.79361,19.61389,41.83361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Komuna e Sh\u00ebngjinit"
@@ -88,7 +92,7 @@
     "name:tur_x_preferred":[
         "Sh\u00ebngjin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u2019njini"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":3184136,
         "gp:id":471828,
-        "qs:id":1342633,
+        "qs_pg:id":1342633,
         "wd:id":"Q606485",
         "wk:page":"Sh\u00ebngjin"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":421177613,
-    "wof:lastmodified":1563318406,
+    "wof:lastmodified":1566584955,
     "wof:name":"Sh\u00ebngjin",
     "wof:parent_id":421169921,
     "wof:placetype":"locality",

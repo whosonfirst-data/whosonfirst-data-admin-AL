@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.06528,41.6075,20.10528,41.6475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lis"
     ],
@@ -54,8 +58,7 @@
     "name:und_x_variant":[
         "Lisi",
         "Lis\u00eb",
-        "Lisa",
-        "Lis"
+        "Lisa"
     ],
     "name:war_x_preferred":[
         "Lis"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209445667,
-    "wof:lastmodified":1564153056,
+    "wof:lastmodified":1566584835,
     "wof:name":"Lis",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

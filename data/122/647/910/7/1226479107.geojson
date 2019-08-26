@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.58861,40.69833,20.62861,40.73833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seranisht",
         "Senishta",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226479107,
-    "wof:lastmodified":1537584013,
+    "wof:lastmodified":1566585090,
     "wof:name":"Senishte",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

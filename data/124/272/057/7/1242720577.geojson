@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.35333,40.46833,20.39333,40.50833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Potom"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Podhom",
-        "Potomi",
-        "Potom"
+        "Potomi"
     ],
     "name:vie_x_preferred":[
         "Potom"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1242720577,
-    "wof:lastmodified":1564153283,
+    "wof:lastmodified":1566584988,
     "wof:name":"Potom",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

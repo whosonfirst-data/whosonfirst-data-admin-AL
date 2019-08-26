@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.241434,
     "lbl:longitude":19.698761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Shkod\u00ebr",
     "meso:hasc_id":"AL.SD.SO",
     "meso:mps_x":19.698761,
@@ -28,6 +30,7 @@
     "mps:longitude":19.698761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Shkodra"
@@ -170,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043e\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rrethi Shkod\u00ebr"
     ],
     "name:urd_x_preferred":[
@@ -207,9 +210,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Shkod\u00ebr",
@@ -233,7 +236,7 @@
         "gn:id":3184083,
         "gp:id":20069928,
         "hasc:id":"AL.SD.SO",
-        "qs:id":277250,
+        "qs_pg:id":277250,
         "wd:id":"Q194176",
         "wk:page":"Shkod\u00ebr"
     },
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1563318364,
+    "wof:lastmodified":1566584945,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

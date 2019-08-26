@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.52889,41.05306,20.56889,41.09306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0440\u0435\u043d\u044c\u044f\u0441"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226278483,
-    "wof:lastmodified":1537584027,
+    "wof:lastmodified":1566585064,
     "wof:name":"Perrenjas",
     "wof:parent_id":1108720893,
     "wof:placetype":"locality",

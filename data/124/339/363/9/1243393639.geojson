@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.63639,40.27806,19.67639,40.31806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lepenica",
         "Ljepenica",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243393639,
-    "wof:lastmodified":1537584240,
+    "wof:lastmodified":1566584982,
     "wof:name":"Lepenice",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

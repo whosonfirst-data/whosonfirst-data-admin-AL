@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.68639,41.10972,19.72639,41.14972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Thartor"
     ],
     "name:und_x_variant":[
         "Thartori",
-        "Tharter",
-        "Thartor"
+        "Tharter"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276693183,
-    "wof:lastmodified":1564152944,
+    "wof:lastmodified":1566584762,
     "wof:name":"Thartor",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.20944,40.08528,20.24944,40.12528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saraqinishta"
     ],
@@ -37,7 +41,6 @@
         "Sarachinista",
         "Saranishte",
         "Sarakinista",
-        "Saraqinishta",
         "Saraqinisht",
         "Saraqinisht\u00eb"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326866677,
-    "wof:lastmodified":1564152699,
+    "wof:lastmodified":1566584599,
     "wof:name":"Saraqinishte",
     "wof:parent_id":1108720875,
     "wof:placetype":"locality",

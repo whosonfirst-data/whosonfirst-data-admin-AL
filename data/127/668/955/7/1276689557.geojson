@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.75306,40.72417,20.79306,40.76417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sheqerasi",
         "Sheqeras"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276689557,
-    "wof:lastmodified":1537584009,
+    "wof:lastmodified":1566584768,
     "wof:name":"Sheqeras",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

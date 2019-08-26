@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.56639,41.99528,20.60639,42.03528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Borje"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Mborje",
         "Borja",
-        "Borj",
-        "Borje"
+        "Borj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1343995043,
-    "wof:lastmodified":1564152772,
+    "wof:lastmodified":1566584651,
     "wof:name":"Borje",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.63722,40.82583,20.67722,40.86583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Dardhas alk\u00f6zs\u00e9g"
     ],
@@ -58,8 +62,7 @@
         "Beragozhdi",
         "Bragozhd\u00eb",
         "Beragozhd",
-        "Bragozhati",
-        "Dardhas"
+        "Bragozhati"
     ],
     "name:vie_x_preferred":[
         "Dardhas"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1360218579,
-    "wof:lastmodified":1564153207,
+    "wof:lastmodified":1566584923,
     "wof:name":"Dardhas",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

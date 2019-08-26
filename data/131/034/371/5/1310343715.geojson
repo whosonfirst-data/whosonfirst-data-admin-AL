@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.87278,40.57889,19.91278,40.61889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vel\u00e7ani",
         "Vel\u00e7an"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310343715,
-    "wof:lastmodified":1537584167,
+    "wof:lastmodified":1566584909,
     "wof:name":"Velcan",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

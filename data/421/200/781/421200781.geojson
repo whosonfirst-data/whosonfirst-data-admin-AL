@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.387515,
     "lbl:longitude":20.067896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Kuk\u00ebs",
     "meso:hasc_id":"AL.KK.TP",
     "meso:mps_x":20.067896,
@@ -28,6 +30,7 @@
     "mps:longitude":20.067896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062a\u0631\u0648\u0628\u0648\u064a\u0647"
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043e\u043f\u043e\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rrethi Tropoj\u00eb"
     ],
     "name:urd_x_preferred":[
@@ -189,9 +192,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Bajram Curri",
@@ -212,7 +215,7 @@
         "gn:id":781360,
         "gp:id":20069929,
         "hasc:id":"AL.KK.TP",
-        "qs:id":894540,
+        "qs_pg:id":894540,
         "wd:id":"Q123615",
         "wk:page":"Tropoj\u00eb District"
     },
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421200781,
-    "wof:lastmodified":1563318401,
+    "wof:lastmodified":1566584954,
     "wof:name":"Tropoj\u00eb",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

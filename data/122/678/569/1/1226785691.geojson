@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.23444,41.21833,20.27444,41.25833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0442\u0440\u043e\u043c\u0430\u043d"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226785691,
-    "wof:lastmodified":1537584069,
+    "wof:lastmodified":1566585091,
     "wof:name":"Kuterman",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

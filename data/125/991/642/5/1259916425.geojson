@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.46417,40.54583,19.50417,40.58583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Cerkovin\u00eb"
     ],
@@ -35,8 +39,7 @@
         "Cerkovin",
         "Cerkov\u00eb",
         "Cerkanina",
-        "Cerkevina",
-        "Cerkovin\u00eb"
+        "Cerkevina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259916425,
-    "wof:lastmodified":1564153350,
+    "wof:lastmodified":1566585029,
     "wof:name":"Cerkovine",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

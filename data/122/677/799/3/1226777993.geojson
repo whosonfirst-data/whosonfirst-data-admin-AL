@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.59111,40.56139,19.63111,40.60139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buz\u00ebmadh",
         "Buz\u00ebmadh\u00eb",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226777993,
-    "wof:lastmodified":1537584304,
+    "wof:lastmodified":1566585094,
     "wof:name":"Buzmadh",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

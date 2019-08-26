@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.07306,40.29889,20.11306,40.33889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0453\u0443\u0433\u043e\u0440\u0458\u0430\u043d\u0438"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1344193217,
-    "wof:lastmodified":1564152816,
+    "wof:lastmodified":1566584679,
     "wof:name":"Mezhgoran",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

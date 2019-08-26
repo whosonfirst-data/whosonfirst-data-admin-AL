@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.049473,
     "lbl:longitude":20.18633,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.04703,
     "mps:longitude":20.181785,
     "mz:hierarchy_label":1,
@@ -187,10 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Elbasan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qarku Elbasan"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +275,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"3,278",
     "statoids:area_mi":"1,266",
     "statoids:as_of_date":"2011-10-01",
@@ -304,7 +302,7 @@
         "gp:id":29389557,
         "hasc:id":"AL.EB",
         "iso:id":"AL-03",
-        "qs:id":898963,
+        "qs_pg:id":898963,
         "unlc:id":"AL-EL",
         "wd:id":"Q193790",
         "wk:page":"Elbasan County"
@@ -325,11 +323,10 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651729,
+    "wof:lastmodified":1566584693,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":295827,
     "wof:population_rank":10,

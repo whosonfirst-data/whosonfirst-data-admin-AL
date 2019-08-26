@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.97917,42.01833,20.01917,42.05833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0440\u044d\u0433"
     ],
@@ -64,8 +68,7 @@
     ],
     "name:und_x_variant":[
         "Brengu",
-        "Bregu",
-        "Breg"
+        "Bregu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1193170917,
-    "wof:lastmodified":1564153083,
+    "wof:lastmodified":1566584851,
     "wof:name":"Breg",
     "wof:parent_id":421193315,
     "wof:placetype":"locality",

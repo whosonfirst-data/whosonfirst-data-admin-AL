@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.01056,40.73306,20.05056,40.77306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vojnik"
     ],
@@ -48,8 +52,7 @@
         "Vojnik"
     ],
     "name:und_x_variant":[
-        "Vojniku",
-        "Vojnik"
+        "Vojniku"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259922413,
-    "wof:lastmodified":1564153375,
+    "wof:lastmodified":1566585046,
     "wof:name":"Vojnik",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

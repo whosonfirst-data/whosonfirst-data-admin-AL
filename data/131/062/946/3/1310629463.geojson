@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.51333,41.08,19.55333,41.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ballai i Ri",
         "Ballaj-Emigrand"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310629463,
-    "wof:lastmodified":1537584318,
+    "wof:lastmodified":1566584891,
     "wof:name":"Ballaj i Ri",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.830939,
     "lbl:longitude":20.904904,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Kor\u00e7\u00eb",
     "meso:hasc_id":"AL.KE.PC",
     "meso:mps_x":20.904904,
@@ -28,6 +30,7 @@
     "mps:longitude":20.904904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u0441\u0442\u0435\u0446"
     ],
@@ -56,9 +59,9 @@
         "Pustec"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Pustec",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108720895,
-    "wof:lastmodified":1564153129,
+    "wof:lastmodified":1566584878,
     "wof:name":"Pustec",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

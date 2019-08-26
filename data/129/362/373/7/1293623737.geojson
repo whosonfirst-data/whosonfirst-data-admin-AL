@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"21.00389,40.62444,21.04389,40.66444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0440\u044a\u0431\u043d\u0438\u043a"
     ],
@@ -42,7 +46,6 @@
         "Vernik"
     ],
     "name:und_x_variant":[
-        "Verniku",
         "V\u00ebrnik"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293623737,
-    "wof:lastmodified":1564152845,
+    "wof:lastmodified":1566584702,
     "wof:name":"Vernik",
     "wof:parent_id":1108720851,
     "wof:placetype":"locality",

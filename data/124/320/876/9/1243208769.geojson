@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.81917,40.15444,19.85917,40.19444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0447"
     ],
@@ -37,7 +41,6 @@
     ],
     "name:und_x_variant":[
         "Cuci",
-        "Ku\u00e7i",
         "Ku\u00e7"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243208769,
-    "wof:lastmodified":1564153333,
+    "wof:lastmodified":1566585020,
     "wof:name":"Kuc",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

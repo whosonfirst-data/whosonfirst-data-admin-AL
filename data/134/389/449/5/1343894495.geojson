@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.65861,41.2475,19.69861,41.2875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "G\u00ebrbllesh"
     ],
@@ -35,8 +39,7 @@
         "Gerblleshi",
         "Grubllesh\u00eb",
         "Gruble\u0161",
-        "Greblleshi",
-        "G\u00ebrbllesh"
+        "Greblleshi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343894495,
-    "wof:lastmodified":1564152825,
+    "wof:lastmodified":1566584685,
     "wof:name":"Gerbllesh",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

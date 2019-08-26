@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.52361,40.95,20.56361,40.99",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hom\u00e7ani",
         "Hom\u00e7an"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209249773,
-    "wof:lastmodified":1537584090,
+    "wof:lastmodified":1566584807,
     "wof:name":"Homcan",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

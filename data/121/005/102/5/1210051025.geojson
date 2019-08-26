@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.60306,41.07,19.64306,41.11",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Gos\u00eb"
     ],
@@ -43,9 +47,7 @@
     ],
     "name:und_x_variant":[
         "Gos\u00eb e Madhe",
-        "Gos\u00eb",
         "Goz\u00eb",
-        "Gosa",
         "Goz",
         "Gosa e Madhe"
     ],
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1210051025,
-    "wof:lastmodified":1564153064,
+    "wof:lastmodified":1566584839,
     "wof:name":"Gosa e Madhe",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

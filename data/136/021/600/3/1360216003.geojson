@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.1975,39.86944,20.2375,39.90944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0394\u03c1\u03cc\u03b2\u03b9\u03b1\u03bd\u03b7 \u0391\u03c5\u03bb\u03ce\u03bd\u03b1"
     ],
@@ -36,8 +40,6 @@
         "Dhrovjani"
     ],
     "name:und_x_variant":[
-        "Dhrovjani",
-        "Dhrovjan",
         "Dhrovian"
     ],
     "src:geom":"geonames",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1360216003,
-    "wof:lastmodified":1564153209,
+    "wof:lastmodified":1566584924,
     "wof:name":"Dhrovian",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

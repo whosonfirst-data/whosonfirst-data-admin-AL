@@ -10,8 +10,11 @@
     "geom:latitude":40.81667,
     "geom:longitude":19.6,
     "iso:country":"AL",
+    "lbl:bbox":"19.595,40.81167,19.605,40.82167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AL",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":470489,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667789,
         102191581,
         85632405,
-        421184543,
-        85667789
+        421184543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3185115,
         "gp:id":470489,
-        "qs:id":910252
+        "qs_pg:id":910252
     },
     "wof:country":"AL",
     "wof:created":1459010050,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421201063,
-    "wof:lastmodified":1531858784,
+    "wof:lastmodified":1566584955,
     "wof:name":"Kosturli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

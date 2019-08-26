@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.88,41.76333,19.92,41.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ujshtrez\u00eb"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242714113,
-    "wof:lastmodified":1537584171,
+    "wof:lastmodified":1566585011,
     "wof:name":"Uj-Shtreza",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

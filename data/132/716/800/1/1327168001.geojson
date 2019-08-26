@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.23833,41.11333,20.27833,41.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Polis"
     ],
@@ -47,7 +51,6 @@
     ],
     "name:und_x_variant":[
         "Xhamia e Sip\u00ebrme",
-        "Polis",
         "Polis i-Madh",
         "Polisi",
         "Polisi Mazi",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1327168001,
-    "wof:lastmodified":1564152761,
+    "wof:lastmodified":1566584642,
     "wof:name":"Polis-Gostime",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

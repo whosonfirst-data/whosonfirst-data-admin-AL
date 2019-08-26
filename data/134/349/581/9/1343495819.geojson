@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.67944,41.07194,19.71944,41.11194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kodrasej",
         "Kodraseji",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343495819,
-    "wof:lastmodified":1537584252,
+    "wof:lastmodified":1566584667,
     "wof:name":"Kodras",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

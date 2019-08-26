@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.587599,
     "lbl:longitude":20.246882,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.564269,
     "mps:longitude":20.22743,
     "mz:hierarchy_label":1,
@@ -193,10 +194,8 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u0431\u0435\u0440"
     ],
-    "name:und_x_preferred":[
-        "Diber"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Diber",
         "Qarku Diber"
     ],
     "name:urd_x_preferred":[
@@ -283,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"2,507",
     "statoids:area_mi":"968",
     "statoids:as_of_date":"2011-10-01",
@@ -310,7 +309,7 @@
         "gp:id":29389555,
         "hasc:id":"AL.DB",
         "iso:id":"AL-09",
-        "qs:id":1104082,
+        "qs_pg:id":1104082,
         "unlc:id":"AL-DI",
         "wd:id":"Q192866",
         "wk:page":"Dib\u00ebr County"
@@ -331,11 +330,10 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651728,
+    "wof:lastmodified":1566584692,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":137047,
     "wof:population_rank":9,

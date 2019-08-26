@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.05944,42.37806,20.09944,42.41806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gra\u00e7i",
         "Gra\u00e7"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360020095,
-    "wof:lastmodified":1537584144,
+    "wof:lastmodified":1566584926,
     "wof:name":"Grac",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

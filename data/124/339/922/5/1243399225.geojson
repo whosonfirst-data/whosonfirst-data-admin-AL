@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.03778,39.91222,20.07778,39.95222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stjari",
         "Stjar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243399225,
-    "wof:lastmodified":1537583955,
+    "wof:lastmodified":1566584984,
     "wof:name":"Stjar",
     "wof:parent_id":421184327,
     "wof:placetype":"locality",

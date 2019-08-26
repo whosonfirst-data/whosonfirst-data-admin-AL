@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.57944,40.79972,20.61944,40.83972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lekas"
     ],
@@ -45,8 +49,7 @@
         "Lekas"
     ],
     "name:und_x_variant":[
-        "Lekaj",
-        "Lekas"
+        "Lekaj"
     ],
     "name:vie_x_preferred":[
         "Lekas"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1309746673,
-    "wof:lastmodified":1564153234,
+    "wof:lastmodified":1566584938,
     "wof:name":"Lekas",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

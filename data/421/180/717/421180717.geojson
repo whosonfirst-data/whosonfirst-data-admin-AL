@@ -10,8 +10,12 @@
     "geom:latitude":41.77972,
     "geom:longitude":20.08361,
     "iso:country":"AL",
+    "lbl:bbox":"20.06361,41.75972,20.10361,41.79972",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kurbnesh"
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "Kurbnesh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurbneshi"
     ],
     "qs:gn_country":"AL",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":782632,
         "gp:id":470596,
-        "qs:id":1212742,
+        "qs_pg:id":1212742,
         "wd:id":"Q616927",
         "wk:page":"Kurbnesh"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421180717,
-    "wof:lastmodified":1563318369,
+    "wof:lastmodified":1566584947,
     "wof:name":"Kurbnesh",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",
