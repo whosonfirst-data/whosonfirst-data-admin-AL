@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.22528,40.45056,20.26528,40.49056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0435\u043f\u0446\u043a\u0430"
     ],
@@ -39,7 +43,6 @@
         "Krepsk\u00eb",
         "Grepck\u00eb-Dor\u00ebz",
         "Grepc\u00eb-Dor\u00ebzi",
-        "Grepcka",
         "Gralisk\u00eb",
         "Grepsa",
         "Grepck\u00eb-Dorezi",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1193175479,
-    "wof:lastmodified":1564153086,
+    "wof:lastmodified":1566584853,
     "wof:name":"Grepcke",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

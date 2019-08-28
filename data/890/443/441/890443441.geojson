@@ -11,8 +11,11 @@
     "geom:longitude":20.35167,
     "gn:country":"AL",
     "gn:fcode":"PPLA2",
-    "gn:pop":10686,
+    "gn:population":10686,
     "iso:country":"AL",
+    "lbl:bbox":"20.33167,40.21361,20.37167,40.25361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u043c\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Premet\u0113"
     ],
     "name:urd_x_preferred":[
@@ -253,7 +256,7 @@
     "wof:concordances":{
         "gn:id":782070,
         "gp:id":471323,
-        "qs:id":1028909,
+        "qs_pg:id":1028909,
         "wd:id":"Q642856",
         "wk:page":"P\u00ebrmet"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":890443441,
-    "wof:lastmodified":1563318435,
+    "wof:lastmodified":1566584966,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":421192831,
     "wof:placetype":"locality",

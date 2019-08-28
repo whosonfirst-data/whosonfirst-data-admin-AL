@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.50306,40.51556,19.54306,40.55556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lacatun",
         "Llakatundi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277016845,
-    "wof:lastmodified":1537584237,
+    "wof:lastmodified":1566584750,
     "wof:name":"Llakatund",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.283551,
     "lbl:longitude":20.385943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Gjirokast\u00ebr",
     "meso:hasc_id":"AL.GK.PE",
     "meso:mps_x":20.385943,
@@ -28,6 +30,7 @@
     "mps:longitude":20.385943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0631\u0645\u062a"
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u043c\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00ebrmeti"
     ],
     "name:urd_x_preferred":[
@@ -186,9 +189,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"P\u00ebrmet",
@@ -209,7 +212,7 @@
         "gn:id":782072,
         "gp:id":20069956,
         "hasc:id":"AL.GK.PE",
-        "qs:id":1176347,
+        "qs_pg:id":1176347,
         "wd:id":"Q121074",
         "wk:page":"P\u00ebrmet District"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1563318358,
+    "wof:lastmodified":1566584943,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

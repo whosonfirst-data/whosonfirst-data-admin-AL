@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.56861,42.14083,19.60861,42.18083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Garu\u00e7i",
         "Garu\u00e7"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360022413,
-    "wof:lastmodified":1537584283,
+    "wof:lastmodified":1566584927,
     "wof:name":"Garuc",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

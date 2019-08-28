@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.39917,41.65139,20.43917,41.69139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0448\u0438\u0448\u0442\u0435"
     ],
@@ -36,7 +40,6 @@
         "D\u00ebhoshisht\u00eb",
         "Dohashishta",
         "Dohashisht\u00eb",
-        "Dohoshishti",
         "Dohoshisht"
     ],
     "src:geom":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276157377,
-    "wof:lastmodified":1564152958,
+    "wof:lastmodified":1566584772,
     "wof:name":"Dohoshisht",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

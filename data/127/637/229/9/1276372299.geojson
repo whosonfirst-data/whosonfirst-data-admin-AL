@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.54083,41.40889,19.58083,41.44889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kodrasi",
         "Kulj",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276372299,
-    "wof:lastmodified":1537584246,
+    "wof:lastmodified":1566584783,
     "wof:name":"Kulle",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

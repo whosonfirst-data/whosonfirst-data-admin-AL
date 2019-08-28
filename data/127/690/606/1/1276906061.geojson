@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.72472,40.58528,20.76472,40.62528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ravoniku",
         "Ravanik",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276906061,
-    "wof:lastmodified":1537584020,
+    "wof:lastmodified":1566584781,
     "wof:name":"Ravonik",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

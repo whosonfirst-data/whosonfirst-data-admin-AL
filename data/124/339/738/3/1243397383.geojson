@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.92472,41.59556,19.96472,41.63556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karrica",
         "Karica",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243397383,
-    "wof:lastmodified":1537584257,
+    "wof:lastmodified":1566584982,
     "wof:name":"Karice",
     "wof:parent_id":421202751,
     "wof:placetype":"locality",

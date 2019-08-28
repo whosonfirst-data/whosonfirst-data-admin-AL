@@ -11,10 +11,14 @@
     "geom:longitude":20.22194,
     "gn:country":"AL",
     "gn:fcode":"PPLA2",
-    "gn:pop":11212,
+    "gn:population":11212,
     "iso:country":"AL",
+    "lbl:bbox":"20.20194,41.47167,20.24194,41.51167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u043a\u0438\u0437\u0430"
     ],
@@ -129,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043b\u044c\u043a\u0456\u0437\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bulqiza"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u0686\u06cc\u0632\u06c1"
     ],
@@ -160,7 +161,7 @@
     "wof:concordances":{
         "gn:id":783508,
         "gp:id":469392,
-        "qs:id":1028933,
+        "qs_pg:id":1028933,
         "wd:id":"Q463384",
         "wk:page":"Bulqiz\u00eb"
     },
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":890443459,
-    "wof:lastmodified":1563318440,
+    "wof:lastmodified":1566584967,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

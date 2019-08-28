@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.30861,41.77,20.34861,41.81",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xhedik",
         "Xhearik",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343798751,
-    "wof:lastmodified":1537584044,
+    "wof:lastmodified":1566584662,
     "wof:name":"Nezhaj",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

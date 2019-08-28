@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.53056,42.32583,19.57056,42.36583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trashani",
         "Trashan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293136477,
-    "wof:lastmodified":1537584329,
+    "wof:lastmodified":1566584720,
     "wof:name":"Trashan",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

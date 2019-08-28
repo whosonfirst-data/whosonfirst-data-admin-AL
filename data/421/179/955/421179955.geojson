@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":39.892534,
     "lbl:longitude":19.996645,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Vlor\u00eb",
     "meso:hasc_id":"AL.VR.SR",
     "meso:mps_x":19.996645,
@@ -210,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agioi"
     ],
     "name:urd_x_preferred":[
@@ -342,9 +344,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Sarand\u00eb",
@@ -366,7 +368,7 @@
         "gn:id":363243,
         "gp:id":20069961,
         "hasc:id":"AL.VR.SR",
-        "qs:id":273773,
+        "qs_pg:id":273773,
         "wd:id":"Q748235",
         "wk:page":"Sarand\u00eb"
     },
@@ -382,7 +384,7 @@
         }
     ],
     "wof:id":421179955,
-    "wof:lastmodified":1563318407,
+    "wof:lastmodified":1566584955,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.930508,
     "lbl:longitude":19.73231,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Fier",
     "meso:hasc_id":"AL.FI.LN",
     "meso:mps_x":19.73231,
@@ -28,6 +30,7 @@
     "mps:longitude":19.73231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rrethi i Lushnj\u00ebs"
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0448\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "Lushnj\u00eb"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0644\u0648\u0634\u0646\u06cc\u06c1"
     ],
@@ -186,9 +186,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Lushnje",
@@ -209,7 +209,7 @@
         "gn:id":3184864,
         "gp:id":20069947,
         "hasc:id":"AL.FI.LN",
-        "qs:id":1001527,
+        "qs_pg:id":1001527,
         "wd:id":"Q206994",
         "wk:page":"Lushnj\u00eb District"
     },
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":421184543,
-    "wof:lastmodified":1563318403,
+    "wof:lastmodified":1566584955,
     "wof:name":"Lushnje",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

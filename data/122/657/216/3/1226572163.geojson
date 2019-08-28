@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.07222,39.89028,20.11222,39.93028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mesopotam"
     ],
@@ -55,8 +59,7 @@
         "Mesopotam i Posht\u00ebr",
         "Mesop\u00f3tamo",
         "Mesopotami",
-        "Mesapotami",
-        "Mesopotam"
+        "Mesapotami"
     ],
     "name:vie_x_preferred":[
         "Mesopotam"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1226572163,
-    "wof:lastmodified":1564153419,
+    "wof:lastmodified":1566585074,
     "wof:name":"Mesopotam",
     "wof:parent_id":1108720857,
     "wof:placetype":"locality",

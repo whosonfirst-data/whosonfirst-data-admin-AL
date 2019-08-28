@@ -11,10 +11,14 @@
     "geom:longitude":20.20083,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"20.18083,41.41333,20.22083,41.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f3taj"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":834214,
         "gp:id":471332,
-        "qs:id":554367,
+        "qs_pg:id":554367,
         "wk:page":"K\u00f3taj"
     },
     "wof:country":"AL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890455777,
-    "wof:lastmodified":1564153250,
+    "wof:lastmodified":1566584962,
     "wof:name":"Kotaj",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

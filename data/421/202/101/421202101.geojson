@@ -10,8 +10,12 @@
     "geom:latitude":41.390589,
     "geom:longitude":19.699387,
     "iso:country":"AL",
+    "lbl:bbox":"19.679387,41.370589,19.719387,41.410589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u0430"
@@ -73,9 +77,6 @@
     "name:tur_x_preferred":[
         "Vora"
     ],
-    "name:unk_x_variant":[
-        "Vora"
-    ],
     "name:vie_x_preferred":[
         "Vor\u00eb"
     ],
@@ -118,9 +119,11 @@
     "wof:concordances":{
         "gn:id":3183708,
         "gp:id":472384,
-        "qs:id":219337,
         "qs_pg:id":147044,
         "wd:id":"Q652896"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":219337
     },
     "wof:country":"AL",
     "wof:created":1459010105,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421202101,
-    "wof:lastmodified":1563318369,
+    "wof:lastmodified":1566584946,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108720911,
     "wof:placetype":"locality",

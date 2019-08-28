@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.65194,42.11917,19.69194,42.15917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vukjak\u00eb-Geogej",
         "Vuk\u2019yakay",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293326349,
-    "wof:lastmodified":1537584162,
+    "wof:lastmodified":1566584731,
     "wof:name":"Vukjakaj-Gegaj",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

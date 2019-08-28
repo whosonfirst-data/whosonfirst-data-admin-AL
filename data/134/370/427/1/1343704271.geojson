@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.26472,40.56528,20.30472,40.60528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Milov\u00eb",
         "Milova",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343704271,
-    "wof:lastmodified":1537584050,
+    "wof:lastmodified":1566584665,
     "wof:name":"Melove",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

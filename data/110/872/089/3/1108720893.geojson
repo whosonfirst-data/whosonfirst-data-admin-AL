@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.065103,
     "lbl:longitude":20.473712,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Elbasan",
     "meso:hasc_id":"AL.EB.PS",
     "meso:mps_x":20.473712,
@@ -28,6 +30,7 @@
     "mps:longitude":20.473712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u043d\u044f\u0441"
     ],
@@ -83,9 +86,9 @@
         "\u666e\u96f7\u5c3c\u4e9e\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Prrenjas",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108720893,
-    "wof:lastmodified":1564153129,
+    "wof:lastmodified":1566584878,
     "wof:name":"Prrenjas",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.08778,41.21167,20.12778,41.25167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0646\u0648\u0644\u0627"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209645609,
-    "wof:lastmodified":1564153000,
+    "wof:lastmodified":1566584799,
     "wof:name":"Anola",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

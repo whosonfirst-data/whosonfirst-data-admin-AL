@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.00417,41.53306,20.04417,41.57306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Rripa"
     ],
     "name:und_x_variant":[
         "Rip\u00eb",
-        "Rripa",
         "Rryp\u00eb Qend\u00ebr",
         "Rrypa",
         "Rryp\u00eb",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310537473,
-    "wof:lastmodified":1564153154,
+    "wof:lastmodified":1566584893,
     "wof:name":"Rripe",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

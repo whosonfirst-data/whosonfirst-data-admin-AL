@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.48556,41.28306,19.52556,41.32306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sco_x_preferred":[
         "Arapaj"
     ],
@@ -42,8 +46,7 @@
         "\u0410\u0440\u0430\u043f\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Arape-Rashbulli",
-        "Arapaj"
+        "Arape-Rashbulli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327164761,
-    "wof:lastmodified":1564152758,
+    "wof:lastmodified":1566584640,
     "wof:name":"Arapaj",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

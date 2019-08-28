@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.68861,40.68444,20.72861,40.72444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Libonik"
     ],
@@ -47,8 +51,7 @@
     ],
     "name:und_x_variant":[
         "Liboniku",
-        "Libovnik",
-        "Libonik"
+        "Libovnik"
     ],
     "name:vie_x_preferred":[
         "Libonik"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293523809,
-    "wof:lastmodified":1564152851,
+    "wof:lastmodified":1566584706,
     "wof:name":"Libonik",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

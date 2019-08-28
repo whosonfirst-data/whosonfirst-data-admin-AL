@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.46583,40.52111,19.50583,40.56111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hostima",
         "Hoshtima",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259818651,
-    "wof:lastmodified":1537584265,
+    "wof:lastmodified":1566585053,
     "wof:name":"Hoshtime",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

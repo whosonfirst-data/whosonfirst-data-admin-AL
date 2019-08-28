@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":40.335546,
     "lbl:longitude":20.60617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Kor\u00e7\u00eb",
     "meso:hasc_id":"AL.KE.KJ",
     "meso:mps_x":20.60617,
@@ -28,6 +30,7 @@
     "mps:longitude":20.60617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0644\u0648\u0646\u064a\u0647"
@@ -183,9 +186,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Ersek\u00eb",
@@ -205,7 +208,7 @@
     "wof:concordances":{
         "gp:id":20069946,
         "hasc:id":"AL.KE.KJ",
-        "qs:id":66022,
+        "qs_pg:id":66022,
         "wd:id":"Q194178"
     },
     "wof:country":"AL",
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1563318362,
+    "wof:lastmodified":1566584945,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

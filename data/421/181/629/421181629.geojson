@@ -10,8 +10,12 @@
     "geom:latitude":41.69028,
     "geom:longitude":19.99111,
     "iso:country":"AL",
+    "lbl:bbox":"19.97111,41.67028,20.01111,41.71028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u044f\u0447"
@@ -118,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0447\u0456"
     ],
-    "name:unk_x_variant":[
-        "La\u00e7i"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633\u06cc"
     ],
@@ -166,7 +167,7 @@
     "wof:concordances":{
         "gn:id":3343660,
         "gp:id":470626,
-        "qs:id":495659,
+        "qs_pg:id":495659,
         "wd:id":"Q18768"
     },
     "wof:country":"AL",
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421181629,
-    "wof:lastmodified":1563318394,
+    "wof:lastmodified":1566584952,
     "wof:name":"La\u00e7",
     "wof:parent_id":421202751,
     "wof:placetype":"locality",

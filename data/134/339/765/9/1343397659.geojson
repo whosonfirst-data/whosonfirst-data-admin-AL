@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.90417,40.5375,20.94417,40.5775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0438\u0447\u0438\u0449\u0430"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Resnice",
         "Zi\u00e7ishti",
-        "Zi\u00e7ishta",
-        "Zi\u00e7isht"
+        "Zi\u00e7ishta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343397659,
-    "wof:lastmodified":1564152768,
+    "wof:lastmodified":1566584648,
     "wof:name":"Zicisht",
     "wof:parent_id":1108720851,
     "wof:placetype":"locality",

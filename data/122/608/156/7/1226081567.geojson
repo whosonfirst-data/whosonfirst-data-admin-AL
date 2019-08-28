@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.38083,41.50028,20.42083,41.54028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0421\u043e\u0444\u0440\u0430\u0447\u0430\u043d\u0438"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226081567,
-    "wof:lastmodified":1537584002,
+    "wof:lastmodified":1566585100,
     "wof:name":"Sofracan",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

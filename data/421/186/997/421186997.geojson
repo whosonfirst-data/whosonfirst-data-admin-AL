@@ -10,6 +10,9 @@
     "geom:latitude":42.360319,
     "geom:longitude":20.052795,
     "iso:country":"AL",
+    "lbl:bbox":"20.032795,42.340319,20.072795,42.380319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -256,7 +259,7 @@
     "wof:concordances":{
         "gn:id":7932375,
         "gp:id":469111,
-        "qs:id":1077598,
+        "qs_pg:id":1077598,
         "wd:id":"Q18705"
     },
     "wof:country":"AL",
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":421186997,
-    "wof:lastmodified":1563318392,
+    "wof:lastmodified":1566584951,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

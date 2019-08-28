@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.70083,40.20611,19.74083,40.24611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1206\u122d \u12a0\u12ca\u1265\u122c"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360321363,
-    "wof:lastmodified":1564153212,
+    "wof:lastmodified":1566584925,
     "wof:name":"Hor",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

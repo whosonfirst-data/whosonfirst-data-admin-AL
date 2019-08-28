@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.7,42.16139,19.74,42.20139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Prekali",
         "Prekal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343692447,
-    "wof:lastmodified":1537584206,
+    "wof:lastmodified":1566584673,
     "wof:name":"Prekal",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

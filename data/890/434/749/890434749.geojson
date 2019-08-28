@@ -11,10 +11,14 @@
     "geom:longitude":19.43639,
     "gn:country":"AL",
     "gn:fcode":"PPLA2",
-    "gn:pop":4078,
+    "gn:population":4078,
     "iso:country":"AL",
+    "lbl:bbox":"19.41639,42.19361,19.45639,42.23361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u043b\u0438\u043a"
     ],
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u043b\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koplik i Posht\u00ebm"
     ],
     "name:urd_x_preferred":[
@@ -118,12 +122,12 @@
     "wof:concordances":{
         "gn:id":3185133,
         "gp:id":470453,
-        "qs:id":147054,
+        "qs_pg:id":147054,
         "wd:id":"Q991288",
         "wk:page":"Koplik"
     },
     "wof:concordances_alt":{
-        "qs:id":431194
+        "qs_pg:id":431194
     },
     "wof:country":"AL",
     "wof:created":1469052038,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890434749,
-    "wof:lastmodified":1563318444,
+    "wof:lastmodified":1566584969,
     "wof:name":"Koplik",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

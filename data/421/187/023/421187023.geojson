@@ -11,10 +11,14 @@
     "geom:longitude":19.642717,
     "gn:country":"AL",
     "gn:fcode":"PPLA",
-    "gn:pop":18695,
+    "gn:population":18695,
     "iso:country":"AL",
+    "lbl:bbox":"19.622717,41.764886,19.662717,41.804886",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0632\u0647\u064a"
@@ -199,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0436\u0430"
     ],
-    "name:unk_x_variant":[
-        "Alessio"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0698\u06c1"
     ],
@@ -247,12 +248,12 @@
     "wof:concordances":{
         "gn:id":3184935,
         "gp:id":470731,
-        "qs:id":1077614,
+        "qs_pg:id":1077614,
         "wd:id":"Q169160",
         "wk:page":"Lezh\u00eb"
     },
     "wof:concordances_alt":{
-        "qs:id":274273
+        "qs_pg:id":274273
     },
     "wof:country":"AL",
     "wof:created":1459009499,
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":421187023,
-    "wof:lastmodified":1563318371,
+    "wof:lastmodified":1566584947,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":421169921,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.74333,40.89944,19.78333,40.93944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Mollas"
     ],
@@ -36,8 +40,7 @@
         "Mollas"
     ],
     "name:und_x_variant":[
-        "Mollasi",
-        "Mollas"
+        "Mollasi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310439139,
-    "wof:lastmodified":1564153169,
+    "wof:lastmodified":1566584901,
     "wof:name":"Mollas",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.7975,40.84639,19.8375,40.88639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Thane"
     ],
@@ -181,7 +185,6 @@
     ],
     "name:und_x_variant":[
         "Fan",
-        "Thana",
         "Than\u00eb"
     ],
     "name:urd_x_preferred":[
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1210047749,
-    "wof:lastmodified":1564153064,
+    "wof:lastmodified":1566584839,
     "wof:name":"Thane",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

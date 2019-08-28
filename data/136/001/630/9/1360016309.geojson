@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.99167,41.83194,20.03167,41.87194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuladji",
         "Kullagji",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360016309,
-    "wof:lastmodified":1537584071,
+    "wof:lastmodified":1566584919,
     "wof:name":"Kullaxhi",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

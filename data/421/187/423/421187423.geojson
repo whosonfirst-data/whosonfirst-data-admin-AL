@@ -10,10 +10,14 @@
     "geom:latitude":41.30417,
     "geom:longitude":19.80194,
     "iso:country":"AL",
+    "lbl:bbox":"19.78194,41.28417,19.82194,41.32417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selita e Vog\u00ebl"
     ],
     "qs:gn_country":"AL",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3316584,
         "gp:id":471758,
-        "qs:id":1082804
+        "qs_pg:id":1082804
     },
     "wof:country":"AL",
     "wof:created":1459009512,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421187423,
-    "wof:lastmodified":1505340697,
+    "wof:lastmodified":1566584948,
     "wof:name":"Selit\u00eb e Vog\u00ebl",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

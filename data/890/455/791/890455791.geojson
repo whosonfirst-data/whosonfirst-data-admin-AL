@@ -11,11 +11,15 @@
     "geom:longitude":20.38167,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"20.36167,41.28778,20.40167,41.32778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Lagja e T\u00ebrmetit"
     ],
     "qs:name":"Lagjja e T\u00ebrmetit",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":834268,
         "gp:id":472504,
-        "qs:id":554384
+        "qs_pg:id":554384
     },
     "wof:country":"AL",
     "wof:created":1469052975,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455791,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566584961,
     "wof:name":"Lagjja e T\u00ebrmetit",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

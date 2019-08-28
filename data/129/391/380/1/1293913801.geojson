@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.75194,41.93417,19.79194,41.97417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Korthpula Kafta",
         "Kaftali",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293913801,
-    "wof:lastmodified":1537584262,
+    "wof:lastmodified":1566584698,
     "wof:name":"Kaftalle",
     "wof:parent_id":421193315,
     "wof:placetype":"locality",

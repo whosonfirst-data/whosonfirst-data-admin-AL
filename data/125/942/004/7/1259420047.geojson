@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.19889,41.48444,20.23889,41.52444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulqiz\u00eb Vajkal",
         "Vajkal-Bulqiza",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259420047,
-    "wof:lastmodified":1537583987,
+    "wof:lastmodified":1566585050,
     "wof:name":"Vajkal-Bulqize",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

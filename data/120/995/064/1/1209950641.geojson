@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.95917,42.22722,19.99917,42.26722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kokdod\u00eb",
         "Kokdoda",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209950641,
-    "wof:lastmodified":1537584252,
+    "wof:lastmodified":1566584818,
     "wof:name":"Kokedode",
     "wof:parent_id":1108720859,
     "wof:placetype":"locality",

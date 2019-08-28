@@ -11,11 +11,15 @@
     "geom:longitude":20.14448,
     "gn:country":"AL",
     "gn:fcode":"ADM4",
-    "gn:pop":2010,
+    "gn:population":2010,
     "iso:country":"AL",
+    "lbl:bbox":"20.04448,42.32374,20.24448,42.52374",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dinaj"
     ],
     "qs:name":"Korto\u00e7aj",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6695365,
-        "qs:id":644039
+        "qs_pg:id":644039
     },
     "wof:country":"AL",
     "wof:created":1469051253,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890418565,
-    "wof:lastmodified":1505343445,
+    "wof:lastmodified":1566584968,
     "wof:name":"Korto\u00e7aj",
     "wof:parent_id":421200781,
     "wof:placetype":"localadmin",

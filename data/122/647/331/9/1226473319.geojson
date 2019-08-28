@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.80361,41.09167,19.84361,41.13167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gallushit",
         "Galosce",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226473319,
-    "wof:lastmodified":1537584283,
+    "wof:lastmodified":1566585087,
     "wof:name":"Galush",
     "wof:parent_id":1108720889,
     "wof:placetype":"locality",

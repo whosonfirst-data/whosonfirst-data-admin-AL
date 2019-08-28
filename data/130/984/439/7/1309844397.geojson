@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.24917,40.40778,20.28917,40.44778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0417\u0435\u0431\u0435\u0440\u0437\u0430\u043d\u0438"
     ],
@@ -40,8 +44,7 @@
         "Zabarzan",
         "Zaberzan i Sip\u00ebrm",
         "Zab\u00ebrzani",
-        "Zab\u00ebrzan\u00eb",
-        "Zab\u00ebrzan"
+        "Zab\u00ebrzan\u00eb"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0628\u0631\u0632\u0627\u0646"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1309844397,
-    "wof:lastmodified":1564153220,
+    "wof:lastmodified":1566584930,
     "wof:name":"Zaberzan",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

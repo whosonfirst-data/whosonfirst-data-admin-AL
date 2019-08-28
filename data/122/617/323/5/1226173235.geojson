@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.16417,42.43028,20.20417,42.47028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0435\u0448"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Padek\u00eb",
-        "Padeshi",
-        "Padesh"
+        "Padeshi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226173235,
-    "wof:lastmodified":1564153394,
+    "wof:lastmodified":1566585057,
     "wof:name":"Padesh",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

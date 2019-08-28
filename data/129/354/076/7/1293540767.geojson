@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.90639,40.73806,19.94639,40.77806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Milonja",
         "Milonj\u00eb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293540767,
-    "wof:lastmodified":1537584334,
+    "wof:lastmodified":1566584702,
     "wof:name":"Milonje",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

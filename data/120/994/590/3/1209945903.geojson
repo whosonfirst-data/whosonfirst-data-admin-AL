@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.67278,41.31056,19.71278,41.35056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0633"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209945903,
-    "wof:lastmodified":1564153044,
+    "wof:lastmodified":1566584827,
     "wof:name":"Kus",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

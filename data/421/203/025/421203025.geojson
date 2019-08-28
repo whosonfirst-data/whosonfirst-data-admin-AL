@@ -10,10 +10,13 @@
     "geom:latitude":40.71306,
     "geom:longitude":20.04333,
     "iso:country":"AL",
+    "lbl:bbox":"20.03833,40.70806,20.04833,40.71806",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogdani i Posht\u00ebm"
     ],
     "qs:gn_country":"AL",
@@ -36,16 +39,16 @@
     "qs:woe_id":469294,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85667811,
         102191581,
         85632405,
-        421187685,
-        85667811
+        421187685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":783577,
         "gp:id":469294,
-        "qs:id":53864
+        "qs_pg:id":53864
     },
     "wof:country":"AL",
     "wof:created":1459010137,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421203025,
-    "wof:lastmodified":1531858812,
+    "wof:lastmodified":1566584946,
     "wof:name":"Bogdan i Posht\u00ebm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.52611,41.48694,19.56611,41.52694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rotulla",
         "Rrotull"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326467101,
-    "wof:lastmodified":1537584331,
+    "wof:lastmodified":1566584631,
     "wof:name":"Rrotull",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

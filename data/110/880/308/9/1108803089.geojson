@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":41.282045,
     "lbl:longitude":19.799067,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -206,9 +207,9 @@
         "\u5730\u62c9\u90a3\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"1,586",
     "statoids:area_mi":"612",
     "statoids:as_of_date":"2011-10-01",
@@ -249,11 +250,10 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651748,
+    "wof:lastmodified":1566584874,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":749365,
     "wof:population_rank":11,

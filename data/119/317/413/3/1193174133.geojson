@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.94222,40.20306,19.98222,40.24306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lek\u00ebdushai",
         "Lek\u00ebdush",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193174133,
-    "wof:lastmodified":1537584241,
+    "wof:lastmodified":1566584851,
     "wof:name":"Lekdush",
     "wof:parent_id":421189559,
     "wof:placetype":"locality",

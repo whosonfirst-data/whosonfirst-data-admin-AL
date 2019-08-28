@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.7875,41.25806,19.8275,41.29806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Picall",
         "Picalli",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259514051,
-    "wof:lastmodified":1537584210,
+    "wof:lastmodified":1566585048,
     "wof:name":"Picalle",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

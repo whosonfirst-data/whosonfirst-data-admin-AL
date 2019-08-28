@@ -11,8 +11,11 @@
     "geom:longitude":20.42194,
     "gn:country":"AL",
     "gn:fcode":"PPLA",
-    "gn:pop":17832,
+    "gn:population":17832,
     "iso:country":"AL",
+    "lbl:bbox":"20.40194,42.05694,20.44194,42.09694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043a\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cucus"
     ],
     "name:urd_x_preferred":[
@@ -310,12 +313,12 @@
     "wof:concordances":{
         "gn:id":782661,
         "gp:id":470570,
-        "qs:id":1028912,
+        "qs_pg:id":1028912,
         "wd:id":"Q210197",
         "wk:page":"Kuk\u00ebs"
     },
     "wof:concordances_alt":{
-        "qs:id":1077612
+        "qs_pg:id":1077612
     },
     "wof:country":"AL",
     "wof:created":1469052424,
@@ -330,7 +333,7 @@
         }
     ],
     "wof:id":890443443,
-    "wof:lastmodified":1563318437,
+    "wof:lastmodified":1566584967,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

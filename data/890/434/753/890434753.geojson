@@ -11,10 +11,14 @@
     "geom:longitude":19.73472,
     "gn:country":"AL",
     "gn:fcode":"PPLA2",
-    "gn:pop":10361,
+    "gn:population":10361,
     "iso:country":"AL",
+    "lbl:bbox":"19.71472,40.57889,19.75472,40.61889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0448\u0438"
     ],
@@ -114,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baleri"
     ],
     "name:urd_x_preferred":[
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":3186145,
         "gp:id":469132,
-        "qs:id":147062,
+        "qs_pg:id":147062,
         "wd:id":"Q743016",
         "wk:page":"Ballsh"
     },
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":890434753,
-    "wof:lastmodified":1563318443,
+    "wof:lastmodified":1566584969,
     "wof:name":"Ballsh",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

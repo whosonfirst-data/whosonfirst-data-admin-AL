@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.12833,41.0775,20.16833,41.1175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Shushica alk\u00f6zs\u00e9g"
     ],
@@ -49,9 +53,7 @@
         "Shushica"
     ],
     "name:und_x_variant":[
-        "Shushica",
-        "Scuscitsa",
-        "Shushic\u00eb"
+        "Scuscitsa"
     ],
     "name:vie_x_preferred":[
         "Shushic\u00eb"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1326663959,
-    "wof:lastmodified":1564152718,
+    "wof:lastmodified":1566584613,
     "wof:name":"Shushice",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

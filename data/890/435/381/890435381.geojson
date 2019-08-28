@@ -11,8 +11,11 @@
     "geom:longitude":19.55611,
     "gn:country":"AL",
     "gn:fcode":"PPLA",
-    "gn:pop":56297,
+    "gn:population":56297,
     "iso:country":"AL",
+    "lbl:bbox":"19.53611,40.70389,19.57611,40.74389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -196,7 +199,7 @@
     "name:ukr_x_variant":[
         "\u0424\u0456\u0454\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fjeri"
     ],
     "name:urd_x_preferred":[
@@ -325,12 +328,12 @@
     "wof:concordances":{
         "gn:id":3185672,
         "gp:id":469740,
-        "qs:id":274275,
+        "qs_pg:id":274275,
         "wd:id":"Q190897",
         "wk:page":"Fier"
     },
     "wof:concordances_alt":{
-        "qs:id":1077608
+        "qs_pg:id":1077608
     },
     "wof:country":"AL",
     "wof:created":1469052065,
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":890435381,
-    "wof:lastmodified":1563318449,
+    "wof:lastmodified":1566584970,
     "wof:name":"Fier",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

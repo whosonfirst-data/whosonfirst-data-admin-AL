@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.03972,41.17639,20.07972,41.21639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Funar"
     ],
@@ -49,8 +53,7 @@
         "Funara"
     ],
     "name:und_x_variant":[
-        "Funari",
-        "Funar"
+        "Funari"
     ],
     "name:vie_x_preferred":[
         "Funar\u00eb"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1260016577,
-    "wof:lastmodified":1564153102,
+    "wof:lastmodified":1566584861,
     "wof:name":"Funare",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.52889,40.45972,19.56889,40.49972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Giuherina",
         "Xarin\u00eb",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327268003,
-    "wof:lastmodified":1537584160,
+    "wof:lastmodified":1566584637,
     "wof:name":"Xhyherine",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

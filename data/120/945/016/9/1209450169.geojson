@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.90528,40.39667,19.94528,40.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhapokika e Sip\u00ebrme",
         "Zhabokika Num\u00ebr Dy",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209450169,
-    "wof:lastmodified":1537584157,
+    "wof:lastmodified":1566584834,
     "wof:name":"Zhabokike-Dy",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

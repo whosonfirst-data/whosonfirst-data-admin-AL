@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.36,40.69694,19.4,40.73694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dor\u00ebzeza e Re",
         "Darezeze",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310241169,
-    "wof:lastmodified":1537584337,
+    "wof:lastmodified":1566584881,
     "wof:name":"Darezeza e Re",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

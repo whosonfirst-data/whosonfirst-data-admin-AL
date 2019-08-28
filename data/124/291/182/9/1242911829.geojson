@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.17833,40.63417,20.21833,40.67417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luathi",
         "Luath",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242911829,
-    "wof:lastmodified":1537584149,
+    "wof:lastmodified":1566585013,
     "wof:name":"Luadh",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.91528,40.72389,19.95528,40.76389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Otllak"
     ],
@@ -49,8 +53,7 @@
         "Otllak"
     ],
     "name:und_x_variant":[
-        "Otllaku",
-        "Otllak"
+        "Otllaku"
     ],
     "name:vie_x_preferred":[
         "Otllak"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1277025139,
-    "wof:lastmodified":1564152955,
+    "wof:lastmodified":1566584769,
     "wof:name":"Otllak",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",

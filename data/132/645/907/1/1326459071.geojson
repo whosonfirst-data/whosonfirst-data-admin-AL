@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.08944,40.91417,20.12944,40.95417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Dushk"
     ],
@@ -45,8 +49,7 @@
         "Dushk"
     ],
     "name:und_x_variant":[
-        "Dushku",
-        "Dushk"
+        "Dushku"
     ],
     "name:vie_x_preferred":[
         "Dushk"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326459071,
-    "wof:lastmodified":1564152704,
+    "wof:lastmodified":1566584603,
     "wof:name":"Dushk",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

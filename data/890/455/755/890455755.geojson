@@ -11,11 +11,15 @@
     "geom:longitude":20.06972,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"20.04972,41.26167,20.08972,41.30167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Vakumon\u00eb i Sip\u00ebrme"
     ],
     "qs:name":"Vakumona i Sip\u00ebrme",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":834167,
         "gp:id":472405,
-        "qs:id":554357
+        "qs_pg:id":554357
     },
     "wof:country":"AL",
     "wof:created":1469052974,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455755,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566584961,
     "wof:name":"Vakumona i Sip\u00ebrme",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

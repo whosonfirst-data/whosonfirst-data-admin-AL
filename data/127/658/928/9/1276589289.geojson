@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.82056,41.2675,19.86056,41.3075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Bathore"
     ],
@@ -39,7 +43,6 @@
         "Bathore"
     ],
     "name:und_x_variant":[
-        "Bathor\u00eb",
         "Mjull-Bethore",
         "M\u00ebnjoll\u00eb Batho",
         "Mjull-Bathorja",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276589289,
-    "wof:lastmodified":1564152953,
+    "wof:lastmodified":1566584767,
     "wof:name":"Mjull-Bathore",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

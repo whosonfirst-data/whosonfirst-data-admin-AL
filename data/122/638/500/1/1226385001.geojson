@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.10778,40.58889,20.14778,40.62889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0440\u0433\u0443\u043b\u0430\u0441"
     ],
@@ -36,9 +40,7 @@
         "Bargullas"
     ],
     "name:und_x_variant":[
-        "Bargullasi",
-        "Bergullasi",
-        "Bargullas"
+        "Bergullasi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1226385001,
-    "wof:lastmodified":1564153469,
+    "wof:lastmodified":1566585104,
     "wof:name":"Bargullas",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

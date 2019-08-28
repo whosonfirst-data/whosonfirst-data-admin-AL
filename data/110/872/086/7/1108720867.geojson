@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.506803,
     "lbl:longitude":20.07396,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Dib\u00ebr",
     "meso:hasc_id":"AL.DB.KS",
     "meso:mps_x":20.07396,
@@ -28,6 +30,7 @@
     "mps:longitude":20.07396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Klos"
     ],
@@ -56,9 +59,9 @@
         "Klos"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Klos",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108720867,
-    "wof:lastmodified":1564153132,
+    "wof:lastmodified":1566584879,
     "wof:name":"Klos",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

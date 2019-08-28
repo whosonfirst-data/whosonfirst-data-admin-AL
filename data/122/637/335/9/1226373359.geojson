@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.59833,41.07611,19.63833,41.11611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "K\u00ebr\u00e7ukaj"
     ],
@@ -34,8 +38,7 @@
         "Korqukej",
         "K\u00ebr\u00e7ukje",
         "Kor\u0107ukej",
-        "Ker\u00e7ukja",
-        "K\u00ebr\u00e7ukaj"
+        "Ker\u00e7ukja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226373359,
-    "wof:lastmodified":1564153461,
+    "wof:lastmodified":1566585098,
     "wof:name":"Kercukaj",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

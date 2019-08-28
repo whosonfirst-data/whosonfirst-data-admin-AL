@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.57667,40.75583,20.61667,40.79583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dolaneci",
         "Dolanec"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327370651,
-    "wof:lastmodified":1537584114,
+    "wof:lastmodified":1566584593,
     "wof:name":"Dolanec",
     "wof:parent_id":1108720877,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.80444,41.38833,19.84444,41.42833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinar"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Pinori",
-        "Pinari",
-        "Pinar"
+        "Pinari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1327167741,
-    "wof:lastmodified":1564152762,
+    "wof:lastmodified":1566584643,
     "wof:name":"Pinar",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

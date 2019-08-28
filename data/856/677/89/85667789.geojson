@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.755341,
     "lbl:longitude":19.578709,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.758132,
     "mps:longitude":19.57296,
     "mz:hierarchy_label":1,
@@ -178,10 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0454\u0440"
     ],
-    "name:und_x_preferred":[
-        "Fier"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qarku Fier"
     ],
     "name:urd_x_preferred":[
@@ -268,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"1,887",
     "statoids:area_mi":"729",
     "statoids:as_of_date":"2011-10-01",
@@ -295,7 +293,7 @@
         "gp:id":29389558,
         "hasc:id":"AL.FI",
         "iso:id":"AL-04",
-        "qs:id":359526,
+        "qs_pg:id":359526,
         "unlc:id":"AL-FR",
         "wd:id":"Q231900",
         "wk:page":"Fier County"
@@ -316,11 +314,10 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651729,
+    "wof:lastmodified":1566584694,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":310331,
     "wof:population_rank":10,

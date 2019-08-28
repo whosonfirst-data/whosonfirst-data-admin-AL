@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.73806,42.22444,19.77806,42.26444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nikaj",
         "Nicaj-Shosh"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326865179,
-    "wof:lastmodified":1537584217,
+    "wof:lastmodified":1566584599,
     "wof:name":"Nicaj-Shosh",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.43222,41.54694,20.47222,41.58694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209751967,
-    "wof:lastmodified":1537584032,
+    "wof:lastmodified":1566584838,
     "wof:name":"Podgorce",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

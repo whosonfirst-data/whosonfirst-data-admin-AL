@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.78667,41.33389,19.82667,41.37389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Paskuqan alk\u00f6zs\u00e9g"
     ],
@@ -57,8 +61,7 @@
         "Patza Ku\u0107ane",
         "Packuqan",
         "Paskuqani",
-        "Patza-Kuqane",
-        "Paskuqan"
+        "Patza-Kuqane"
     ],
     "name:vie_x_preferred":[
         "Paskuqan"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1209945081,
-    "wof:lastmodified":1564153043,
+    "wof:lastmodified":1566584827,
     "wof:name":"Paskuqan",
     "wof:parent_id":1108720865,
     "wof:placetype":"locality",

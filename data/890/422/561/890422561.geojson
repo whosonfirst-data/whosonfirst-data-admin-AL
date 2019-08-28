@@ -11,10 +11,14 @@
     "geom:longitude":19.86611,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"19.84611,41.29528,19.88611,41.33528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u00c7ollak",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3316607,
         "gp:id":471725,
-        "qs:id":582455
+        "qs_pg:id":582455
     },
     "wof:country":"AL",
     "wof:created":1469051453,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422561,
-    "wof:lastmodified":1505343470,
+    "wof:lastmodified":1566584958,
     "wof:name":"\u00c7ollak",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

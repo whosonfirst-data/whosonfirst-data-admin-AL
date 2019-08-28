@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.42704,
     "lbl:longitude":19.524506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Durr\u00ebs",
     "meso:hasc_id":"AL.DU.DR",
     "meso:mps_x":19.524506,
@@ -28,6 +30,7 @@
     "mps:longitude":19.524506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062f\u0631\u0627\u062c"
@@ -180,7 +183,7 @@
         "Distriktet Durr\u00ebs"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc2\u0bb0\u0bcd\u0bb8\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9f\u0bc2\u0bb0\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c42\u0c30\u0c46\u0c38\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0440\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Durres Rreth"
     ],
     "name:urd_x_preferred":[
@@ -231,9 +234,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Durr\u00ebs",
@@ -254,7 +257,7 @@
         "gn:id":3185730,
         "gp:id":20069937,
         "hasc:id":"AL.DU.DR",
-        "qs:id":1083106,
+        "qs_pg:id":1083106,
         "wd:id":"Q37662",
         "wk:page":"Durr\u00ebs District"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421187433,
-    "wof:lastmodified":1563318386,
+    "wof:lastmodified":1566584950,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

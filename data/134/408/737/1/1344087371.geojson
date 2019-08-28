@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.83056,40.48111,19.87056,40.52111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nineshi",
         "Nin\u00ebsh"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344087371,
-    "wof:lastmodified":1537584217,
+    "wof:lastmodified":1566584656,
     "wof:name":"Ninesh",
     "wof:parent_id":1108720879,
     "wof:placetype":"locality",

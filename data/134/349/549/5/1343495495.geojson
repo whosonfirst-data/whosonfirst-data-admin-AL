@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.12222,41.55611,20.16222,41.59611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qaf-Dardha",
         "Qaf-Dardh\u00eb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343495495,
-    "wof:lastmodified":1537584145,
+    "wof:lastmodified":1566584668,
     "wof:name":"Qaf-Dardhe",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

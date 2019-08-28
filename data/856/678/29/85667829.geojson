@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.817895,
     "lbl:longitude":19.820467,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.816761,
     "mps:longitude":19.841941,
     "mz:hierarchy_label":1,
@@ -187,10 +188,8 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0436\u0430"
     ],
-    "name:und_x_preferred":[
-        "Lezhe"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Lezhe",
         "Qarku Lezhe"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +276,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"1,581",
     "statoids:area_mi":"610",
     "statoids:as_of_date":"2011-10-01",
@@ -304,7 +303,7 @@
         "gp:id":29389562,
         "hasc:id":"AL.LZ",
         "iso:id":"AL-08",
-        "qs:id":1198468,
+        "qs_pg:id":1198468,
         "unlc:id":"AL-LE",
         "wd:id":"Q193436",
         "wk:page":"Lezh\u00eb County"
@@ -325,11 +324,10 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1565651728,
+    "wof:lastmodified":1566584691,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":134027,
     "wof:population_rank":9,

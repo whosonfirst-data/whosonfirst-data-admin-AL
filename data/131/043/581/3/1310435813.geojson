@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.28083,40.25167,20.32083,40.29167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cossina",
         "Kosina",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310435813,
-    "wof:lastmodified":1537584075,
+    "wof:lastmodified":1566584901,
     "wof:name":"Kosine",
     "wof:parent_id":421192831,
     "wof:placetype":"locality",

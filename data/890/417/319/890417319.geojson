@@ -11,10 +11,14 @@
     "geom:longitude":20.14849,
     "gn:country":"AL",
     "gn:fcode":"ADMD",
-    "gn:pop":1540,
+    "gn:population":1540,
     "iso:country":"AL",
+    "lbl:bbox":"20.04849,42.31882,20.24849,42.51882",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Memiaj",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7302762,
-        "qs:id":682215
+        "qs_pg:id":682215
     },
     "wof:country":"AL",
     "wof:created":1469051195,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890417319,
-    "wof:lastmodified":1505343438,
+    "wof:lastmodified":1566584964,
     "wof:name":"Memiaj",
     "wof:parent_id":421200781,
     "wof:placetype":"localadmin",

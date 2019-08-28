@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.29194,40.59833,20.33194,40.63833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Bar\u00e7"
     ],
     "name:und_x_variant":[
         "Bar\u00e7 i Posht\u00ebm",
-        "Bar\u00e7i",
-        "Bar\u00e7"
+        "Bar\u00e7i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260330081,
-    "wof:lastmodified":1564153122,
+    "wof:lastmodified":1566584873,
     "wof:name":"Barc",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

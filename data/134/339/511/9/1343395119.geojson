@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.43222,42.29639,19.47222,42.33639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vukpalaj-Bajz\u00eb"
     ],
@@ -36,9 +40,7 @@
         "Vukpalaj-Bajz\u00eb"
     ],
     "name:und_x_variant":[
-        "Vukpalaj",
-        "Vukpalaj-Bajza",
-        "Vukpalaj-Bajz\u00eb"
+        "Vukpalaj-Bajza"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1343395119,
-    "wof:lastmodified":1564152770,
+    "wof:lastmodified":1566584649,
     "wof:name":"Vukpalaj-Bajze",
     "wof:parent_id":1108720883,
     "wof:placetype":"locality",

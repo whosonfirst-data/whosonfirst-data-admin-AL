@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.14361,40.13694,20.18361,40.17694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Erind"
     ],
     "name:und_x_variant":[
-        "Erindi",
-        "Erind"
+        "Erindi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310537749,
-    "wof:lastmodified":1564153158,
+    "wof:lastmodified":1566584896,
     "wof:name":"Erind",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

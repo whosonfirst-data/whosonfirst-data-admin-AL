@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.70972,40.37639,19.74972,40.41639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Sevaster"
     ],
@@ -46,8 +50,7 @@
         "Stevaster Kuls",
         "Sevasteri",
         "Sevaster Cuds",
-        "Stevaster",
-        "Sevaster"
+        "Stevaster"
     ],
     "name:vie_x_preferred":[
         "Sevaster"
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1343892873,
-    "wof:lastmodified":1564152825,
+    "wof:lastmodified":1566584685,
     "wof:name":"Sevaster",
     "wof:parent_id":1108720903,
     "wof:placetype":"locality",

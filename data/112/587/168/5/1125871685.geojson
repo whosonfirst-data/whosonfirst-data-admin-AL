@@ -9,15 +9,18 @@
     "geom:bbox":"19.76028,41.38167,19.76028,41.38167",
     "geom:latitude":41.38167,
     "geom:longitude":19.76028,
-    "gn:gn_country":"AL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":11026,
+    "gn:country":"AL",
+    "gn:fcode":"PPLA3",
     "gn:population":11026,
     "iso:country":"AL",
+    "lbl:bbox":"19.74028,41.36167,19.78028,41.40167",
     "lbl:latitude":41.38167,
     "lbl:longitude":19.76028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0632\u0627"
@@ -94,7 +97,7 @@
     "name:tur_x_preferred":[
         "Kamza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Camza"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:qs_id":147056,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1125871685,
-    "wof:lastmodified":1563318451,
+    "wof:lastmodified":1566584971,
     "wof:name":"Kam\u00ebz",
     "wof:parent_id":1108720865,
     "wof:placetype":"locality",

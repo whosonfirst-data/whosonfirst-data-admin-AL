@@ -10,8 +10,11 @@
     "geom:latitude":40.71667,
     "geom:longitude":19.56667,
     "iso:country":"AL",
+    "lbl:bbox":"19.56167,40.71167,19.57167,40.72167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AL",
     "qs:gn_fcode":"PPLX",
@@ -34,16 +37,16 @@
     "src:geom":"quattroshapes",
     "src:population":"quattroshapes",
     "wof:belongsto":[
+        85667789,
         102191581,
         85632405,
-        421187687,
-        85667789
+        421187687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3185670,
         "gp:id":469743,
-        "qs:id":147059
+        "qs_pg:id":147059
     },
     "wof:country":"AL",
     "wof:created":1459009201,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421179023,
-    "wof:lastmodified":1531858451,
+    "wof:lastmodified":1566584956,
     "wof:name":"Fier-\u00c7if\u00e7i",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

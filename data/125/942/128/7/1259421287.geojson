@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.8825,40.83444,19.9225,40.87444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vlashuku",
         "Vllshoku",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259421287,
-    "wof:lastmodified":1537584164,
+    "wof:lastmodified":1566585050,
     "wof:name":"Vlashuk",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

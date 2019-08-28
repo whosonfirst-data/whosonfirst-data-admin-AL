@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.37361,41.7725,20.41361,41.8125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u054f\u0580\u0578\u0575\u0561\u056f"
     ],
@@ -39,8 +43,7 @@
         "Trojok"
     ],
     "name:und_x_variant":[
-        "Trojaku",
-        "Trojak"
+        "Trojaku"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276151575,
-    "wof:lastmodified":1564152958,
+    "wof:lastmodified":1566584771,
     "wof:name":"Trojak",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

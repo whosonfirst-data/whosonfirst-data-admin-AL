@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.42583,41.58778,20.46583,41.62778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u0446"
     ],
@@ -80,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u0446\u044c"
     ],
-    "name:und_x_variant":[
-        "Gradeci"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1276158107,
-    "wof:lastmodified":1564152959,
+    "wof:lastmodified":1566584772,
     "wof:name":"Gradec",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

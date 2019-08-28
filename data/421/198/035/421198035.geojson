@@ -10,8 +10,12 @@
     "geom:latitude":41.33083,
     "geom:longitude":19.90528,
     "iso:country":"AL",
+    "lbl:bbox":"19.88528,41.31083,19.92528,41.35083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u0435\u043b"
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0440\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Surel"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":3183938,
         "gp:id":469408,
-        "qs:id":301548,
+        "qs_pg:id":301548,
         "wd:id":"Q461313"
     },
     "wof:country":"AL",
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":421198035,
-    "wof:lastmodified":1563318395,
+    "wof:lastmodified":1566584952,
     "wof:name":"Burrel",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

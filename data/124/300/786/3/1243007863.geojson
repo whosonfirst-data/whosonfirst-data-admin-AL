@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.68167,42.32333,19.72167,42.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243007863,
-    "wof:lastmodified":1536941468,
+    "wof:lastmodified":1566584976,
     "wof:name":"Grop e Kamshollit",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

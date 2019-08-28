@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.74278,40.84583,19.78278,40.88583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00c7ukas i Ri",
         "\u00c7ukasi i Ri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360116197,
-    "wof:lastmodified":1537584298,
+    "wof:lastmodified":1566584920,
     "wof:name":"Cukasi i Ri",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.93472,39.98917,19.97472,40.02917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lagjia e Re",
         "Lagja e Re",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276795771,
-    "wof:lastmodified":1537584339,
+    "wof:lastmodified":1566584777,
     "wof:name":"Lagjja e Re",
     "wof:parent_id":421184327,
     "wof:placetype":"locality",

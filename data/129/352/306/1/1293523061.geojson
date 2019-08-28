@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.63583,41.24389,19.67583,41.28389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Ndroq"
     ],
@@ -40,8 +44,7 @@
         "Ndroqi",
         "Ndroqi Pazari",
         "Ndroki",
-        "Ndrogi",
-        "Ndroq"
+        "Ndrogi"
     ],
     "name:vie_x_preferred":[
         "Ndroq"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293523061,
-    "wof:lastmodified":1564152846,
+    "wof:lastmodified":1566584703,
     "wof:name":"Ndroq",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.53389,41.03222,19.57389,41.07222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Ballaj"
     ],
@@ -34,8 +38,7 @@
         "Bale",
         "Baljaj",
         "Balli",
-        "Balaj",
-        "Ballaj"
+        "Balaj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276266777,
-    "wof:lastmodified":1564152932,
+    "wof:lastmodified":1566584755,
     "wof:name":"Ballaj",
     "wof:parent_id":1108720901,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.38861,40.77528,20.42861,40.81528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sqi_x_preferred":[
         "Grabov\u00eb e Sip\u00ebrme"
     ],
@@ -33,7 +37,6 @@
         "Grabova B",
         "Grabova-Krishte",
         "Grabov\u00eb e Krishter\u00ebve",
-        "Grabov\u00eb e Sip\u00ebrme",
         "Grabov\u00eb B",
         "Grabova Hristianiki",
         "Grabov\u00eb e Kr\u00ebshter\u00eb",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327064723,
-    "wof:lastmodified":1564152687,
+    "wof:lastmodified":1566584591,
     "wof:name":"Grabova e Siperme",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

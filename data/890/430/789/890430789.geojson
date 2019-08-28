@@ -11,11 +11,15 @@
     "geom:longitude":19.92861,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"19.90861,41.28917,19.94861,41.32917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kokl"
     ],
     "qs:name":"Kokli",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3316637,
         "gp:id":471725,
-        "qs:id":582463
+        "qs_pg:id":582463
     },
     "wof:country":"AL",
     "wof:created":1469051866,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430789,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566584960,
     "wof:name":"Kokli",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

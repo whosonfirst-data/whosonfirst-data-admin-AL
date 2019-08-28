@@ -10,8 +10,12 @@
     "geom:latitude":40.110178,
     "geom:longitude":19.733299,
     "iso:country":"AL",
+    "lbl:bbox":"19.713299,40.090178,19.753299,40.130178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u064a\u0645\u0627\u0631\u0627"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u043c\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chimara"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +173,11 @@
     "wof:concordances":{
         "gn:id":3185377,
         "gp:id":470127,
-        "qs:id":1077607,
         "qs_pg:id":147057,
         "wd:id":"Q622764"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077607
     },
     "wof:country":"AL",
     "wof:created":1459009498,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421187009,
-    "wof:lastmodified":1563318376,
+    "wof:lastmodified":1566584948,
     "wof:name":"Himar\u00eb",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

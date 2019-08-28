@@ -11,10 +11,14 @@
     "geom:longitude":20.23028,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"AL",
+    "lbl:bbox":"20.21028,41.37778,20.25028,41.41778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Lene"
     ],
@@ -594,7 +598,7 @@
     "name:twi_x_preferred":[
         "Lene"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lena"
     ],
     "name:vec_x_preferred":[
@@ -655,7 +659,7 @@
     "wof:concordances":{
         "gn:id":834235,
         "gp:id":471332,
-        "qs:id":554375,
+        "qs_pg:id":554375,
         "wd:id":"Q16278322",
         "wk:page":"Lene"
     },
@@ -672,7 +676,7 @@
         }
     ],
     "wof:id":890422321,
-    "wof:lastmodified":1563318417,
+    "wof:lastmodified":1566584959,
     "wof:name":"Len\u00eb",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

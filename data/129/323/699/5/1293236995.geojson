@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.61111,41.39778,19.65111,41.43778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0434\u0435\u0446"
     ],
@@ -48,9 +52,7 @@
         "G\u00ebrdec"
     ],
     "name:und_x_variant":[
-        "Gje\u00e7aj",
-        "G\u00ebrdeci",
-        "G\u00ebrdec"
+        "Gje\u00e7aj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1293236995,
-    "wof:lastmodified":1564152865,
+    "wof:lastmodified":1566584714,
     "wof:name":"Gerdec",
     "wof:parent_id":1108720911,
     "wof:placetype":"locality",

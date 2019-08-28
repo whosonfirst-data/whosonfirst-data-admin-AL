@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.00639,40.91444,20.04639,40.95444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mehall\u2019 e Shkrambit",
         "Shk\u00ebmbi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326767281,
-    "wof:lastmodified":1537584053,
+    "wof:lastmodified":1566584627,
     "wof:name":"Shkemb",
     "wof:parent_id":1108720849,
     "wof:placetype":"locality",

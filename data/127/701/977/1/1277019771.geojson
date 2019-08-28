@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.27861,40.92194,20.31861,40.96194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poro\u00e7ani",
         "Poro\u00e7an"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277019771,
-    "wof:lastmodified":1537584030,
+    "wof:lastmodified":1566584747,
     "wof:name":"Porocan",
     "wof:parent_id":421191637,
     "wof:placetype":"locality",

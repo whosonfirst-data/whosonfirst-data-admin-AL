@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.31111,40.42139,20.35111,40.46139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dost"
     ],
@@ -36,8 +40,7 @@
         "Dost"
     ],
     "name:und_x_variant":[
-        "Dosti",
-        "Dost"
+        "Dosti"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259931449,
-    "wof:lastmodified":1564153376,
+    "wof:lastmodified":1566585046,
     "wof:name":"Dost",
     "wof:parent_id":421194959,
     "wof:placetype":"locality",

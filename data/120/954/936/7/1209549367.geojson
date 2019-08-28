@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.86389,40.54083,20.90389,40.58083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xheras",
         "Gjyrez",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209549367,
-    "wof:lastmodified":1537584101,
+    "wof:lastmodified":1566584793,
     "wof:name":"Gjyres",
     "wof:parent_id":85632405,
     "wof:placetype":"locality",

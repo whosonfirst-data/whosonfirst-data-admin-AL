@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.94139,41.50639,19.98139,41.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mali-Leza",
         "Mali-Leze"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276157791,
-    "wof:lastmodified":1537584331,
+    "wof:lastmodified":1566584773,
     "wof:name":"Mali-Leze",
     "wof:parent_id":1108720867,
     "wof:placetype":"locality",

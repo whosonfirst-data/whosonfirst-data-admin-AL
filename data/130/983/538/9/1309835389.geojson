@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.45,41.31722,20.49,41.35722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u0431\u043b\u0435\u0432\u043e"
     ],
@@ -55,11 +59,9 @@
         "Stebilova",
         "Stebljeva",
         "Stebllova",
-        "Stebleva",
         "Steblev",
         "St\u00ebrbleva",
-        "\u0160linza",
-        "Steblev\u00eb"
+        "\u0160linza"
     ],
     "name:vie_x_preferred":[
         "Steblev\u00eb"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1309835389,
-    "wof:lastmodified":1564153219,
+    "wof:lastmodified":1566584929,
     "wof:name":"Stebleve",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

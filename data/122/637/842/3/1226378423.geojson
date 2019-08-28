@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.80861,40.98111,19.84861,41.02111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pekishti",
         "Paki\u0161t",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226378423,
-    "wof:lastmodified":1537584212,
+    "wof:lastmodified":1566585096,
     "wof:name":"Pekisht",
     "wof:parent_id":1108720889,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.11167,41.23972,20.15167,41.27972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Pishaj"
     ],
@@ -45,8 +49,7 @@
         "Pishaj"
     ],
     "name:und_x_variant":[
-        "Pish\u00eb",
-        "Pishaj"
+        "Pish\u00eb"
     ],
     "name:vie_x_preferred":[
         "Pishaj"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343892751,
-    "wof:lastmodified":1564152825,
+    "wof:lastmodified":1566584685,
     "wof:name":"Pishaj",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

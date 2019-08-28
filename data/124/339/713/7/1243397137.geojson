@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.5625,40.505,20.6025,40.545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0442\u043a\u0443\u043a"
     ],
@@ -52,8 +56,7 @@
         "Vithkuq"
     ],
     "name:und_x_variant":[
-        "Vithkuqi",
-        "Vithkuq"
+        "Vithkuqi"
     ],
     "name:vie_x_preferred":[
         "Vithkuq"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1243397137,
-    "wof:lastmodified":1564153277,
+    "wof:lastmodified":1566584983,
     "wof:name":"Vithkuq",
     "wof:parent_id":421190783,
     "wof:placetype":"locality",

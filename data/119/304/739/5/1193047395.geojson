@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"19.4775,40.72667,19.5175,40.76667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kraksniqi",
         "Kraksniq"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193047395,
-    "wof:lastmodified":1537584335,
+    "wof:lastmodified":1566584844,
     "wof:name":"Kraksniq",
     "wof:parent_id":421187687,
     "wof:placetype":"locality",

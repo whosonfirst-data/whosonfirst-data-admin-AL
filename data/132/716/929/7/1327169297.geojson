@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Tirane",
     "iso:country":"AL",
+    "lbl:bbox":"20.51639,40.21472,20.55639,40.25472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zgoralec",
         "Izgoralce",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327169297,
-    "wof:lastmodified":1537583971,
+    "wof:lastmodified":1566584642,
     "wof:name":"Peshtan",
     "wof:parent_id":421193597,
     "wof:placetype":"locality",

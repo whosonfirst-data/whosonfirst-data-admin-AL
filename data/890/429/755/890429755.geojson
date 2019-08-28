@@ -11,10 +11,14 @@
     "geom:longitude":19.82917,
     "gn:country":"AL",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"AL",
+    "lbl:bbox":"19.80917,41.33417,19.84917,41.37417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Babrru"
     ],
@@ -27,7 +31,7 @@
     "name:sqi_x_preferred":[
         "Babrru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babruja"
     ],
     "qs:name":"Babru",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3186169,
         "gp:id":472135,
-        "qs:id":581540,
+        "qs_pg:id":581540,
         "wd:id":"Q4838017"
     },
     "wof:country":"AL",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890429755,
-    "wof:lastmodified":1561777930,
+    "wof:lastmodified":1566584968,
     "wof:name":"Babru",
     "wof:parent_id":1108720865,
     "wof:placetype":"locality",
