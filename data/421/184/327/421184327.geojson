@@ -221,6 +221,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009407,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"326824ae134f3296a6b3c78a28596ab1",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421184327,
-    "wof:lastmodified":1566584955,
+    "wof:lastmodified":1582318806,
     "wof:name":"Delvin\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

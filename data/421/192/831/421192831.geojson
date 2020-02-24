@@ -218,6 +218,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009750,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9134336622f9efe34a4aa7a4b0f352fd",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1566584943,
+    "wof:lastmodified":1582318804,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

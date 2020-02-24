@@ -221,6 +221,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009767,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b1c492a46168dcc8fd2bbf9e24cbd8f",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421193315,
-    "wof:lastmodified":1566584944,
+    "wof:lastmodified":1582318805,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

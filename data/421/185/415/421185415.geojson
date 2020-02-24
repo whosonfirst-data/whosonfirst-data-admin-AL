@@ -224,6 +224,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009442,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f7077909ce51321d2ea8fcaa6c2ea97",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421185415,
-    "wof:lastmodified":1566584957,
+    "wof:lastmodified":1582318807,
     "wof:name":"Elbasan",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

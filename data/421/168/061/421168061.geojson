@@ -209,6 +209,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459008752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ba38c173bab0ed000b47b05bb4d718c",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421168061,
-    "wof:lastmodified":1566584942,
+    "wof:lastmodified":1582318804,
     "wof:name":"Has",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

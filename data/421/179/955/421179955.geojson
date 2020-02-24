@@ -374,6 +374,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009239,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b23a61fb8d50d62a934d3b9adf43389",
     "wof:hierarchy":[
         {
@@ -384,7 +387,7 @@
         }
     ],
     "wof:id":421179955,
-    "wof:lastmodified":1566584955,
+    "wof:lastmodified":1582318806,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

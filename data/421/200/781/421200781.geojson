@@ -221,6 +221,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459010041,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9e8998dd782a221f818826bef4b44ae",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421200781,
-    "wof:lastmodified":1566584954,
+    "wof:lastmodified":1582318806,
     "wof:name":"Tropoj\u00eb",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

@@ -127,6 +127,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459010105,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1feafd8edc19be6722bc8bad252000e0",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421202101,
-    "wof:lastmodified":1566584946,
+    "wof:lastmodified":1582318805,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108720911,
     "wof:placetype":"locality",

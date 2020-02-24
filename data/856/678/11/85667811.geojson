@@ -350,6 +350,9 @@
         "wk:page":"Berat County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe43c19ca9cf28d710fb8fade9c4a6a6",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584691,
+    "wof:lastmodified":1582318799,
     "wof:name":"Berat",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

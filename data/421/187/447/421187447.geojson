@@ -227,6 +227,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009513,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14f924a277d2718f36d5110a18475069",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421187447,
-    "wof:lastmodified":1566584947,
+    "wof:lastmodified":1582318805,
     "wof:name":"Kavaj\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

@@ -315,6 +315,9 @@
         "wk:page":"Dib\u00ebr County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f93788e7f01e215ed2e8c8cf67e39ce",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584692,
+    "wof:lastmodified":1582318799,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -264,6 +264,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009498,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"74060e44ead3039e857ffb15ed4cf81c",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":421186997,
-    "wof:lastmodified":1566584951,
+    "wof:lastmodified":1582318806,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",

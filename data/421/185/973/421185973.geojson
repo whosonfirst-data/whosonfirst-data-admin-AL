@@ -238,6 +238,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009460,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"505fe1777805e4f0cf38886a66da7c40",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421185973,
-    "wof:lastmodified":1566584957,
+    "wof:lastmodified":1582318807,
     "wof:name":"Lushnj\u00eb",
     "wof:parent_id":421184543,
     "wof:placetype":"locality",

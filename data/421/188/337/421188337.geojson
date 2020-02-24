@@ -224,6 +224,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009542,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cf5646c18ea7494a9a5129671f48e7c",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421188337,
-    "wof:lastmodified":1566584951,
+    "wof:lastmodified":1582318806,
     "wof:name":"Mirdit\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

@@ -218,6 +218,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009327,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f01c04ef58a0d556b79ba3cd410d858a",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421182353,
-    "wof:lastmodified":1566584956,
+    "wof:lastmodified":1582318807,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

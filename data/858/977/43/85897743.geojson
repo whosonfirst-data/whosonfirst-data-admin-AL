@@ -78,6 +78,9 @@
         "qs_pg:id":1165524
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a48afbf96855ac42f8f374c0015b06f6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566584695,
+    "wof:lastmodified":1582318801,
     "wof:name":"Kostren i Math",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

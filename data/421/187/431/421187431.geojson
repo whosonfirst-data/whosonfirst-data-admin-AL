@@ -242,6 +242,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009513,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b669c5c5fa902f90334a5243e434bb89",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421187431,
-    "wof:lastmodified":1566584948,
+    "wof:lastmodified":1582318805,
     "wof:name":"Kruj\u00eb",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

@@ -408,6 +408,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009498,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7c86f65136789ccce16f96a87cf3542",
     "wof:hierarchy":[
         {
@@ -419,7 +422,7 @@
         }
     ],
     "wof:id":421187007,
-    "wof:lastmodified":1566584948,
+    "wof:lastmodified":1582318805,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

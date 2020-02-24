@@ -260,6 +260,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459008829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35cd861eb1301cafb6aad19e99ebafaa",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421169921,
-    "wof:lastmodified":1566584946,
+    "wof:lastmodified":1582318805,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

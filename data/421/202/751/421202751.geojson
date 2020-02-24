@@ -209,6 +209,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459010128,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e4279347a473cfe6c280c224b57bd59",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421202751,
-    "wof:lastmodified":1566584946,
+    "wof:lastmodified":1582318805,
     "wof:name":"Mat",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

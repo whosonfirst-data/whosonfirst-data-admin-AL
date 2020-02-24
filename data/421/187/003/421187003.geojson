@@ -418,6 +418,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009498,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cd5239a805597e1c0a265b11b28f780",
     "wof:hierarchy":[
         {
@@ -429,7 +432,7 @@
         }
     ],
     "wof:id":421187003,
-    "wof:lastmodified":1566584950,
+    "wof:lastmodified":1582318805,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":421187433,
     "wof:placetype":"locality",

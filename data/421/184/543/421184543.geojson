@@ -215,6 +215,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009414,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab4dec08b7626f1694e99be16decd402",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421184543,
-    "wof:lastmodified":1566584955,
+    "wof:lastmodified":1582318806,
     "wof:name":"Lushnje",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

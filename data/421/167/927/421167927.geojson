@@ -242,6 +242,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459008748,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc3cc841e5df0d43854a53aa58e6f38a",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1566584945,
+    "wof:lastmodified":1582318805,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

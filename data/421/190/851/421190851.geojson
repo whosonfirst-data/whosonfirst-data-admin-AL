@@ -236,6 +236,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009671,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9518ccf26b38d46aeda4b1302b1b9bd0",
     "wof:hierarchy":[
         {
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421190851,
-    "wof:lastmodified":1566584953,
+    "wof:lastmodified":1582318806,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

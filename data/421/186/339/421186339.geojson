@@ -257,6 +257,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009477,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc8ac5ebdfad71614b5066add2338d78",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":421186339,
-    "wof:lastmodified":1566584951,
+    "wof:lastmodified":1582318806,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

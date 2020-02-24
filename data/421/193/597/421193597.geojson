@@ -213,6 +213,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009776,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c80008046a5b0dbf880efec44aefbb4",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1566584945,
+    "wof:lastmodified":1582318805,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",
