@@ -713,6 +713,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009499,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aef487ce9a2e6709ad0f165db36e38a8",
     "wof:hierarchy":[
         {
@@ -724,7 +727,7 @@
         }
     ],
     "wof:id":421187037,
-    "wof:lastmodified":1566584948,
+    "wof:lastmodified":1582318805,
     "wof:name":"Tirana",
     "wof:parent_id":85667831,
     "wof:placetype":"locality",

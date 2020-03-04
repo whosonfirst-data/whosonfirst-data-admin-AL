@@ -263,6 +263,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009513,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea35978cd6226c71958f814e6826de9e",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421187433,
-    "wof:lastmodified":1566584950,
+    "wof:lastmodified":1582318805,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

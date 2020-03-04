@@ -308,6 +308,9 @@
         "wk:page":"Elbasan County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19469934733c1a6ed2d1a18f51f86690",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584693,
+    "wof:lastmodified":1582318800,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -1091,6 +1091,11 @@
     },
     "wof:country":"AL",
     "wof:country_alpha3":"ALB",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"43ababe5967dfc80ce4cb8846cdb45e1",
     "wof:hierarchy":[
         {
@@ -1105,7 +1110,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584690,
+    "wof:lastmodified":1583205633,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

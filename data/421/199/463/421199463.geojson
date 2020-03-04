@@ -209,6 +209,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48a3b1527a635ddac47a8b3d1fd7643d",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421199463,
-    "wof:lastmodified":1566584953,
+    "wof:lastmodified":1582318806,
     "wof:name":"Librazhd",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

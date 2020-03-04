@@ -181,6 +181,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009498,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de2e50e3523be312f91c0c773763c9cd",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421187009,
-    "wof:lastmodified":1566584948,
+    "wof:lastmodified":1582318805,
     "wof:name":"Himar\u00eb",
     "wof:parent_id":1108720861,
     "wof:placetype":"locality",

@@ -218,6 +218,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009628,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f73ccf6c9fe1bd02fe8f8d41dd1e1d6a",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421189559,
-    "wof:lastmodified":1566584951,
+    "wof:lastmodified":1582318806,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

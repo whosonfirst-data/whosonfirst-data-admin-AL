@@ -227,6 +227,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009768,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e1722f11a502efb72cf255368133a4f",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421193353,
-    "wof:lastmodified":1566584944,
+    "wof:lastmodified":1582318804,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

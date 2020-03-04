@@ -240,6 +240,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009669,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"974ec8a4d971ca60119d128e401472ef",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":421190783,
-    "wof:lastmodified":1566584953,
+    "wof:lastmodified":1582318806,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

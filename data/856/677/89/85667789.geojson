@@ -299,6 +299,9 @@
         "wk:page":"Fier County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a23f7719561be0ab4e29e1c84b5d3337",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584694,
+    "wof:lastmodified":1582318800,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

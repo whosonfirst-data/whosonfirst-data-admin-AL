@@ -227,6 +227,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009521,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcddea873010c9566d58acc96736003d",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1566584949,
+    "wof:lastmodified":1582318805,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

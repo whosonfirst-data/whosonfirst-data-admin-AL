@@ -212,6 +212,9 @@
     },
     "wof:country":"AL",
     "wof:created":1459009521,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1260cae978766cbcf816e12b99398f64",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1566584948,
+    "wof:lastmodified":1582318805,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

@@ -339,6 +339,9 @@
         "wd:id":"Q193464"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa3cb11164358b7022a6cdd66cce34e3",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584692,
+    "wof:lastmodified":1582318800,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -308,6 +308,9 @@
         "wk:page":"Kuk\u00ebs County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8c3c36f488b335c02578f3ee62ccb06",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584694,
+    "wof:lastmodified":1582318800,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

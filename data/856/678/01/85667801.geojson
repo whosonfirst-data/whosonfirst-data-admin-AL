@@ -343,6 +343,9 @@
         "wk:page":"Vlor\u00eb County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a72dafa32b5764786cdd3255c6b71fca",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584693,
+    "wof:lastmodified":1582318800,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

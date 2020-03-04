@@ -249,6 +249,9 @@
         "qs_pg:id":1077601
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bfb3732799a12eb59c116b57aa14995",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":101911679,
-    "wof:lastmodified":1566584928,
+    "wof:lastmodified":1582318804,
     "wof:name":"Ersek\u00eb",
     "wof:parent_id":421193597,
     "wof:placetype":"locality",

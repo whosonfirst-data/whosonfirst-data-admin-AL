@@ -295,6 +295,9 @@
         "wk:page":"Shkod\u00ebr County"
     },
     "wof:country":"AL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62cf645b29b3a77c32e3e28ee7922dcf",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1566584694,
+    "wof:lastmodified":1582318800,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
