@@ -1067,9 +1067,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Albania",
-        "digitalenvoy:country_code":[
-            8
-        ],
+        "digitalenvoy:country_code":8,
         "fb:id":"en.albania",
         "fifa:id":"ALB",
         "fips:code":"AL",
@@ -1113,7 +1111,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1583529068,
+    "wof:lastmodified":1583797272,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
