@@ -11,7 +11,7 @@
     "geom:longitude":20.171912,
     "iso:country":"AL",
     "label:eng_x_preferred_longname":[
-        "Gjirokast\u00ebr County"
+        "Gjirokaste County"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
@@ -74,11 +74,12 @@
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
-        "Gjirokast\u00ebr"
+        "Gjirokaste"
     ],
     "name:eng_x_variant":[
-        "Gjirokast\u00ebr County",
-        "Gjirokast\u00eb"
+        "Gjirokaste County",
+        "Gjirokast\u00eb",
+        "Gjirokast\u00eb County"
     ],
     "name:epo_x_preferred":[
         "Provinco Gjirokast\u00ebr"
@@ -207,6 +208,9 @@
         "Condado de Gjirokast\u00ebr"
     ],
     "name:sqi_x_preferred":[
+        "Gjirokast\u00eb"
+    ],
+    "name:sqi_x_variant":[
         "Qarku i Gjirokastr\u00ebs"
     ],
     "name:swe_x_preferred":[
@@ -370,8 +374,8 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1614803541,
-    "wof:name":"Gjirokast\u00ebr",
+    "wof:lastmodified":1614888317,
+    "wof:name":"Gjirokaste",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",

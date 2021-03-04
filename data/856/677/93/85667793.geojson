@@ -11,10 +11,16 @@
     "geom:longitude":19.720585,
     "iso:country":"AL",
     "label:eng_x_preferred_longname":[
-        "Shkod\u00ebr County"
+        "Shkoder County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "SD"
+    ],
+    "label:eng_x_variant_longname":[
+        "Shkod\u00ebr County"
     ],
     "lbl:latitude":42.168018,
     "lbl:longitude":19.633707,
@@ -62,10 +68,12 @@
         "\u039d\u03bf\u03bc\u03cc\u03c2 \u03a3\u03ba\u03cc\u03b4\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Shkod\u00ebr"
+        "Shkoder"
     ],
     "name:eng_x_variant":[
-        "Shkod\u00ebr County"
+        "Shkod\u00ebr County",
+        "Shkod\u00ebr",
+        "Shkoder County"
     ],
     "name:epo_x_preferred":[
         "Provinco Shkod\u00ebr"
@@ -173,6 +181,9 @@
         "Condado de Shkod\u00ebr"
     ],
     "name:sqi_x_preferred":[
+        "Shkod\u00ebr"
+    ],
+    "name:sqi_x_variant":[
         "Qarku i Shkodr\u00ebs"
     ],
     "name:srp_x_preferred":[
@@ -316,8 +327,8 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1614803541,
-    "wof:name":"Shkod\u00ebr",
+    "wof:lastmodified":1614888334,
+    "wof:name":"Shkoder",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-al",
