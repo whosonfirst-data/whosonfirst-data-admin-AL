@@ -1,0 +1,56 @@
+{
+  "id": 1730032329,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-04-18",
+    "date:inception_upper": "2021-04-18",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-04-18",
+    "geom:area": 0,
+    "geom:bbox": "20.414944,42.032833,20.414944,42.032833",
+    "geom:latitude": 42.032833,
+    "geom:longitude": 20.414944,
+    "mz:is_current": 1,
+    "src:geom": "wikidata",
+    "wof:belongsto": [
+      102191581,
+      85632405,
+      421186339,
+      85667797
+    ],
+    "wof:concordances": {
+      "icao:code": "LAKU",
+      "wk:id": "Q1431804"
+    },
+    "wof:country": "AL",
+    "wof:created": 1619809933,
+    "wof:geomhash": "792d95b83651dcc4aedeb0923d9c05f8",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1730032329,
+        "continent_id": 102191581,
+        "country_id": 85632405,
+        "county_id": 421186339,
+        "region_id": 85667797
+      }
+    ],
+    "wof:id": 1730032329,
+    "wof:lastmodified": 1619810127,
+    "wof:name": "Kukës International Airport",
+    "wof:parent_id": 421186339,
+    "wof:placetype": "campus",
+    "wof:placetype_alt": "airport",
+    "wof:repo": "whosonfirst-data-admin-al",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      102551639
+    ]
+  },
+  "bbox": [
+    20.414944,
+    42.032833,
+    20.414944,
+    42.032833
+  ],
+  "geometry": {"coordinates":[20.414944,42.032833],"type":"Point"}
+}
