@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0631\u0627\u062c\u062f"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ac\u09cd\u09b0\u09cd\u09af\u09be\u099c\u09b9\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0440\u0430\u0436\u0434"
     ],
@@ -47,7 +50,16 @@
     "name:fra_x_preferred":[
         "Librazhd"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d1\u05d0\u05d6\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0940\u092c\u094d\u0930\u091c\u094d\u0921"
+    ],
     "name:hun_x_preferred":[
+        "Librazhd"
+    ],
+    "name:ind_x_preferred":[
         "Librazhd"
     ],
     "name:ita_x_preferred":[
@@ -172,7 +184,7 @@
         }
     ],
     "wof:id":421171277,
-    "wof:lastmodified":1566584956,
+    "wof:lastmodified":1636495656,
     "wof:name":"Librazhd",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

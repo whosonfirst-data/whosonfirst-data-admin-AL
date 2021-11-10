@@ -143,7 +143,19 @@
         "Trebinj\u00eb"
     ],
     "name:urd_x_preferred":[
+        "\u0679\u0631\u06cc\u0628\u0646\u062c\u06d2"
+    ],
+    "name:urd_x_variant":[
         "\u062a\u0631\u06cc\u0628\u06cc\u0646\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Trebinje"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7279\u96f7\u6bd4\u6d85"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u96f7\u6bd4\u6d85"
     ],
     "name:zho_x_preferred":[
         "\u7279\u96f7\u6bd4\u6d85"
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":1259617153,
-    "wof:lastmodified":1566585044,
+    "wof:lastmodified":1636495658,
     "wof:name":"Trebinje",
     "wof:parent_id":421178941,
     "wof:placetype":"locality",

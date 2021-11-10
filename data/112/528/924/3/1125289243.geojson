@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09af\u09be\u099c\u09b0\u09be\u09ae \u0995\u09c1\u09b0\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Bajram Curri"
     ],
@@ -34,11 +37,26 @@
     "name:fra_x_preferred":[
         "Bajram Curri"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d6'\u05e8\u05d0\u05dd \u05e7\u05d5\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u091c\u0930\u093e\u092e \u0915\u094d\u092f\u0942\u0930\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Bajram Curri"
     ],
     "name:hun_x_preferred":[
         "Bajram Curri"
+    ],
+    "name:ind_x_preferred":[
+        "Bajram Curri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30e9\u30e0\u30fb\u30c4\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc988\ub78c \ucee4\ub9ac"
     ],
     "name:pol_x_preferred":[
         "Bajram Curri"
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":1125289243,
-    "wof:lastmodified":1566584970,
+    "wof:lastmodified":1636495657,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"localadmin",

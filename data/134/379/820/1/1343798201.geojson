@@ -39,8 +39,14 @@
     "name:gle_x_preferred":[
         "Leaic"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0916"
+    ],
+    "name:hun_x_preferred":[
+        "Lac"
     ],
     "name:ita_x_preferred":[
         "Lacca"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1343798201,
-    "wof:lastmodified":1566584661,
+    "wof:lastmodified":1636495653,
     "wof:name":"Lac",
     "wof:parent_id":1108720909,
     "wof:placetype":"locality",

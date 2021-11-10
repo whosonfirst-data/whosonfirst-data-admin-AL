@@ -45,6 +45,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05dd"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u092e"
+    ],
     "name:ind_x_preferred":[
         "Nome"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1343891677,
-    "wof:lastmodified":1566584685,
+    "wof:lastmodified":1636495653,
     "wof:name":"Nome",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

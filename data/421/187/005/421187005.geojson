@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.0813755,41.111919,20.0813755,41.111919",
+    "geom:bbox":"20.081376,41.111919,20.081376,41.111919",
     "geom:latitude":41.111919,
     "geom:longitude":20.081376,
     "gn:country":"AL",
@@ -100,6 +100,9 @@
     ],
     "name:hbs_x_preferred":[
         "Elbasan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d1\u05e1\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0932\u092c\u0938\u093e\u0928"
@@ -299,7 +302,7 @@
     },
     "wof:country":"AL",
     "wof:created":1459009498,
-    "wof:geomhash":"3abc74b4c1b2c2e8efd9f2b8dbda71f4",
+    "wof:geomhash":"f00323586b2e0ff0638d58ef9db3b0f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":421187005,
-    "wof:lastmodified":1566584950,
+    "wof:lastmodified":1636495655,
     "wof:name":"Elbasan",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",
@@ -324,10 +327,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.0813755,
+    20.081376,
     41.111919,
-    20.0813755,
+    20.081376,
     41.111919
 ],
-  "geometry": {"coordinates":[20.0813755,41.111919],"type":"Point"}
+  "geometry": {"coordinates":[20.081376,41.111919],"type":"Point"}
 }

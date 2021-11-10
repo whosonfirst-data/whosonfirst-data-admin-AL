@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062c\u0631\u0627\u0645 \u0643\u0648\u0631\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09af\u09be\u099c\u09b0\u09be\u09ae \u0995\u09c1\u09b0\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043c \u0426\u0443\u0440\u0438"
     ],
@@ -56,6 +59,12 @@
     "name:hbs_x_preferred":[
         "Bajram Curi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d6'\u05e8\u05d0\u05dd \u05e7\u05d5\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u091c\u0930\u093e\u092e \u0915\u094d\u092f\u0942\u0930\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Bajram Curri"
     ],
@@ -65,8 +74,17 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0575\u0580\u0561\u0574 \u0551\u0578\u0582\u0580\u056b"
     ],
+    "name:ind_x_preferred":[
+        "Bajram Curri"
+    ],
     "name:ita_x_preferred":[
         "Bajram Curri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30e9\u30e0\u30fb\u30c4\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc988\ub78c \ucee4\ub9ac"
     ],
     "name:lit_x_preferred":[
         "Bairam Curis"
@@ -278,7 +296,7 @@
         }
     ],
     "wof:id":421186997,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1636495655,
     "wof:name":"Bajram Curri",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",
