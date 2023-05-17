@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kavaj\u00eb",
+    "eurostat:nuts_2021_id":"AL222",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL02",
+    "eurostat:nuts_2021_level_3":"AL022",
+    "eurostat:nuts_2021_level_lau":"AL222",
+    "eurostat:population":40094,
+    "eurostat:population_year":2019,
     "geom:area":0.021509,
-    "geom:area_square_m":200162433.688902,
+    "geom:area_square_m":200162433.688862,
     "geom:bbox":"19.436250687,41.0977950756,19.7002633114,41.2702228401",
     "geom:latitude":41.184712,
     "geom:longitude":19.56644,
@@ -199,8 +211,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Kavaj\u00eb",
@@ -218,6 +230,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL222",
+        "eurostat:nuts_2021_id":"AL222",
         "gn:id":3315068,
         "gp:id":20069942,
         "hasc:id":"AL.TI.KA",
@@ -230,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14f924a277d2718f36d5110a18475069",
+    "wof:geomhash":"863c0d89bd76738436115fbb2d2c5d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +254,7 @@
         }
     ],
     "wof:id":421187447,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351505,
     "wof:name":"Kavaj\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

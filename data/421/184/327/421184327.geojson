@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL351",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Delvin\u00eb",
+    "eurostat:nuts_2021_id":"AL351",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL035",
+    "eurostat:nuts_2021_level_lau":"AL351",
+    "eurostat:population":7887,
+    "eurostat:population_year":2019,
     "geom:area":0.019318,
-    "geom:area_square_m":182989568.416726,
+    "geom:area_square_m":182989568.416722,
     "geom:bbox":"19.9152070602,39.9131366087,20.1405407722,40.072635892",
     "geom:latitude":39.997746,
     "geom:longitude":20.031924,
@@ -193,8 +205,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Delvin\u00eb",
@@ -212,6 +224,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL351",
+        "eurostat:nuts_2021_id":"AL351",
         "gn:id":414383,
         "gp:id":20069960,
         "hasc:id":"AL.VR.DL",
@@ -224,7 +238,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"326824ae134f3296a6b3c78a28596ab1",
+    "wof:geomhash":"b608464ef94ba3d5801e9e8cd3280f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,12 +248,12 @@
         }
     ],
     "wof:id":421184327,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Delvin\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
-    "wof:population":7598,
+    "wof:population":7887,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"DL",

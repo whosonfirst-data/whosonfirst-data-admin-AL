@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gramsh",
+    "eurostat:nuts_2021_id":"AL214",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL02",
+    "eurostat:nuts_2021_level_3":"AL021",
+    "eurostat:nuts_2021_level_lau":"AL214",
+    "eurostat:population":24231,
+    "eurostat:population_year":2019,
     "geom:area":0.079055,
-    "geom:area_square_m":739496303.981881,
+    "geom:area_square_m":739496219.010262,
     "geom:bbox":"20.009835,40.707276,20.467595,40.962256",
     "geom:latitude":40.84377,
     "geom:longitude":20.245747,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Gramsh",
@@ -209,6 +221,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL214",
+        "eurostat:nuts_2021_id":"AL214",
         "gn:id":783060,
         "gp:id":20069950,
         "hasc:id":"AL.EB.GH",
@@ -221,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab6ba6c6c2fe3bc521a861c0422fcc88",
+    "wof:geomhash":"fbced2613753f6c1248f5467042ffaa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +245,7 @@
         }
     ],
     "wof:id":421191637,
-    "wof:lastmodified":1636495656,
+    "wof:lastmodified":1684351505,
     "wof:name":"Gramsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

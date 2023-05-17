@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL345",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pogradec",
+    "eurostat:nuts_2021_id":"AL345",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL034",
+    "eurostat:nuts_2021_level_lau":"AL345",
+    "eurostat:population":61530,
+    "eurostat:population_year":2019,
     "geom:area":0.07511,
-    "geom:area_square_m":701762898.129149,
+    "geom:area_square_m":701762695.95542,
     "geom:bbox":"20.384689,40.791771,20.841178,41.09164",
     "geom:latitude":40.9224,
     "geom:longitude":20.596773,
@@ -259,8 +271,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Pogradec",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL345",
+        "eurostat:nuts_2021_id":"AL345",
         "gn:id":781988,
         "gp:id":20069943,
         "hasc:id":"AL.KE.PG",
@@ -291,7 +305,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f351ff2a7182c0c65a574cd0cd0049e",
+    "wof:geomhash":"444ab17417c7ca61380305871ed010b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -301,7 +315,7 @@
         }
     ],
     "wof:id":421178941,
-    "wof:lastmodified":1636495656,
+    "wof:lastmodified":1684351504,
     "wof:name":"Pogradec",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

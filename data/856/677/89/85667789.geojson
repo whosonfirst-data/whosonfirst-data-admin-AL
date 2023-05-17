@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Fier",
+    "eurostat:name_local":"Fier",
+    "eurostat:nuts_2021_id":"AL032",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL032",
+    "eurostat:population":286002,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.193667,
-    "geom:area_square_m":1813692079.459975,
+    "geom:area_square_m":1813692233.879702,
     "geom:bbox":"19.30875,40.419233,19.92349,41.067179",
     "geom:latitude":40.767071,
     "geom:longitude":19.627894,
@@ -273,8 +287,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"1,887",
     "statoids:area_mi":"729",
     "statoids:as_of_date":"2011-10-01",
@@ -294,6 +308,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL032",
         "fips:code":"AL44",
         "gn:id":3344948,
         "gp:id":29389558,
@@ -308,7 +323,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed59cfdf3ab29156d05a9a8a8caf7676",
+    "wof:geomhash":"80bcd2183f4e0fb9053b6c72f324815d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,12 +338,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1636495654,
+    "wof:lastmodified":1684351491,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":310331,
+    "wof:population":286002,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"FI",

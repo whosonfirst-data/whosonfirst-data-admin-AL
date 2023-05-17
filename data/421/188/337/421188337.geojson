@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirdit\u00eb",
+    "eurostat:nuts_2021_id":"AL143",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL014",
+    "eurostat:nuts_2021_level_lau":"AL143",
+    "eurostat:population":22103,
+    "eurostat:population_year":2019,
     "geom:area":0.09413,
-    "geom:area_square_m":867191168.829563,
+    "geom:area_square_m":867191168.829579,
     "geom:bbox":"19.7174502041,41.6880132007,20.2759172482,42.0250330949",
     "geom:latitude":41.836657,
     "geom:longitude":19.995238,
@@ -196,8 +208,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Rr\u00ebshen",
@@ -215,6 +227,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL143",
+        "eurostat:nuts_2021_id":"AL143",
         "gn:id":782268,
         "gp:id":20069934,
         "hasc:id":"AL.LZ.MR",
@@ -227,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cf5646c18ea7494a9a5129671f48e7c",
+    "wof:geomhash":"9314497aa0138de72e7e3dd492a09b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -237,7 +251,7 @@
         }
     ],
     "wof:id":421188337,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Mirdit\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

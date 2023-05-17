@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"2",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Berat",
+    "eurostat:name_local":"Berat",
+    "eurostat:nuts_2021_id":"AL031",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL031",
+    "eurostat:population":119450,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.19164,
-    "geom:area_square_m":1798399789.392589,
+    "geom:area_square_m":1798400195.150883,
     "geom:bbox":"19.732897,40.361876,20.443,40.874869",
     "geom:latitude":40.630381,
     "geom:longitude":20.097248,
@@ -321,8 +335,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"1,802",
     "statoids:area_mi":"696",
     "statoids:as_of_date":"2011-10-01",
@@ -342,6 +356,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL031",
         "fips:code":"AL40",
         "gn:id":865730,
         "gp:id":29389554,
@@ -356,7 +371,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"161eb3e8fd9b3186b08433985b7431e1",
+    "wof:geomhash":"6176f2f1a73c930950777e2d6391a636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -371,12 +386,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1636495653,
+    "wof:lastmodified":1684351492,
     "wof:name":"Berat",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":141944,
+    "wof:population":119450,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"BE",

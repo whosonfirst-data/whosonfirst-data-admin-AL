@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"2",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Elbasan",
+    "eurostat:name_local":"Elbasan",
+    "eurostat:nuts_2021_id":"AL021",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL02",
+    "eurostat:nuts_2021_level_3":"AL021",
+    "eurostat:population":266245,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.355218,
-    "geom:area_square_m":3312310525.504972,
+    "geom:area_square_m":3312310255.281762,
     "geom:bbox":"19.675456,40.707276,20.60334,41.393664",
     "geom:latitude":41.051981,
     "geom:longitude":20.193393,
@@ -282,8 +296,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"3,278",
     "statoids:area_mi":"1,266",
     "statoids:as_of_date":"2011-10-01",
@@ -303,6 +317,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL021",
         "fips:code":"AL43",
         "gn:id":865732,
         "gp:id":29389557,
@@ -317,7 +332,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd2ca06ac564bbaa8f844ac70fce150f",
+    "wof:geomhash":"988c997bf0b07f56f342c6bde1e431c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -332,12 +347,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1636495654,
+    "wof:lastmodified":1684351492,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":295827,
+    "wof:population":266245,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"EB",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tropoj\u00eb",
+    "eurostat:nuts_2021_id":"AL133",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL013",
+    "eurostat:nuts_2021_level_lau":"AL133",
+    "eurostat:population":20517,
+    "eurostat:population_year":2019,
     "geom:area":0.115351,
-    "geom:area_square_m":1053780535.398369,
+    "geom:area_square_m":1053780535.398396,
     "geom:bbox":"19.8003539618,42.1958693088,20.3618144852,42.5592565",
     "geom:latitude":42.370674,
     "geom:longitude":20.048948,
@@ -193,8 +205,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Bajram Curri",
@@ -212,6 +224,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL133",
+        "eurostat:nuts_2021_id":"AL133",
         "gn:id":781360,
         "gp:id":20069929,
         "hasc:id":"AL.KK.TP",
@@ -224,7 +238,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9e8998dd782a221f818826bef4b44ae",
+    "wof:geomhash":"a5e918dc253338507ee2645035e81bda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +248,7 @@
         }
     ],
     "wof:id":421200781,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351506,
     "wof:name":"Tropoj\u00eb",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

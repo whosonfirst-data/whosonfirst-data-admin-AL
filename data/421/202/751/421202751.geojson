@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mat",
+    "eurostat:nuts_2021_id":"AL114",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL011",
+    "eurostat:nuts_2021_level_lau":"AL114",
+    "eurostat:population":27600,
+    "eurostat:population_year":2019,
     "geom:area":0.053428,
-    "geom:area_square_m":493713770.394598,
+    "geom:area_square_m":493713770.394613,
     "geom:bbox":"19.806707192,41.5162309717,20.1941315094,41.7666710151",
     "geom:latitude":41.641267,
     "geom:longitude":19.997406,
@@ -181,8 +193,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Burrel",
@@ -200,6 +212,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL114",
+        "eurostat:nuts_2021_id":"AL114",
         "gn:id":782345,
         "gp:id":20069940,
         "hasc:id":"AL.DB.MA",
@@ -212,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e4279347a473cfe6c280c224b57bd59",
+    "wof:geomhash":"9763f1c262aaa516a07b78f4585f4f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +236,7 @@
         }
     ],
     "wof:id":421202751,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351506,
     "wof:name":"Mat",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

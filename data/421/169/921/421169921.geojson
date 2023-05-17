@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lezh\u00eb",
+    "eurostat:nuts_2021_id":"AL142",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL014",
+    "eurostat:nuts_2021_level_lau":"AL142",
+    "eurostat:population":65633,
+    "eurostat:population_year":2019,
     "geom:area":0.055844,
-    "geom:area_square_m":514533869.179781,
+    "geom:area_square_m":514533869.179764,
     "geom:bbox":"19.4624220484,41.6546476178,19.8610048658,41.9520719894",
     "geom:latitude":41.828985,
     "geom:longitude":19.670464,
@@ -232,8 +244,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Lezh\u00eb",
@@ -251,6 +263,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL142",
+        "eurostat:nuts_2021_id":"AL142",
         "gn:id":3184937,
         "gp:id":20069933,
         "hasc:id":"AL.LZ.LZ",
@@ -263,7 +277,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35cd861eb1301cafb6aad19e99ebafaa",
+    "wof:geomhash":"d2131356fea4866f10393016dc69fd90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -273,7 +287,7 @@
         }
     ],
     "wof:id":421169921,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351504,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Dib\u00ebr",
+    "eurostat:name_local":"Dib\u00ebr",
+    "eurostat:nuts_2021_id":"AL011",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL011",
+    "eurostat:population":113683,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.267079,
-    "geom:area_square_m":2469343818.960808,
+    "geom:area_square_m":2469343818.960705,
     "geom:bbox":"19.806707192,41.3158252598,20.573702,41.9074465872",
     "geom:latitude":41.606223,
     "geom:longitude":20.239622,
@@ -283,8 +297,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"2,507",
     "statoids:area_mi":"968",
     "statoids:as_of_date":"2011-10-01",
@@ -304,6 +318,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL011",
         "fips:code":"AL41",
         "gn:id":865731,
         "gp:id":29389555,
@@ -318,7 +333,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f93788e7f01e215ed2e8c8cf67e39ce",
+    "wof:geomhash":"ff65158c5aea9bc40bfb02e337931bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,12 +348,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1582318799,
+    "wof:lastmodified":1684351492,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":137047,
+    "wof:population":113683,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"DB",

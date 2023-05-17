@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Durr\u00ebs",
+    "eurostat:name_local":"Durr\u00ebs",
+    "eurostat:nuts_2021_id":"AL012",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL012",
+    "eurostat:population":292029,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.083405,
-    "geom:area_square_m":773022402.543143,
+    "geom:area_square_m":773022402.543181,
     "geom:bbox":"19.391277313,41.2517314124,19.9112872821,41.5902857593",
     "geom:latitude":41.448447,
     "geom:longitude":19.630776,
@@ -324,8 +338,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"827",
     "statoids:area_mi":"319",
     "statoids:as_of_date":"2011-10-01",
@@ -344,6 +358,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL012",
         "fips:code":"AL42",
         "gn:id":3344947,
         "gp:id":29389556,
@@ -357,7 +372,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a56b0eac706b35131be48cef555c09e8",
+    "wof:geomhash":"a7453dd9de8aa79120d6d7af77ae16ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -372,12 +387,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1582318800,
+    "wof:lastmodified":1684351491,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
-    "wof:population":262785,
+    "wof:population":292029,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"DU",

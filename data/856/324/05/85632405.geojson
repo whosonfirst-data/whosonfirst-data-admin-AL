@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Shqip\u00ebria",
+    "eurostat:name_local":"Shqip\u00ebria",
+    "eurostat:nuts_2021_id":"AL0",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:population":2829741,
+    "eurostat:population_year":2021,
     "geom:area":3.075243,
-    "geom:area_square_m":28635558918.957531,
+    "geom:area_square_m":28635560612.749203,
     "geom:bbox":"19.262861,39.644482,21.057282,42.661082",
     "geom:latitude":41.13913,
     "geom:longitude":20.066431,
@@ -1103,7 +1112,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:dial":"355",
     "statoids:ds":"AL",
     "statoids:fifa":"ALB",
@@ -1132,6 +1142,7 @@
     "wof:concordances":{
         "dbp:id":"Albania",
         "digitalenvoy:country_code":8,
+        "eurostat:nuts_2021_id":"AL0",
         "fb:id":"en.albania",
         "fifa:id":"ALB",
         "fips:code":"AL",
@@ -1162,7 +1173,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"35f4c7807f9d3216339b36bd37b460e5",
+    "wof:geomhash":"f4cad136b844cec847631c2c425a886e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1176,11 +1187,11 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1617827406,
+    "wof:lastmodified":1684351348,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":3020209,
+    "wof:population":2829741,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"AL",

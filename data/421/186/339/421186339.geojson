@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuk\u00ebs",
+    "eurostat:nuts_2021_id":"AL132",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL013",
+    "eurostat:nuts_2021_level_lau":"AL132",
+    "eurostat:population":47985,
+    "eurostat:population_year":2019,
     "geom:area":0.101219,
-    "geom:area_square_m":930159116.874945,
+    "geom:area_square_m":930159116.87495,
     "geom:bbox":"20.1366385684,41.8158253417,20.625484,42.181315667",
     "geom:latitude":41.997019,
     "geom:longitude":20.400702,
@@ -229,8 +241,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Kuk\u00ebs",
@@ -248,6 +260,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL132",
+        "eurostat:nuts_2021_id":"AL132",
         "gn:id":782662,
         "gp:id":20069931,
         "hasc:id":"AL.KK.KK",
@@ -260,7 +274,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc8ac5ebdfad71614b5066add2338d78",
+    "wof:geomhash":"b2b0a559190d8e8fa404fdaf01cea35f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,7 +284,7 @@
         }
     ],
     "wof:id":421186339,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

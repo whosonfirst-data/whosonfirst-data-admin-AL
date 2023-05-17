@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Has",
+    "eurostat:nuts_2021_id":"AL131",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL013",
+    "eurostat:nuts_2021_level_lau":"AL131",
+    "eurostat:population":16790,
+    "eurostat:population_year":2019,
     "geom:area":0.043756,
-    "geom:area_square_m":400843876.299307,
+    "geom:area_square_m":400843876.299323,
     "geom:bbox":"20.2128301223,42.0924348157,20.5447753206,42.3084685607",
     "geom:latitude":42.194916,
     "geom:longitude":20.384846,
@@ -181,8 +193,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Krum\u00eb",
@@ -200,6 +212,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL131",
+        "eurostat:nuts_2021_id":"AL131",
         "gn:id":831098,
         "gp:id":20069930,
         "hasc:id":"AL.KK.HA",
@@ -212,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ba38c173bab0ed000b47b05bb4d718c",
+    "wof:geomhash":"0c16953a1dfef639e147c4d2e08453c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +236,7 @@
         }
     ],
     "wof:id":421168061,
-    "wof:lastmodified":1582318804,
+    "wof:lastmodified":1684351504,
     "wof:name":"Has",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

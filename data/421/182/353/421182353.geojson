@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tiran\u00eb",
+    "eurostat:nuts_2021_id":"AL224",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL02",
+    "eurostat:nuts_2021_level_3":"AL022",
+    "eurostat:nuts_2021_level_lau":"AL224",
+    "eurostat:population":557422,
+    "eurostat:population_year":2019,
     "geom:area":0.118524,
-    "geom:area_square_m":1100934315.43369,
+    "geom:area_square_m":1100934315.433672,
     "geom:bbox":"19.5884570314,41.1203464413,20.2337288797,41.517133662",
     "geom:latitude":41.305978,
     "geom:longitude":19.884289,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Tiran\u00eb",
@@ -209,6 +221,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL224",
+        "eurostat:nuts_2021_id":"AL224",
         "gn:id":3183879,
         "gp:id":20069963,
         "hasc:id":"AL.TI.TR",
@@ -221,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f01c04ef58a0d556b79ba3cd410d858a",
+    "wof:geomhash":"ea619ad668f2f59ece507d74157d1c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +245,7 @@
         }
     ],
     "wof:id":421182353,
-    "wof:lastmodified":1582318807,
+    "wof:lastmodified":1684351505,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",
