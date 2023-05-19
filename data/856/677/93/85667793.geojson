@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"AL",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Shkod\u00ebr",
+    "eurostat:name_local":"Shkod\u00ebr",
+    "eurostat:nuts_2021_id":"AL015",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL015",
+    "eurostat:population":197177,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.382133,
-    "geom:area_square_m":3501750736.730424,
+    "geom:area_square_m":3501750324.356362,
     "geom:bbox":"19.289555,41.84054,20.244981,42.661082",
     "geom:latitude":42.175625,
     "geom:longitude":19.720585,
@@ -292,6 +306,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "unlc:subdivision":"AL-SH",
     "wof:belongsto":[
         102191581,
@@ -299,6 +315,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"AL015",
         "fips:code":"AL49",
         "gn:id":3344950,
         "gp:id":29389563,
@@ -312,7 +329,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37a188bdecce6c071023dd82f1bfc6f4",
+    "wof:geomhash":"d3e02fead341d7df6a226bc42b5c9349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -327,10 +344,12 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1614888334,
+    "wof:lastmodified":1684351491,
     "wof:name":"Shkoder",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
+    "wof:population":197177,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"SD",
     "wof:subdivision":"AL-SH",

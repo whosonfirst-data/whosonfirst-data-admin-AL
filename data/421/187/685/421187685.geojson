@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berat",
+    "eurostat:nuts_2021_id":"AL311",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL031",
+    "eurostat:nuts_2021_level_lau":"AL311",
+    "eurostat:population":60031,
+    "eurostat:population_year":2019,
     "geom:area":0.040725,
-    "geom:area_square_m":381872691.872799,
+    "geom:area_square_m":381872702.408443,
     "geom:bbox":"19.808184,40.517687,20.157311,40.783931",
     "geom:latitude":40.68325,
     "geom:longitude":19.954874,
@@ -202,8 +214,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Berat",
@@ -221,6 +233,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL311",
+        "eurostat:nuts_2021_id":"AL311",
         "gn:id":783626,
         "gp:id":20069953,
         "hasc:id":"AL.BE.BR",
@@ -233,7 +247,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e1f1a685e84a747e1fca808cbce45a2",
+    "wof:geomhash":"bda47cd830f29828cffce2ca534589fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,7 +257,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1636495655,
+    "wof:lastmodified":1684351505,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puk\u00eb",
+    "eurostat:nuts_2021_id":"AL153",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL015",
+    "eurostat:nuts_2021_level_lau":"AL153",
+    "eurostat:population":11069,
+    "eurostat:population_year":2019,
     "geom:area":0.055007,
-    "geom:area_square_m":505361304.013634,
+    "geom:area_square_m":505361304.013614,
     "geom:bbox":"19.7188559691,41.8740732257,20.08847703,42.1492023481",
     "geom:latitude":42.012679,
     "geom:longitude":19.912001,
@@ -193,8 +205,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Puk\u00eb",
@@ -212,6 +224,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL153",
+        "eurostat:nuts_2021_id":"AL153",
         "gn:id":781913,
         "gp:id":20069932,
         "hasc:id":"AL.SD.PU",
@@ -224,7 +238,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b1c492a46168dcc8fd2bbf9e24cbd8f",
+    "wof:geomhash":"b4997b0b613db18a8f97a185b994e0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +248,7 @@
         }
     ],
     "wof:id":421193315,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351505,
     "wof:name":"Puk\u00eb",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

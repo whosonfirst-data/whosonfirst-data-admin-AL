@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL342",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolonj\u00eb",
+    "eurostat:nuts_2021_id":"AL342",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL034",
+    "eurostat:nuts_2021_level_lau":"AL342",
+    "eurostat:population":11070,
+    "eurostat:population_year":2019,
     "geom:area":0.091518,
-    "geom:area_square_m":862862520.40523,
+    "geom:area_square_m":862862520.40519,
     "geom:bbox":"20.4423036474,40.0793507285,20.7926485115,40.4991871875",
     "geom:latitude":40.315489,
     "geom:longitude":20.620329,
@@ -187,8 +199,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Ersek\u00eb",
@@ -206,6 +218,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL342",
+        "eurostat:nuts_2021_id":"AL342",
         "gp:id":20069946,
         "hasc:id":"AL.KE.KJ",
         "qs_pg:id":66022,
@@ -216,7 +230,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c80008046a5b0dbf880efec44aefbb4",
+    "wof:geomhash":"527a8ca9ffbd078de2574eae8527c955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +240,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351505,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

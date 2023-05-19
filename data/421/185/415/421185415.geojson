@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elbasan",
+    "eurostat:nuts_2021_id":"AL213",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL02",
+    "eurostat:nuts_2021_level_3":"AL021",
+    "eurostat:nuts_2021_level_lau":"AL213",
+    "eurostat:population":141714,
+    "eurostat:population_year":2019,
     "geom:area":0.093417,
-    "geom:area_square_m":870422198.274163,
+    "geom:area_square_m":870421941.573349,
     "geom:bbox":"19.868069,40.93662,20.36663,41.28256",
     "geom:latitude":41.102433,
     "geom:longitude":20.108414,
@@ -202,8 +214,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Elbasan",
@@ -221,6 +233,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL213",
+        "eurostat:nuts_2021_id":"AL213",
         "gn:id":783265,
         "gp:id":20069949,
         "hasc:id":"AL.EB.EB",
@@ -233,7 +247,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"deeab1767105914317362cdc33ed3980",
+    "wof:geomhash":"5d1aaa1be3b79191de888c1f0829756a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,7 +257,7 @@
         }
     ],
     "wof:id":421185415,
-    "wof:lastmodified":1636495657,
+    "wof:lastmodified":1684351505,
     "wof:name":"Elbasan",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

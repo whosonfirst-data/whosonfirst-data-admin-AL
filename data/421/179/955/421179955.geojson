@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL355",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarand\u00eb",
+    "eurostat:nuts_2021_id":"AL355",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL035",
+    "eurostat:nuts_2021_level_lau":"AL355",
+    "eurostat:population":23183,
+    "eurostat:population_year":2019,
     "geom:area":0.007289,
-    "geom:area_square_m":69207104.431238,
+    "geom:area_square_m":69207104.431242,
     "geom:bbox":"19.9328818337,39.741373648,20.060480036,39.9198256664",
     "geom:latitude":39.842104,
     "geom:longitude":20.006299,
@@ -345,8 +357,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Sarand\u00eb",
@@ -365,6 +377,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL355",
+        "eurostat:nuts_2021_id":"AL355",
         "gn:id":363243,
         "gp:id":20069961,
         "hasc:id":"AL.VR.SR",
@@ -377,7 +391,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b23a61fb8d50d62a934d3b9adf43389",
+    "wof:geomhash":"7b5641ae2536ffdb2c73f879e90b66fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,12 +401,12 @@
         }
     ],
     "wof:id":421179955,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351504,
     "wof:name":"Sarand\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
-    "wof:population":20227,
+    "wof:population":23183,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:shortcode":"SR",

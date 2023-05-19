@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Shkod\u00ebr",
+    "eurostat:nuts_2021_id":"AL154",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL015",
+    "eurostat:nuts_2021_level_lau":"AL154",
+    "eurostat:population":135612,
+    "eurostat:population_year":2019,
     "geom:area":0.099156,
-    "geom:area_square_m":908902591.194905,
+    "geom:area_square_m":908902591.194972,
     "geom:bbox":"19.341614078,41.8405400915,19.8474795937,42.4876649034",
     "geom:latitude":42.156856,
     "geom:longitude":19.614811,
@@ -211,8 +223,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Shkod\u00ebr",
@@ -233,6 +245,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL154",
+        "eurostat:nuts_2021_id":"AL154",
         "gn:id":3184083,
         "gp:id":20069928,
         "hasc:id":"AL.SD.SO",
@@ -245,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc3cc841e5df0d43854a53aa58e6f38a",
+    "wof:geomhash":"0a7a4ae1d8a3f0a1aa4a492a37f84fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +269,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351504,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

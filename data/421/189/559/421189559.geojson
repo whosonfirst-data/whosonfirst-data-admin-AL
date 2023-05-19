@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL336",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tepelen\u00eb",
+    "eurostat:nuts_2021_id":"AL336",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL033",
+    "eurostat:nuts_2021_level_lau":"AL336",
+    "eurostat:population":8949,
+    "eurostat:population_year":2019,
     "geom:area":0.0457,
-    "geom:area_square_m":431061425.07044,
+    "geom:area_square_m":431061425.070504,
     "geom:bbox":"19.7471561257,40.1787851553,20.1555808117,40.3943929272",
     "geom:latitude":40.286933,
     "geom:longitude":19.947234,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Tepelen\u00eb",
@@ -209,6 +221,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL336",
+        "eurostat:nuts_2021_id":"AL336",
         "gn:id":3183911,
         "gp:id":20069957,
         "hasc:id":"AL.GK.TL",
@@ -221,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f73ccf6c9fe1bd02fe8f8d41dd1e1d6a",
+    "wof:geomhash":"b9aaf1524f17273f6efddfdbc21b0c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +245,7 @@
         }
     ],
     "wof:id":421189559,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

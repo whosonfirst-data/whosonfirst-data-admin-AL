@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL335",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00ebrmet",
+    "eurostat:nuts_2021_id":"AL335",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL033",
+    "eurostat:nuts_2021_level_lau":"AL335",
+    "eurostat:population":10614,
+    "eurostat:population_year":2019,
     "geom:area":0.063716,
-    "geom:area_square_m":601317262.896274,
+    "geom:area_square_m":601317262.896243,
     "geom:bbox":"20.2075144121,40.06349,20.6120336557,40.441306706",
     "geom:latitude":40.250108,
     "geom:longitude":20.405744,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"P\u00ebrmet",
@@ -209,6 +221,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL335",
+        "eurostat:nuts_2021_id":"AL335",
         "gn:id":782072,
         "gp:id":20069956,
         "hasc:id":"AL.GK.PE",
@@ -221,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9134336622f9efe34a4aa7a4b0f352fd",
+    "wof:geomhash":"862a84b21c5e139f06f3a593c4ef773d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +245,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1582318804,
+    "wof:lastmodified":1684351505,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

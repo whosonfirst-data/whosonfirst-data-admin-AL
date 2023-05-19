@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dib\u00ebr",
+    "eurostat:nuts_2021_id":"AL112",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL011",
+    "eurostat:nuts_2021_level_lau":"AL112",
+    "eurostat:population":61619,
+    "eurostat:population_year":2019,
     "geom:area":0.101621,
-    "geom:area_square_m":937804447.748787,
+    "geom:area_square_m":937804447.748817,
     "geom:bbox":"20.1168893425,41.5542838487,20.573702,41.9074465872",
     "geom:latitude":41.726662,
     "geom:longitude":20.350991,
@@ -238,8 +250,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Peshkopi",
@@ -257,6 +269,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL112",
+        "eurostat:nuts_2021_id":"AL112",
         "gn:id":783346,
         "gp:id":20069938,
         "hasc:id":"AL.DB.DI",
@@ -269,7 +283,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d738058082a784b414bc6d1b4fbfeb2f",
+    "wof:geomhash":"6dd8fd906effb4387d4f4f6fc56967e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +293,7 @@
         }
     ],
     "wof:id":421169685,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351504,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

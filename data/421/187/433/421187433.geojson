@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Durr\u00ebs",
+    "eurostat:nuts_2021_id":"AL121",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL012",
+    "eurostat:nuts_2021_level_lau":"AL121",
+    "eurostat:population":175110,
+    "eurostat:population_year":2019,
     "geom:area":0.036784,
-    "geom:area_square_m":341052166.696062,
+    "geom:area_square_m":341052166.696103,
     "geom:bbox":"19.391277313,41.2517314124,19.6228624483,41.588748932",
     "geom:latitude":41.423889,
     "geom:longitude":19.526308,
@@ -235,8 +247,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Durr\u00ebs",
@@ -254,6 +266,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL121",
+        "eurostat:nuts_2021_id":"AL121",
         "gn:id":3185730,
         "gp:id":20069937,
         "hasc:id":"AL.DU.DR",
@@ -266,7 +280,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea35978cd6226c71958f814e6826de9e",
+    "wof:geomhash":"d401409ac2ed1f3627e40c5cc488b29e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -276,7 +290,7 @@
         }
     ],
     "wof:id":421187433,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1684351505,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

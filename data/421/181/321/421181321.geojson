@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kurbin",
+    "eurostat:nuts_2021_id":"AL141",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL01",
+    "eurostat:nuts_2021_level_3":"AL014",
+    "eurostat:nuts_2021_level_lau":"AL141",
+    "eurostat:population":46291,
+    "eurostat:population_year":2019,
     "geom:area":0.02907,
-    "geom:area_square_m":268672630.401736,
+    "geom:area_square_m":268672630.401752,
     "geom:bbox":"19.5612393279,41.556874117,19.8457154878,41.7248357332",
     "geom:latitude":41.630265,
     "geom:longitude":19.714448,
@@ -187,8 +199,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"La\u00e7",
@@ -206,6 +218,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL141",
+        "eurostat:nuts_2021_id":"AL141",
         "gn:id":3315070,
         "gp:id":20069935,
         "hasc:id":"AL.LZ.KB",
@@ -218,7 +232,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15f50b4e1792b641a12fe97b872f22c2",
+    "wof:geomhash":"70ab464d225494e3a3e29b2de2e99fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,7 +242,7 @@
         }
     ],
     "wof:id":421181321,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351504,
     "wof:name":"Kurbin",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

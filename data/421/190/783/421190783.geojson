@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL343",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kor\u00e7\u00eb",
+    "eurostat:nuts_2021_id":"AL343",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL034",
+    "eurostat:nuts_2021_level_lau":"AL343",
+    "eurostat:population":75994,
+    "eurostat:population_year":2019,
     "geom:area":0.085644,
-    "geom:area_square_m":804331712.176623,
+    "geom:area_square_m":804331712.176599,
     "geom:bbox":"20.4004071938,40.4295094918,20.8659434619,40.7186423442",
     "geom:latitude":40.578264,
     "geom:longitude":20.626208,
@@ -214,8 +226,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Kor\u00e7\u00eb",
@@ -233,6 +245,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL343",
+        "eurostat:nuts_2021_id":"AL343",
         "gp:id":20069945,
         "hasc:id":"AL.KE.KR",
         "qs_pg:id":1120727,
@@ -243,7 +257,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"974ec8a4d971ca60119d128e401472ef",
+    "wof:geomhash":"ede86a6319a42e33b10c4f5ebc4f545c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +267,7 @@
         }
     ],
     "wof:id":421190783,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

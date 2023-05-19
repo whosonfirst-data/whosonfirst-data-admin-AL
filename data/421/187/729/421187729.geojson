@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AL",
+    "eurostat:gisco_id":"AL_AL332",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gjirokast\u00ebr",
+    "eurostat:nuts_2021_id":"AL332",
+    "eurostat:nuts_2021_level_0":"AL",
+    "eurostat:nuts_2021_level_1":"AL0",
+    "eurostat:nuts_2021_level_2":"AL03",
+    "eurostat:nuts_2021_level_3":"AL033",
+    "eurostat:nuts_2021_level_lau":"AL332",
+    "eurostat:population":28673,
+    "eurostat:population_year":2019,
     "geom:area":0.049557,
-    "geom:area_square_m":468529570.083623,
+    "geom:area_square_m":468529570.083624,
     "geom:bbox":"19.8879162643,40.0050925779,20.2421378699,40.2306472706",
     "geom:latitude":40.128984,
     "geom:longitude":20.072653,
@@ -193,8 +205,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-01",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-10-01",
     "statoids:capital":"Gjirokast\u00ebr",
@@ -212,6 +224,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AL_AL332",
+        "eurostat:nuts_2021_id":"AL332",
         "gn:id":783151,
         "gp:id":20069959,
         "hasc:id":"AL.GK.GK",
@@ -224,7 +238,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1a5ed3e449a4e13450a0b9c969f6a80",
+    "wof:geomhash":"32b52fef336a146210f525d0d69c7389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +248,7 @@
         }
     ],
     "wof:id":421187729,
-    "wof:lastmodified":1582318806,
+    "wof:lastmodified":1684351505,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":85667819,
     "wof:placetype":"county",
