@@ -41,11 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85667801,
         102191581,
         85632405,
         1343296637,
-        421193353,
-        85667801
+        421193353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +64,15 @@
         }
     ],
     "wof:id":1863991043,
-    "wof:lastmodified":1687990134,
+    "wof:lastmodified":1687996202,
     "wof:name":"Babica e Madhe",
     "wof:parent_id":421193353,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343296637
+    ],
     "wof:tags":[]
 },
   "bbox": [
