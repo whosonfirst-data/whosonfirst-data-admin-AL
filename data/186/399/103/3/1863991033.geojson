@@ -1,8 +1,8 @@
 {
-  "id": 85897743,
+  "id": 1863991033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,9 +17,10 @@
     "mps:latitude":40.70971,
     "mps:longitude":19.944128,
     "mz:hierarchy_label":0,
-    "mz:is_current":0,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
+    "mz:is_hierarchy_label":1,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
@@ -69,7 +70,8 @@
         85667811,
         102191581,
         85632405,
-        421187685
+        421187685,
+        85897743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +94,7 @@
             "region_id":85667811
         }
     ],
-    "wof:id":85897743,
+    "wof:id":1863991033,
     "wof:lang":[
         "unk"
     ],
@@ -101,9 +103,7 @@
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-al",
-    "wof:superseded_by":[
-        1863991033
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
