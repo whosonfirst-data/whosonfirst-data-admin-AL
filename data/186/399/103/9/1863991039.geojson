@@ -41,11 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85667811,
         102191581,
         85632405,
-        1260031037,
-        421187685
+        421201955,
+        421187685,
+        85667811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +58,15 @@
             "continent_id":102191581,
             "country_id":85632405,
             "county_id":421187685,
-            "locality_id":1260031037,
+            "locality_id":421201955,
             "neighbourhood_id":1863991039,
             "region_id":85667811
         }
     ],
     "wof:id":1863991039,
-    "wof:lastmodified":1687996202,
+    "wof:lastmodified":1688094559,
     "wof:name":"Uznove",
-    "wof:parent_id":421187685,
+    "wof:parent_id":421201955,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:superseded_by":[],

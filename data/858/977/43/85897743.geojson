@@ -66,10 +66,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85667811,
         102191581,
         85632405,
-        421187685
+        421201955,
+        421187685,
+        85667811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,7 @@
             "continent_id":102191581,
             "country_id":85632405,
             "county_id":421187685,
-            "locality_id":-1,
+            "locality_id":421201955,
             "neighbourhood_id":85897743,
             "region_id":85667811
         }
@@ -96,9 +97,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1687990134,
+    "wof:lastmodified":1688094562,
     "wof:name":"Kostren i Math",
-    "wof:parent_id":-1,
+    "wof:parent_id":421201955,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:superseded_by":[
