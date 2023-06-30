@@ -1,8 +1,8 @@
 {
-  "id": 1259918341,
+  "id": 1863991041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,9 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hierarchy_label":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kullau",
@@ -38,8 +40,9 @@
     "wof:belongsto":[
         102191581,
         85632405,
-        85667811,
-        421187685
+        421201955,
+        421187685,
+        85667811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,20 +55,21 @@
             "continent_id":102191581,
             "country_id":85632405,
             "county_id":421187685,
-            "locality_id":1259918341,
+            "locality_id":421201955,
+            "neighbourhood_id":1863991041,
             "region_id":85667811
         }
     ],
-    "wof:id":1259918341,
-    "wof:lastmodified":1688094555,
+    "wof:id":1863991041,
+    "wof:lastmodified":1688094560,
     "wof:name":"Kullah",
-    "wof:parent_id":421187685,
-    "wof:placetype":"locality",
+    "wof:parent_id":421201955,
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-al",
-    "wof:superseded_by":[
-        1863991041
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259918341
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
