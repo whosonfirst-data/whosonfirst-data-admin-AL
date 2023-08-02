@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Verri"
     ],
+    "name:uzb_x_preferred":[
+        "Verri"
+    ],
     "qs:name":"V\u00ebrri",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422315,
-    "wof:lastmodified":1566584958,
+    "wof:lastmodified":1690849785,
     "wof:name":"V\u00ebrri",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

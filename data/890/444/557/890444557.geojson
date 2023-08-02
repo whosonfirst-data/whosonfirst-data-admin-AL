@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Shijak"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0438\u044f\u043a"
     ],
@@ -37,6 +40,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03c4\u03b6\u03ac\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03b3\u03b9\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Shijak"
     ],
@@ -49,11 +55,17 @@
     "name:hbs_x_preferred":[
         "\u0160ijak"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d2'\u05d0\u05e7"
+    ],
     "name:hun_x_preferred":[
         "Shijak"
     ],
     "name:ita_x_preferred":[
         "Shijak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e4\u30af"
     ],
     "name:lit_x_preferred":[
         "\u0160ijaku"
@@ -65,6 +77,12 @@
         "Shijak"
     ],
     "name:nld_x_preferred":[
+        "Shijak"
+    ],
+    "name:nno_x_preferred":[
+        "Shijak"
+    ],
+    "name:nob_x_preferred":[
         "Shijak"
     ],
     "name:oci_x_preferred":[
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":890444557,
-    "wof:lastmodified":1566584965,
+    "wof:lastmodified":1690849790,
     "wof:name":"Shijak",
     "wof:parent_id":1108720905,
     "wof:placetype":"locality",

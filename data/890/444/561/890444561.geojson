@@ -22,10 +22,16 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0628\u064a\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Rubik"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0431\u0438\u043a"
     ],
     "name:cat_x_preferred":[
+        "Rubik"
+    ],
+    "name:ceb_x_preferred":[
         "Rubik"
     ],
     "name:ces_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Rubik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0628\u0626\u06a9"
     ],
     "name:fra_x_preferred":[
         "Rubik"
@@ -56,6 +65,9 @@
         "\u0420\u0443\u0431\u0438\u043a"
     ],
     "name:nld_x_preferred":[
+        "Rubik"
+    ],
+    "name:nno_x_preferred":[
         "Rubik"
     ],
     "name:oci_x_preferred":[
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":890444561,
-    "wof:lastmodified":1566584965,
+    "wof:lastmodified":1690849790,
     "wof:name":"Rubik",
     "wof:parent_id":421188337,
     "wof:placetype":"locality",

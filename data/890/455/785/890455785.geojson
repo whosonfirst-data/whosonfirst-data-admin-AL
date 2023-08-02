@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Veri Prevalli"
     ],
+    "name:uzb_x_preferred":[
+        "Verri"
+    ],
     "qs:name":"V\u00ebrri",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890455785,
-    "wof:lastmodified":1566584961,
+    "wof:lastmodified":1690849787,
     "wof:name":"V\u00ebrri",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

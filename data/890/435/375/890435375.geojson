@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0648\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Kruj\u00eb"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u0443\u044f"
     ],
@@ -61,6 +67,9 @@
     "name:fra_x_preferred":[
         "Kruj\u00eb"
     ],
+    "name:gle_x_preferred":[
+        "Kruj\u00eb"
+    ],
     "name:gsw_x_preferred":[
         "Kruja"
     ],
@@ -79,6 +88,12 @@
     "name:hye_x_preferred":[
         "\u053f\u0580\u0578\u0582\u0575\u0565"
     ],
+    "name:ido_x_preferred":[
+        "Kruj\u00eb"
+    ],
+    "name:ind_x_preferred":[
+        "Kruj\u00eb"
+    ],
     "name:ita_x_preferred":[
         "Croia"
     ],
@@ -87,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud06c\ub8e8\uc5ec"
+    ],
+    "name:lat_x_preferred":[
+        "Croia"
     ],
     "name:lit_x_preferred":[
         "Kruj\u0117"
@@ -98,6 +116,9 @@
         "\u041a\u0440\u043e\u0458\u0430"
     ],
     "name:nld_x_preferred":[
+        "Kruj\u00eb"
+    ],
+    "name:nno_x_preferred":[
         "Kruj\u00eb"
     ],
     "name:nob_x_preferred":[
@@ -165,6 +186,9 @@
     ],
     "name:war_x_preferred":[
         "Kruj\u00eb"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u9c81\u4e9a"
     ],
     "name:zho_x_preferred":[
         "\u514b\u9c81\u4e9a"
@@ -294,7 +318,7 @@
         }
     ],
     "wof:id":890435375,
-    "wof:lastmodified":1566584970,
+    "wof:lastmodified":1690849796,
     "wof:name":"Kruj\u00eb",
     "wof:parent_id":421187431,
     "wof:placetype":"locality",

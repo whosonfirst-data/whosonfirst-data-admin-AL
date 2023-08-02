@@ -101,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub9ac\ube0c\ub77c\uc8fc\ub4dc \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\ube0c\ub77c\uc8fc\ub4dc\ud604"
+    ],
     "name:lit_x_preferred":[
         "Libra\u017ed\u017eio apygarda"
     ],
@@ -115,6 +118,9 @@
     ],
     "name:nld_x_preferred":[
         "Librazhd"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Librazhd"
     ],
     "name:nob_x_preferred":[
         "Librazhd"
@@ -229,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e3d5d8306de5a1db3fcb990573526d7",
+    "wof:geomhash":"d36332a9b7cfd7f28104b8727e378bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -239,7 +245,7 @@
         }
     ],
     "wof:id":421199463,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1690849780,
     "wof:name":"Librazhd",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

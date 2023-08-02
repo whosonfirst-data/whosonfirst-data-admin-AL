@@ -49,6 +49,12 @@
     "name:arg_x_preferred":[
         "Prefectura de Fier"
     ],
+    "name:aze_x_preferred":[
+        "Fieri"
+    ],
+    "name:bel_x_preferred":[
+        "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0424\u0456\u0435\u0440\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09bf\u09df\u09c7\u09b0"
     ],
@@ -65,6 +71,12 @@
         "Comtat de Fier"
     ],
     "name:ces_x_preferred":[
+        "Fier"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Fier"
+    ],
+    "name:dan_x_preferred":[
         "Fier"
     ],
     "name:deu_x_preferred":[
@@ -139,6 +151,15 @@
     "name:kor_x_preferred":[
         "\ud53c\uc5d0\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud53c\uc5d0\ub974\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Fier"
+    ],
+    "name:lav_x_preferred":[
+        "Fieri \u0137arka"
+    ],
     "name:lit_x_preferred":[
         "Fierio apskritis"
     ],
@@ -153,6 +174,9 @@
     ],
     "name:nld_x_preferred":[
         "Fier"
+    ],
+    "name:nno_x_preferred":[
+        "Regionen Fier"
     ],
     "name:nob_x_preferred":[
         "Fier"
@@ -187,6 +211,9 @@
     "name:sqi_x_preferred":[
         "Qarku i Fierit"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433 \u0424\u0458\u0435\u0440"
+    ],
     "name:swe_x_preferred":[
         "Fier prefektur"
     ],
@@ -210,6 +237,9 @@
     ],
     "name:war_x_preferred":[
         "Fier"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d39\u91cc\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u975e\u590f\u723e\u5dde"
@@ -323,7 +353,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80bcd2183f4e0fb9053b6c72f324815d",
+    "wof:geomhash":"ed59cfdf3ab29156d05a9a8a8caf7676",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -338,7 +368,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1684351491,
+    "wof:lastmodified":1690849761,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

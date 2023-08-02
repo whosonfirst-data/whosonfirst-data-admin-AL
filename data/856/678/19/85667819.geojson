@@ -75,8 +75,14 @@
     "name:ces_x_preferred":[
         "Gjirokast\u00ebr"
     ],
+    "name:cym_x_preferred":[
+        "Sir Gjirokast\u00ebr"
+    ],
     "name:dan_x_preferred":[
         "Gjirokast\u00ebr County"
+    ],
+    "name:dan_x_variant":[
+        "Gjirokast\u00ebr"
     ],
     "name:deu_x_preferred":[
         "Qark Gjirokastra"
@@ -93,7 +99,8 @@
     "name:eng_x_variant":[
         "Gjirokaste County",
         "Gjirokast\u00eb",
-        "Gjirokast\u00eb County"
+        "Gjirokast\u00eb County",
+        "Gjirokast\u00ebr County"
     ],
     "name:epo_x_preferred":[
         "Provinco Gjirokast\u00ebr"
@@ -164,6 +171,12 @@
     "name:kor_x_preferred":[
         "\uc9c0\ub85c\uce74\uc2a4\ud130\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc9c0\ub85c\uce74\uc2a4\ud130\ub974\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Praefectura Argyrocastrensis"
+    ],
     "name:lav_x_preferred":[
         "\u0122irokastras apgabals"
     ],
@@ -184,6 +197,9 @@
     ],
     "name:nld_x_preferred":[
         "Gjirokast\u00ebr"
+    ],
+    "name:nno_x_preferred":[
+        "Regionen Gjirokast\u00ebr"
     ],
     "name:nob_x_preferred":[
         "Gjirokast\u00ebr"
@@ -227,6 +243,9 @@
     "name:sqi_x_variant":[
         "Qarku i Gjirokastr\u00ebs"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433 \u0402\u0438\u0440\u043e\u043a\u0430\u0441\u0442\u0440\u0430"
+    ],
     "name:swe_x_preferred":[
         "Gjirokast\u00ebr prefektur"
     ],
@@ -260,6 +279,9 @@
     ],
     "name:war_x_preferred":[
         "Gjirokast\u00ebr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u8bfa\u5361\u65af\u7279\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5409\u7f85\u5361\u65af\u7279\u5dde"
@@ -374,7 +396,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acd73923b02b325b75308ec002019997",
+    "wof:geomhash":"fcd743edef4a8238dc63c9544e91231f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -389,7 +411,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1690849759,
     "wof:name":"Gjirokaste",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

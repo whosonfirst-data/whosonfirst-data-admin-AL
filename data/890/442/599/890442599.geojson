@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Kryeziu"
     ],
+    "name:uzb_x_preferred":[
+        "Kryezi"
+    ],
     "qs:name":"Kryezi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890442599,
-    "wof:lastmodified":1566584968,
+    "wof:lastmodified":1690849794,
     "wof:name":"Kryezi",
     "wof:parent_id":1108720859,
     "wof:placetype":"locality",

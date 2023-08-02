@@ -102,7 +102,8 @@
         "\uadf8\ub78c\uc26c"
     ],
     "name:kor_x_variant":[
-        "\uadf8\ub78c\uc2dc \ud604"
+        "\uadf8\ub78c\uc2dc \ud604",
+        "\uadf8\ub78c\uc2dc\ud604"
     ],
     "name:lit_x_preferred":[
         "Gram\u0161io apygarda"
@@ -121,6 +122,9 @@
     ],
     "name:nld_x_preferred":[
         "Gramsh"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Gramsh"
     ],
     "name:nob_x_preferred":[
         "Gramsh"
@@ -235,7 +239,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fbced2613753f6c1248f5467042ffaa2",
+    "wof:geomhash":"ab6ba6c6c2fe3bc521a861c0422fcc88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,7 +249,7 @@
         }
     ],
     "wof:id":421191637,
-    "wof:lastmodified":1684351505,
+    "wof:lastmodified":1690849779,
     "wof:name":"Gramsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

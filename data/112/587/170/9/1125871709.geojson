@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u0440\u044b\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u0438\u043a"
     ],
@@ -49,6 +55,9 @@
     "name:eng_x_preferred":[
         "C\u00ebrrik"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "C\u00ebrrik"
     ],
@@ -74,6 +83,12 @@
         "\u0426\u0435\u0440\u0438\u043a"
     ],
     "name:nld_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:nno_x_preferred":[
+        "C\u00ebrrik"
+    ],
+    "name:nob_x_preferred":[
         "C\u00ebrrik"
     ],
     "name:oci_x_preferred":[
@@ -172,7 +187,7 @@
         }
     ],
     "wof:id":1125871709,
-    "wof:lastmodified":1566584971,
+    "wof:lastmodified":1690849797,
     "wof:name":"C\u00ebrrik",
     "wof:parent_id":1108720849,
     "wof:placetype":"locality",

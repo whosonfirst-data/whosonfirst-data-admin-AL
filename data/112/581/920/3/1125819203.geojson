@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Konispol"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0438\u0441\u043f\u043e\u043b"
     ],
     "name:cat_x_preferred":[
+        "Konispol"
+    ],
+    "name:ceb_x_preferred":[
         "Konispol"
     ],
     "name:ces_x_preferred":[
@@ -69,6 +75,9 @@
         "\u041a\u043e\u043d\u0438\u0441\u043f\u043e\u043b"
     ],
     "name:nld_x_preferred":[
+        "Konispol"
+    ],
+    "name:nno_x_preferred":[
         "Konispol"
     ],
     "name:oci_x_preferred":[
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":1125819203,
-    "wof:lastmodified":1566584970,
+    "wof:lastmodified":1690849796,
     "wof:name":"Konispol",
     "wof:parent_id":1108720869,
     "wof:placetype":"locality",

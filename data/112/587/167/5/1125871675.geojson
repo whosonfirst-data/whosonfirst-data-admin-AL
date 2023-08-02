@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ku\u00e7ov\u00eb"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0447\u043e\u0432\u0430"
     ],
@@ -34,6 +37,9 @@
     "name:ces_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0648\u0686\u06c6\u06a4\u06cc"
+    ],
     "name:dan_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03cd\u03c4\u03c3\u03bf\u03b2\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03cc\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ku\u00e7ov\u00eb"
@@ -54,6 +63,9 @@
     ],
     "name:hun_x_preferred":[
         "Ku\u00e7ova"
+    ],
+    "name:ido_x_preferred":[
+        "Ku\u00e7ov\u00eb"
     ],
     "name:ita_x_preferred":[
         "Ku\u00e7ov\u00eb"
@@ -79,6 +91,9 @@
     "name:nno_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
+    "name:nob_x_preferred":[
+        "Ku\u00e7ov\u00eb"
+    ],
     "name:oci_x_preferred":[
         "Ku\u00e7ov\u00eb"
     ],
@@ -87,6 +102,9 @@
     ],
     "name:pol_x_preferred":[
         "Ku\u00e7ova"
+    ],
+    "name:pol_x_variant":[
+        "Ku\u00e7ov\u00eb"
     ],
     "name:por_x_preferred":[
         "Ku\u00e7ov\u00eb"
@@ -108,6 +126,9 @@
     ],
     "name:sqi_x_preferred":[
         "Ku\u00e7ova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0447\u043e\u0432\u0430"
     ],
     "name:swe_x_preferred":[
         "Ku\u00e7ova"
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1125871675,
-    "wof:lastmodified":1566584971,
+    "wof:lastmodified":1690849797,
     "wof:name":"Ku\u00e7ov\u00eb",
     "wof:parent_id":1108720871,
     "wof:placetype":"locality",

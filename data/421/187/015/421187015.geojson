@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mamurras"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0440\u0430\u0441"
     ],
@@ -32,14 +35,23 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bc\u03bf\u03c5\u03c1\u03ac\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bc\u03bf\u03cd\u03c1\u03c1\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Mamurras"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0645\u0648\u0631\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Mamurras"
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Streje\u015fti"
+    ],
+    "name:hrv_x_preferred":[
+        "Mamurras"
     ],
     "name:hun_x_preferred":[
         "Mamurras"
@@ -49,6 +61,9 @@
     ],
     "name:ita_x_variant":[
         "Mamurras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e0\u30e9\u30b9"
     ],
     "name:lit_x_preferred":[
         "Mamurasas"
@@ -63,6 +78,12 @@
         "Streje\u0219ti"
     ],
     "name:nld_x_variant":[
+        "Mamurras"
+    ],
+    "name:nno_x_preferred":[
+        "Mamurras"
+    ],
+    "name:nob_x_preferred":[
         "Mamurras"
     ],
     "name:pol_x_preferred":[
@@ -172,7 +193,7 @@
         }
     ],
     "wof:id":421187015,
-    "wof:lastmodified":1566584947,
+    "wof:lastmodified":1690849771,
     "wof:name":"Mamuras",
     "wof:parent_id":421187431,
     "wof:placetype":"locality",

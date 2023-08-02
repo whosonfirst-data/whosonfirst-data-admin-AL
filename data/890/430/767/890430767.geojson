@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Gurra e Vog\u00ebl"
+    ],
     "name:eng_x_preferred":[
         "Gurr\u00eb e Vog\u00ebl"
     ],
@@ -26,6 +29,9 @@
         "Gurr\u00eb e Vog\u00ebl"
     ],
     "name:sqi_x_preferred":[
+        "Gurr\u00eb e Vog\u00ebl"
+    ],
+    "name:uzb_x_preferred":[
         "Gurr\u00eb e Vog\u00ebl"
     ],
     "qs:name":"Gurra e Vog\u00ebl",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890430767,
-    "wof:lastmodified":1566584960,
+    "wof:lastmodified":1690849786,
     "wof:name":"Gurra e Vog\u00ebl",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

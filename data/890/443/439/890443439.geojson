@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0643\u0648\u0641\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Peshkopi"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b6\u0995\u09cb\u09aa\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0448\u043a\u043e\u043f\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Peshkopi"
     ],
     "name:ceb_x_preferred":[
         "Peshkopi"
@@ -36,6 +42,9 @@
     ],
     "name:che_x_preferred":[
         "\u041f\u0435\u0448\u043a\u043e\u043f\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06ce\u0634\u06a9\u06c6\u067e\u06cc"
     ],
     "name:dan_x_preferred":[
         "Peshkopi"
@@ -58,10 +67,16 @@
     "name:eus_x_preferred":[
         "Peshkopi"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0634\u06a9\u0648\u067e\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Peshkopi"
     ],
     "name:frr_x_preferred":[
+        "Peshkopi"
+    ],
+    "name:gle_x_preferred":[
         "Peshkopi"
     ],
     "name:hbs_x_preferred":[
@@ -168,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Peshkopi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f69\u4ec0\u79d1\u6bd4"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u4ec0\u79d1\u6bd4"
@@ -300,7 +318,7 @@
         }
     ],
     "wof:id":890443439,
-    "wof:lastmodified":1636495657,
+    "wof:lastmodified":1690849791,
     "wof:name":"Peshkopi",
     "wof:parent_id":421169685,
     "wof:placetype":"locality",

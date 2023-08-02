@@ -26,6 +26,18 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0644\u0628\u0635\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0644\u0628\u0635\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Elbasan"
+    ],
+    "name:aze_x_preferred":[
+        "Elbasan"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c\u0431\u0430\u0441\u0430\u043d"
     ],
@@ -62,6 +74,9 @@
     "name:deu_x_preferred":[
         "Elbasan"
     ],
+    "name:diq_x_preferred":[
+        "Elbasan"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb\u03bc\u03c0\u03b1\u03c3\u03ac\u03bd"
     ],
@@ -80,6 +95,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0628\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Elbasan"
     ],
@@ -89,8 +107,14 @@
     "name:frr_x_preferred":[
         "Elbasan"
     ],
+    "name:gle_x_preferred":[
+        "Elbasan"
+    ],
     "name:glg_x_preferred":[
         "Elbasan"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf34\ud800\udf3b\ud800\udf31\ud800\udf30\ud800\udf43\ud800\udf30\ud800\udf3d"
     ],
     "name:gsw_x_preferred":[
         "Elbasan"
@@ -103,6 +127,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d1\u05e1\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc\u05d1\u05e1\u05df"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0932\u092c\u0938\u093e\u0928"
@@ -136,6 +163,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ubc14\uc0b0"
+    ],
+    "name:lat_x_preferred":[
+        "Neocastrum"
     ],
     "name:lav_x_preferred":[
         "E\u013cbasani"
@@ -248,6 +278,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0633\u0627\u0646"
     ],
+    "name:vep_x_preferred":[
+        "El'basan"
+    ],
     "name:vie_x_preferred":[
         "Elbasan"
     ],
@@ -256,6 +289,9 @@
     ],
     "name:war_x_preferred":[
         "Elbasan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7231\u5c14\u5df4\u6851"
     ],
     "name:zho_x_preferred":[
         "\u7231\u5c14\u5df4\u6851"
@@ -319,7 +355,7 @@
         }
     ],
     "wof:id":421187005,
-    "wof:lastmodified":1688094563,
+    "wof:lastmodified":1690849776,
     "wof:name":"Elbasan",
     "wof:parent_id":421185415,
     "wof:placetype":"locality",

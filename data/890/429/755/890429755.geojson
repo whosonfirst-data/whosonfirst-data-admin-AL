@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Babruja"
     ],
+    "name:uzb_x_preferred":[
+        "Babrru"
+    ],
     "qs:name":"Babru",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890429755,
-    "wof:lastmodified":1566584968,
+    "wof:lastmodified":1690849793,
     "wof:name":"Babru",
     "wof:parent_id":1108720865,
     "wof:placetype":"locality",
