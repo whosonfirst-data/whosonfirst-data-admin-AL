@@ -25,6 +25,9 @@
     "name:sqi_x_preferred":[
         "Ballaj"
     ],
+    "name:uzb_x_preferred":[
+        "Ballaj"
+    ],
     "qs:name":"Ballaj",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890422559,
-    "wof:lastmodified":1566584957,
+    "wof:lastmodified":1690849784,
     "wof:name":"Ballaj",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",

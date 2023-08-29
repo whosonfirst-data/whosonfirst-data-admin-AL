@@ -53,6 +53,9 @@
     "name:sqi_x_preferred":[
         "Thethi"
     ],
+    "name:swe_x_preferred":[
+        "Theth"
+    ],
     "name:tur_x_preferred":[
         "Theth"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421193155,
-    "wof:lastmodified":1566584945,
+    "wof:lastmodified":1690849768,
     "wof:name":"Theth",
     "wof:parent_id":421167927,
     "wof:placetype":"locality",

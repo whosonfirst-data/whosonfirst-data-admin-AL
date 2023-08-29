@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Vlor\u00eb"
+    ],
     "name:aze_x_preferred":[
         "Vlyora"
     ],
@@ -103,6 +109,9 @@
     "name:gag_x_preferred":[
         "Vlor\u00eb"
     ],
+    "name:gle_x_preferred":[
+        "Vlor\u00eb"
+    ],
     "name:glg_x_preferred":[
         "Vlor\u00eb"
     ],
@@ -130,6 +139,9 @@
     "name:hyw_x_preferred":[
         "\u054e\u056c\u0578\u0580\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Vlor\u00eb"
+    ],
     "name:ind_x_preferred":[
         "Vlor\u00eb"
     ],
@@ -150,6 +162,9 @@
     ],
     "name:lat_x_preferred":[
         "Aulon"
+    ],
+    "name:lat_x_variant":[
+        "Aulona"
     ],
     "name:lav_x_preferred":[
         "V\u013cora"
@@ -196,11 +211,15 @@
     "name:ron_x_preferred":[
         "Vlora"
     ],
+    "name:ron_x_variant":[
+        "Vlor\u00eb"
+    ],
     "name:rup_x_preferred":[
         "Valona"
     ],
     "name:rup_x_variant":[
-        "Vlora"
+        "Vlora",
+        "Avlona"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043b\u0451\u0440\u0430"
@@ -253,6 +272,9 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e42\u0e25\u0e40\u0e23\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e27\u0e25\u0e2d\u0e40\u0e23\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Avlonya"
     ],
@@ -265,6 +287,15 @@
     "name:urd_x_preferred":[
         "\u0648\u0644\u0648\u0631\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Vlora"
+    ],
+    "name:vec_x_preferred":[
+        "Valona"
+    ],
+    "name:vep_x_preferred":[
+        "Vl\u00f6r"
+    ],
     "name:vie_x_preferred":[
         "Vlor\u00eb"
     ],
@@ -273,6 +304,12 @@
     ],
     "name:war_x_preferred":[
         "Vlor\u00eb"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53d1\u7f57\u62c9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10da\u10dd\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u53d1\u7f57\u62c9"
@@ -334,7 +371,7 @@
         }
     ],
     "wof:id":421187039,
-    "wof:lastmodified":1688094564,
+    "wof:lastmodified":1690849774,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":421193353,
     "wof:placetype":"locality",

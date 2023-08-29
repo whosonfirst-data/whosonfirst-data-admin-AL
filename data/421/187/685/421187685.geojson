@@ -56,6 +56,9 @@
     "name:ces_x_preferred":[
         "Okres Berat"
     ],
+    "name:dan_x_preferred":[
+        "Beratdistriktet"
+    ],
     "name:deu_x_preferred":[
         "Kreis Berat"
     ],
@@ -113,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ubca0\ub77c\ud2b8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubca0\ub77c\ud2b8\ud604"
+    ],
     "name:lit_x_preferred":[
         "Bera\u010dio apygarda"
     ],
@@ -127,6 +133,9 @@
     ],
     "name:nld_x_preferred":[
         "Berat"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Berat"
     ],
     "name:nob_x_preferred":[
         "Berat"
@@ -188,6 +197,9 @@
     "name:war_x_preferred":[
         "Berat"
     ],
+    "name:wuu_x_preferred":[
+        "\u57f9\u62c9\u7279\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u57f9\u62c9\u7279\u5340"
     ],
@@ -247,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bda47cd830f29828cffce2ca534589fa",
+    "wof:geomhash":"7e1f1a685e84a747e1fca808cbce45a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,7 +269,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1684351505,
+    "wof:lastmodified":1690849774,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

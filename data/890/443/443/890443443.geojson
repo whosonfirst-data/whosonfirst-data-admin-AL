@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0643\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Kuk\u00ebs"
+    ],
     "name:aze_x_preferred":[
         "Kukes"
     ],
@@ -82,6 +88,9 @@
     "name:frr_x_preferred":[
         "Kuk\u00ebs"
     ],
+    "name:gle_x_preferred":[
+        "Kuk\u00ebs"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a95\u0ac7\u0ab8"
     ],
@@ -96,6 +105,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u056f\u0561\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Kuk\u00ebs"
     ],
     "name:ind_x_preferred":[
         "Kuk\u00ebs"
@@ -128,6 +140,9 @@
         "Kukes"
     ],
     "name:nld_x_preferred":[
+        "Kuk\u00ebs"
+    ],
+    "name:nno_x_preferred":[
         "Kuk\u00ebs"
     ],
     "name:nob_x_preferred":[
@@ -333,7 +348,7 @@
         }
     ],
     "wof:id":890443443,
-    "wof:lastmodified":1566584967,
+    "wof:lastmodified":1690849792,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":421186339,
     "wof:placetype":"locality",

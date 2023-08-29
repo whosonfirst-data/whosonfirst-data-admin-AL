@@ -31,6 +31,9 @@
     "name:hun_x_preferred":[
         "Rinas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0438\u043d\u0430\u0441"
+    ],
     "name:nld_x_preferred":[
         "Rinas"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Rinasi"
+    ],
+    "name:uzb_x_preferred":[
+        "Rinas"
     ],
     "qs:name":"Rinas",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890455767,
-    "wof:lastmodified":1566584962,
+    "wof:lastmodified":1690849787,
     "wof:name":"Rinas",
     "wof:parent_id":421199463,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.9917845,40.338055,19.9917845,40.338055",
+    "geom:bbox":"19.991785,40.338055,19.991785,40.338055",
     "geom:latitude":40.338055,
     "geom:longitude":19.991785,
     "iso:country":"AL",
@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Memaliaj"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043c\u0430\u043b\u044f\u0439"
     ],
     "name:cat_x_preferred":[
+        "Memaliaj"
+    ],
+    "name:ceb_x_preferred":[
         "Memaliaj"
     ],
     "name:ces_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Memaliaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0645\u0627\u0644\u06cc\u0627\u062c"
     ],
     "name:fin_x_preferred":[
         "Memaliaj"
@@ -51,6 +60,9 @@
         "\u041c\u0435\u043c\u0430\u043b\u0438\u0458\u0430"
     ],
     "name:nld_x_preferred":[
+        "Memaliaj"
+    ],
+    "name:nno_x_preferred":[
         "Memaliaj"
     ],
     "name:oci_x_preferred":[
@@ -74,6 +86,9 @@
     "name:sqi_x_preferred":[
         "Memaliaj"
     ],
+    "name:swe_x_preferred":[
+        "Memaliaj"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0435\u043c\u0430\u043b\u04d9\u0439"
     ],
@@ -85,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Memaliaj"
+    ],
+    "name:yue_x_preferred":[
+        "\u6885\u99ac\u5229\u827e"
     ],
     "name:zho_x_preferred":[
         "\u6885\u99ac\u5229\u827e"
@@ -123,7 +141,7 @@
     },
     "wof:country":"AL",
     "wof:created":1459009499,
-    "wof:geomhash":"41e89ef19014e449a0d8305c19198b63",
+    "wof:geomhash":"e81e1ae584c441e4c848dff225d28537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":421187017,
-    "wof:lastmodified":1566584949,
+    "wof:lastmodified":1690849774,
     "wof:name":"Memaliaj",
     "wof:parent_id":1108720885,
     "wof:placetype":"locality",
@@ -144,10 +162,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.9917845,
+    19.991785,
     40.338055,
-    19.9917845,
+    19.991785,
     40.338055
 ],
-  "geometry": {"coordinates":[19.9917845,40.338055],"type":"Point"}
+  "geometry": {"coordinates":[19.991785,40.338055],"type":"Point"}
 }

@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0648\u0643\u0627\u0633\u062a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0631\u0648\u0643\u0627\u0633\u062a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Gjirokast\u00ebr"
+    ],
+    "name:aze_x_preferred":[
+        "Girokastra"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0456\u0440\u0430\u043a\u0430\u0441\u0442\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b0\u09c1\u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:bos_x_preferred":[
+        "Gjirokast\u00ebr"
     ],
     "name:bre_x_preferred":[
         "Gjirokastra"
@@ -40,6 +52,9 @@
     ],
     "name:cat_x_variant":[
         "Gjirokastra"
+    ],
+    "name:ceb_x_preferred":[
+        "Gjirokast\u00ebr"
     ],
     "name:ces_x_preferred":[
         "Gjirokast\u00ebr"
@@ -92,6 +107,12 @@
     "name:frr_x_preferred":[
         "Gjirokast\u00ebr"
     ],
+    "name:gle_x_preferred":[
+        "Gjirokast\u00ebr"
+    ],
+    "name:glg_x_preferred":[
+        "Gjirokast\u00ebr"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0ab0\u0acb\u0a95\u0abe\u0ab8\u0acd\u0a9f\u0ab0"
     ],
@@ -124,6 +145,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u056b\u0580\u0578\u056f\u0561\u057d\u057f\u0580\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Gjirokast\u00ebr"
     ],
     "name:ind_x_preferred":[
         "Gjirokast\u00ebr"
@@ -167,14 +191,23 @@
     "name:mkd_x_preferred":[
         "\u0403\u0438\u0440\u043e\u043a\u0430\u0441\u0442\u0440\u043e"
     ],
+    "name:mlt_x_preferred":[
+        "Gjirokast\u00ebr"
+    ],
     "name:msa_x_preferred":[
         "Gjirokast\u00ebr"
     ],
     "name:nld_x_preferred":[
         "Gjirokast\u00ebr"
     ],
+    "name:nno_x_preferred":[
+        "Gjirokast\u00ebr"
+    ],
     "name:nob_x_preferred":[
         "Gjirokastra"
+    ],
+    "name:nob_x_variant":[
+        "Gjirokast\u00ebr"
     ],
     "name:nor_x_preferred":[
         "Gjirokastra"
@@ -187,6 +220,9 @@
     ],
     "name:pol_x_preferred":[
         "Gjirokastra"
+    ],
+    "name:pol_x_variant":[
+        "Gjirokast\u0451r"
     ],
     "name:por_x_preferred":[
         "Gjirokast\u00ebr"
@@ -217,6 +253,9 @@
     ],
     "name:slv_x_preferred":[
         "Gjirokast\u00ebr"
+    ],
+    "name:slv_x_variant":[
+        "Gjirokastra"
     ],
     "name:spa_x_preferred":[
         "Gjirokastra"
@@ -271,6 +310,9 @@
     ],
     "name:war_x_preferred":[
         "Gjirokast\u00ebr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u8bfa\u5361\u65af\u7279"
     ],
     "name:zho_x_preferred":[
         "\u5409\u8bfa\u5361\u65af\u7279"
@@ -422,7 +464,7 @@
         }
     ],
     "wof:id":421187007,
-    "wof:lastmodified":1582318805,
+    "wof:lastmodified":1690849772,
     "wof:name":"Gjirokast\u00ebr",
     "wof:parent_id":421187729,
     "wof:placetype":"locality",

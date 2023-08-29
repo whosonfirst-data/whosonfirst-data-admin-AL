@@ -50,6 +50,12 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u064a\u0631"
     ],
+    "name:aze_x_preferred":[
+        "Fieri dair\u0259si"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0424\u0456\u0435\u0440\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09bf\u09df\u09c7\u09b0"
     ],
@@ -107,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ud53c\uc5d0\ub974 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud53c\uc5d0\ub974\ud604"
+    ],
     "name:lit_x_preferred":[
         "Fierio apygarda"
     ],
@@ -121,6 +130,9 @@
     ],
     "name:nld_x_preferred":[
         "Fier"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Fier"
     ],
     "name:nob_x_preferred":[
         "Fier"
@@ -235,7 +247,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb3c5cb65f3d3d2c4e02d492271773ee",
+    "wof:geomhash":"51a2f3269a4112cc9510b1b0a9c797b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,7 +257,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1684351505,
+    "wof:lastmodified":1690849772,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

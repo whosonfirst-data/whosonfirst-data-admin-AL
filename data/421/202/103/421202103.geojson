@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.724578,41.2953485,19.724578,41.2953485",
+    "geom:bbox":"19.724578,41.295349,19.724578,41.295349",
     "geom:latitude":41.295349,
     "geom:longitude":19.724578,
     "iso:country":"AL",
@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Vaqarr"
+    ],
     "name:eng_x_preferred":[
         "Vaqarr"
     ],
@@ -38,6 +41,9 @@
     "name:nld_x_preferred":[
         "Vaqarr"
     ],
+    "name:nno_x_preferred":[
+        "Vaqarr"
+    ],
     "name:por_x_preferred":[
         "Vaqarr"
     ],
@@ -51,6 +57,9 @@
         "Komuna Vaqarr"
     ],
     "name:tur_x_preferred":[
+        "Vaqarr"
+    ],
+    "name:uzb_x_preferred":[
         "Vaqarr"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +102,7 @@
     },
     "wof:country":"AL",
     "wof:created":1459010105,
-    "wof:geomhash":"bd91f458cb642de953b5edf1c8684f89",
+    "wof:geomhash":"90c2789f5309d4fe730bdc7c634e477c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421202103,
-    "wof:lastmodified":1566584946,
+    "wof:lastmodified":1690849769,
     "wof:name":"Vaqar",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",
@@ -115,9 +124,9 @@
 },
   "bbox": [
     19.724578,
-    41.2953485,
+    41.295349,
     19.724578,
-    41.2953485
+    41.295349
 ],
-  "geometry": {"coordinates":[19.724578,41.2953485],"type":"Point"}
+  "geometry": {"coordinates":[19.724578,41.295349],"type":"Point"}
 }

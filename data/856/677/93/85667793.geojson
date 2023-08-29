@@ -48,11 +48,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0643\u0648\u062f\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0634\u0642\u0648\u062f\u0631\u0629"
+    ],
     "name:arg_x_preferred":[
         "Prefectura de Shkod\u00ebr"
     ],
     "name:bel_x_preferred":[
         "\u0428\u043a\u043e\u0434\u044d\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c \u0428\u043a\u043e\u0434\u044d\u0440"
     ],
     "name:bos_x_preferred":[
         "Okrug Skadar"
@@ -71,6 +77,9 @@
     ],
     "name:ces_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Shkod\u00ebr"
     ],
     "name:dan_x_preferred":[
         "Shkod\u00ebr"
@@ -146,6 +155,12 @@
     "name:kor_x_preferred":[
         "\uc288\ucf54\ub354\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc288\ucf54\ub354\ub974\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Praefectura Scodrensis"
+    ],
     "name:lav_x_preferred":[
         "\u0160kodras \u0137arka"
     ],
@@ -163,6 +178,9 @@
     ],
     "name:nld_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:nno_x_preferred":[
+        "Regionen Shkod\u00ebr"
     ],
     "name:nob_x_preferred":[
         "Shkod\u00ebr"
@@ -229,6 +247,9 @@
     ],
     "name:war_x_preferred":[
         "Shkod\u00ebr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u5e93\u53f0\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u58eb\u79d1\u5fb7\u5dde"
@@ -329,7 +350,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3e02fead341d7df6a226bc42b5c9349",
+    "wof:geomhash":"37a188bdecce6c071023dd82f1bfc6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,7 +365,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1684351491,
+    "wof:lastmodified":1690849761,
     "wof:name":"Shkoder",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

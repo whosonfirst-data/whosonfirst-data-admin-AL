@@ -34,6 +34,9 @@
     "name:aln_x_preferred":[
         "Lene"
     ],
+    "name:ang_x_preferred":[
+        "Lene"
+    ],
     "name:arg_x_preferred":[
         "Lene"
     ],
@@ -277,6 +280,9 @@
     "name:jav_x_preferred":[
         "Lene"
     ],
+    "name:jbo_x_preferred":[
+        "Lene"
+    ],
     "name:jut_x_preferred":[
         "Lene"
     ],
@@ -325,6 +331,9 @@
     "name:lad_x_preferred":[
         "Lene"
     ],
+    "name:lat_x_preferred":[
+        "Lene"
+    ],
     "name:lav_x_preferred":[
         "Lene"
     ],
@@ -343,13 +352,25 @@
     "name:lit_x_preferred":[
         "Lene"
     ],
+    "name:liv_x_preferred":[
+        "Lene"
+    ],
     "name:lmo_x_preferred":[
+        "Lene"
+    ],
+    "name:loz_x_preferred":[
+        "Lene"
+    ],
+    "name:ltg_x_preferred":[
         "Lene"
     ],
     "name:ltz_x_preferred":[
         "Lene"
     ],
     "name:lug_x_preferred":[
+        "Lene"
+    ],
+    "name:lus_x_preferred":[
         "Lene"
     ],
     "name:mah_x_preferred":[
@@ -475,6 +496,9 @@
     "name:rif_x_preferred":[
         "Lene"
     ],
+    "name:rmf_x_preferred":[
+        "Lene"
+    ],
     "name:roh_x_preferred":[
         "Lene"
     ],
@@ -502,10 +526,16 @@
     "name:sdc_x_preferred":[
         "Lene"
     ],
+    "name:sei_x_preferred":[
+        "Lene"
+    ],
     "name:sgs_x_preferred":[
         "Lene"
     ],
     "name:sje_x_preferred":[
+        "Lene"
+    ],
+    "name:sju_x_preferred":[
         "Lene"
     ],
     "name:sli_x_preferred":[
@@ -526,7 +556,13 @@
     "name:smj_x_preferred":[
         "Lene"
     ],
+    "name:smn_x_preferred":[
+        "Lene"
+    ],
     "name:smo_x_preferred":[
+        "Lene"
+    ],
+    "name:sms_x_preferred":[
         "Lene"
     ],
     "name:sna_x_preferred":[
@@ -640,6 +676,9 @@
     "name:zea_x_preferred":[
         "Lene"
     ],
+    "name:zho_x_preferred":[
+        "\u83b1\u5a1c"
+    ],
     "name:zul_x_preferred":[
         "Lene"
     ],
@@ -676,7 +715,7 @@
         }
     ],
     "wof:id":890422321,
-    "wof:lastmodified":1566584959,
+    "wof:lastmodified":1690849785,
     "wof:name":"Len\u00eb",
     "wof:parent_id":421190851,
     "wof:placetype":"locality",

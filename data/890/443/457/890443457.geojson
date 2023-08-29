@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Burrel"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09b0\u09c7\u09b2"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:est_x_preferred":[
         "Burrel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0644"
     ],
     "name:fin_x_preferred":[
         "Burrel"
@@ -83,6 +89,9 @@
         "\u0411\u0443\u0440\u0435\u043b"
     ],
     "name:nld_x_preferred":[
+        "Burrel"
+    ],
+    "name:nno_x_preferred":[
         "Burrel"
     ],
     "name:nob_x_preferred":[
@@ -270,7 +279,7 @@
         }
     ],
     "wof:id":890443457,
-    "wof:lastmodified":1636495657,
+    "wof:lastmodified":1690849792,
     "wof:name":"Burrel",
     "wof:parent_id":421202751,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Biza"
     ],
+    "name:uzb_x_preferred":[
+        "Biz\u00eb"
+    ],
     "qs:name":"Biz\u00eb",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890455783,
-    "wof:lastmodified":1566584962,
+    "wof:lastmodified":1690849787,
     "wof:name":"Biz\u00eb",
     "wof:parent_id":421182353,
     "wof:placetype":"locality",
