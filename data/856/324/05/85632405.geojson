@@ -24,6 +24,9 @@
     "itu:country_code":[
         "355"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "AL"
     ],
@@ -1263,7 +1266,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"35f4c7807f9d3216339b36bd37b460e5",
+    "wof:geomhash":"f4cad136b844cec847631c2c425a886e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1277,7 +1280,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849758,
+    "wof:lastmodified":1694492247,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
