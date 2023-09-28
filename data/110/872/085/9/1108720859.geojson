@@ -74,6 +74,7 @@
         "eurostat:nuts_2021_id":"AL151",
         "hasc:id":"AL.SD.FU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125670,
     "wof:geomhash":"2841b983c883851fb17767dc0a212fdf",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108720859,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"Fush\u00eb Arr\u00ebs",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

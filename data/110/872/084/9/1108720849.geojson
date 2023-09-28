@@ -158,6 +158,7 @@
         "eurostat:nuts_2021_id":"AL212",
         "hasc:id":"AL.EB.CK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125656,
     "wof:geomhash":"e105dd4aa56e4c6d5d5ebcfe97b9c21c",
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1108720849,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"C\u00ebrrik",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

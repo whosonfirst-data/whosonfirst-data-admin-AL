@@ -122,6 +122,7 @@
         "eurostat:nuts_2021_id":"AL211",
         "hasc:id":"AL.EB.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125653,
     "wof:geomhash":"6e88034a10d2838f4b1146d1a490db89",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108720847,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"Belsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":104827,
     "eurostat:population_year":2019,
     "geom:area":0.065827,
-    "geom:area_square_m":619736141.764387,
+    "geom:area_square_m":619736066.899068,
     "geom:bbox":"19.262861,40.171138,19.619308,40.664711",
     "geom:latitude":40.414173,
     "geom:longitude":19.474202,
@@ -244,16 +244,21 @@
         "gn:id":3183721,
         "gp:id":20069958,
         "hasc:id":"AL.VR.VL",
+        "iso:code_historic":"AL-VL",
         "qs_pg:id":890117,
         "wd:id":"Q158601",
         "wk:page":"Vlor\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79f1de0219c2660900315cd1728d57e8",
+    "wof:geomhash":"ce69e30b21988a8021f40a5dd7aecb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,7 +268,7 @@
         }
     ],
     "wof:id":421193353,
-    "wof:lastmodified":1690849767,
+    "wof:lastmodified":1695886588,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

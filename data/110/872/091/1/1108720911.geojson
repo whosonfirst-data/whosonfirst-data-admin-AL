@@ -122,6 +122,7 @@
         "eurostat:nuts_2021_id":"AL225",
         "hasc:id":"AL.TI.VR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125711,
     "wof:geomhash":"54bee8f6910c0c9d13cbb3ff20f37f61",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108720911,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Vor\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":16790,
     "eurostat:population_year":2019,
     "geom:area":0.043756,
-    "geom:area_square_m":400843876.299323,
+    "geom:area_square_m":400844227.255026,
     "geom:bbox":"20.21283,42.092435,20.544775,42.308469",
     "geom:latitude":42.194917,
     "geom:longitude":20.384846,
@@ -223,16 +223,21 @@
         "gn:id":831098,
         "gp:id":20069930,
         "hasc:id":"AL.KK.HA",
+        "iso:code_historic":"AL-HA",
         "qs_pg:id":966783,
         "wd:id":"Q207007",
         "wk:page":"Has District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459008752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3c91d4dd4711c940a03437e56eecbb1",
+    "wof:geomhash":"db39ce414fb5737a5fab44b98519d483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,7 +247,7 @@
         }
     ],
     "wof:id":421168061,
-    "wof:lastmodified":1690849766,
+    "wof:lastmodified":1695886585,
     "wof:name":"Has",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

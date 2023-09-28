@@ -250,16 +250,21 @@
         "gn:id":783626,
         "gp:id":20069953,
         "hasc:id":"AL.BE.BR",
+        "iso:code_historic":"AL-BR",
         "qs_pg:id":1084260,
         "wd:id":"Q202981",
         "wk:page":"Berat District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009521,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e1f1a685e84a747e1fca808cbce45a2",
+    "wof:geomhash":"bda47cd830f29828cffce2ca534589fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,7 +274,7 @@
         }
     ],
     "wof:id":421187685,
-    "wof:lastmodified":1690849774,
+    "wof:lastmodified":1695886587,
     "wof:name":"Berat",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

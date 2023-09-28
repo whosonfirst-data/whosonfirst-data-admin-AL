@@ -140,6 +140,7 @@
         "eurostat:nuts_2021_id":"AL313",
         "hasc:id":"AL.BE.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125695,
     "wof:geomhash":"86b083223bd18487b9e1c8bb9e40d404",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108720891,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886595,
     "wof:name":"Poli\u00e7an",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

@@ -74,6 +74,7 @@
         "eurostat:nuts_2021_id":"AL155",
         "hasc:id":"AL.SD.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125709,
     "wof:geomhash":"90dd44904ab30b9180f9b759567a0ed4",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108720909,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Vau I Dej\u00ebs",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

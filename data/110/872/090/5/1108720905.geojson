@@ -152,6 +152,7 @@
         "eurostat:nuts_2021_id":"AL123",
         "hasc:id":"AL.DU.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125704,
     "wof:geomhash":"8580c4772cbb2d747e94ab50d92d09fc",
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108720905,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Shijak",
     "wof:parent_id":85667783,
     "wof:placetype":"county",

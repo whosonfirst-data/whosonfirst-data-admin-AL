@@ -17,7 +17,7 @@
     "eurostat:population":22103,
     "eurostat:population_year":2019,
     "geom:area":0.09413,
-    "geom:area_square_m":867191168.829579,
+    "geom:area_square_m":867191141.721226,
     "geom:bbox":"19.71745,41.688013,20.275917,42.025033",
     "geom:latitude":41.836657,
     "geom:longitude":19.995238,
@@ -238,16 +238,21 @@
         "gn:id":782268,
         "gp:id":20069934,
         "hasc:id":"AL.LZ.MR",
+        "iso:code_historic":"AL-MR",
         "qs_pg:id":19029,
         "wd:id":"Q236850",
         "wk:page":"Mirdit\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009542,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"afb8e37776196f08f33aa9ceb5b6dba9",
+    "wof:geomhash":"9454726262a2158bbc9c6bf4be28f447",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,7 +262,7 @@
         }
     ],
     "wof:id":421188337,
-    "wof:lastmodified":1690849776,
+    "wof:lastmodified":1695886587,
     "wof:name":"Mirdit\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

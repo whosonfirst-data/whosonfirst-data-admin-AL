@@ -300,16 +300,21 @@
         "gn:id":781988,
         "gp:id":20069943,
         "hasc:id":"AL.KE.PG",
+        "iso:code_historic":"AL-PG",
         "qs_pg:id":316226,
         "wd:id":"Q202197",
         "wk:page":"Pogradec"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009198,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f351ff2a7182c0c65a574cd0cd0049e",
+    "wof:geomhash":"444ab17417c7ca61380305871ed010b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,7 +324,7 @@
         }
     ],
     "wof:id":421178941,
-    "wof:lastmodified":1690849782,
+    "wof:lastmodified":1695886585,
     "wof:name":"Pogradec",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

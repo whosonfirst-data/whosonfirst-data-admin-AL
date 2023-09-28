@@ -17,7 +17,7 @@
     "eurostat:population":8949,
     "eurostat:population_year":2019,
     "geom:area":0.0457,
-    "geom:area_square_m":431061425.070504,
+    "geom:area_square_m":431061250.441034,
     "geom:bbox":"19.747156,40.178785,20.155581,40.394393",
     "geom:latitude":40.286933,
     "geom:longitude":19.947234,
@@ -232,16 +232,21 @@
         "gn:id":3183911,
         "gp:id":20069957,
         "hasc:id":"AL.GK.TL",
+        "iso:code_historic":"AL-TE",
         "qs_pg:id":48942,
         "wd:id":"Q202656",
         "wk:page":"Tepelen\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009628,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c5b984e1acb8a2bb107f4b42e4f9f09",
+    "wof:geomhash":"7a00bd806c53f819992bd4263de9bd6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +256,7 @@
         }
     ],
     "wof:id":421189559,
-    "wof:lastmodified":1690849776,
+    "wof:lastmodified":1695886587,
     "wof:name":"Tepelen\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":10614,
     "eurostat:population_year":2019,
     "geom:area":0.063716,
-    "geom:area_square_m":601317262.896243,
+    "geom:area_square_m":601317259.763821,
     "geom:bbox":"20.207514,40.06349,20.612034,40.441307",
     "geom:latitude":40.250108,
     "geom:longitude":20.405744,
@@ -232,16 +232,21 @@
         "gn:id":782072,
         "gp:id":20069956,
         "hasc:id":"AL.GK.PE",
+        "iso:code_historic":"AL-PR",
         "qs_pg:id":1176347,
         "wd:id":"Q121074",
         "wk:page":"P\u00ebrmet District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009750,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1ae30cda1054a520aede04990ff80ce1",
+    "wof:geomhash":"c44fc3dc91b0cbcb82e85911ea5ae254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +256,7 @@
         }
     ],
     "wof:id":421192831,
-    "wof:lastmodified":1690849766,
+    "wof:lastmodified":1695886588,
     "wof:name":"P\u00ebrmet",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

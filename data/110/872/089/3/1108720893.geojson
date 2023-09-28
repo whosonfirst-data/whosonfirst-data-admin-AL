@@ -122,6 +122,7 @@
         "eurostat:nuts_2021_id":"AL217",
         "hasc:id":"AL.EB.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125696,
     "wof:geomhash":"d0a23601738df9ab2d4c8aea14daa377",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108720893,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886595,
     "wof:name":"Prrenjas",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

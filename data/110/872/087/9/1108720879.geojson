@@ -17,7 +17,7 @@
     "eurostat:population":27062,
     "eurostat:population_year":2019,
     "geom:area":0.034741,
-    "geom:area_square_m":326385923.755521,
+    "geom:area_square_m":326386098.9017,
     "geom:bbox":"19.650512,40.419233,19.92349,40.663807",
     "geom:latitude":40.554477,
     "geom:longitude":19.776391,
@@ -190,11 +190,16 @@
         "eg:gisco_id":"AL_AL324",
         "eurostat:nuts_2021_id":"AL324",
         "hasc:id":"AL.FI.MK",
+        "iso:code_historic":"AL-MK",
         "wd:id":"Q207437"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1476125688,
-    "wof:geomhash":"2fbed43d7730db72f87a2415052f1f63",
+    "wof:geomhash":"5d7bf93eccef6bc6c0ce362aa3f25fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":1108720879,
-    "wof:lastmodified":1690849764,
+    "wof:lastmodified":1695886592,
     "wof:name":"Mallakast\u00ebr",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

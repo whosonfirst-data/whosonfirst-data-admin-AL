@@ -230,16 +230,21 @@
         "gn:id":783060,
         "gp:id":20069950,
         "hasc:id":"AL.EB.GH",
+        "iso:code_historic":"AL-GR",
         "qs_pg:id":1149771,
         "wd:id":"Q210090",
         "wk:page":"Gramsh District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009699,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab6ba6c6c2fe3bc521a861c0422fcc88",
+    "wof:geomhash":"fbced2613753f6c1248f5467042ffaa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,7 +254,7 @@
         }
     ],
     "wof:id":421191637,
-    "wof:lastmodified":1690849779,
+    "wof:lastmodified":1695886588,
     "wof:name":"Gramsh",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

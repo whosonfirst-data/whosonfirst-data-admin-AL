@@ -17,7 +17,7 @@
     "eurostat:population":31210,
     "eurostat:population_year":2019,
     "geom:area":0.073389,
-    "geom:area_square_m":680029799.136821,
+    "geom:area_square_m":680029822.930485,
     "geom:bbox":"20.118701,41.315825,20.561153,41.619003",
     "geom:latitude":41.464491,
     "geom:longitude":20.342146,
@@ -250,16 +250,21 @@
         "gn:id":831275,
         "gp:id":20069939,
         "hasc:id":"AL.DB.BU",
+        "iso:code_historic":"AL-BU",
         "qs_pg:id":56313,
         "wd:id":"Q191872",
         "wk:page":"Bulqiz\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009671,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4cb2b095ab4fe27fcdb5773bbdc5cf70",
+    "wof:geomhash":"e88bb465a0c3009e765c318bdd6043ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,7 +274,7 @@
         }
     ],
     "wof:id":421190851,
-    "wof:lastmodified":1690849779,
+    "wof:lastmodified":1695886588,
     "wof:name":"Bulqiz\u00eb",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

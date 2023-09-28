@@ -137,6 +137,7 @@
         "eurostat:nuts_2021_id":"AL356",
         "hasc:id":"AL.VR.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125703,
     "wof:geomhash":"05f666c4d6b9bc8a181af30a5f6f1ce3",
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108720903,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Selenic\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

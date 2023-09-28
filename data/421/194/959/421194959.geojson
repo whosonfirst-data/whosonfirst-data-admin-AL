@@ -17,7 +17,7 @@
     "eurostat:population":12403,
     "eurostat:population_year":2019,
     "geom:area":0.088318,
-    "geom:area_square_m":829735360.46143,
+    "geom:area_square_m":829735608.232924,
     "geom:bbox":"20.065377,40.361876,20.443,40.748024",
     "geom:latitude":40.554647,
     "geom:longitude":20.262583,
@@ -241,16 +241,21 @@
         "gn:id":781574,
         "gp:id":20069951,
         "hasc:id":"AL.BE.SK",
+        "iso:code_historic":"AL-SK",
         "qs_pg:id":62694,
         "wd:id":"Q194381",
         "wk:page":"Skrapar District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009826,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01fbbef5578a654bdf61c6c258004b34",
+    "wof:geomhash":"954689df88e3dedc0bb411ebbe811022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,7 +265,7 @@
         }
     ],
     "wof:id":421194959,
-    "wof:lastmodified":1690849767,
+    "wof:lastmodified":1695886590,
     "wof:name":"Skrapar",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

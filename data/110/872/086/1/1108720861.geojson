@@ -74,6 +74,7 @@
         "eurostat:nuts_2021_id":"AL352",
         "hasc:id":"AL.VR.HM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125673,
     "wof:geomhash":"578004749f92e80c5aa7b64f4add1bbd",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108720861,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"Himar\u00eb",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

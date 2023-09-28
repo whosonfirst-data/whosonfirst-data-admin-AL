@@ -98,6 +98,7 @@
         "eurostat:nuts_2021_id":"AL346",
         "hasc:id":"AL.KE.PC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125698,
     "wof:geomhash":"6b5b120e02b7ab79eff1479a06329791",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108720895,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886595,
     "wof:name":"Pustec",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

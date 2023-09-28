@@ -95,6 +95,7 @@
         "eurostat:nuts_2021_id":"AL113",
         "hasc:id":"AL.DB.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125675,
     "wof:geomhash":"67dfa101f08c0ef3bae21d7f9909cfbd",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108720867,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"Klos",
     "wof:parent_id":85667821,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":47985,
     "eurostat:population_year":2019,
     "geom:area":0.101219,
-    "geom:area_square_m":930159116.87495,
+    "geom:area_square_m":930159588.997459,
     "geom:bbox":"20.136639,41.815825,20.625484,42.181316",
     "geom:latitude":41.997019,
     "geom:longitude":20.400702,
@@ -271,16 +271,21 @@
         "gn:id":782662,
         "gp:id":20069931,
         "hasc:id":"AL.KK.KK",
+        "iso:code_historic":"AL-KU",
         "qs_pg:id":1064358,
         "wd:id":"Q123395",
         "wk:page":"Kuk\u00ebs District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009477,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"069084a08ddff4f0790c0b1090d1f835",
+    "wof:geomhash":"921778e4331fc3c63ae993828227b9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -290,7 +295,7 @@
         }
     ],
     "wof:id":421186339,
-    "wof:lastmodified":1690849777,
+    "wof:lastmodified":1695886586,
     "wof:name":"Kuk\u00ebs",
     "wof:parent_id":85667797,
     "wof:placetype":"county",

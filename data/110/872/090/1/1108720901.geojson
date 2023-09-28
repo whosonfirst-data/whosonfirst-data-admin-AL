@@ -131,6 +131,7 @@
         "eurostat:nuts_2021_id":"AL223",
         "hasc:id":"AL.TI.RZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125701,
     "wof:geomhash":"1541a284dea78baf2832099f66248810",
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108720901,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Rrogozhin\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",
