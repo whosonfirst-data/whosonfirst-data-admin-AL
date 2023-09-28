@@ -343,17 +343,19 @@
         "gn:id":3344948,
         "gp:id":29389558,
         "hasc:id":"AL.FI",
+        "iso:code":"AL-04",
         "iso:id":"AL-04",
         "qs_pg:id":359526,
         "unlc:id":"AL-FR",
         "wd:id":"Q231900",
         "wk:page":"Fier County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed59cfdf3ab29156d05a9a8a8caf7676",
+    "wof:geomhash":"80bcd2183f4e0fb9053b6c72f324815d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -368,7 +370,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849761,
+    "wof:lastmodified":1695885189,
     "wof:name":"Fier",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

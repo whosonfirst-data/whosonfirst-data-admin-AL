@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.267079,
-    "geom:area_square_m":2469343818.960705,
+    "geom:area_square_m":2469343876.898618,
     "geom:bbox":"19.806707,41.315825,20.573702,41.907447",
     "geom:latitude":41.606223,
     "geom:longitude":20.239622,
@@ -350,17 +350,19 @@
         "gn:id":865731,
         "gp:id":29389555,
         "hasc:id":"AL.DB",
+        "iso:code":"AL-09",
         "iso:id":"AL-09",
         "qs_pg:id":1104082,
         "unlc:id":"AL-DI",
         "wd:id":"Q192866",
         "wk:page":"Dib\u00ebr County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a93b4fa0fa3eee1e224e5fbebc7755fe",
+    "wof:geomhash":"4fa084f84135a6a80cacb21e5c8591a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +377,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849760,
+    "wof:lastmodified":1695885189,
     "wof:name":"Dib\u00ebr",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

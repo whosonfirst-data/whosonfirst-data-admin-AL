@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.397103,
-    "geom:area_square_m":3726543803.134348,
+    "geom:area_square_m":3726543763.668295,
     "geom:bbox":"20.296501,40.079351,21.057282,41.09164",
     "geom:latitude":40.629473,
     "geom:longitude":20.67074,
@@ -375,16 +375,18 @@
         "gn:id":865734,
         "gp:id":29389560,
         "hasc:id":"AL.KE",
+        "iso:code":"AL-06",
         "iso:id":"AL-06",
         "qs_pg:id":1316204,
         "unlc:id":"AL-KO",
         "wd:id":"Q193464"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67b430633fcca39a93ff8deaf0da9a76",
+    "wof:geomhash":"c3183773d3d2cc3f214a5de6fc020954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +401,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849760,
+    "wof:lastmodified":1695885189,
     "wof:name":"Kor\u00e7\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",
