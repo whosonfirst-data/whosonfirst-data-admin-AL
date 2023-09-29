@@ -140,6 +140,7 @@
         "eurostat:nuts_2021_id":"AL321",
         "hasc:id":"AL.FI.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125660,
     "wof:geomhash":"b7c54446ac1d0daf6d502bfc79d57d37",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108720853,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"Divjak\u00eb",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

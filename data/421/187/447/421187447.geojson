@@ -17,7 +17,7 @@
     "eurostat:population":40094,
     "eurostat:population_year":2019,
     "geom:area":0.021509,
-    "geom:area_square_m":200162433.688862,
+    "geom:area_square_m":200162290.013348,
     "geom:bbox":"19.436251,41.097795,19.700263,41.270223",
     "geom:latitude":41.184712,
     "geom:longitude":19.566439,
@@ -241,16 +241,21 @@
         "gn:id":3315068,
         "gp:id":20069942,
         "hasc:id":"AL.TI.KA",
+        "iso:code_historic":"AL-KA",
         "qs_pg:id":1083481,
         "wd:id":"Q194182",
         "wk:page":"Kavaj\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e54b479bceca7f418f5bb7a4c43e981",
+    "wof:geomhash":"19b8d8f8463dcfeb92351a0999ed7148",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,7 +265,7 @@
         }
     ],
     "wof:id":421187447,
-    "wof:lastmodified":1690849770,
+    "wof:lastmodified":1695886587,
     "wof:name":"Kavaj\u00eb",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

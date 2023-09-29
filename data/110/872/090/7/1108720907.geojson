@@ -131,6 +131,7 @@
         "eurostat:nuts_2021_id":"AL315",
         "hasc:id":"AL.BE.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125708,
     "wof:geomhash":"c83684373cafa3dacecbe64e1e357c32",
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108720907,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Ura Vajgurore",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

@@ -238,16 +238,21 @@
         "gn:id":3185674,
         "gp:id":20069955,
         "hasc:id":"AL.FI.FR",
+        "iso:code_historic":"AL-FR",
         "qs_pg:id":1084294,
         "wd:id":"Q209019",
         "wk:page":"Fier District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009521,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51a2f3269a4112cc9510b1b0a9c797b7",
+    "wof:geomhash":"fb3c5cb65f3d3d2c4e02d492271773ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,7 +262,7 @@
         }
     ],
     "wof:id":421187687,
-    "wof:lastmodified":1690849772,
+    "wof:lastmodified":1695886587,
     "wof:name":"Fier",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

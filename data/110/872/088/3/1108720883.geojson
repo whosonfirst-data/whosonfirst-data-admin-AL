@@ -17,7 +17,7 @@
     "eurostat:population":30823,
     "eurostat:population_year":2019,
     "geom:area":0.114258,
-    "geom:area_square_m":1044096267.322174,
+    "geom:area_square_m":1044096015.812403,
     "geom:bbox":"19.289555,42.113509,19.787562,42.661082",
     "geom:latitude":42.352516,
     "geom:longitude":19.561191,
@@ -205,11 +205,16 @@
         "eg:gisco_id":"AL_AL152",
         "eurostat:nuts_2021_id":"AL152",
         "hasc:id":"AL.SD.MM",
+        "iso:code_historic":"AL-MM",
         "wd:id":"Q236845"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1476125689,
-    "wof:geomhash":"1f3c4cde77c7f73c9eff10ce1d7ceb05",
+    "wof:geomhash":"241b8816ee94c4ee72e27e8940090c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,7 +224,7 @@
         }
     ],
     "wof:id":1108720883,
-    "wof:lastmodified":1690849765,
+    "wof:lastmodified":1695886592,
     "wof:name":"Mal\u00ebsi E Madhe",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

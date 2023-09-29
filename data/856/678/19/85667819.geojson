@@ -386,17 +386,19 @@
         "gn:id":865733,
         "gp:id":29389559,
         "hasc:id":"AL.GK",
+        "iso:code":"AL-05",
         "iso:id":"AL-05",
         "qs_pg:id":359527,
         "unlc:id":"AL-GJ",
         "wd:id":"Q193454",
         "wk:page":"Gjirokast\u00ebr County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fcd743edef4a8238dc63c9544e91231f",
+    "wof:geomhash":"acd73923b02b325b75308ec002019997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,7 +413,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849759,
+    "wof:lastmodified":1695885189,
     "wof:name":"Gjirokaste",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":46291,
     "eurostat:population_year":2019,
     "geom:area":0.02907,
-    "geom:area_square_m":268672630.401752,
+    "geom:area_square_m":268672700.699304,
     "geom:bbox":"19.561239,41.556874,19.845715,41.724836",
     "geom:latitude":41.630264,
     "geom:longitude":19.714448,
@@ -232,16 +232,21 @@
         "gn:id":3315070,
         "gp:id":20069935,
         "hasc:id":"AL.LZ.KB",
+        "iso:code_historic":"AL-KB",
         "qs_pg:id":488618,
         "wd:id":"Q123602",
         "wk:page":"Kurbin District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009292,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37506a26fea2e2b62047863f74b46735",
+    "wof:geomhash":"0adaef9a9f4c0737789f7b97a2c04a57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +256,7 @@
         }
     ],
     "wof:id":421181321,
-    "wof:lastmodified":1690849778,
+    "wof:lastmodified":1695886586,
     "wof:name":"Kurbin",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

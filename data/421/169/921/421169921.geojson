@@ -17,7 +17,7 @@
     "eurostat:population":65633,
     "eurostat:population_year":2019,
     "geom:area":0.055844,
-    "geom:area_square_m":514533869.179764,
+    "geom:area_square_m":514533927.428986,
     "geom:bbox":"19.462422,41.654648,19.861005,41.952072",
     "geom:latitude":41.828985,
     "geom:longitude":19.670464,
@@ -277,16 +277,21 @@
         "gn:id":3184937,
         "gp:id":20069933,
         "hasc:id":"AL.LZ.LZ",
+        "iso:code_historic":"AL-LE",
         "qs_pg:id":500852,
         "wd:id":"Q194185",
         "wk:page":"Lezh\u00eb District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459008829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61c80e4b6f3166c079e2e849e54e9582",
+    "wof:geomhash":"3657e68ce42b139613f83768ac0d09c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,7 +301,7 @@
         }
     ],
     "wof:id":421169921,
-    "wof:lastmodified":1690849769,
+    "wof:lastmodified":1695886585,
     "wof:name":"Lezh\u00eb",
     "wof:parent_id":85667829,
     "wof:placetype":"county",

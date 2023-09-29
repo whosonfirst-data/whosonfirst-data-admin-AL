@@ -226,16 +226,21 @@
         "gn:id":782521,
         "gp:id":20069941,
         "hasc:id":"AL.EB.LB",
+        "iso:code_historic":"AL-LB",
         "qs_pg:id":478505,
         "wd:id":"Q207002",
         "wk:page":"Librazhd District"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d36332a9b7cfd7f28104b8727e378bb1",
+    "wof:geomhash":"9e3d5d8306de5a1db3fcb990573526d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,7 +250,7 @@
         }
     ],
     "wof:id":421199463,
-    "wof:lastmodified":1690849780,
+    "wof:lastmodified":1695886590,
     "wof:name":"Librazhd",
     "wof:parent_id":85667815,
     "wof:placetype":"county",

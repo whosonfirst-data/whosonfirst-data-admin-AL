@@ -149,6 +149,7 @@
         "eurostat:nuts_2021_id":"AL221",
         "hasc:id":"AL.TI.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125674,
     "wof:geomhash":"e958b0ed0a5c7e491ee207772f58c620",
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108720865,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"Kam\u00ebz",
     "wof:parent_id":1108803089,
     "wof:placetype":"county",

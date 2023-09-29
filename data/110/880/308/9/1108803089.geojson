@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.177068,
-    "geom:area_square_m":1645649970.064466,
+    "geom:area_square_m":1645649753.684397,
     "geom:bbox":"19.430389,41.002106,20.233729,41.517134",
     "geom:latitude":41.269464,
     "geom:longitude":19.792985,
@@ -269,12 +269,14 @@
         "eurostat:nuts_2021_id":"AL022",
         "fips:code":"AL50",
         "hasc:id":"AL.TI",
+        "iso:code":"AL-11",
         "iso:id":"AL-11",
         "wd:id":"Q229892"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:created":1485211661,
-    "wof:geomhash":"42e7fd8963f7ac0ea00e3b963192545e",
+    "wof:geomhash":"6da98711be839e848a093ee3526d3aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,7 +291,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849764,
+    "wof:lastmodified":1695885190,
     "wof:name":"Tiran\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

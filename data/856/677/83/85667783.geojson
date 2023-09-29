@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.083405,
-    "geom:area_square_m":773022402.543181,
+    "geom:area_square_m":773022635.43257,
     "geom:bbox":"19.391277,41.251731,19.911287,41.590286",
     "geom:latitude":41.448447,
     "geom:longitude":19.630776,
@@ -387,16 +387,18 @@
         "gn:id":3344947,
         "gp:id":29389556,
         "hasc:id":"AL.DU",
+        "iso:code":"AL-02",
         "iso:id":"AL-02",
         "qs_pg:id":898962,
         "wd:id":"Q192853",
         "wk:page":"Durr\u00ebs County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bcd22a03e12c99040c0011b814e2ebb",
+    "wof:geomhash":"8092cad2a02ed08285d433560f7f88bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,7 +413,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849762,
+    "wof:lastmodified":1695885189,
     "wof:name":"Durr\u00ebs",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

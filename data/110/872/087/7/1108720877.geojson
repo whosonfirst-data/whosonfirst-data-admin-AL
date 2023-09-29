@@ -125,6 +125,7 @@
         "eurostat:nuts_2021_id":"AL344",
         "hasc:id":"AL.KE.MQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125687,
     "wof:geomhash":"3ba9fc86bb30b91d4416b28100714d77",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108720877,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"Maliq",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

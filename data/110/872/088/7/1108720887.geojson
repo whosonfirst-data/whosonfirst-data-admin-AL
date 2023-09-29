@@ -149,6 +149,7 @@
         "eurostat:nuts_2021_id":"AL326",
         "hasc:id":"AL.FI.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125692,
     "wof:geomhash":"05c2b97781e15387bf6f417d6f20d7ad",
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108720887,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886595,
     "wof:name":"Patos",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.283719,
-    "geom:area_square_m":2681411027.918199,
+    "geom:area_square_m":2681411199.175736,
     "geom:bbox":"19.262861,39.644482,20.322116,40.664711",
     "geom:latitude":40.152893,
     "geom:longitude":19.805076,
@@ -375,17 +375,19 @@
         "gn:id":3344952,
         "gp:id":29389565,
         "hasc:id":"AL.VR",
+        "iso:code":"AL-12",
         "iso:id":"AL-12",
         "qs_pg:id":499587,
         "unlc:id":"AL-VL",
         "wd:id":"Q192849",
         "wk:page":"Vlor\u00eb County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa7af92234169ce0b637315447f52383",
+    "wof:geomhash":"f7656e9f3375a5f6435fbef16b547711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +402,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849760,
+    "wof:lastmodified":1695885189,
     "wof:name":"Vlor\u00eb",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

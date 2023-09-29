@@ -17,7 +17,7 @@
     "eurostat:population":31262,
     "eurostat:population_year":2019,
     "geom:area":0.017147,
-    "geom:area_square_m":160465350.999925,
+    "geom:area_square_m":160465458.943407,
     "geom:bbox":"19.837984,40.764717,20.089562,40.874869",
     "geom:latitude":40.817158,
     "geom:longitude":19.958074,
@@ -208,11 +208,16 @@
         "eg:gisco_id":"AL_AL312",
         "eurostat:nuts_2021_id":"AL312",
         "hasc:id":"AL.BE.KV",
+        "iso:code_historic":"AL-KC",
         "wd:id":"Q211946"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1476125681,
-    "wof:geomhash":"7d98c631980f1babb3d2cb41812c3806",
+    "wof:geomhash":"73a2dc99329ab07a4089f1aa7074b772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +227,7 @@
         }
     ],
     "wof:id":1108720871,
-    "wof:lastmodified":1690849765,
+    "wof:lastmodified":1695886592,
     "wof:name":"Ku\u00e7ov\u00eb",
     "wof:parent_id":85667811,
     "wof:placetype":"county",

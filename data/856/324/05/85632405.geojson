@@ -1245,6 +1245,7 @@
         "hasc:id":"AL",
         "icao:code":"ZA",
         "ioc:id":"ALB",
+        "iso:code":"AL",
         "itu:id":"ALB",
         "loc:id":"n83221467",
         "m49:code":"008",
@@ -1259,6 +1260,7 @@
         "wk:page":"Albania",
         "wmo:id":"AB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:country_alpha3":"ALB",
     "wof:geom_alt":[
@@ -1280,7 +1282,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1694492247,
+    "wof:lastmodified":1695881359,
     "wof:name":"Albania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

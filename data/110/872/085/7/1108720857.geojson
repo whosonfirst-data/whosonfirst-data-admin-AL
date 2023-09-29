@@ -113,6 +113,7 @@
         "eurostat:nuts_2021_id":"AL354",
         "hasc:id":"AL.VR.FN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125669,
     "wof:geomhash":"dbd30ef8354478ec1ebc1e846eb186c5",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108720857,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886591,
     "wof:name":"Finiq",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

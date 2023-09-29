@@ -122,6 +122,7 @@
         "eurostat:nuts_2021_id":"AL333",
         "hasc:id":"AL.GK.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125683,
     "wof:geomhash":"407f22015c135993e9f881dfe025055d",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108720873,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"K\u00eblcyr\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

@@ -140,6 +140,7 @@
         "eurostat:nuts_2021_id":"AL325",
         "hasc:id":"AL.FI.RV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125700,
     "wof:geomhash":"9cd4abffa561b441a57b045ab2350fbf",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108720897,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695886596,
     "wof:name":"Roskovec",
     "wof:parent_id":85667789,
     "wof:placetype":"county",

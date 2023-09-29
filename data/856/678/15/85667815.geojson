@@ -355,17 +355,19 @@
         "gn:id":865732,
         "gp:id":29389557,
         "hasc:id":"AL.EB",
+        "iso:code":"AL-03",
         "iso:id":"AL-03",
         "qs_pg:id":898963,
         "unlc:id":"AL-EL",
         "wd:id":"Q193790",
         "wk:page":"Elbasan County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd2ca06ac564bbaa8f844ac70fce150f",
+    "wof:geomhash":"988c997bf0b07f56f342c6bde1e431c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -380,7 +382,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849761,
+    "wof:lastmodified":1695885189,
     "wof:name":"Elbasan",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

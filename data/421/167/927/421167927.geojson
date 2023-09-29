@@ -17,7 +17,7 @@
     "eurostat:population":135612,
     "eurostat:population_year":2019,
     "geom:area":0.099156,
-    "geom:area_square_m":908902591.194972,
+    "geom:area_square_m":908902620.91708,
     "geom:bbox":"19.341614,41.84054,19.84748,42.487665",
     "geom:latitude":42.156856,
     "geom:longitude":19.614812,
@@ -256,16 +256,21 @@
         "gn:id":3184083,
         "gp:id":20069928,
         "hasc:id":"AL.SD.SO",
+        "iso:code_historic":"AL-SH",
         "qs_pg:id":277250,
         "wd:id":"Q194176",
         "wk:page":"Shkod\u00ebr"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459008748,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d408c17810e316b233864516699f729",
+    "wof:geomhash":"405f3a654df8d7126e5576177584bd15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,7 +280,7 @@
         }
     ],
     "wof:id":421167927,
-    "wof:lastmodified":1690849768,
+    "wof:lastmodified":1695886585,
     "wof:name":"Shkod\u00ebr",
     "wof:parent_id":85667793,
     "wof:placetype":"county",

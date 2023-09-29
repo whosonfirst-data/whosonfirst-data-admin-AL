@@ -146,6 +146,7 @@
         "eurostat:nuts_2021_id":"AL353",
         "hasc:id":"AL.VR.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125677,
     "wof:geomhash":"2e7d58e428dd8dbb3384aa59ff94f9ad",
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108720869,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"Konispol",
     "wof:parent_id":85667801,
     "wof:placetype":"county",

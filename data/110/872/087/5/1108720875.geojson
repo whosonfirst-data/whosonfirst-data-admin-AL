@@ -143,6 +143,7 @@
         "eurostat:nuts_2021_id":"AL334",
         "hasc:id":"AL.GK.LH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AL",
     "wof:created":1476125685,
     "wof:geomhash":"6c46456a274f7d87a060a0df7b46b442",
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108720875,
-    "wof:lastmodified":1684351506,
+    "wof:lastmodified":1695886592,
     "wof:name":"Libohov\u00eb",
     "wof:parent_id":85667819,
     "wof:placetype":"county",

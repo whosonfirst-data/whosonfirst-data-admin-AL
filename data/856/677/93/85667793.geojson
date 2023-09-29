@@ -341,16 +341,18 @@
         "gn:id":3344950,
         "gp:id":29389563,
         "hasc:id":"AL.SD",
+        "iso:code":"AL-10",
         "qs_pg:id":224191,
         "unlc:id":"AL-SH",
         "wd:id":"Q193438",
         "wk:page":"Shkod\u00ebr County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37a188bdecce6c071023dd82f1bfc6f4",
+    "wof:geomhash":"d3e02fead341d7df6a226bc42b5c9349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "sqi"
     ],
-    "wof:lastmodified":1690849761,
+    "wof:lastmodified":1695885189,
     "wof:name":"Shkoder",
     "wof:parent_id":85632405,
     "wof:placetype":"region",

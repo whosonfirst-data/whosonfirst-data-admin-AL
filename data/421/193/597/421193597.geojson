@@ -17,7 +17,7 @@
     "eurostat:population":11070,
     "eurostat:population_year":2019,
     "geom:area":0.091518,
-    "geom:area_square_m":862862520.40519,
+    "geom:area_square_m":862862501.05373,
     "geom:bbox":"20.442304,40.079351,20.792649,40.499187",
     "geom:latitude":40.315489,
     "geom:longitude":20.620329,
@@ -228,15 +228,20 @@
         "eurostat:nuts_2021_id":"AL342",
         "gp:id":20069946,
         "hasc:id":"AL.KE.KJ",
+        "iso:code_historic":"AL-ER",
         "qs_pg:id":66022,
         "wd:id":"Q194178"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1459009776,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1f98750d8f73122ef36f6e2f0204e66",
+    "wof:geomhash":"eea718e817312bf34024b7c3682132c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +251,7 @@
         }
     ],
     "wof:id":421193597,
-    "wof:lastmodified":1690849768,
+    "wof:lastmodified":1695886588,
     "wof:name":"Kolonj\u00eb",
     "wof:parent_id":85667807,
     "wof:placetype":"county",

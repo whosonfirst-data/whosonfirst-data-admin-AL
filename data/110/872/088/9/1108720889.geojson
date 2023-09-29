@@ -17,7 +17,7 @@
     "eurostat:population":26136,
     "eurostat:population_year":2019,
     "geom:area":0.021241,
-    "geom:area_square_m":198020733.978924,
+    "geom:area_square_m":198020701.589935,
     "geom:bbox":"19.675456,40.989268,19.90358,41.158854",
     "geom:latitude":41.06701,
     "geom:longitude":19.79683,
@@ -193,11 +193,16 @@
         "eg:gisco_id":"AL_AL216",
         "eurostat:nuts_2021_id":"AL216",
         "hasc:id":"AL.EB.PN",
+        "iso:code_historic":"AL-PQ",
         "wd:id":"Q202652"
     },
+    "wof:concordances_official":"iso:code_historic",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AL",
     "wof:created":1476125693,
-    "wof:geomhash":"23cc9cadb3f2454bb9d3eef477d2cfde",
+    "wof:geomhash":"52cabf58a7e02ce37bded347cce375a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,7 +212,7 @@
         }
     ],
     "wof:id":1108720889,
-    "wof:lastmodified":1690849765,
+    "wof:lastmodified":1695886595,
     "wof:name":"Peqin",
     "wof:parent_id":85667815,
     "wof:placetype":"county",
