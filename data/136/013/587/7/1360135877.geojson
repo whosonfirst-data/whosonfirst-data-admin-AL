@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3343856
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3185577
+        ]
+    },
     "wof:country":"AL",
     "wof:geomhash":"ef5fc84c92f103a2be327a59921bb99f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1360135877,
-    "wof:lastmodified":1566584915,
+    "wof:lastmodified":1706239301,
     "wof:name":"Gjeroven",
     "wof:parent_id":421187685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-al",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360223079
+    ],
     "wof:tags":[]
 },
   "bbox": [
